@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+      <mj-include path="partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-special-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section padding="25px 100px" mj-class="bg-secondary-baby" css-class="container">
+      <mj-column>
+        <mj-text padding="25px 0 0" mj-class="text-primary-white heading-1 fontstack-bold" css-class="outlook-font-fix heading-1">
+          COMMERCIAL TEMPLATE
+        </mj-text>
+        <mj-text mj-class="heading-2 fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+            Commercial template subheader
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section padding="0" mj-class="bg-secondary-baby" css-class="hero-container right" padding-left="100px">
+      <mj-column width="700px" >
+        <mj-image  padding="0" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section mj-class="bg-primary-white" padding="25px 0 0" css-class="container">
+      <mj-column width="600px">
+        <mj-text align="left" padding="0" css-class="outlook-font-fix">
+            Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
+            nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua
+            sit nulla duis deserunt. Est ullamco voluptate adipisicing sit
+            deserunt nulla officia eu ex aliquip Lorem labore commodo.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

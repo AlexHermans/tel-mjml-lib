@@ -1,0 +1,19 @@
+<mjml>
+    <mj-body>
+          <mj-section mj-class="bg-primary-white">
+            <mj-group width="600px">
+                <mj-column width="40%" padding="0">
+                    <mj-image href="~PROBE(100)~" width="220px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb.png" alt="Telenet Business Logo" align="left" padding="0" />
+                </mj-column>
+                <mj-column width="60%">
+                    <mj-text mj-class="fontstack-medium" css-class="outlook-font-fix hide-until-md" align="right" padding-bottom="0">
+                        This is the pre-header
+                    </mj-text>
+                    <mj-text mj-class="fontstack-light" css-class="outlook-font-fix" align="right" padding-top="5px">
+                        <a href="~PROBE(0)~">View online</a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>
