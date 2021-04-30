@@ -1,0 +1,64 @@
+<!-- 
+    This file contains all the icons as seperate classes. 
+
+    HOW TO USE?
+    Whenever you add an image, just add 'mj-class="icon-name-size" '
+    as an attribute to the mj-image tag. 
+
+ -->
+
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class name="icon-screen-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xs.png" />
+            <mj-class name="icon-screen-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-s.png" />
+            <mj-class name="icon-screen-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-m.png" />
+            <mj-class name="icon-screen-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-l.png" />
+            <mj-class name="icon-screen-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xl.png" />
+            <mj-class name="icon-screen-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xxl.png" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="white" width="600px">
+        <mj-section>
+            <mj-column>
+                <mj-text>
+                    <h1>This is the overview of all the icons.</h1>
+                    <p style="line-height: 1.4">You can use these icons in your emails by adding an mj-image tag and use the mj-class attribute.</p>
+                    <p style="line-height: 1.4">For exampe: <strong></strong></p>
+                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900">< mj-image mj-class=<span style="color:green">"icon-telephone-xxl"</span> alt="" /></p>
+                    <p>&nbsp;</p>
+                    <h3>A quick word on sizes:</h3>
+                    <p>The icons come in 6 sizes:</p>
+                    <ul>
+                        <li style="padding:5px 0">XS: 10px</li>
+                        <li style="padding:5px 0">S: 12px</li>
+                        <li style="padding:5px 0">M: 30px</li>
+                        <li style="padding:5px 0">L: 60px</li>
+                        <li style="padding:5px 0">XL: 90px</li>
+                        <li style="padding:5px 0">XXL: 120px</li>
+                    </ul>
+                    <p style="line-height: 1.4">Using an icon with the appropriate size is of course recommended (especially in image-heavy mails). For comparison, size L corresponds to 10% of the width of the inner-content container. Size M should serve you in most cases. </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#EEE">
+            <mj-column border-right="1px solid #333" vertical-align="middle">
+                <mj-text align="center">
+                    <strong>icon-telephone</strong>
+                </mj-text>
+                <mj-image width="30px" mj-class="icon-screen-xxl" />
+            </mj-column>
+            <mj-column>
+                <mj-image width="10px" mj-class="icon-screen-xs" />
+            </mj-column>
+            <mj-column>
+                <mj-image width="12px" mj-class="icon-screen-s" />
+            </mj-column>
+            <mj-column >
+            </mj-column>
+        
+        </mj-section>
+    </mj-body>
+</mjml>
+

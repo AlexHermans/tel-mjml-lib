@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+    <mj-include path="../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-special-light" width="800px">
+
+    <!-- PRE-HEADER -->
+    <mj-include path="../partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+          Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section padding="0" mj-class="bg-secondary-lemon" css-class="hero-container right" padding-left="100px">
+      <mj-column width="700px">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-nl.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- INTRO -->
+    <mj-section mj-class="bg-primary-white" padding="50px 0 0" css-class="container ">
+      <mj-column width="600px">
+        <mj-text align="left" padding="0" css-class="outlook-font-fix">
+          Beste ondernemer,
+        </mj-text>
+        <mj-text align="left" padding="15px 0 0" css-class="outlook-font-fix">
+          Als ondernemer wil jij het beste voor je zaak. Daarom stelden we je een tijdje geleden <strong>KLIK 10 GB</strong> voor: het beste van Telenet Business in één bundel. Surfen, downloaden, bellen en tv-kijken, gecombineerd met onze uiterst persoonlijke hulp. <strong>En kies je voor KLIK vóór 30 juni? Dan krijg je nu € 90 korting*!</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- BLOCK -->
+    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 0" >
+      <mj-column mj-class="bg-secondary-lemon" width="600px" padding="15px 0">
+        <mj-text padding-bottom="0" mj-class="fontstack-semi heading-3" css-class="outlook-font-fix heading-3">
+          KLIK 10 GB
+        </mj-text>
+        <mj-text padding="5px 25px" mj-class="fontstack-regular heading-6" css-class="outlook-font-fix heading-6">
+          € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> excl. BTW / maand
+        </mj-text>
+        <mj-image mj-class="icon-screen-l" align="left" width="30px" />
+        <mj-text padding-top="5px" padding-bottom="25px" css-class="outlook-font-fix">
+          Vandaag maak jij nog gebruik van diensten bestemd voor particuliere klanten. Hierdoor geniet je misschien niet van de hulp die jij verdient als ondernemer. Zoals onze ‘Same Day Repair’: onmisbaar voor een zaak die vooruit wil!
+        </mj-text>
+        <mj-button padding-top="10px" href="~PROBE(120)~" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
+          <strong>Kies voor KLIK</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- PROOF POINTS -->
+    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 0">
+      <mj-column width="600px">
+        <mj-text padding="0" mj-class="heading-6 fontstack-semi" css-class="outlook-font-fix heading-6">
+          Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
+        </mj-text>
+        <mj-text css-class="outlook-font-fix" padding-top="15px">
+          <ul style="margin:0; padding:0;" align="left" type="disc">
+            <li style="color: #FFC421;">
+              <span style="color:#291D18">Je hebt <strong>één bundel</strong> voor je internet, telefonie en tv. </span>
+            </li>
+            <li style="color: #FFC421;">
+              <span style="color:#291D18">Je geniet van de meest persoonlijke hulp: <strong>één expert</strong> volgt je vraag op van begin tot oplossing. </span>
+            </li>
+          </ul>
+        </mj-text>
+        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium heading-6" inner-padding="13px 22px" padding="15px 0" align="left" css-class="outlook-font-fix heading-6">
+          Ontdek alle voordelen van KLIK
+        </mj-button>
+      </mj-column>
+    </mj-section>    
+
+    <!-- SIGNATURE -->
+    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 25px">
+      <mj-column width="600px">
+        <mj-text padding="0" css-class="outlook-font-fix">
+          Met vriendelijke groeten, <br>
+          het Telenet Business-team           
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- FOOTER -->
+    <mj-include path="../partials/footer/nl/with-legal.mjml" />
+
+  </mj-body>
+</mjml>

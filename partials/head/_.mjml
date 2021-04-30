@@ -1,249 +1,349 @@
 <mj-attributes>
-      <!-- FONT CLASSES -->
-      <mj-class name="fontstack-light" font-family="'Albra Light', Arial, Helvetica, sans-serif" font-weight="100" />
-      <mj-class name="fontstack-regular" font-family="'Albra Regular', Arial, Helvetica, sans-serif" font-weight="300" />
-      <mj-class name="fontstack-medium" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" />
-      <mj-class name="fontstack-semi" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" />
-      <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
-      <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
+  <!-- FONT CLASSES -->
+  <mj-class name="fontstack-light" font-family="'Albra Light', Arial, Helvetica, sans-serif" font-weight="100" />
+  <mj-class name="fontstack-regular" font-family="'Albra Regular', Arial, Helvetica, sans-serif" font-weight="300" />
+  <mj-class name="fontstack-medium" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" />
+  <mj-class name="fontstack-semi" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" />
+  <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
+  <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
-      <!-- BG COLOURS -->
-      <mj-class name="bg-primary-yellow" background-color="#FFC421" />
-      <mj-class name="bg-primary-white" background-color="#FFFFFF" />
-      <mj-class name="bg-primary-brown" background-color="#281D18" />
-      <mj-class name="bg-secondary-cream" background-color="#FFEDA1" />
-      <mj-class name="bg-secondary-lemon" background-color="#FFF7C7" />
-      <mj-class name="bg-secondary-jeans" background-color="#29A8B8" />
-      <mj-class name="bg-secondary-baby" background-color="#91ABC9" />
-      <mj-class name="bg-secondary-red" background-color="#C95942" />
-      <mj-class name="bg-secondary-turquoise" background-color="#36BDB0" />
-      <mj-class name="bg-secondary-lila" background-color="#C9A6C7" />
-      <mj-class name="bg-secondary-watermelon" background-color="#F2877A" />
-      <mj-class name="bg-secondary-olivine" background-color="#99BD66" />
-      <mj-class name="bg-tertiary-golden" background-color="#FDD671" />
-      <mj-class name="bg-tertiary-peach" background-color="#FAC7BA" />
-      <mj-class name="bg-tertiary-sprout" background-color="#ADD1A6" />
-      <mj-class name="bg-tertiary-tan" background-color="#F7945C" />
-      <mj-class name="bg-tertiary-sinbad" background-color="#A6D9D9" />
-      <mj-class name="bg-tertiary-dust" background-color="#E5CFC7" />
+  <!-- BG COLOURS -->
+  <mj-class name="bg-primary-yellow" background-color="#FFC421" />
+  <mj-class name="bg-primary-white" background-color="#FFFFFF" />
+  <mj-class name="bg-primary-brown" background-color="#291d18" />
+  <mj-class name="bg-secondary-cream" background-color="#FFEDA1" />
+  <mj-class name="bg-secondary-lemon" background-color="#FFF7C7" />
+  <mj-class name="bg-secondary-jeans" background-color="#29A8B8" />
+  <mj-class name="bg-secondary-baby" background-color="#91ABC9" />
+  <mj-class name="bg-secondary-red" background-color="#C95942" />
+  <mj-class name="bg-secondary-turquoise" background-color="#36BDB0" />
+  <mj-class name="bg-secondary-lila" background-color="#C9A6C7" />
+  <mj-class name="bg-secondary-watermelon" background-color="#F2877A" />
+  <mj-class name="bg-secondary-olivine" background-color="#99BD66" />
+  <mj-class name="bg-tertiary-golden" background-color="#FDD671" />
+  <mj-class name="bg-tertiary-peach" background-color="#FAC7BA" />
+  <mj-class name="bg-tertiary-sprout" background-color="#ADD1A6" />
+  <mj-class name="bg-tertiary-tan" background-color="#F7945C" />
+  <mj-class name="bg-tertiary-sinbad" background-color="#A6D9D9" />
+  <mj-class name="bg-tertiary-dust" background-color="#E5CFC7" />
 
-      <mj-class name="bg-special-light" background-color="#f5f4f0" />
-      <mj-class name="bg-special-grey" background-color="#F7F7F7" />
+  <mj-class name="bg-special-light" background-color="#f5f4f0" />
+  <mj-class name="bg-special-grey" background-color="#F7F7F7" />
 
-      <!-- TEXT COLOURS -->
-      <mj-class name="text-primary-yellow" color="#FFC421" />
-      <mj-class name="text-primary-white" color="#FFFFFF" />
-      <mj-class name="text-primary-brown" color="#291D18" />
-      <mj-class name="text-primary-darkgrey" color="#888"/>
+  <!-- TEXT COLOURS -->
+  <mj-class name="text-primary-yellow" color="#FFC421" />
+  <mj-class name="text-primary-white" color="#FFFFFF" />
+  <mj-class name="text-primary-brown" color="#291D18" />
+  <mj-class name="text-primary-darkgrey" color="#888" />
 
-      <!-- Refrain from using these text colours -->
-      <mj-class name="text-secondary-cream" color="#FFEDA1" />
-      <mj-class name="text-secondary-lemon" color="#FFF7C7" />
-      <mj-class name="text-secondary-jeans" color="#29A8B8" />
-      <mj-class name="text-secondary-baby" color="#91ABC9" />
-      <mj-class name="text-secondary-red" color="#C95942" />
-      <mj-class name="text-secondary-turquoise" color="#36BDB0" />
-      <mj-class name="text-secondary-lila" color="#C9A6C7" />
-      <mj-class name="text-secondary-watermelon" color="#F2877A" />
-      <mj-class name="text-secondary-olivine" color="#99BD66" />
-      <mj-class name="text-tertiary-golden" color="#FDD671" />
-      <mj-class name="text-tertiary-peach" color="#FAC7BA" />
-      <mj-class name="text-tertiary-sprout" color="#ADD1A6" />
-      <mj-class name="text-tertiary-tan" color="#F7945C" />
-      <mj-class name="text-tertiary-sinbad" color="#A6D9D9" />
-      <mj-class name="text-tertiary-dust" color="#E5CFC7" />
+  <!-- Refrain from using these text colours -->
+  <mj-class name="text-secondary-cream" color="#FFEDA1" />
+  <mj-class name="text-secondary-lemon" color="#FFF7C7" />
+  <mj-class name="text-secondary-jeans" color="#29A8B8" />
+  <mj-class name="text-secondary-baby" color="#91ABC9" />
+  <mj-class name="text-secondary-red" color="#C95942" />
+  <mj-class name="text-secondary-turquoise" color="#36BDB0" />
+  <mj-class name="text-secondary-lila" color="#C9A6C7" />
+  <mj-class name="text-secondary-watermelon" color="#F2877A" />
+  <mj-class name="text-secondary-olivine" color="#99BD66" />
+  <mj-class name="text-tertiary-golden" color="#FDD671" />
+  <mj-class name="text-tertiary-peach" color="#FAC7BA" />
+  <mj-class name="text-tertiary-sprout" color="#ADD1A6" />
+  <mj-class name="text-tertiary-tan" color="#F7945C" />
+  <mj-class name="text-tertiary-sinbad" color="#A6D9D9" />
+  <mj-class name="text-tertiary-dust" color="#E5CFC7" />
 
-      <!-- TEXT SIZES -->
-      <!-- Line heights are 35% larger than fontsize, rounded down -->
-      <mj-class name="heading-1" font-size="36px" line-height="48px" />
-      <mj-class name="heading-2" font-size="32px" line-height="43px" />
-      <mj-class name="heading-3" font-size="28px" line-height="37px" />
-      <mj-class name="heading-4" font-size="24px" line-height="32px" />
-      <mj-class name="heading-5" font-size="20px" line-height="27px" />
-      <mj-class name="heading-6" font-size="16px" line-height="21px" />
+  <mj-include path="icons.mjml" />
 
-      <!-- GLOBAL STYLES -->
-      <mj-all font-family="Arial, Helvetica, sans-serif" />
-      <mj-text color="#291D18" font-size="14px" line-height="19px" />
-    </mj-attributes>
-    <mj-breakpoint width="600px" />
-    <mj-style>
-      /* 
-        If this style tag has more than 8192 characters, split it.
-        Otherwise, Gmail won't play nice.
-      */
+  <!-- TEXT SIZES -->
+  <!-- Font sizes are based on major third intervals (1.25 times) -->
+  <!-- Line heights are 1.61 (golden ratio) for bodytext -->
+  <!-- and 1.2 (minor third) intervals for headings -->
+  
+  <mj-class name="heading-1" font-size="48px" line-height="57px" />
+  <mj-class name="heading-2" font-size="39px" line-height="46px" />
+  <mj-class name="heading-3" font-size="31px" line-height="37px" />
+  <mj-class name="heading-4" font-size="25px" line-height="30px" />
+  <mj-class name="heading-5" font-size="20px" line-height="24px" />
+  <mj-class name="heading-6" font-size="16px" line-height="25px" />
 
-      a {
-      color: #291D18 !important;
-      }
+  <!-- GLOBAL STYLES -->
+  <mj-all font-family="Arial, Helvetica, sans-serif" />
+  <mj-text color="#291D18" font-size="16px" line-height="28px" />
 
-      .hide-until-lg,
-      .hide-until-md,
-      .hide-until-sm {
-      display: auto;
-      }
+</mj-attributes>
+<!-- ENABLE DARK MODE on supporting devices -->
+<mj-raw>
+  <meta name="color-scheme" content="light dark">
+  <meta name="supported-color-schemes" content="light dark">
+</mj-raw>
+<mj-breakpoint width="600px" />
+<mj-style inline="inline">
+  /* This inlines the styles so that the general dark mode styles can overwrite them */
+  .dark-img { display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;}
+</mj-style>
+<mj-style>
+  /*
+  If this style tag has more than 8192 characters, split it.
+  Otherwise, Gmail won't play nice.
+  */
 
-      .hide-from-lg,
-      .hide-from-md,
-      .hide-from-sm {
-        display: none !important;
-      }
+  a {
+  color: #291D18 !important;
+  }
 
-      @media only screen and (min-width: 600px){
-      .mj-column-px-700 {
-        width: auto !important;
-        max-width: auto
-      }
-      }
+  .hide-until-lg,
+  .hide-until-md,
+  .hide-until-sm {
+  display: auto;
+  }
 
-      @media (max-width: 700px) {
-      .hero-container.left > table > tbody > tr > td {
-      padding: 0 12px 0 0 !important;
-      }
-      .hero-container.center > table > tbody > tr > td {
-      padding: 0 !important;
-      }
-      .hero-container.right > table > tbody > tr > td {
-      padding: 0 0 0 12px !important;
-      }
-      }
-      
-      @media (max-width: 600px) {
-      .hide-until-lg {display: none !important;}
-      .hide-from-lg {display: inline-block !important;}
+  .hide-from-lg,
+  .hide-from-md,
+  .hide-from-sm {
+  display: none !important;
+  }
 
-      .container > table > tbody > tr > td {
-      padding: 15px 13px !important;
-      }
+  @media only screen and (min-width: 600px){
+  .mj-column-px-700 {
+  width: auto !important;
+  max-width: auto
+  }
+  }
 
-      .heading-1 > * {
-      font-size: 26px !important;
-      line-height: 34px !important;
-      }
+  @media (max-width: 700px) {
+  .hero-container.left > table > tbody > tr > td {
+  padding: 0 12px 0 0 !important;
+  }
+  .hero-container.center > table > tbody > tr > td {
+  padding: 0 12px !important;
+  }
+  .hero-container.right > table > tbody > tr > td {
+  padding: 0 0 0 12px !important;
+  }
+  }
 
-      .heading-2 > * {
-      font-size: 22px !important;
-      line-height: 30px !important;
-      }
+  @media (max-width: 600px) {
+  .hide-until-lg {display: none !important;}
+  .hide-from-lg {display: inline-block !important;}
 
-      .heading-3 > * {
-      font-size: 18px !important;
-      line-height: 23px !important;
-      }
+  .container > table > tbody > tr > td {
+  padding: 15px 13px !important;
+  }
 
-      .hero-container > table > tbody > tr > td {
-        padding-right: 6px !important;
-      }
-      }
+  /* 
+    Adjusting font-sizes for medium screens (same ratios).
+    Starting from 15px (bodytext)
+  */
 
-      @media (max-width: 400px) {
-      .hide-until-md {display: none !important;}
-      .hide-from-md {display: inline-block !important;}
+  * {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
 
-      .heading-1 > * {
-      font-size: 22px !important;
-      line-height: 30px !important;
-      }
+  .heading-1 > * {
+  font-size: 45px !important;
+  line-height: 54px !important;
+  }
 
-      .heading-2 > * {
-      font-size: 18px !important;
-      line-height: 27px !important;
-      }
+  .heading-2 > * {
+  font-size: 36px !important;
+  line-height: 43px !important;
+  }
 
-      .heading-3 > * {
-      font-size: 14px !important;
-      line-height: 21px !important;
-      }
-      }
+  .heading-3 > * {
+  font-size: 29px !important;
+  line-height: 34px !important;
+  }
 
-      @media (max-width: 320px) {
-      .hide-until-sm {display: none !important;}
-      .hide-from-sm {display: inline-block !important;}
-      }
-    </mj-style>
-    <mj-raw>
-      <!--[if mso]>
+  .heading-4 > * {
+  font-size: 23px !important;
+  line-height: 27px !important;
+  }
+
+  .heading-5 > *,
+  .heading-6 > * {
+  font-size: 18px !important;
+  line-height: 21px !important;
+  }
+
+  .hero-container > table > tbody > tr > td {
+  padding-right: 6px !important;
+  }
+  }
+
+  @media (max-width: 400px) {
+  .hide-until-md {display: none !important;}
+  .hide-from-md {display: inline-block !important;}
+
+  /* 
+    Adjusting font-sizes for small screens.
+    Starting from 14px.
+    Font-sizes: minor third (1.2)
+    Line-height: minor third (1.2)
+  */
+
+  * {
+    font-size: 14px !important;
+    line-height: 22px !important;
+  }
+
+  .heading-1 > * {
+  font-size: 34px !important;
+  line-height: 40px !important;
+  }
+
+  .heading-2 > * {
+  font-size: 29px !important;
+  line-height: 34px !important;
+  }
+
+  .heading-3 > * {
+  font-size: 24px !important;
+  line-height: 28px !important;
+  }
+
+  .heading-4 > * {
+  font-size: 20px !important;
+  line-height: 24px !important;
+  }
+
+  .heading-5 > *,
+  .heading-6 > * {
+  font-size: 16px !important;
+  line-height: 19px !important;
+  }
+  }
+
+  @media (max-width: 320px) {
+  .hide-until-sm {display: none !important;}
+  .hide-from-sm {display: inline-block !important;}
+  }
+</mj-style>
+<mj-style>
+  
+  /* Styling for dark modes */
+  /* Load first because of precedence rules */
+  
+  @media (prefers-color-scheme: dark) {
+      .light-img {
+      display:none; 
+      display:none !important; 
+    }
+
+    [data-ogsc] .light-img {
+      display:none; 
+      display:none !important; 
+    }
+
+    [data-ogsc] .dark-img { 
+      display:block !important; 
+      width: auto !important; 
+      overflow: visible !important; 
+      float: none !important; 
+      max-height:inherit !important; 
+      max-width:inherit !important; 
+      line-height: auto !important; 
+      margin-top:0px !important; 
+      visibility:inherit !important; 
+    }
+
+    .dark-img { 
+      display:block !important; 
+      width: auto !important;
+      overflow: visible !important; 
+      float: none !important; 
+      max-height:inherit !important; 
+      max-width:inherit !important; 
+      line-height: auto !important; 
+      margin-top:0px !important; 
+      visibility:inherit !important; 
+    }
+  }
+</mj-style>
+<mj-raw>
+  <!--[if mso]>
         <style type=”text/css”>
           .outlook-font-fix > div{
             font-family: Arial, sans-serif;
           }
         </style>
       <![endif]-->
-    </mj-raw>
-    <mj-raw>
-      <!--[if !mso]>-->
-      <style>
-          @font-face {
-              /* Albra Light */
+</mj-raw>
+<mj-raw>
+  <!--[if !mso]>-->
+  <style>
+    @font-face {
+      /* Albra Light */
 
-              font-family: 'Albra Light';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Light.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Light.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
+      font-family: 'Albra Light';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Light.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Light.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-          @font-face {
-              /* Albra Regular */
+    @font-face {
+      /* Albra Regular */
 
-              font-family: 'Albra Regular';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Regular.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Regular.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
+      font-family: 'Albra Regular';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Regular.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Regular.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-          @font-face {
-              /* Albra Medium */
+    @font-face {
+      /* Albra Medium */
 
-              font-family: 'Albra Medium';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Medium.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Medium.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
+      font-family: 'Albra Medium';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Medium.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Medium.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-          @font-face {
-              /* Albra Semi */
+    @font-face {
+      /* Albra Semi */
 
-              font-family: 'Albra Semi';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Semi.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Semi.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
+      font-family: 'Albra Semi';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Semi.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Semi.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-          @font-face {
-              /* Albra Bold */
+    @font-face {
+      /* Albra Bold */
 
-              font-family: 'Albra Bold';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Bold.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Bold.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
+      font-family: 'Albra Bold';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Bold.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Bold.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
 
-          @font-face {
-              /* Albra Black */
+    @font-face {
+      /* Albra Black */
 
-              font-family: 'Albra Black';
-              src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff') format('woff'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff2') format('woff2'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Black.ttf') format('truetype'),
-                  url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Black.otf') format('opentype');
-              font-weight: normal;
-              font-style: normal;
-          }
-        </style>
-        <!--<![endif]-->
-      </mj-raw>
+      font-family: 'Albra Black';
+      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff') format('woff'),
+        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff2') format('woff2'),
+        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Black.ttf') format('truetype'),
+        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Black.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+  </style>
+  <!--<![endif]-->
+</mj-raw>
