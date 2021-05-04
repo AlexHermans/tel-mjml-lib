@@ -45,7 +45,7 @@
         <mj-text padding="5px 25px" mj-class="fontstack-regular heading-6" css-class="outlook-font-fix heading-6">
           € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> excl. BTW / maand
         </mj-text>
-        <mj-image mj-class="icon-screen-l" align="left" width="30px" />
+        <mj-image mj-class="icon-smartphone-l" align="left" width="30px" />
         <mj-text padding-top="5px" padding-bottom="25px" css-class="outlook-font-fix">
           Vandaag maak jij nog gebruik van diensten bestemd voor particuliere klanten. Hierdoor geniet je misschien niet van de hulp die jij verdient als ondernemer. Zoals onze ‘Same Day Repair’: onmisbaar voor een zaak die vooruit wil!
         </mj-text>
