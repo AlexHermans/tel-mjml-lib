@@ -53,6 +53,8 @@
   <mj-class name="text-tertiary-sinbad" color="#A6D9D9" />
   <mj-class name="text-tertiary-dust" color="#E5CFC7" />
 
+  <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
+
   <mj-include path="icons.mjml" />
 
   <!-- TEXT SIZES -->
@@ -123,12 +125,16 @@
   }
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 599px) {
   .hide-until-lg {display: none !important;}
   .hide-from-lg {display: inline-block !important;}
 
   .container > table > tbody > tr > td {
   padding: 15px 13px !important;
+  }
+
+  .container-group > table > tbody > tr > td {
+  padding: 0 13px !important;
   }
 
   /* 
