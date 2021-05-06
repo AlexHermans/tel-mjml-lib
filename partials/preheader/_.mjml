@@ -2,7 +2,17 @@
     <mj-body>
           <mj-section mj-class="bg-primary-white" css-class="dark-mode-fix">
             <mj-group width="600px">
-                <mj-column padding="0" width="40%">
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-column padding="25px 0" width="25%" css-class="hide-from-lg">
+                    <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Telenet Business Logo" align="left" padding="0" css-class="dark-img"/>
+                    <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                </mj-column>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-column padding="25px 0" width="33%" css-class="hide-until-lg">
                     <mj-raw>
                         <!--[if !mso]>-->
                     </mj-raw>
@@ -12,8 +22,8 @@
                     </mj-raw>
                     <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
                 </mj-column>
-                <mj-column width="60%">
-                    <mj-text mj-class="fontstack-medium" css-class="outlook-font-fix hide-until-md" align="right" padding="15px 0 0 0">
+                <mj-column padding="40px 0 0" width="66%">
+                    <mj-text mj-class="fontstack-medium" css-class="outlook-font-fix hide-until-md" align="right" padding="0">
                         <strong>This is the pre-header</strong>
                     </mj-text>
                     <mj-text mj-class="fontstack-light" css-class="outlook-font-fix" align="right" padding="5px 0 0 0">
