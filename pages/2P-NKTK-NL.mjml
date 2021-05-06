@@ -8,6 +8,8 @@
     <!-- PRE-HEADER -->
     <mj-include path="../partials/preheader/_.mjml" />
 
+    
+
     <!-- HERO TEXT -->
     <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
       <mj-column>
@@ -36,8 +38,14 @@
       </mj-column>
     </mj-section>
 
+    <mj-section mj-class="bg-primary-white">
+      <mj-column>
+        <mj-spacer height="10px"/>
+      </mj-column>
+    </mj-section>
+
     <!-- BLOCK -->
-    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 0" >
+    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="25px 0 0" >
       <mj-column mj-class="bg-secondary-lemon" width="600px" padding="15px 0">
         <mj-text padding-bottom="0" mj-class="fontstack-semi heading-3" css-class="outlook-font-fix heading-3">
           KLIK 10 GB
@@ -45,19 +53,120 @@
         <mj-text padding="5px 25px" mj-class="fontstack-regular heading-6" css-class="outlook-font-fix heading-6">
           € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> excl. BTW / maand
         </mj-text>
-        <mj-image mj-class="icon-smartphone-l" align="left" width="30px" />
-        <mj-text padding-top="5px" padding-bottom="25px" css-class="outlook-font-fix">
-          Vandaag maak jij nog gebruik van diensten bestemd voor particuliere klanten. Hierdoor geniet je misschien niet van de hulp die jij verdient als ondernemer. Zoals onze ‘Same Day Repair’: onmisbaar voor een zaak die vooruit wil!
+        <mj-divider mj-class="divider-fine-brown" />
+      </mj-column>    
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group"> 
+      <mj-column mj-class="bg-secondary-lemon" width="55px" padding="0 0 0 15px">
+        <mj-image css-class="hide-until-lg" padding="0 0 3px 0" align="right" width="30px" mj-class="icon-headset-l" alt="" />
+        <mj-raw>
+          <!--[if !mso]>-->
+        </mj-raw>
+        <mj-image css-class="hide-from-lg" padding="0 0 10px 15px" align="left" width="30px" mj-class="icon-headset-l" alt="" />
+        <mj-raw>
+          <!--<![endif]-->
+        </mj-raw>
+      </mj-column>
+      <mj-column mj-class="bg-secondary-lemon" width="545px" padding="0 0 5px 15px">
+        <mj-text padding="0 15px 0 15px"  css-class="outlook-font-fix"> 
+          <strong>Persoonlijke hulp:</strong> 1 expert volgt je vraag op van begin tot oplossing
         </mj-text>
-        <mj-button padding-top="10px" href="~PROBE(120)~" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
-          <strong>Kies voor KLIK</strong>
-        </mj-button>
       </mj-column>
     </mj-section>
 
+    <mj-section mj-class="bg-primary-white" css-class="container-group"> 
+      <mj-column mj-class="bg-secondary-lemon" width="55px" padding="15px 0 0 15px">
+        <mj-image css-class="hide-until-lg" padding="0 0 3px 0" align="right" width="30px" mj-class="icon-cursor-l" alt="" />
+        <mj-raw>
+          <!--[if !mso]>-->
+        </mj-raw>
+        <mj-image css-class="hide-from-lg" padding="0 0 10px 15px" align="left" width="30px" mj-class="icon-cursor-l" alt="" />
+        <mj-raw>
+          <!--<![endif]-->
+        </mj-raw>
+      </mj-column>
+      <mj-column mj-class="bg-secondary-lemon" width="545px" padding="15px 0 5px 15px">
+        <mj-text padding="0 15px 0 15px"  css-class="outlook-font-fix"> 
+          <strong>Internet:</strong> Onbeperkt up- en downloaden
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group"> 
+      <mj-column mj-class="bg-secondary-lemon" width="55px" padding="15px 0 0 15px">
+        <mj-image css-class="hide-until-lg" padding="0 0 3px 0" align="right" width="30px" mj-class="icon-telephone-l" alt="" />
+        <mj-raw>
+          <!--[if !mso]>-->
+        </mj-raw>
+        <mj-image css-class="hide-from-lg" padding="0 0 10px 15px" align="left" width="30px" mj-class="icon-telephone-l" alt="" />
+        <mj-raw>
+          <!--<![endif]-->
+        </mj-raw>
+      </mj-column>
+      <mj-column mj-class="bg-secondary-lemon" width="545px" padding="15px 0 5px 15px">
+        <mj-text padding="0 15px 0 15px"  css-class="outlook-font-fix"> 
+          <strong>Telefonie:</strong> Onbeperkt bellen (vast en mobiel) + sms’en
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group"> 
+      <mj-column mj-class="bg-secondary-lemon" width="55px" padding="15px 0 0 15px">
+        <mj-image css-class="hide-until-lg" padding="0 0 3px 0" align="right" width="30px" mj-class="icon-smartphone-l" alt="" />
+        <mj-raw>
+          <!--[if !mso]>-->
+        </mj-raw>
+        <mj-image css-class="hide-from-lg" padding="0 0 10px 15px" align="left" width="30px" mj-class="icon-smartphone-l" alt="" />
+        <mj-raw>
+          <!--<![endif]-->
+        </mj-raw>
+      </mj-column>
+      <mj-column mj-class="bg-secondary-lemon" width="545px" padding="15px 0 5px 15px">
+        <mj-text padding="0 15px 0 15px"  css-class="outlook-font-fix"> 
+          <strong>Mobiel:</strong> 10 GB data om te verdelen over 2 simkaarten
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group"> 
+      <mj-column mj-class="bg-secondary-lemon" width="55px" padding="15px 0 0 15px">
+        <mj-image css-class="hide-until-lg" padding="0 0 3px 0" align="right" width="30px" mj-class="icon-tv-l" alt="" />
+        <mj-raw>
+          <!--[if !mso]>-->
+        </mj-raw>
+        <mj-image css-class="hide-from-lg" padding="0 0 10px 15px" align="left" width="30px" mj-class="icon-tv-l" alt="" />
+        <mj-raw>
+          <!--<![endif]-->
+        </mj-raw>
+      </mj-column>
+      <mj-column mj-class="bg-secondary-lemon" width="545px" padding="15px 0 5px 15px">
+        <mj-text padding="0 15px 0 15px"  css-class="outlook-font-fix"> 
+          <strong>Digitale TV:</strong> Op al je schermen én Terugkijk TV
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0" >
+      <mj-column mj-class="bg-secondary-lemon" width="600px" padding="15px 0">
+      <mj-divider mj-class="divider-fine-brown" />
+        <mj-button padding-top="10px" href="~PROBE(120)~" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
+          <strong>Kies voor KLIK</strong>
+        </mj-button>
+        <mj-text font-size="12px" css-class="outlook-font-fix" padding="0 25px">
+          Raadpleeg de voorwaarden op <a href="~PROBE(140)~">www.klik.be/wordnuklik</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white">
+      <mj-column>
+        <mj-spacer height="10px"/>
+      </mj-column>
+    </mj-section>
 
     <!-- PROOF POINTS -->
-    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 0">
+    <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0 0">
       <mj-column width="600px">
         <mj-text padding="0" mj-class="heading-6 fontstack-semi" css-class="outlook-font-fix heading-6">
           Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
@@ -68,15 +177,42 @@
               <span style="color:#291D18">Je hebt <strong>één bundel</strong> voor je internet, telefonie en tv. </span>
             </li>
             <li style="color: #FFC421;">
-              <span style="color:#291D18">Je geniet van de meest persoonlijke hulp: <strong>één expert</strong> volgt je vraag op van begin tot oplossing. </span>
+              <span style="color:#291D18">Je krijgt <strong>één maandelijkse KLIK-factuur</strong> voor alles: makkelijk om te delen met je boekhouder!</span>
+            </li>
+            <li style="color: #FFC421;">
+              <span style="color:#291D18">Toch een probleem? Dan kan je <strong>24/7</strong> rekenen op technische ondersteuning.</span>
             </li>
           </ul>
         </mj-text>
-        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium heading-6" inner-padding="13px 22px" padding="15px 0" align="left" css-class="outlook-font-fix heading-6">
-          Ontdek alle voordelen van KLIK
+      </mj-column>
+    </mj-section> 
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group " padding="0">
+      <mj-column width="275px" padding-bottom="0">
+        <mj-button href="~PROBE(121)~" mj-class="bg-primary-yellow text-primary-brown fontstack-medium heading-6" inner-padding="13px 22px" padding="15px 0 0" align="left" css-class="outlook-font-fix heading-6" width="250px">
+          <strong>Bel 0800 66 066</strong>
         </mj-button>
       </mj-column>
-    </mj-section>    
+      <mj-column width="275px">
+        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium heading-6" inner-padding="13px 22px" padding="15px 0" align="left" css-class="outlook-font-fix heading-6" width="250px"> 
+          Ontdek nog méér voordelen
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white">
+      <mj-column>
+        <mj-spacer height="10px"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-primary-white" css-class="container-group " padding="25px 0">
+      <mj-column width="600px">
+        <mj-text padding="0">
+        Liever meer data? <strong><a href="~PROBE(141)~">Kies de KLIK die bij jou past.</a></strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>   
 
     <!-- SIGNATURE -->
     <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 25px">
