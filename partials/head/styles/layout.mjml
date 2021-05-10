@@ -1,0 +1,61 @@
+<!-- These are utility classes for layouting -->
+
+<mj-style>
+  .hide-until-lg,
+  .hide-until-md,
+  .hide-until-sm {
+    display: auto;
+  }
+
+  .hide-from-lg,
+  .hide-from-md,
+  .hide-from-sm {
+    display: none !important;
+  }
+
+  @media (max-width: 700px) {
+    .hero-container.left > table > tbody > tr > td {
+      padding: 0 12px 0 0 !important;
+    }
+    .hero-container.center > table > tbody > tr > td {
+      padding: 0 12px !important;
+    }
+    .hero-container.right > table > tbody > tr > td {
+      padding: 0 0 0 12px !important;
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    .mj-column-px-700 {
+      width: auto !important;
+      max-width: auto
+    }
+  }
+
+  @media (max-width: 599px) {
+    .hide-until-lg {display: none !important;}
+    .hide-from-lg {display: inline-block !important;}
+
+    .container > table > tbody > tr > td {
+      padding: 15px 13px !important;
+    }
+
+    .container-group > table > tbody > tr > td {
+      padding: 0 13px !important;
+    }
+
+    .hero-container > table > tbody > tr > td {
+      padding-right: 6px !important;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .hide-until-md {display: none !important;}
+    .hide-from-md {display: inline-block !important;}
+  }
+
+  @media (max-width: 320px) {
+    .hide-until-sm {display: none !important;}
+    .hide-from-sm {display: inline-block !important;}
+  }
+</mj-style>
