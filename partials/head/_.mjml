@@ -13,57 +13,15 @@
   <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
   <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
-  <!-- BG COLOURS -->
-  <mj-class name="bg-primary-yellow" background-color="#FFC421" />
-  <mj-class name="bg-primary-white" background-color="#FFFFFF" />
-  <mj-class name="bg-primary-brown" background-color="#291d18" />
-  <mj-class name="bg-secondary-cream" background-color="#FFEDA1" />
-  <mj-class name="bg-secondary-lemon" background-color="#FFF7C7" />
-  <mj-class name="bg-secondary-jeans" background-color="#29A8B8" />
-  <mj-class name="bg-secondary-baby" background-color="#91ABC9" />
-  <mj-class name="bg-secondary-red" background-color="#C95942" />
-  <mj-class name="bg-secondary-turquoise" background-color="#36BDB0" />
-  <mj-class name="bg-secondary-lila" background-color="#C9A6C7" />
-  <mj-class name="bg-secondary-watermelon" background-color="#F2877A" />
-  <mj-class name="bg-secondary-olivine" background-color="#99BD66" />
-  <mj-class name="bg-tertiary-golden" background-color="#FDD671" />
-  <mj-class name="bg-tertiary-peach" background-color="#FAC7BA" />
-  <mj-class name="bg-tertiary-sprout" background-color="#ADD1A6" />
-  <mj-class name="bg-tertiary-tan" background-color="#F7945C" />
-  <mj-class name="bg-tertiary-sinbad" background-color="#A6D9D9" />
-  <mj-class name="bg-tertiary-dust" background-color="#E5CFC7" />
-
-  <mj-class name="bg-special-light" background-color="#f5f4f0" />
-  <mj-class name="bg-special-grey" background-color="#F7F7F7" />
-
-  <!-- TEXT COLOURS -->
-  <mj-class name="text-primary-yellow" color="#FFC421" />
-  <mj-class name="text-primary-white" color="#FFFFFF" />
-  <mj-class name="text-primary-brown" color="#291D18" />
-  <mj-class name="text-primary-darkgrey" color="#888" />
-
-  <!-- Refrain from using these text colours -->
-  <mj-class name="text-secondary-cream" color="#FFEDA1" />
-  <mj-class name="text-secondary-lemon" color="#FFF7C7" />
-  <mj-class name="text-secondary-jeans" color="#29A8B8" />
-  <mj-class name="text-secondary-baby" color="#91ABC9" />
-  <mj-class name="text-secondary-red" color="#C95942" />
-  <mj-class name="text-secondary-turquoise" color="#36BDB0" />
-  <mj-class name="text-secondary-lila" color="#C9A6C7" />
-  <mj-class name="text-secondary-watermelon" color="#F2877A" />
-  <mj-class name="text-secondary-olivine" color="#99BD66" />
-  <mj-class name="text-tertiary-golden" color="#FDD671" />
-  <mj-class name="text-tertiary-peach" color="#FAC7BA" />
-  <mj-class name="text-tertiary-sprout" color="#ADD1A6" />
-  <mj-class name="text-tertiary-tan" color="#F7945C" />
-  <mj-class name="text-tertiary-sinbad" color="#A6D9D9" />
-  <mj-class name="text-tertiary-dust" color="#E5CFC7" />
+  
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
   <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
   <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
 
   <mj-include path="icons.mjml" />
+
+  <mj-include path="styles/colours.mjml" />
 
   <!-- GLOBAL STYLES -->
   <mj-all font-family="Arial, Helvetica, sans-serif" />

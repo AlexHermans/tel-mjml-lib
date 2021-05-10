@@ -90,7 +90,7 @@
                 <mj-text>
                     <h1>Icons</h1>
                     <p style="line-height: 1.4">You can use these icons in your emails by adding an mj-image tag and use the mj-class attribute.</p>
-                    <p style="line-height: 1.4">For exampe: <strong></strong></p>
+                    <p style="line-height: 1.4">For example: <strong></strong></p>
                     <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900">< mj-image mj-class=<span style="color:green">"icon-telephone-xxl"</span> alt="" /></p>
                     <p>&nbsp;</p>
                     <h3>A quick word on sizes:</h3>
