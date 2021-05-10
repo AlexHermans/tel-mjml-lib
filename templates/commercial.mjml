@@ -3,17 +3,17 @@
       <mj-include path="../partials/head/_.mjml" />
   </mj-head>
 
-  <mj-body mj-class="bg-special-light" width="800px">
+  <mj-body>
     <!-- PRE-HEADER -->
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section padding="25px 100px" mj-class="bg-secondary-baby" css-class="container">
       <mj-column>
-        <mj-text padding="25px 0 0" mj-class="text-primary-white heading-1 fontstack-bold" css-class="outlook-font-fix heading-1">
+        <mj-text padding="25px 0 0" mj-class="text-primary-white fontstack-bold" css-class="outlook-font-fix heading-1">
           COMMERCIAL TEMPLATE
         </mj-text>
-        <mj-text mj-class="heading-2 fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+        <mj-text mj-class="fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
             Commercial template subheader
         </mj-text>
       </mj-column>
