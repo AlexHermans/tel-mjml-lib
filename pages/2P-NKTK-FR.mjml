@@ -3,7 +3,7 @@
     <mj-include path="../partials/head/_.mjml" />
   </mj-head>
 
-  <mj-body mj-class="bg-special-light" width="800px">
+  <mj-body>
 
     <!-- PRE-HEADER -->
     <mj-include path="../partials/preheader/_.mjml" />

@@ -1,3 +1,9 @@
+<!-- ENABLE DARK MODE on supporting devices -->
+<mj-raw>
+  <meta name="color-scheme" content="light dark">
+  <meta name="supported-color-schemes" content="light dark">
+</mj-raw>
+
 <mj-attributes>
   <!-- FONT CLASSES -->
   <mj-class name="fontstack-light" font-family="'Albra Light', Arial, Helvetica, sans-serif" font-weight="100" />
@@ -62,13 +68,12 @@
   <!-- GLOBAL STYLES -->
   <mj-all font-family="Arial, Helvetica, sans-serif" />
   <mj-text font-size="16px" line-height="28px" color="#291D18" />
+  <mj-body background-color="#f5f4f0" width="800px">
+
 </mj-attributes>
-<!-- ENABLE DARK MODE on supporting devices -->
-<mj-raw>
-  <meta name="color-scheme" content="light dark">
-  <meta name="supported-color-schemes" content="light dark">
-</mj-raw>
+
 <mj-breakpoint width="600px" />
+
 <mj-style>
   /*
     If this style tag has more than 8192 characters, split it.
@@ -80,9 +85,11 @@
   }
  
 </mj-style>
+
 <mj-include path="styles/layout.mjml" />
 <mj-include path="styles/dark-mode.mjml" />
 <mj-include path="styles/font-sizes.mjml" />
+
 <mj-raw>
   <!--[if mso]>
         <style type=”text/css”>
@@ -91,8 +98,7 @@
           }
         </style>
       <![endif]-->
-</mj-raw>
-<mj-raw>
+
   <!--[if !mso]>-->
   <style>
     @font-face {
