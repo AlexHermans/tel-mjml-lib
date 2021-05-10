@@ -3,7 +3,7 @@
     <mj-include path="../partials/head/_.mjml" />
   </mj-head>
 
-  <mj-body mj-class="bg-special-light" width="800px">
+  <mj-body>
 
     <!-- PRE-HEADER -->
     <mj-include path="../partials/preheader/_.mjml" />
@@ -11,7 +11,7 @@
     <!-- HERO TEXT -->
     <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
       <mj-column>
-        <mj-text mj-class="fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+        <mj-text mj-class="fontstack-semi" padding="50px 0 25px" css-class="outlook-font-fix heading-2">
           Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
         </mj-text>
       </mj-column>
@@ -25,12 +25,12 @@
     </mj-section>
 
     <!-- INTRO -->
-    <mj-section mj-class="bg-primary-white" padding="50px 0 0" css-class="container ">
+    <mj-section mj-class="bg-primary-white" padding="25px 0" css-class="container">
       <mj-column width="600px">
-        <mj-text align="left" padding="0" css-class="outlook-font-fix bodytext">
+        <mj-text padding="0" css-class="outlook-font-fix bodytext">
           Beste ondernemer,
         </mj-text>
-        <mj-text align="left" padding="15px 0 0" css-class="outlook-font-fix bodytext">
+        <mj-text padding="15px 0 0" css-class="outlook-font-fix bodytext">
           Als ondernemer wil jij het beste voor je zaak. Daarom stelden we je een tijdje geleden <strong>KLIK 10 GB</strong> voor: het beste van Telenet Business in één bundel. Surfen, downloaden, bellen en tv-kijken, gecombineerd met onze uiterst persoonlijke hulp. <strong>En kies je voor KLIK vóór 30 juni? Dan krijg je nu € 90 korting*!</strong>
         </mj-text>
       </mj-column>
