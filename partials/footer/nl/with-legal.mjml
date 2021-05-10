@@ -1,8 +1,8 @@
 <mjml>
     <mj-body>
-        <mj-section css-class="container-group" padding="25px 0" mj-class="bg-special-light">
-            <mj-column width="600px" padding-bottom="15px">
-                <mj-text align="left" font-size="11px" line-height="19px" padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix">
+        <mj-section css-class="container-group" padding="25px 0 15px" mj-class="bg-special-light">
+            <mj-column width="600px">
+                <mj-text padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix text-sm">
                     Uw persoonsgegevens worden verwerkt zoals uiteengezet in het Telenet-privacybeleid (beschikbaar op https://www2.telenet.be/nl/privacy), conform uw huidige privacy-instellingen (zie ‘Mijn Telenet’).
                 </mj-text>
             </mj-column>
@@ -10,8 +10,8 @@
         <mj-section css-class="container-group" padding="0" mj-class="bg-special-light">
             <mj-group width="600px">
                 <mj-column width="70%">
-                    <mj-text align="left" font-size="11px" line-height="19px" padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix">
-                        &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
+                    <mj-text padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix text-sm">
+                        &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <br><a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
                     </mj-text>
                 </mj-column>
                 <mj-column width="25%">

@@ -1,0 +1,45 @@
+<mj-style inline="inline">
+  /* This inlines the styles so that the general dark mode styles can overwrite them */
+  .dark-img { display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;}
+</mj-style>
+<mj-style>
+  
+  /* Styling for dark modes */
+  /* Load first because of precedence rules */
+  
+  @media (prefers-color-scheme: dark) {
+      .light-img {
+      display:none; 
+      display:none !important; 
+    }
+
+    [data-ogsc] .light-img {
+      display:none; 
+      display:none !important; 
+    }
+
+    [data-ogsc] .dark-img { 
+      display:block !important; 
+      width: auto !important; 
+      overflow: visible !important; 
+      float: none !important; 
+      max-height:inherit !important; 
+      max-width:inherit !important; 
+      line-height: auto !important; 
+      margin-top:0px !important; 
+      visibility:inherit !important; 
+    }
+
+    .dark-img { 
+      display:block !important; 
+      width: auto !important;
+      overflow: visible !important; 
+      float: none !important; 
+      max-height:inherit !important; 
+      max-width:inherit !important; 
+      line-height: auto !important; 
+      margin-top:0px !important; 
+      visibility:inherit !important; 
+    }
+  }
+</mj-style>

@@ -12,7 +12,7 @@
     <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
       <mj-column>
         <mj-text mj-class="fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
-          Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
+         Plus de 75.000 entrepreneurs ont déjà choisi CLIC. Et vous ?
         </mj-text>
       </mj-column>
     </mj-section>
@@ -20,7 +20,7 @@
     <!-- HERO IMAGE -->
     <mj-section padding="0" mj-class="bg-secondary-lemon" css-class="hero-container right" padding-left="100px">
       <mj-column width="700px">
-        <mj-image href="~PROBE(110)~" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-nl.png" alt="" />
+        <mj-image href="~PROBE(110)~" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-fr.png" alt="" />
       </mj-column>
     </mj-section>
 
@@ -28,10 +28,10 @@
     <mj-section mj-class="bg-primary-white" padding="50px 0 0" css-class="container ">
       <mj-column width="600px">
         <mj-text align="left" padding="0" css-class="outlook-font-fix bodytext">
-          Beste ondernemer,
+          Cher entrepreneur,
         </mj-text>
         <mj-text align="left" padding="15px 0 0" css-class="outlook-font-fix bodytext">
-          Als ondernemer wil jij het beste voor je zaak. Daarom stelden we je een tijdje geleden <strong>KLIK 10 GB</strong> voor: het beste van Telenet Business in één bundel. Surfen, downloaden, bellen en tv-kijken, gecombineerd met onze uiterst persoonlijke hulp. <strong>En kies je voor KLIK vóór 30 juni? Dan krijg je nu € 90 korting*!</strong>
+          En votre qualité d’entrepreneur, vous voulez ce qui se fait de mieux pour votre entreprise. C’est pourquoi, il y a quelque temps, nous vous avons proposé <strong>CLIC 10 GB</strong> : le meilleur de Telenet Business dans un seul et même pack. Tout ce qu’il faut pour surfer, télécharger, téléphoner et regarder la TV, le tout combiné à une assistance extrêmement personnalisée. <strong>Vous optez pour CLIC avant le 30 juin ? À vous la réduction de 90 €* !</strong>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -40,10 +40,10 @@
     <mj-section mj-class="bg-primary-white" css-class="container-group" padding="25px 0 0" >
       <mj-column  width="600px" padding="15px 0 0" mj-class="bg-secondary-lemon">
         <mj-text padding="0" mj-class="fontstack-semi" align="center" css-class="outlook-font-fix heading-3">
-          KLIK 10 GB
+          CLIC 10 GB
         </mj-text>
         <mj-text padding="5px 0" mj-class="fontstack-regular" align="center" css-class="outlook-font-fix heading-6">
-          € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> excl. BTW / maand
+          € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> hors TVA / mois
         </mj-text>
         <mj-divider padding="15px 0 0" mj-class="divider-fine-brown" />
       </mj-column>    
@@ -56,7 +56,7 @@
         </mj-column>
         <mj-column width="90%">
           <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
-            <strong>Persoonlijke hulp:</strong> 1 expert volgt je vraag op van begin tot oplossing
+            <strong>Assistance personnalisée :</strong> 1 expert traite vos questions, du début à la solution
           </mj-text>
         </mj-column>
       </mj-group>
@@ -69,7 +69,7 @@
         </mj-column>
         <mj-column width="90%">
           <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
-            <strong>Internet:</strong> Onbeperkt up- en downloaden
+            <strong>Internet :</strong> Download et upload sans limites
           </mj-text>
         </mj-column>
       </mj-group>
@@ -82,7 +82,7 @@
         </mj-column>
         <mj-column width="90%">
           <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
-            <strong>Telefonie:</strong> Onbeperkt bellen (vast en mobiel) + sms’en
+            <strong>Téléphonie :</strong> Appels illimités (en fixe comme en mobile) + SMS
           </mj-text>
         </mj-column>
       </mj-group>
@@ -95,7 +95,7 @@
         </mj-column>
         <mj-column width="90%">
           <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
-            <strong>Mobiele data:</strong> 10 GB data om te verdelen over 2 simkaarten
+            <strong>Data mobiles :</strong> 10 GB de data à répartir sur 2 cartes SIM
           </mj-text>
         </mj-column>
       </mj-group>
@@ -108,7 +108,7 @@
         </mj-column>
         <mj-column width="90%">
           <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
-            <strong>Digitale TV:</strong> Op al je schermen én Terugkijk TV
+            <strong>TV Digitale :</strong> Sur tous vos écrans & Replay TV
           </mj-text>
         </mj-column>
       </mj-group>
@@ -117,10 +117,10 @@
     <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
       <mj-column width="600px" padding="15px 0" mj-class="bg-secondary-lemon">
         <mj-button padding-top="10px" href="~PROBE(120)~" width="200px" align="center" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
-          <strong>Kies voor KLIK</strong>
+          <strong>Optez pour CLIC</strong>
         </mj-button>
         <mj-text font-size="12px" css-class="outlook-font-fix bodytext" align="center" padding="0 25px">
-          Raadpleeg de voorwaarden op <a href="~PROBE(140)~">www.klik.be/wordnuklik</a>
+          Consultez les conditions sur <a href="~PROBE(140)~">www.clic.be/jeveuxclic</a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -129,18 +129,18 @@
     <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0 0">
       <mj-column width="600px">
         <mj-text mj-class="fontstack-semi" padding="30px 0 15px" css-class="outlook-font-fix heading-6">
-          Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
+          Saviez-vous que... vous pouvez faire les choses beaucoup plus efficacement en choisissant CLIC ?
         </mj-text>
         <mj-text css-class="outlook-font-fix bodytext" padding="0 15px 30px">
           <ul style="margin:0; padding:0;" align="left" type="disc">
             <li style="color: #FFC421; mso-special-format:bullet">
-              <span style="color:#291D18">Je hebt <strong>één bundel</strong> voor je internet, telefonie en tv. </span>
+              <span style="color:#291D18">Vous avez <strong>un seul pack</strong> pour l’internet, le téléphone et la télévision</span>
             </li>
             <li style="color: #FFC421; mso-special-format:bullet">
-              <span style="color:#291D18">Je krijgt <strong>één maandelijkse KLIK-factuur</strong> voor alles: makkelijk om te delen met je boekhouder!</span>
+              <span style="color:#291D18">Vous recevez <strong>une seule facture mensuelle</strong> de CLIC pour le tout : très facile à transmettre à votre comptable.</span>
             </li>
             <li style="color: #FFC421; mso-special-format:bullet">
-              <span style="color:#291D18">Toch een probleem? Dan kan je <strong>24/7</strong> rekenen op technische ondersteuning.</span>
+              <span style="color:#291D18">Et en cas d’éventuel problème ? Comptez sur une assistance technique, <strong>24/7</strong> !</span>
             </li>
           </ul>
         </mj-text>
@@ -148,14 +148,14 @@
     </mj-section> 
 
     <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
-      <mj-column width="275px" padding-bottom="0">
-        <mj-button href="~PROBE(121)~" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0 0" align="center" css-class="outlook-font-fix heading-6" width="250px">
-          <strong>Bel 0800 66 066</strong>
+      <mj-column width="300px" padding-bottom="0">
+        <mj-button href="tel:+32080066066" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0 0" align="center" css-class="outlook-font-fix heading-6" width="250px">
+          <strong>Appelez le 0800 66 066</strong>
         </mj-button>
       </mj-column>
-      <mj-column width="275px">
-        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" width="250px"> 
-          Ontdek nog méér voordelen
+      <mj-column width="300px">
+        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" width="300px"> 
+          Découvrez encore plus d’avantages
         </mj-button>
       </mj-column>
     </mj-section>
@@ -169,7 +169,7 @@
     <mj-section mj-class="bg-primary-white" css-class="container-group " padding="25px 0">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
-        Liever meer data? <strong><a href="~PROBE(141)~">Kies de KLIK die bij jou past.</a></strong>
+        Vous voulez plus de data ? <strong><a href="~PROBE(141)~">Choisissez le CLIC qui vous convient.</a></strong>
         </mj-text>
       </mj-column>
     </mj-section>   
@@ -178,14 +178,14 @@
     <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 25px">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
-          Met vriendelijke groeten, <br>
-          het Telenet Business-team           
+          Cordialement, <br>
+          l’équipe Telenet Business           
         </mj-text>
       </mj-column>
     </mj-section>
     
     <!-- FOOTER -->
-    <mj-include path="../partials/footer/nl/with-legal.mjml" />
+    <mj-include path="../partials/footer/fr/with-legal.mjml" />
 
   </mj-body>
 </mjml>
