@@ -54,6 +54,8 @@
   <mj-class name="text-tertiary-dust" color="#E5CFC7" />
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
+  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
 
   <mj-include path="icons.mjml" />
 

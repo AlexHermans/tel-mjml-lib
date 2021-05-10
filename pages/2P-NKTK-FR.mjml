@@ -116,7 +116,7 @@
 
     <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
       <mj-column width="600px" padding="15px 0" mj-class="bg-secondary-lemon">
-        <mj-button padding-top="10px" href="~PROBE(120)~" width="200px" align="center" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
+        <mj-button padding-top="10px" width="200px" mj-class="button-primary">
           <strong>Optez pour CLIC</strong>
         </mj-button>
         <mj-text font-size="12px" css-class="outlook-font-fix bodytext" align="center" padding="0 25px">
@@ -149,12 +149,12 @@
 
     <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
       <mj-column width="300px" padding-bottom="0">
-        <mj-button href="tel:+32080066066" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0 0" align="center" css-class="outlook-font-fix heading-6" width="250px">
+        <mj-button href="tel:+32080066066" mj-class="button-primary" width="250px">
           <strong>Appelez le 0800 66 066</strong>
         </mj-button>
       </mj-column>
       <mj-column width="300px">
-        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" width="300px"> 
+        <mj-button href="~PROBE(121)~" mj-class="button-secondary" width="300px"> 
           Découvrez encore plus d’avantages
         </mj-button>
       </mj-column>
