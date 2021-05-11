@@ -1,6 +1,6 @@
 <mjml>
     <mj-body>
-          <mj-section mj-class="bg-primary-white" css-class="dark-mode-fix" padding="0">
+          <mj-section css-class="dark-mode-fix" padding="0">
             <mj-group width="600px">
                 <mj-raw>
                     <!--[if !mso]>-->
@@ -23,10 +23,10 @@
                     <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
                 </mj-column>
                 <mj-column padding="40px 0 0" width="66%">
-                    <mj-text mj-class="fontstack-medium" css-class="outlook-font-fix hide-until-md" align="right" padding="0">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="right" padding="0">
                         <strong>This is the pre-header</strong>
                     </mj-text>
-                    <mj-text mj-class="fontstack-light" css-class="outlook-font-fix" align="right" padding="5px 0 0 0">
+                    <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
                         <a href="~PROBE(0)~">View online</a>
                     </mj-text>
                 </mj-column>

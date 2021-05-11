@@ -1,49 +1,35 @@
 <mjml>
   <mj-head>
-    <mj-include path="partials/head/_.mjml" />
+    <mj-include path="../partials/head/_.mjml" />
   </mj-head>
 
-  <mj-body mj-class="bg-special-grey" width="800px">
+  <mj-body>
     <!-- PRE-HEADER -->
-    <mj-section mj-class="bg-primary-white">
-      <mj-group width="600px">
-        <mj-column width="40%" padding="0">
-        <mj-image href="~PROBE(100)~" width="220px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb.png" alt="Telenet Business Logo" align="left" padding="0" />
-      </mj-column>
-      <mj-column width="60%">
-        <mj-text mj-class="fontstack-medium" css-class="outlook-font-fix hide-until-md" align="right" padding-bottom="0">
-          This is the pre-header
-        </mj-text>
-        <mj-text mj-class="fontstack-light" css-class="outlook-font-fix" align="right" padding-top="5px">
-          <a href="~PROBE(0)~">View online</a>
-        </mj-text>
-      </mj-column>
-      </mj-group>
-    </mj-section>
+    <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section padding="25px 100px" mj-class="bg-secondary-watermelon" css-class="container">
+    <mj-section mj-class="bg-secondary-watermelon hero-text">
       <mj-column>
-        <mj-text padding="25px 0 0" mj-class="text-primary-white heading-1 fontstack-bold" css-class="outlook-font-fix heading-1">
+        <mj-text mj-class="text-primary-white heading-1 fontstack-bold">
           DE DIGITALE VERSNELLING
         </mj-text>
-        <mj-text mj-class="heading-2 fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+        <mj-text mj-class="heading-2 fontstack-semi" padding-top="0">
             Must read: dit worden dé trends op sociale media in 2021
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section padding="0" mj-class="bg-secondary-watermelon" css-class="hero-container left" padding-right="100px">
+    <mj-section padding="0" mj-class="bg-secondary-watermelon hero-image-left">
       <mj-column width="700px" >
         <mj-image  padding="0" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
     </mj-section>
 
     <!-- INTRO TEXT -->
-    <mj-section mj-class="bg-primary-white" padding="25px 0 0" css-class="container">
+    <mj-section>
       <mj-column width="600px">
-        <mj-text mj-class="fontstack-semi heading-6" align="left" padding="0" css-class="outlook-font-fix heading-6">
+        <mj-text mj-class="fontstack-semi heading-6">
             Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
             nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua
             sit nulla duis deserunt. Est ullamco voluptate adipisicing sit
@@ -53,39 +39,39 @@
     </mj-section>
 
     <!-- ARTICLE BODY -->
-    <mj-section mj-class="bg-primary-white">
-      <mj-column width="600px" mj-class="bg-special-light" padding-bottom="25px">
-        <mj-text mj-class="heading-6 fontstack-semi" padding="25px 25px 0" css-class="outlook-font-fix">
+    <mj-section>
+      <mj-column width="600px" mj-class="bg-special-light column-padding" padding-bottom="30px">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text css-class="outlook-font-fix">
+        <mj-text mj-class="text-medium" >
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6 fontstack-semi" padding="25px 25px 0" css-class="outlook-font-fix">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text css-class="outlook-font-fix">
+        <mj-text mj-class="text-medium">
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6 fontstack-semi" padding="25px 25px 0" css-class="outlook-font-fix">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text css-class="outlook-font-fix">
+        <mj-text mj-class="text-medium">
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6 fontstack-semi" css-class="outlook-font-fix" padding="25px 25px 0">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text css-class="outlook-font-fix">
+        <mj-text mj-class="text-medium">
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
@@ -95,26 +81,26 @@
     </mj-section>
 
     <!-- MAIN CTA -->
-    <mj-section mj-class="bg-primary-white" css-class="container">
+    <mj-section padding-bottom="60px">
       <mj-column width="600px">
-        <mj-text mj-class="heading-4 fontstack-semi" padding="0" css-class="outlook-font-fix">
+        <mj-text mj-class="heading-5 fontstack-semi">
             Benieuwd naar meer sociale media trends in 2021?
         </mj-text>
-        <mj-button href="~PROBE(120)~" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="25px 0" align="left" css-class="outlook-font-fix">
-          Lees het volledig artikel
+        <mj-button mj-class="button-primary" align="left">
+          <strong>Lees het volledig artikel</strong>
         </mj-button>
       </mj-column>
     </mj-section>
 
     <!-- MORE INSPIRATION BANNER -->
-    <mj-section mj-class="bg-secondary-watermelon" css-class="container">
+    <mj-section mj-class="bg-secondary-watermelon">
       <mj-group width="600px" css-class="hide-until-lg">
-        <mj-column width="66%">
-          <mj-text mj-class="heading-5 fontstack-semi" css-class="outlook-font-fix" padding="10px 0" align="left">Benieuwd naar meer tips en tricks van digitale experts?
+        <mj-column width="66%" padding-bottom="30px">
+          <mj-text mj-class="heading-5 fontstack-semi" padding-top="5px">Benieuwd naar meer tips en tricks van digitale experts?
           </mj-text>
         </mj-column>
-        <mj-column width="33%" vertical-align="middle">
-          <mj-button href="~PROBE(130)~"align="right" mj-class="bg-special-light text-primary-brown fontstack-medium" css-class="outlook-font-fix" inner-padding="13px 22px" padding="0" padding-top="15px" align="left" >
+        <mj-column width="33%">
+          <mj-button href="~PROBE(130)~"align="right" mj-class="button-secondary" padding-top="0">
               Meer inspiratie
             </mj-button>
         </mj-column>
@@ -123,11 +109,11 @@
         <!--[if !mso]>-->
       </mj-raw>
       <mj-column width="66%" css-class="hide-from-lg">
-          <mj-text mj-class="heading-5 fontstack-semi" css-class="outlook-font-fix" padding="10px 0" align="left">Benieuwd naar meer tips en tricks van digitale experts?
+          <mj-text mj-class="heading-5 fontstack-semi">Benieuwd naar meer tips en tricks van digitale experts?
           </mj-text>
         </mj-column>
         <mj-column width="33%" vertical-align="middle" css-class="hide-from-lg">
-          <mj-button href="~PROBE(130)~"align="left" mj-class="bg-special-light text-primary-brown fontstack-medium" css-class="outlook-font-fix" inner-padding="13px 22px" padding="0" padding-top="15px" align="left" >
+          <mj-button href="~PROBE(130)~"align="left" mj-class="button-secondary" padding-top="0">
               Meer inspiratie
             </mj-button>
         </mj-column>
@@ -136,17 +122,6 @@
         </mj-raw>
     </mj-section>
 
-    <mj-section css-class="container">
-      <mj-group width="600px">
-        <mj-column width="70%">
-        <mj-text align="left" font-size="11px" padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix">
-          &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
-        </mj-text>
-      </mj-column>
-      <mj-column width="30%">
-        <mj-image href="~PROBE(500)~" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile.png" alt="" />
-      </mj-column>
-      </mj-group>
-    </mj-section>
+    <mj-include path="../partials/footer/nl/standard.mjml" />
   </mj-body>
 </mjml>

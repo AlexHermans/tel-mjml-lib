@@ -13,23 +13,43 @@
   <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
   <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
+  <!-- 
+  
+  TEXT SIZES
+  
+  Font sizes are based on major third intervals (1.25 times)
+  Line heights are 1.61 (golden ratio) for bodytext
+  and 1.2 (minor third) intervals for headings  
+  
+  -->
+
+  <mj-class name="heading-1" font-size="48px" line-height="57px" padding="60px 0 30px" css-class="outlook-font-fix heading-1" />
+  <mj-class name="heading-2" font-size="39px" line-height="46px" padding="45px 0 30px" css-class="outlook-font-fix heading-2" />
+  <mj-class name="heading-3" font-size="31px" line-height="37px" padding="45px 0 15px" css-class="outlook-font-fix heading-3" />
+  <mj-class name="heading-4" font-size="25px" line-height="30px" padding="45px 0 15px" css-class="outlook-font-fix heading-4" />
+  <mj-class name="heading-5" font-size="20px" line-height="24px" padding="30px 0 15px" css-class="outlook-font-fix heading-5" />
+  <mj-class name="heading-6" font-size="16px" line-height="25px" padding="30px 0 15px" css-class="outlook-font-fix heading-6" />
+  <mj-class name="text-medium" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium" />
+  <mj-class name="text-small" font-size="11px" line-height="17px" padding="15px 0" css-class="outlook-font-fix text-small" />
+
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
-  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="15px 0" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
-  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="15px 0" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
   
   <mj-class name="hero-text" padding-left="100px" padding-right="100px" />
   <mj-class name="hero-image-left" padding="0" css-class="hero-container left" padding-right="100px" />
   <mj-class name="hero-image-center" padding="0" css-class="hero-container center" />
   <mj-class name="hero-image-right" padding="0" css-class="hero-container right" padding-left="100px"/>
 
-  <mj-include path="icons.mjml" />
+  <mj-class name="column-padding" padding="0 30px" />
 
+  <mj-include path="icons.mjml" />
   <mj-include path="styles/colours.mjml" />
 
   <!-- GLOBAL STYLES -->
   <mj-section padding="30px 0 0" background-color="#FFFFFF" css-class="container"/>
   <mj-all font-family="Arial, Helvetica, sans-serif" />
-  <mj-text font-size="16px" line-height="28px" color="#291D18" padding="15px 0" css-class="outlook-font-fix"/>
+  <mj-text color="#291D18"/>
   <mj-body background-color="#f5f4f0" width="800px">
 
 </mj-attributes>
