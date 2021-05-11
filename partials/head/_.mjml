@@ -14,16 +14,17 @@
   <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
-  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
-  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="15px 0" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" inner-padding="15px 0" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
 
   <mj-include path="icons.mjml" />
 
   <mj-include path="styles/colours.mjml" />
 
   <!-- GLOBAL STYLES -->
+  <mj-section padding="30px 0 0" background-color="#FFFFFF"/>
   <mj-all font-family="Arial, Helvetica, sans-serif" />
-  <mj-text font-size="16px" line-height="28px" color="#291D18" />
+  <mj-text font-size="16px" line-height="28px" color="#291D18" padding="15px 0"/>
   <mj-body background-color="#f5f4f0" width="800px">
 
 </mj-attributes>

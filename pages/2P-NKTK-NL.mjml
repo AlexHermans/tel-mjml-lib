@@ -9,9 +9,9 @@
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
+    <mj-section padding-left="100px" padding-right="100px" mj-class="bg-secondary-lemon" css-class="container">
       <mj-column>
-        <mj-text mj-class="fontstack-semi" padding="50px 0 25px" css-class="outlook-font-fix heading-2">
+        <mj-text mj-class="fontstack-semi" css-class="outlook-font-fix heading-2">
           Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
         </mj-text>
       </mj-column>
@@ -25,31 +25,31 @@
     </mj-section>
 
     <!-- INTRO -->
-    <mj-section mj-class="bg-primary-white" padding="25px 0" css-class="container">
+    <mj-section css-class="container">
       <mj-column width="600px">
-        <mj-text padding="0" css-class="outlook-font-fix bodytext">
+        <mj-text css-class="outlook-font-fix bodytext">
           Beste ondernemer,
         </mj-text>
-        <mj-text padding="15px 0 0" css-class="outlook-font-fix bodytext">
+        <mj-text css-class="outlook-font-fix bodytext">
           Als ondernemer wil jij het beste voor je zaak. Daarom stelden we je een tijdje geleden <strong>KLIK 10 GB</strong> voor: het beste van Telenet Business in één bundel. Surfen, downloaden, bellen en tv-kijken, gecombineerd met onze uiterst persoonlijke hulp. <strong>En kies je voor KLIK vóór 30 juni? Dan krijg je nu € 90 korting*!</strong>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- BLOCK -->
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="25px 0 0" >
-      <mj-column  width="600px" padding="15px 0 0" mj-class="bg-secondary-lemon">
-        <mj-text padding="0" mj-class="fontstack-semi" align="center" css-class="outlook-font-fix heading-3">
+    <mj-section css-class="container-group">
+      <mj-column width="600px" mj-class="bg-secondary-lemon">
+        <mj-text mj-class="fontstack-semi" align="center" css-class="outlook-font-fix heading-4">
           KLIK 10 GB
         </mj-text>
-        <mj-text padding="5px 0" mj-class="fontstack-regular" align="center" css-class="outlook-font-fix heading-6">
+        <mj-text padding="0" mj-class="fontstack-regular" align="center" css-class="outlook-font-fix heading-6">
           € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> excl. BTW / maand
         </mj-text>
         <mj-divider padding="15px 0 0" mj-class="divider-fine-brown" />
       </mj-column>    
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="0"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-headset-xl" alt="" />
@@ -62,7 +62,7 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="0"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon" >
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-cursor-xl" alt="" />
@@ -75,7 +75,7 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="0"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-telephone-xl" alt="" />
@@ -88,7 +88,7 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="0"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-smartphone-xl" alt="" />
@@ -101,7 +101,7 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="0"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-tv-xl" alt="" />
@@ -114,21 +114,21 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
+    <mj-section css-class="container-group" padding="0">
       <mj-column width="600px" padding="15px 0" mj-class="bg-secondary-lemon">
-        <mj-button padding-top="10px" href="~PROBE(120)~" width="200px" align="center" mj-class="bg-primary-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
+        <mj-button width="200px" align="center" mj-class="button-primary" css-class="outlook-font-fix heading-6">
           <strong>Kies voor KLIK</strong>
         </mj-button>
-        <mj-text font-size="12px" css-class="outlook-font-fix bodytext" align="center" padding="0 25px">
+        <mj-text css-class="outlook-font-fix text-ms" align="center">
           Raadpleeg de voorwaarden op <a href="~PROBE(140)~">www.klik.be/wordnuklik</a>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- PROOF POINTS -->
-    <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0 0">
+    <mj-section css-class="container">
       <mj-column width="600px">
-        <mj-text mj-class="fontstack-semi" padding="30px 0 15px" css-class="outlook-font-fix heading-6">
+        <mj-text mj-class="fontstack-semi" css-class="outlook-font-fix heading-6">
           Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
         </mj-text>
         <mj-text css-class="outlook-font-fix bodytext" padding="0 15px 30px">
@@ -147,26 +147,20 @@
       </mj-column>
     </mj-section> 
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
+    <mj-section css-class="container-group" padding="0">
       <mj-column width="275px" padding-bottom="0">
-        <mj-button href="~PROBE(121)~" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0 0" align="center" css-class="outlook-font-fix heading-6" width="250px">
+        <mj-button href="tel:+3280066066" mj-class="button-primary" width="250px">
           <strong>Bel 0800 66 066</strong>
         </mj-button>
       </mj-column>
       <mj-column width="275px">
-        <mj-button href="~PROBE(121)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" width="250px"> 
+        <mj-button href="~PROBE(121)~" mj-class="button-secondary" width="250px"> 
           Ontdek nog méér voordelen
         </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white">
-      <mj-column>
-        <mj-spacer height="10px"/>
-      </mj-column>
-    </mj-section>
-
-    <mj-section mj-class="bg-primary-white" css-class="container-group " padding="25px 0">
+    <mj-section css-class="container-group" >
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
         Liever meer data? <strong><a href="~PROBE(141)~">Kies de KLIK die bij jou past.</a></strong>
@@ -175,7 +169,7 @@
     </mj-section>   
 
     <!-- SIGNATURE -->
-    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 25px">
+    <mj-section css-class="container" padding-bottom="30px">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
           Met vriendelijke groeten, <br>

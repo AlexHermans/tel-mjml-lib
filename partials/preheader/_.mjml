@@ -1,6 +1,6 @@
 <mjml>
     <mj-body>
-          <mj-section mj-class="bg-primary-white" css-class="dark-mode-fix">
+          <mj-section mj-class="bg-primary-white" css-class="dark-mode-fix" padding="0">
             <mj-group width="600px">
                 <mj-raw>
                     <!--[if !mso]>-->

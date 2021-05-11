@@ -27,7 +27,7 @@
     </mj-section>
 
    <!-- INTRO -->
-   <mj-section mj-class="bg-primary-white" padding="50px 0 0" css-class="container">
+   <mj-section mj-class="bg-primary-white" padding="30px 0" css-class="container">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
             Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
@@ -39,7 +39,7 @@
     </mj-section>
 
     <!-- QUOTE -->
-    <mj-section mj-class="bg-primary-white" css-class="container">
+    <mj-section padding="30px 0" mj-class="bg-primary-white" css-class="container">
       <mj-column mj-class="bg-secondary-baby" width="600px" padding="15px 0">
         <mj-text mj-class="fontstack-semi" css-class="outlook-font-fix heading-6">
           "Non proident amet ut proident mollit reprehenderit non non elit commodo occaecat veniam. Aliqua incididunt ipsum consequat nisi aute pariatur occaecat sint in incididunt sint enim incididunt."
@@ -51,16 +51,16 @@
     </mj-section>
 
     <!-- SUB-TITLE -->
-    <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0 0">
+    <mj-section padding="30px 0" mj-class="bg-primary-white" css-class="container" >
       <mj-column width="600px">
-        <mj-text padding="0" mj-class="heading-2 fontstack-semi" css-class="outlook-font-fix heading-2">
+        <mj-text padding="0 0 15px" mj-class="heading-2 fontstack-semi" css-class="outlook-font-fix heading-2">
           Waarom Safespot Pro?
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section mj-class="bg-primary-white" css-class="container"> 
+    <mj-section padding="15px 0" mj-class="bg-primary-white" css-class="container"> 
         <mj-column width="45px" >
           <mj-image padding="0 0 10px 0" align="left" width="30px" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-l.png" alt="" />
         </mj-column>
@@ -72,7 +72,7 @@
     </mj-section>
 
     <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section mj-class="bg-primary-white" css-class="container"> 
+    <mj-section padding="15px 0" mj-class="bg-primary-white" css-class="container"> 
         <mj-column width="45px" >
           <mj-image padding="0 0 10px 0" align="left" width="30px" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-l.png" alt="" />
         </mj-column>
@@ -84,7 +84,7 @@
     </mj-section>
 
     <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section mj-class="bg-primary-white" css-class="container"> 
+    <mj-section padding="15px 0" mj-class="bg-primary-white" css-class="container"> 
         <mj-column width="45px" >
           <mj-image padding="0 0 10px 0" align="left" width="30px" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-l.png" alt="" />
         </mj-column>
@@ -96,7 +96,7 @@
     </mj-section>
 
     <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section mj-class="bg-primary-white" css-class="container"> 
+    <mj-section padding="15px 0" mj-class="bg-primary-white" css-class="container"> 
         <mj-column width="45px" >
           <mj-image padding="0 0 10px 0" align="left" width="30px" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-l.png" alt="" />
         </mj-column>
@@ -108,7 +108,7 @@
     </mj-section>
 
     <!-- MAIN CTA -->
-    <mj-section mj-class="bg-primary-white" css-class="container">
+    <mj-section padding="30px 0" mj-class="bg-primary-white" css-class="container">
       <mj-column width="600px">
         <mj-button href="~PROBE(120)~" mj-class="bg-primary-yellow text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="0" align="left" css-class="outlook-font-fix">
           Bestel nu
@@ -117,12 +117,12 @@
     </mj-section>
 
     <!-- SUB-TITLE -->
-    <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0">
+    <mj-section padding="30px 0" mj-class="bg-primary-white" css-class="container" padding="25px 0">
       <mj-column width="600px">
-        <mj-text padding="0" mj-class="heading-3 fontstack-semi" css-class="outlook-font-fix heading-3">
+        <mj-text padding="15px 0" mj-class="heading-3 fontstack-semi" css-class="outlook-font-fix heading-3">
           Meer info nodig?
         </mj-text>
-        <mj-button href="~PROBE(120)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="10px 0" align="left" css-class="outlook-font-fix">
+        <mj-button padding="15px 0" href="~PROBE(120)~" mj-class="bg-special-light text-primary-brown fontstack-medium" inner-padding="13px 22px" padding="10px 0" align="left" css-class="outlook-font-fix">
           Lees hier alles over Safespot Pro
         </mj-button>
         <mj-text padding="15px 0" css-class="outlook-font-fix">
@@ -135,7 +135,7 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-section css-class="container">
+    <mj-section css-class="container" padding="30px 0">
       <mj-group width="600px">
         <mj-column width="70%">
         <mj-text align="left" font-size="11px" padding="0" padding-top="15px" mj-class="text-primary-darkgrey" css-class="outlook-font-fix">
