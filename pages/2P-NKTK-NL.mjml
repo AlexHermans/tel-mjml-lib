@@ -9,7 +9,7 @@
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section padding-left="100px" padding-right="100px" mj-class="bg-secondary-lemon" css-class="container">
+    <mj-section mj-class="hero-text bg-secondary-lemon">
       <mj-column>
         <mj-text mj-class="fontstack-semi" css-class="outlook-font-fix heading-2">
           Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
@@ -18,14 +18,14 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section padding="0" mj-class="bg-secondary-lemon" css-class="hero-container right" padding-left="100px">
+    <mj-section mj-class="bg-secondary-lemon hero-image-right">
       <mj-column width="700px">
         <mj-image href="~PROBE(110)~" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-nl.png" alt="" />
       </mj-column>
     </mj-section>
 
     <!-- INTRO -->
-    <mj-section css-class="container">
+    <mj-section>
       <mj-column width="600px">
         <mj-text css-class="outlook-font-fix bodytext">
           Beste ondernemer,
@@ -55,7 +55,7 @@
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-headset-xl" alt="" />
         </mj-column>
         <mj-column width="90%">
-          <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
+          <mj-text padding-left="15px" css-class="outlook-font-fix bodytext"> 
             <strong>Persoonlijke hulp:</strong> 1 expert volgt je vraag op van begin tot oplossing
           </mj-text>
         </mj-column>
@@ -68,7 +68,7 @@
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-cursor-xl" alt="" />
         </mj-column>
         <mj-column width="90%">
-          <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
+          <mj-text padding-left="15px" css-class="outlook-font-fix bodytext"> 
             <strong>Internet:</strong> Onbeperkt up- en downloaden
           </mj-text>
         </mj-column>
@@ -81,7 +81,7 @@
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-telephone-xl" alt="" />
         </mj-column>
         <mj-column width="90%">
-          <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
+          <mj-text padding-left="15px"  css-class="outlook-font-fix bodytext"> 
             <strong>Telefonie:</strong> Onbeperkt bellen (vast en mobiel) + sms’en
           </mj-text>
         </mj-column>
@@ -94,20 +94,20 @@
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-smartphone-xl" alt="" />
         </mj-column>
         <mj-column width="90%">
-          <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
+          <mj-text padding-left="15px" css-class="outlook-font-fix bodytext"> 
             <strong>Mobiele data:</strong> 10 GB data om te verdelen over 2 simkaarten
           </mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
 
-    <mj-section css-class="container-group" padding="0"> 
+    <mj-section css-class="container-group" padding="50px"> 
       <mj-group width="600px" mj-class="bg-secondary-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-tv-xl" alt="" />
         </mj-column>
         <mj-column width="90%">
-          <mj-text padding="15px 0 0 15px" css-class="outlook-font-fix bodytext"> 
+          <mj-text padding-left="15px" css-class="outlook-font-fix bodytext"> 
             <strong>Digitale TV:</strong> Op al je schermen én Terugkijk TV
           </mj-text>
         </mj-column>
