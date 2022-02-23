@@ -1,3 +1,6 @@
+<!-- Set mail subject as pagetitle on online preview link -->
+<mj-title>~MESSAGE.SUBJECT~</mj-title>
+
 <!-- ENABLE DARK MODE on supporting devices -->
 <mj-raw>
   <meta name="color-scheme" content="light dark">
@@ -27,14 +30,13 @@
   <mj-class name="heading-2" font-size="39px" line-height="46px" padding="45px 0 30px" css-class="outlook-font-fix heading-2" />
   <mj-class name="heading-3" font-size="31px" line-height="37px" padding="45px 0 15px" css-class="outlook-font-fix heading-3" />
   <mj-class name="heading-4" font-size="25px" line-height="30px" padding="45px 0 15px" css-class="outlook-font-fix heading-4" />
-  <mj-class name="heading-5" font-size="20px" line-height="24px" padding="30px 0 15px" css-class="outlook-font-fix heading-5" />
-  <mj-class name="heading-6" font-size="16px" line-height="25px" padding="30px 0 15px" css-class="outlook-font-fix heading-6" />
-  <mj-class name="text-medium" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium" />
+  <mj-class name="heading-5" font-size="20px" line-height="24px" padding="30px 0 0" css-class="outlook-font-fix heading-5" />
+  <mj-class name="heading-6" font-size="16px" line-height="25px" padding="30px 0 0" css-class="outlook-font-fix heading-6" />
   <mj-class name="text-small" font-size="11px" line-height="17px" padding="15px 0" css-class="outlook-font-fix text-small" />
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
-  <mj-class name="button-primary" href="~PROBE(120)~" background-color="#FFC421" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
-  <mj-class name="button-secondary" href="~PROBE(120)~" background-color="#f5f4f0" color="#291D18" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6"/>
+  <mj-class name="primary" background-color="#FFC421" color="#291D18" />
+  <mj-class name="secondary" href="~PROBE(121)~" background-color="#f5f4f0" color="#291D18"/>
   
   <mj-class name="hero-text" padding-left="100px" padding-right="100px" />
   <mj-class name="hero-image-left" padding="0" css-class="hero-container left" padding-right="100px" />
@@ -43,14 +45,36 @@
 
   <mj-class name="column-padding" padding="0 30px" />
 
+  <mj-class name="col-10" css-class="col-10" width="600px" />
+  <mj-class name="col-9" css-class="col-9" width="540px" />
+  <mj-class name="col-8" css-class="col-8" width="480px" />
+  <mj-class name="col-7" css-class="col-7" width="420px" />
+  <mj-class name="col-6" css-class="col-6" width="360px" />
+  <mj-class name="col-5" css-class="col-5" width="300px" />
+  <mj-class name="col-4" css-class="col-4" width="240px" />
+  <mj-class name="col-3" css-class="col-3" width="180px" />
+  <mj-class name="col-2" css-class="col-2" width="120px" />
+  <mj-class name="col-1" css-class="col-1" width="60px" />
+
   <mj-include path="icons.mjml" />
   <mj-include path="styles/colours.mjml" />
 
+  <!-- MJ-CLASS to CSS-CLASS MAPPING -->
+  <mj-class name="hide-until-lg" css-class="hide-until-lg" />
+  <mj-class name="hide-until-md" css-class="hide-until-md" />
+  <mj-class name="hide-until-sm" css-class="hide-until-sm" />
+  <mj-class name="hide-from-lg" css-class="hide-from-lg" />
+  <mj-class name="hide-from-md" css-class="hide-from-md" />
+  <mj-class name="hide-from-sm" css-class="hide-from-sm" />
+  <mj-class name="container-group" css-class="container-group" />
+
   <!-- GLOBAL STYLES -->
-  <mj-section padding="30px 0 0" background-color="#FFFFFF" css-class="container"/>
+  <mj-column padding="7.5px 15px"/>
+  <mj-section padding="7.5px 15px" background-color="#FFFFFF" css-class="container"/>
   <mj-all font-family="Arial, Helvetica, sans-serif" />
-  <mj-text color="#291D18"/>
-  <mj-body background-color="#f5f4f0" width="800px">
+  <mj-text color="#291D18" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium"/>
+  <mj-body background-color="#f5f4f0" width="800px" />
+  <mj-button href="~PROBE(120)~" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" />
 
 </mj-attributes>
 

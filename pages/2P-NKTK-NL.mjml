@@ -9,7 +9,7 @@
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section mj-class="hero-text bg-secondary-lemon">
+    <mj-section mj-class="hero-text bg-lemon">
       <mj-column>
         <mj-text mj-class="fontstack-semi heading-2">
           Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
@@ -18,7 +18,7 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-secondary-lemon hero-image-right">
+    <mj-section mj-class="bg-lemon hero-image-right">
       <mj-column width="700px">
         <mj-image href="~PROBE(110)~" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-nl.png" alt="" />
       </mj-column>
@@ -38,7 +38,7 @@
 
     <!-- BLOCK -->
     <mj-section css-class="container-group">
-      <mj-column width="600px" mj-class="bg-secondary-lemon">
+      <mj-column width="600px" mj-class="bg-lemon">
         <mj-text padding-top="15px" padding-bottom="5px" mj-class="fontstack-semi heading-4" align="center">
           KLIK 10 GB
         </mj-text>
@@ -50,7 +50,7 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-headset-xl" alt="" />
         </mj-column>
@@ -63,7 +63,7 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon" >
+      <mj-group width="600px" mj-class="bg-lemon" >
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-cursor-xl" alt="" />
         </mj-column>
@@ -76,7 +76,7 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-telephone-xl" alt="" />
         </mj-column>
@@ -89,7 +89,7 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-smartphone-xl" alt="" />
         </mj-column>
@@ -102,7 +102,7 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-tv-xl" alt="" />
         </mj-column>
@@ -115,8 +115,8 @@
     </mj-section>
 
     <mj-section css-class="container-group" padding="0">
-      <mj-column width="600px" padding="15px 0" mj-class="bg-secondary-lemon">
-        <mj-button width="200px" align="center" mj-class="button-primary">
+      <mj-column width="600px" padding="15px 0" mj-class="bg-lemon">
+        <mj-button width="200px" align="center" mj-class="button">
           <strong>Kies voor KLIK</strong>
         </mj-button>
         <mj-text mj-class="text-small" align="center">
@@ -133,13 +133,13 @@
         </mj-text>
         <mj-text mj-class="text-medium" padding="0 15px">
           <ul style="margin:0; padding:0;" align="left" type="disc">
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Je hebt <strong>één bundel</strong> voor je internet, telefonie en tv. </span>
             </li>
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Je krijgt <strong>één maandelijkse KLIK-factuur</strong> voor alles: makkelijk om te delen met je boekhouder!</span>
             </li>
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Toch een probleem? Dan kan je <strong>24/7</strong> rekenen op technische ondersteuning.</span>
             </li>
           </ul>
@@ -149,12 +149,12 @@
 
     <mj-section>
       <mj-column width="275px" padding-bottom="0">
-        <mj-button href="tel:+3280066066" mj-class="button-primary" width="250px">
+        <mj-button href="tel:+3280066066" mj-class="button" width="250px">
           <strong>Bel 0800 66 066</strong>
         </mj-button>
       </mj-column>
       <mj-column width="275px">
-        <mj-button href="~PROBE(121)~" mj-class="button-secondary" width="250px"> 
+        <mj-button href="~PROBE(121)~" mj-class="button" width="250px"> 
           Ontdek nog méér voordelen
         </mj-button>
       </mj-column>

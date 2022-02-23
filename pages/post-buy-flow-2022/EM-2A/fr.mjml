@@ -1,0 +1,211 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text">
+      <mj-column width="70%" padding-top="30px">
+        <mj-include path="../../../partials/raw/not-mso/start.mjml"/>
+          <mj-image align="left" mj-class="hide-from-lg" padding="0" height="60px" width="60px" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/stock-bol-fr.png" alt="" />
+        <mj-include path="../../../partials/raw/not-mso/end.mjml"/>
+        <mj-text padding-top="15px" mj-class="fontstack-semi heading-2" padding-bottom="0">
+            Votre entreprise a droit à un bonus ... 
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="hide-until-lg" width="30%">
+        <mj-image padding="0" padding-top="30px" height="90px" width="90px" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/stock-bol-fr.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-center" padding-bottom="30px">
+      <mj-column width="600px" >
+        <mj-image padding="0" mj-class="hide-until-md" src="~PROBE(999)~" alt="" />
+        <mj-include path="../../../partials/raw/not-mso/start.mjml"/>
+            <mj-image mj-class="hide-from-md" src="~PROBE(998)~" alt="" />
+        <mj-include path="../../../partials/raw/not-mso/end.mjml"/>
+      </mj-column>
+    </mj-section>
+
+   <!-- BODY -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="text-medium">
+            Cher entrepreneur,
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           Votre CLIC est actif. Bonne nouvelle ! Cela signifie que vous pouvez désormais profiter de notre réduction exclusive sur un de nos quatre super appareils. Que va utiliser votre entreprise ou votre équipe : un <strong>iPhone 13 128GB</strong> à 399 €, un <strong>iPhone 12 mini 128GB</strong> à 299 €, un <strong>Samsung Galaxy S22 Ultra</strong> à 599 € ou un <strong>Samsung Galaxy S21 FE</strong> à 299 € ?     
+        </mj-text>
+        </mj-column>
+    </mj-section>
+  
+    <mj-section mj-class="hide-until-lg">
+      <mj-column mj-class="col-10 column-padding bg-lemon" padding-bottom="15px">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Commandez en quelques clics 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+      <mj-section mj-class="hide-from-lg">
+        <mj-column mj-class="col-10 column-padding bg-lemon" padding-bottom="15px">
+          <mj-text mj-class="fontstack-semi heading-5">
+            Commandez en quelques clics
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+
+    <!-- STEP 1 -->
+    <mj-section mj-class="hide-until-lg" padding="0">
+      <mj-group width="600px" mj-class="bg-lemon">
+        <mj-column padding-left="30px" width="10%" mj-class="bg-lemon">
+        <mj-text mj-class="fontstack-semi heading-5">
+          1.
+        </mj-text>
+      </mj-column>
+      <mj-column width="90%" mj-class="bg-lemon">
+        <mj-button href="~PROBE(120)~" align="left" mj-class="button">
+          <strong>Choisissez votre appareil ici</strong>
+        </mj-button>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    
+    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+      <mj-section mj-class="hide-from-lg" padding="0">
+        <mj-group mj-class="bg-lemon">
+          <mj-column width="15%" mj-class="bg-lemon">
+            <mj-text mj-class="fontstack-semi heading-5" align="center">
+              1.
+            </mj-text>
+          </mj-column>
+          <mj-column width="85%" mj-class="bg-lemon">
+            <mj-button href="~PROBE(120)~" align="left" mj-class="button">
+              <strong>Choisissez votre appareil ici</strong>
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+
+    <!-- STEP 2 -->
+    <mj-section mj-class="hide-until-lg" padding="0">
+      <mj-group width="600px" mj-class="bg-lemon">
+        <mj-column width="10%" padding-left="30px" mj-class="bg-lemon">
+          <mj-text mj-class="fontstack-semi heading-5">
+            2.
+          </mj-text>
+        </mj-column>
+        <mj-column width="90%" mj-class="bg-lemon" padding-right="15px">
+          <mj-text mj-class="text-medium">
+           Connectez-vous avec <strong>votre login Business de Telenet</strong>. Cela vous permettra de voir votre réduction CLIC exclusive dans notre e-shop.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+      <mj-section mj-class="hide-from-lg" padding="0">
+        <mj-group mj-class="bg-lemon">
+          <mj-column width="15%" mj-class="bg-lemon">
+            <mj-text mj-class="fontstack-semi heading-5" align="center">
+              2.
+            </mj-text>
+          </mj-column>
+          <mj-column width="85%" mj-class="bg-lemon">
+            <mj-text mj-class="text-medium">
+              Connectez-vous avec <strong>votre login Business de Telenet</strong>. Cela vous permettra de voir votre réduction CLIC exclusive dans notre e-shop.
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+
+    <!-- STEP 3 -->
+    <mj-section mj-class="hide-until-lg" padding="0">
+      <mj-group width="600px" mj-class="bg-lemon">
+        <mj-column width="10%" padding-left="30px" mj-class="bg-lemon">
+          <mj-text padding-top="15px" mj-class="fontstack-semi heading-5">
+            3.
+          </mj-text>
+        </mj-column>
+        <mj-column width="90%" mj-class="bg-lemon">
+          <mj-text mj-class="text-medium">
+            Finalisez votre commande.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+      <mj-section mj-class="hide-from-lg" padding="0">
+        <mj-group mj-class="bg-lemon">
+          <mj-column width="15%" mj-class="bg-lemon">
+            <mj-text  padding="15px" mj-class="fontstack-semi heading-5" align="center">
+              3.
+            </mj-text>
+          </mj-column>
+          <mj-column width="85%" mj-class="bg-lemon">
+            <mj-text mj-class="text-medium">
+              Finalisez votre commande.
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+
+
+    <!-- TIP (nice) -->
+    <mj-section>
+      <mj-column  mj-class="col-10">
+        <mj-text mj-class="text-medium">
+          <strong>Astuce : </strong>Besoin d’une facture pour votre comptabilité ? Mentionnez le nom de votre entreprise et votre numéro de TVA.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- DID YOU KNOW -->
+    <mj-section>
+      <mj-column mj-class="col-10 column-padding bg-light" padding-bottom="25px">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Le saviez-vous ? 
+        </mj-text>
+        <mj-text mj-class="text-medium">
+          En tant que client Telenet Business, vous avez droit à toutes sortes de réductions sur nos appareils tout au long de l'année. <a href="~PROBE(140)~">Découvrez le prix client Telenet Business.</a> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- TIP (nice) -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="text-medium">
+          D'autres questions ? Trouvez la réponse dans <a href="~PROBE(141)~">notre Foire aux questions</a>.<br><br> Bon travail avec CLIC et votre nouvel appareil haut de gamme !  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- OUTRO -->
+    <mj-section>
+      <mj-column mj-class="col-10" padding-bottom="30px">
+        <mj-text mj-class="text-medium">
+          Cordialement, <br>L’équipe Telenet Business
+        </mj-text>
+        <mj-text mj-class="text-small">
+        <strong>P.S. </strong>: notez que les prix de nos appareils avec réduction sont mentionnés TVA comprise sur le site web. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/standard.mjml" />
+    
+  </mj-body>
+</mjml>

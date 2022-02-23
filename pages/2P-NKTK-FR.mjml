@@ -9,7 +9,7 @@
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section padding="25px 100px" mj-class="bg-secondary-lemon" css-class="container">
+    <mj-section padding="25px 100px" mj-class="bg-lemon" css-class="container">
       <mj-column>
         <mj-text mj-class="fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
          Plus de 75.000 entrepreneurs ont déjà choisi CLIC. Et vous ?
@@ -18,14 +18,14 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section padding="0" mj-class="bg-secondary-lemon" css-class="hero-container right" padding-left="100px">
+    <mj-section padding="0" mj-class="bg-lemon" css-class="hero-container right" padding-left="100px">
       <mj-column width="700px">
         <mj-image href="~PROBE(110)~" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/04/2PNKTK/header-fr.png" alt="" />
       </mj-column>
     </mj-section>
 
     <!-- INTRO -->
-    <mj-section mj-class="bg-primary-white" padding="50px 0 0" css-class="container ">
+    <mj-section mj-class="bg-white" padding="50px 0 0" css-class="container ">
       <mj-column width="600px">
         <mj-text align="left" padding="0" css-class="outlook-font-fix bodytext">
           Cher entrepreneur,
@@ -37,8 +37,8 @@
     </mj-section>
 
     <!-- BLOCK -->
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="25px 0 0" >
-      <mj-column  width="600px" padding="15px 0 0" mj-class="bg-secondary-lemon">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="25px 0 0" >
+      <mj-column  width="600px" padding="15px 0 0" mj-class="bg-lemon">
         <mj-text padding="0" mj-class="fontstack-semi" align="center" css-class="outlook-font-fix heading-3">
           CLIC 10 GB
         </mj-text>
@@ -49,8 +49,8 @@
       </mj-column>    
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0"> 
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-headset-xl" alt="" />
         </mj-column>
@@ -62,8 +62,8 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon" >
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0"> 
+      <mj-group width="600px" mj-class="bg-lemon" >
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-cursor-xl" alt="" />
         </mj-column>
@@ -75,8 +75,8 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0"> 
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-telephone-xl" alt="" />
         </mj-column>
@@ -88,8 +88,8 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0"> 
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-smartphone-xl" alt="" />
         </mj-column>
@@ -101,8 +101,8 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0"> 
-      <mj-group width="600px" mj-class="bg-secondary-lemon">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0"> 
+      <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%">
           <mj-image align="right" padding="15px 0" width="30px" mj-class="icon-tv-xl" alt="" />
         </mj-column>
@@ -114,9 +114,9 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
-      <mj-column width="600px" padding="15px 0" mj-class="bg-secondary-lemon">
-        <mj-button padding-top="10px" width="200px" mj-class="button-primary">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0">
+      <mj-column width="600px" padding="15px 0" mj-class="bg-lemon">
+        <mj-button padding-top="10px" width="200px" mj-class="button">
           <strong>Optez pour CLIC</strong>
         </mj-button>
         <mj-text font-size="12px" css-class="outlook-font-fix bodytext" align="center" padding="0 25px">
@@ -126,20 +126,20 @@
     </mj-section>
 
     <!-- PROOF POINTS -->
-    <mj-section mj-class="bg-primary-white" css-class="container" padding="25px 0 0">
+    <mj-section mj-class="bg-white" css-class="container" padding="25px 0 0">
       <mj-column width="600px">
         <mj-text mj-class="fontstack-semi" padding="30px 0 15px" css-class="outlook-font-fix heading-6">
           Saviez-vous que... vous pouvez faire les choses beaucoup plus efficacement en choisissant CLIC ?
         </mj-text>
         <mj-text css-class="outlook-font-fix bodytext" padding="0 15px 30px">
           <ul style="margin:0; padding:0;" align="left" type="disc">
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Vous avez <strong>un seul pack</strong> pour l’internet, le téléphone et la télévision.</span>
             </li>
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Vous recevez <strong>une seule facture mensuelle</strong> de CLIC pour le tout : très facile à transmettre à votre comptable.</span>
             </li>
-            <li style="color: #FFC421; mso-special-format:bullet">
+            <li style="color: #FFC421; mso-format:bullet">
               <span style="color:#291D18">Et en cas d’éventuel problème ? Comptez sur une assistance technique, <strong>24/7</strong> !</span>
             </li>
           </ul>
@@ -147,26 +147,26 @@
       </mj-column>
     </mj-section> 
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group" padding="0">
+    <mj-section mj-class="bg-white" css-class="container-group" padding="0">
       <mj-column width="300px" padding-bottom="0">
-        <mj-button href="tel:+32080066066" mj-class="button-primary" width="250px">
+        <mj-button href="tel:+32080066066" mj-class="button" width="250px">
           <strong>Appelez le 0800 66 066</strong>
         </mj-button>
       </mj-column>
       <mj-column width="300px">
-        <mj-button href="~PROBE(121)~" mj-class="button-secondary" width="300px"> 
+        <mj-button href="~PROBE(121)~" mj-class="button" width="300px"> 
           Découvrez encore plus d’avantages
         </mj-button>
       </mj-column>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white">
+    <mj-section mj-class="bg-white">
       <mj-column>
         <mj-spacer height="10px"/>
       </mj-column>
     </mj-section>
 
-    <mj-section mj-class="bg-primary-white" css-class="container-group " padding="25px 0">
+    <mj-section mj-class="bg-white" css-class="container-group " padding="25px 0">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
         Vous voulez plus de data ? <strong><a href="~PROBE(141)~">Choisissez le CLIC qui vous convient.</a></strong>
@@ -175,7 +175,7 @@
     </mj-section>   
 
     <!-- SIGNATURE -->
-    <mj-section mj-class="bg-primary-white" css-class="container " padding="25px 0 25px">
+    <mj-section mj-class="bg-white" css-class="container " padding="25px 0 25px">
       <mj-column width="600px">
         <mj-text padding="0" css-class="outlook-font-fix bodytext">
           Cordialement, <br>

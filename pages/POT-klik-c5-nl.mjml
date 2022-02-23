@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-cream hero-text">
+      <mj-column>
+        <mj-text mj-class="fontstack-bold heading-3">
+          KLIK,
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+          zorgeloos ondernemen zoals jij dat wil.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-cream hero-image-right" padding-bottom="60px">
+      <mj-column width="700px" >
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section padding-bottom="30px">
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+            Beste ~SALUTATION~ ~NAME~
+        </mj-text>
+        <mj-text mj-class="text-medium">
+            Zoals beloofd stuur ik je nog even alle info over KLIK. Met KLIK kies je voor het <strong>strafste internet</strong> (in je zaak én onderweg) <strong>en mobiele telefonie</strong>, perfect afgestemd op jouw zaak. Zo ben je <strong>altijd zorgeloos verbonden</strong>. Bovendien kan je aan jouw KLIK <strong>toevoegen wat je wil</strong>: digitale televisie, vaste telefonie, Speedboost… <strong>Jij kiest zelf wat je nodig hebt!</strong> 
+        </mj-text>
+        <mj-button  mj-class="button" href="~PROBE(120)~" align="left">
+          <strong>Ontdek alles over KLIK</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- SUB-TITLE -->
+    <mj-section mj-class="bg-grey-4 container-group" padding="0">
+      <mj-column width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Waarom kiezen voor KLIK?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-grey-4 container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px" padding="5px"> 
+            Je zaak is nooit meer offline dankzij een <strong>inbegrepen Internet Back-up*.</strong> 
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-grey-4 container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            Je krijgt <strong>1 tot 10 simkaarten</strong> om je mobiele data over te verdelen.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-grey-4 container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            <strong>Eén factuur</strong> voor al je telecomproducten: da’s een extra troef voor je boekhouder.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-grey-4 container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            Een vraag of probleem? Reken altijd op <strong>de meest persoonlijke hulp</strong>.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4" padding="5px"> 
+        <mj-column>
+          <mj-spacer height="5px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- Call to action Desktop -->
+    <mj-section padding-bottom="0" css-class="hide-until-lg">
+      <mj-column width="600px" >
+        <mj-text mj-class="heading-5 fontstack-semi">
+          Er is al een KLIK vanaf € 66,52/maand**:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0" css-class="hide-until-lg">
+      <mj-column width="300px">
+        <mj-button width="250px" href="~PROBE(120)~" mj-class="button" align="left">
+          <strong>Ontdek alles over KLIK</strong>
+        </mj-button>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-button width="250px" href="~PROBE(121)~" align="left" mj-class="button">
+          Bel mij terug
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Call to action mobile -->
+
+    <mj-section padding-bottom="0">
+    <mj-raw>
+      <!--[if !mso]>-->
+    </mj-raw>
+      <mj-column width="600px" css-class="hide-from-lg">
+        <mj-text align="center" mj-class="heading-5 fontstack-semi">
+          Er is al een KLIK vanaf € 66,52/maand**:
+        </mj-text>
+        <mj-button width="250px" href="~PROBE(120)~" mj-class="button" align="center">
+          <strong>Ontdek alles over KLIK</strong>
+        </mj-button>
+        <mj-button width="250px" href="~PROBE(121)~" align="center" mj-class="button">
+          Bel mij terug
+        </mj-button>
+      </mj-column>
+      <mj-raw>
+        <!--<![endif]-->
+      </mj-raw>
+    </mj-section>
+        
+    <mj-section padding-bottom="30px">
+      <mj-column width="600px">  
+        <mj-text mj-class="text-medium">
+          Wil je graag persoonlijk advies over de KLIK die helemaal op maat is van jouw zaak? Kies dan voor <a href="~PROBE(140)~">‘Bel mij terug’</a> en we nemen zo snel mogelijk contact met je op. 
+        </mj-text>
+        <mj-text mj-class="text-medium">
+          Met vriendelijke groeten, <br>~FROM_FIRSTNAME~~(IF(LEN(FROM_FIRSTNAME)>0,' ',''))~~FROM_NAME~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../partials/footer/nl/with-legal.mjml" />
+    
+  </mj-body>
+</mjml>

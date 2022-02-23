@@ -1,0 +1,174 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-cream hero-text">
+      <mj-column>
+        <mj-text mj-class="fontstack-bold heading-3">
+          CLIC,
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+          entreprenez sans souci comme vous voulez.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-cream hero-image-right" padding-bottom="60px">
+      <mj-column width="700px" >
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section padding-bottom="30px">
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+            Cher/Chère ~SALUTATION~ ~NAME~
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           Comme promis, je vous envoie toutes les informations utiles au sujet de CLIC. Avec CLIC, vous optez pour le <strong>meilleur de l’internet</strong> (dans votre entreprise et sur la route) et de la <strong>téléphonie mobile</strong>, parfaitement adapté à votre entreprise. Vous êtes ainsi <strong>toujours connecté sans souci</strong>. En outre, vous pouvez <strong>ajouter ce que vous voulez</strong> à votre CLIC: dTV digitale, téléphonie fixe, Speedboost, etc. <strong>C’est vous qui choisissez ce dont vous avez besoin.</strong> 
+        </mj-text>
+        <mj-button  mj-class="button" align="left" href="~PROBE(120)~">
+          <strong>Tout savoir sur CLIC</strong>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- SUB-TITLE -->
+    <mj-section mj-class="bg-cream" css-class="container-group" padding="0">
+      <mj-column width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Pourquoi opter pour CLIC?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-cream" css-class="container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px" padding="5px"> 
+            Votre entreprise reste toujours connectée grâce à la fonctionnalité <strong>Internet Back-up incluse*.</strong> 
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-cream" css-class="container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            Vous recevez de <strong>1 à 10 cartes SIM</strong> entre lesquelles vous pouvez répartir vos données mobiles.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-cream" css-class="container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            <strong>Une seule facture</strong> pour tous vos produits télécoms : un avantage supplémentaire pour votre comptable.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="bg-cream" css-class="container-group" padding="0"> 
+      <mj-group width="600px">
+        <mj-column width="10%">
+          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-check-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%">
+          <mj-text mj-class="text-medium" padding-left="15px"  padding="5px"> 
+            Une question, un problème ? Vous pouvez toujours compter sur <strong>l'assistance la plus personnelle</strong>.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-cream" padding="5px"> 
+        <mj-column>
+          <mj-spacer height="5px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- Call to action Desktop -->
+    <mj-section padding-bottom="0">
+      <mj-column width="600px" css-class="hide-until-lg">
+        <mj-text mj-class="heading-5 fontstack-semi">
+          Il existe déjà un CLIC à partir de 66,52 €/mois** :
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+
+    <mj-section padding-top="0" css-class="hide-until-lg">
+      <mj-column width="300px">
+        <mj-button width="250px" mj-class="button" align="left" href="~PROBE(120)~">
+          <strong>Tout savoir sur CLIC</strong>
+        </mj-button>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-button width="250px" href="~PROBE(121)~" align="left" mj-class="button">
+          Rappelez-moi
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Call to action mobile -->
+    <mj-section padding-bottom="0">
+    <mj-raw>
+      <!--[if !mso]>-->
+    </mj-raw>
+      <mj-column width="600px" css-class="hide-from-lg">
+        <mj-text align="center" mj-class="heading-5 fontstack-semi">
+          Il existe déjà un CLIC à partir de 66,52 €/mois** :
+        </mj-text>
+        <mj-button width="250px" mj-class="button" align="center" href="~PROBE(120)~">
+          <strong>Tout savoir sur CLIC</strong>
+        </mj-button>
+        <mj-button width="250px" href="~PROBE(121)~" align="center" mj-class="button">
+          Rappelez-moi
+        </mj-button>
+      </mj-column>
+        <mj-raw>
+      <!--<![endif]-->
+    </mj-raw>
+    </mj-section>
+
+    <mj-section padding-bottom="30px">
+      <mj-column width="600px">  
+        <mj-text mj-class="text-medium">
+          Vous aimeriez recevoir des conseils personnels à propos d’un CLIC totalement sur mesure pour votre entreprise ? Choisissez alors <a href="~PROBE(140)~">« Rappelez-moi »</a>. Nous vous recontacterons le plus rapidement possible.
+        </mj-text>
+        <mj-text mj-class="text-medium">
+          Cordialement, <br>~FROM_FIRSTNAME~~(IF(LEN(FROM_FIRSTNAME)>0,' ',''))~~FROM_NAME~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../partials/footer/fr/with-legal.mjml" />
+    
+  </mj-body>
+</mjml>

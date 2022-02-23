@@ -1,5 +1,5 @@
 <mjml>
-    <mj-body>
+      <mj-body>
           <mj-section css-class="dark-mode-fix" padding="0">
             <mj-group mj-class="col-10">
                 <mj-include path="partials/logo.mjml" />
@@ -8,7 +8,7 @@
                         <strong>~MESSAGE.PREHEADER~</strong>
                     </mj-text>
                     <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
-                        <a href="~PROBE(0)~">View online</a>
+                        Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
                     </mj-text>
                 </mj-column>
             </mj-group>

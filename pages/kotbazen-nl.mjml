@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
+      <mj-column width="70%">
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Geniet van je nieuwe Kotkorting
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+          <mj-image mj-class="hide-until-lg" padding-top="25px" align="left" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/10/promo-kotbazen.png" alt="" />
+          <mj-include path="../partials/raw/not-mso/start.mjml" />
+           <mj-image mj-class="hide-from-lg" padding-top="0" padding-left="0" width="100px" align="center" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Value_Management_Squad/Adhoc/2021/10/promo-kotbazen.png" alt="" />
+          <mj-include path="../partials/raw/not-mso/end.mjml" />
+        </mj-column>
+    </mj-section>
+
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+            Beste kotbaas,
+          </mj-text>
+          <mj-text mj-class="text-medium">
+            Op jouw studentenkot(en) genoot jij de voorbije 3 jaar van een korting van 17 euro per maand op je internet. Helaas is deze promotie intussen afgelopen.
+          </mj-text>
+          <mj-text mj-class="heading-5 text-watermelon" padding-bottom="0">
+            <strong>Maar we hebben ook goed nieuws voor jou!</strong>
+          </mj-text>
+          <mj-text mj-class="text-medium" padding-top="0">
+            Want studenten snakken naar straf internet. Om op hun kot onbeperkt te surfen, les te volgen, series te bingen, te videochatten met het thuisfront, gamenights te houden met kotgenoten … Daarom <strong>bieden we jou een permanente korting van 12 euro per maand.</strong> Zo geniet jij ook als kotbaas van een zachte studentenprijs. En daar hoef je zelf helemaal niets voor te doen.
+          </mj-text>
+          <mj-text mj-class="text-medium">
+            Heb je een vraag? We beantwoorden ze graag op <strong><a href="~PROBE(140)~">0800/68 000</a></strong>.
+          </mj-text>
+          <mj-text mj-class="text-medium">
+            Altijd tot je dienst,<br>Telenet Business team
+          </mj-text>
+          <mj-text mj-class="text-medium">
+            <strong>PS:</strong> Deze korting is geldig vanaf 1/10/2021. Heb je deze maand toch het volledige factuurbedrag betaald? Geen nood: dit wordt <strong>automatisch verrekend</strong> op je volgende aanrekening.
+          </mj-text>
+        </mj-column>
+    </mj-section>
+      
+    
+     <!-- FOOTER -->
+    <mj-include path="../partials/footer/nl/standard.mjml" />
+  </mj-body>
+</mjml>

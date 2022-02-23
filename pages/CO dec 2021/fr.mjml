@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../partials/preheader/_.mjml" />
+
+    <mj-section>
+        <!-- PLACEHOLDER -->
+    </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
+      <mj-column>
+        <mj-text mj-class="heading-4 fontstack-semi">
+            Nous n’étions pas joignables, toutes nos excuses
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+            Chère cliente, cher client,<br><br>JVous l'avez peut-être remarqué ou en avez entendu parler aux infos : hier, suite à un dysfonctionnement certaines de nos applications et quelques services tels que My Telenet et Webmail ne fonctionnaient plus. Être là pour vous et faire en sorte que vous restiez toujours connecté est notre priorité absolue. Nous avons donc tout mis en œuvre pour résoudre le problème. <br><br>Toutes nos excuses si vous n'avez pas pu nous joindre hier ou vous connecter à vos services Telenet. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section css-class="container-group" padding-top="0" padding-bottom="0">
+      <mj-column width="600px">
+        <mj-text mj-class="heading-5 fontstack-semi">
+         Nous sommes à nouveau connectés
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- INTRO -->
+   <mj-section padding-top="0">
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium" padding-top="0">
+            Nous sommes à nouveau là pour vous ! Vous rencontrez encore des problèmes ou vous avez une question à nous poser ? Nous serons heureux de vous aider via le canal de votre choix. <a href="~PROBE(140)~">Plus d'informations</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- INTRO -->
+   <mj-section padding-bottom="30px">
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+           Cordialement,<br>L'équipe Telenet Business
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+     <!-- FOOTER -->
+    <mj-include path="../../partials/footer/fr/standard.mjml" />
+  </mj-body>
+</mjml>
