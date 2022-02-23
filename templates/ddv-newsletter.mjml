@@ -8,9 +8,9 @@
     <mj-include path="../partials/preheader/_.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section mj-class="bg-secondary-watermelon hero-text">
+    <mj-section mj-class="bg-watermelon hero-text">
       <mj-column>
-        <mj-text mj-class="text-primary-white heading-1 fontstack-bold">
+        <mj-text mj-class="text-white heading-1 fontstack-bold">
           DE DIGITALE VERSNELLING
         </mj-text>
         <mj-text mj-class="heading-2 fontstack-semi" padding-top="0">
@@ -20,7 +20,7 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section padding="0" mj-class="bg-secondary-watermelon hero-image-left">
+    <mj-section padding="0" mj-class="bg-watermelon hero-image-right">
       <mj-column width="700px" >
         <mj-image  padding="0" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
@@ -40,7 +40,7 @@
 
     <!-- ARTICLE BODY -->
     <mj-section>
-      <mj-column width="600px" mj-class="bg-special-light column-padding" padding-bottom="30px">
+      <mj-column width="600px" mj-class="bg-light column-padding" padding-bottom="30px">
         <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
@@ -86,21 +86,21 @@
         <mj-text mj-class="heading-5 fontstack-semi">
             Benieuwd naar meer sociale media trends in 2021?
         </mj-text>
-        <mj-button mj-class="button-primary" align="left">
+        <mj-button mj-class="primary" align="left">
           <strong>Lees het volledig artikel</strong>
         </mj-button>
       </mj-column>
     </mj-section>
 
     <!-- MORE INSPIRATION BANNER -->
-    <mj-section mj-class="bg-secondary-watermelon">
+    <mj-section mj-class="bg-watermelon">
       <mj-group width="600px" css-class="hide-until-lg">
         <mj-column width="66%" padding-bottom="30px">
           <mj-text mj-class="heading-5 fontstack-semi" padding-top="5px">Benieuwd naar meer tips en tricks van digitale experts?
           </mj-text>
         </mj-column>
         <mj-column width="33%">
-          <mj-button href="~PROBE(130)~"align="right" mj-class="button-secondary" padding-top="0">
+          <mj-button href="~PROBE(130)~" align="right" mj-class="secondary" padding-top="0">
               Meer inspiratie
             </mj-button>
         </mj-column>
@@ -113,7 +113,7 @@
           </mj-text>
         </mj-column>
         <mj-column width="33%" vertical-align="middle" css-class="hide-from-lg">
-          <mj-button href="~PROBE(130)~"align="left" mj-class="button-secondary" padding-top="0">
+          <mj-button href="~PROBE(130)~"align="left" mj-class="secondary" padding-top="0">
               Meer inspiratie
             </mj-button>
         </mj-column>

@@ -1,0 +1,105 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../partials/preheader/_.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Nieuwe promo's voor SOHO klanten!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column width="600px">
+        <mj-text mj-class="text-medium">
+           Beste,
+        </mj-text>
+        <mj-text mj-class="text-medium">
+            De komende maanden staat er heel wat nieuws te gebeuren in promo land! Meer dan ooit het moment om goed up to date blijven. 
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           De eerste nieuwigheden voor de komende weken: 
+        </mj-text>
+         <mj-text mj-class="heading-5 fontstack-semi">
+          Van 1 februari 2022 tem 14 februari 2022: 
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           Je mag tijdens deze twee weken de bestaande closing tool van 50% korting gedurende twee maanden op nieuwe klanten vollenbak inzetten maw  op alle nieuwe klanten die KLIK worden. Je hoeft geen rekening meer te houden met de regel om de promo maar in 50% van je verkopen toe te kennen.  Closing tool wordt dus gedurende deze twee weken acquisitie promo (toe te kennen via dezelfde puq code) 
+        </mj-text>
+         <mj-text mj-class="heading-5 fontstack-semi">
+          Vanaf 7 februari 2022:  
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           Nieuwe closing tool promo voor Online Essentials: <br>Je kan vanaf dan een korting geven van 100€ op de eenmalige kost van elk Online Essentials pakket.  Zoals de andere closing tools mag je deze in 50% van je verkopen toekennen. 
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+          Vanaf 14 februari 2022: 
+        </mj-text>
+        <mj-text mj-class="text-medium">
+           <strong>Voor nieuwe klanten</strong>: 2 maanden gratis<br><strong>Voor bestande klanten</strong>: 50% korting gedurende 2 maanden op hun nieuw abonnement.
+        </mj-text>
+        <mj-text mj-class="text-medium">
+          De details van bovenstaande promo’s vind je terug op de <a href="~PROBE(140)~">klantenservice pagina</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column width="650px" mj-class="bg-light" padding="30px" padding-top="0">
+            <mj-text mj-class="heading-4 fontstack-semi">
+                Belangrijk - Opgelet:
+            </mj-text>
+            <mj-text mj-class="text-medium">
+                Vanaf heden zullen de promoties enkel nog te raadplegen zijn op <a href="~PROBE(140)~">de klantenservice pagina</a>. Hierdoor kunnen we overzichtelijk alle lopende promoties communiceren vanuit één centraal platform. 
+            </mj-text>
+            <mj-text mj-class="text-medium">
+                De promoflash pagina zal dan ook niet meer beschikbaar zijn, wel blijven we een email uitsturen met promo updates. 
+            </mj-text>
+            <mj-text mj-class="text-medium">
+                Indien mensen nog geen toegang hebben kunnen ze dit aanvragen via TIM:
+            </mj-text>
+            <mj-text mj-class="text-medium">
+                De SOHO-profielen zouden terug in TIM staan om aan te vragen.
+                <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#F2877A; font-size:16px; line-height:28px;" align="left" type="disc">
+                    <li><span style="color:#291D18">(A) Metis Soho CRT (Groups Metis)</span></li>
+                    <li><span style="color:#291D18">(A) Metis Soho Care (Groups Metis)</span></li>
+                    <li><span style="color:#291D18">(A) Metis Soho Sales (Groups Metis)</span></li>
+                </ul>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="60px">
+        <mj-column width="600px">
+            <mj-text mj-class="text-medium">
+                Success!
+            </mj-text>
+            <mj-button href="~PROBE(120)~" mj-class="button" align="left">
+                <strong>Naar de promoties</strong>
+            </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-watermelon" padding-bottom="30px"> 
+        <mj-column width="600px">
+            <mj-text mj-class="heading-5 fontstack-semi">
+                Ben je op zoek naar materiaal om de Telenet Business-producten in de kijker te zetten bij jouw klanten? 
+            </mj-text>
+            <mj-text mj-class="text-medium">
+                Bekijk het beschikbare materiaal op de <a href="~PROBE(141)~">digitale toolkit.</a>
+            </mj-text>
+        </mj-column>    
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../partials/footer/nl/standard.mjml" />
+  </mj-body>
+</mjml>

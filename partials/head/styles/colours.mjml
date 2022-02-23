@@ -3,51 +3,63 @@
         <mj-attributes>
 
             <!-- BG COLOURS -->
-            <mj-class name="bg-primary-yellow"          background-color="#FFC421" />
-            <mj-class name="bg-primary-white"           background-color="#FFFFFF" />
-            <mj-class name="bg-primary-brown"           background-color="#291d18" />
-            <mj-class name="bg-secondary-cream"         background-color="#FFEDA1" />
-            <mj-class name="bg-secondary-lemon"         background-color="#FFF7C7" />
-            <mj-class name="bg-secondary-jeans"         background-color="#29A8B8" />
-            <mj-class name="bg-secondary-baby"          background-color="#91ABC9" />
-            <mj-class name="bg-secondary-red"           background-color="#C95942" />
-            <mj-class name="bg-secondary-turquoise"     background-color="#36BDB0" />
-            <mj-class name="bg-secondary-lila"          background-color="#C9A6C7" />
-            <mj-class name="bg-secondary-watermelon"    background-color="#F2877A" />
-            <mj-class name="bg-secondary-olivine"       background-color="#99BD66" />
-            <mj-class name="bg-tertiary-golden"         background-color="#FDD671" />
-            <mj-class name="bg-tertiary-peach"          background-color="#FAC7BA" />
-            <mj-class name="bg-tertiary-sprout"         background-color="#ADD1A6" />
-            <mj-class name="bg-tertiary-tan"            background-color="#F7945C" />
-            <mj-class name="bg-tertiary-sinbad"         background-color="#A6D9D9" />
-            <mj-class name="bg-tertiary-dust"           background-color="#E5CFC7" />
-            <mj-class name="bg-special-light"           background-color="#f5f4f0" />
-            <mj-class name="bg-special-grey"            background-color="#F7F7F7" />
+            <!-- Primary -->
+            <mj-class name="bg-yellow"        background-color="#FFC421" />
+            <mj-class name="bg-white"         background-color="#FFFFFF" />
+            <mj-class name="bg-brown"         background-color="#291D18" />
+            <mj-class name="bg-lemon"         background-color="#FFF7C7" />
+            
+            <!-- Secondary -->
+            <mj-class name="bg-jeans-blue"    background-color="#1A9AAA" />
+            <mj-class name="bg-baby-blue"     background-color="#7291B5" />
+            <mj-class name="bg-red"           background-color="#C95942" />
+            <mj-class name="bg-turquoise"     background-color="#209D91" />
+            <mj-class name="bg-lila"          background-color="#AA81A8" />
+            <mj-class name="bg-watermelon"    background-color="#E16A5B" />
+            <mj-class name="bg-olivine"       background-color="#749645" />
+            
+            <!-- Tertiary -->            
+            <mj-class name="bg-golden"        background-color="#FDD671" />
+            <mj-class name="bg-peach"         background-color="#FAC7BA" />
+            <mj-class name="bg-sprout"        background-color="#ADD1A6" />
+            <mj-class name="bg-tan"           background-color="#F7945C" />
+            <mj-class name="bg-sinbad"        background-color="#A6D9D9" />
+            <mj-class name="bg-dust"          background-color="#E5CFC7" />
+            
+            <!-- Greys --> 
+            <mj-class name="bg-grey-4"        background-color="#F7F6F6" />
+            <mj-class name="bg-grey-8"        background-color="#EEEDED" />
+            <mj-class name="bg-grey-12"       background-color="#E5E3E3" />
+            <mj-class name="bg-grey-16"       background-color="#DDDBDA" />
+            <mj-class name="bg-grey-24"       background-color="#CCC9C8" />
+            <mj-class name="bg-grey-32"       background-color="#BAB6B5" />
+            <mj-class name="bg-grey-48"       background-color="#999391" />
+            <mj-class name="bg-grey-64"       background-color="#766F6B" />
+            <mj-class name="bg-grey-72"       background-color="#655C58" />
+            <mj-class name="bg-grey-100"      background-color="#291D18" />
+
+            <!-- Special --> 
+            <mj-class name="bg-light"         background-color="#f5f4f0" />
 
             <!-- TEXT COLOURS -->
-            <mj-class name="text-primary-yellow"        color="#FFC421" />
-            <mj-class name="text-primary-white"         color="#FFFFFF" />
-            <mj-class name="text-primary-brown"         color="#291D18" />
-            <mj-class name="text-primary-darkgrey"      color="#888888" />
-            <mj-class name="text-secondary-cream"       color="#FFEDA1" />
-            <mj-class name="text-secondary-lemon"       color="#FFF7C7" />
-            <mj-class name="text-secondary-jeans"       color="#29A8B8" />
-            <mj-class name="text-secondary-baby"        color="#91ABC9" />
-            <mj-class name="text-secondary-red"         color="#C95942" />
-            <mj-class name="text-secondary-turquoise"   color="#36BDB0" />
-            <mj-class name="text-secondary-lila"        color="#C9A6C7" />
-            <mj-class name="text-secondary-watermelon"  color="#F2877A" />
-            <mj-class name="text-secondary-olivine"     color="#99BD66" />
-            <mj-class name="text-tertiary-golden"       color="#FDD671" />
-            <mj-class name="text-tertiary-peach"        color="#FAC7BA" />
-            <mj-class name="text-tertiary-sprout"       color="#ADD1A6" />
-            <mj-class name="text-tertiary-tan"          color="#F7945C" />
-            <mj-class name="text-tertiary-sinbad"       color="#A6D9D9" />
-            <mj-class name="text-tertiary-dust"         color="#E5CFC7" />
+            <!-- Primary -->
+            <mj-class name="text-yellow"        color="#FFC421" />
+            <mj-class name="text-white"         color="#FFFFFF" />
+            <mj-class name="text-brown"         color="#291D18" />
+            <mj-class name="text-lemon"         color="#FFF7C7" />
+            
+            <!-- Secondary -->
+            <mj-class name="text-jeans-blue"    color="#1A9AAA" />
+            <mj-class name="text-baby-blue"     color="#7291B5" />
+            <mj-class name="text-red"           color="#C95942" />
+            <mj-class name="text-turquoise"     color="#209D91" />
+            <mj-class name="text-lila"          color="#AA81A8" />
+            <mj-class name="text-watermelon"    color="#E16A5B" />
+            <mj-class name="text-olivine"       color="#749645" />
 
         </mj-attributes>
     </mj-head>
-    <mj-body mj-class="bg-primary-white">
+    <mj-body mj-class="bg-white">
         <mj-section>
             <mj-column>
                 <mj-text>
@@ -55,16 +67,16 @@
                     <p style="line-height: 1.4">These are the different brand colours for both online and offline use.</p>
                     <p style="line-height: 1.4">It's easy to define specific background and/or text colours</p>
                     <p style="line-height: 1.4">For example: <strong></strong></p>
-                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900"> mj-class=<span style="color:green">"bg-primary-yellow"</span> </p>
+                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900"> mj-class=<span style="color:green">"bg-yellow"</span> </p>
                     <p style="line-height: 1.4">or <strong></strong></p>
-                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900"> mj-class=<span style="color:green">"text-primary-yellow"</span> </p>
+                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900"> mj-class=<span style="color:green">"text-yellow"</span> </p>
                 </mj-text>
             </mj-column>
         </mj-section>
 
-        <mj-section mj-class="bg-secondary-watermelon">
+        <mj-section mj-class="bg-watermelon">
             <mj-column>
-                <mj-text mj-class="text-primary-brown">
+                <mj-text mj-class="text-brown">
                     <h2>A Word of warning:</h2>
                     <p style="line-height: 1.4">While it's encouraged you try experimenting with different combinations, be advised that only the primary text colours are supported for use in emails.</p>
                     <p style="line-height: 1.4">Emails with bad readability, be it because of poor visual composition or low text contrast will highly damage both  reputation and performance.</p>
@@ -72,30 +84,43 @@
             </mj-column>
         </mj-section>
 
-        <mj-section>
+        <mj-section padding="0" padding-top="30px">
             <mj-column>
                 <mj-text>
                     <h2>Primary colours</h2>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-primary-yellow" border="5px solid white">
+            <mj-column mj-class="bg-yellow" border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    primary-yellow<br>
+                    yellow<br>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-primary-white" border="5px solid white">
+            <mj-column mj-class="bg-white" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    primary-white
+                    white
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-primary-brown" border="5px solid white">
+            <mj-column mj-class="bg-brown" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center" color="white">
-                    primary-brown
+                    brown
                 </mj-text>
             </mj-column>
+        </mj-section>
+
+        <mj-section padding="0">
+            <mj-column width="25%">
+                
+            </mj-column>
+            <mj-column mj-class="bg-lemon" border="5px solid white" width="25%">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    lemon
+                </mj-text>
+            </mj-column>
+            
         </mj-section>
 
         <mj-section padding="0">
@@ -104,22 +129,22 @@
                     <h2>Secondary colours</h2>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-secondary-cream" border="5px solid white">
+            <mj-column mj-class="bg-baby-blue" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    bright blue
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="bg-jeans-blue"  border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    primary-cream
+                    jeans blue
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-secondary-lemon" border="5px solid white">
+            <mj-column mj-class="bg-turquoise" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    primary-lemon
-                </mj-text>
-            </mj-column>
-            <mj-column mj-class="bg-secondary-baby" border="5px solid white">
-                <mj-spacer height="90px" />
-                 <mj-text align="center">
-                    primary-jeans
+                   turquoise
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -129,47 +154,35 @@
                 <mj-text>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-secondary-jeans"  border="5px solid white">
+            <mj-column mj-class="bg-olivine" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    olivine
+                </mj-text>
+            </mj-column>
+             <mj-column mj-class="bg-lila" border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    secondary-jeans
+                    lila
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-secondary-turquoise" border="5px solid white">
+            <mj-column mj-class="bg-watermelon" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                   secondary-turquoise
-                </mj-text>
-            </mj-column>
-            <mj-column mj-class="bg-secondary-olivine" border="5px solid white">
-                <mj-spacer height="90px" />
-                 <mj-text align="center">
-                    secondary-olivine
+                    watermelon
                 </mj-text>
             </mj-column>
         </mj-section>
 
         <mj-section padding="0">
-            <mj-column>
+            <mj-column width="25%">
                 <mj-text>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-secondary-lila" border="5px solid white">
-                <mj-spacer height="90px" />
-                <mj-text align="center">
-                    secondary-lila
-                </mj-text>
-            </mj-column>
-            <mj-column mj-class="bg-secondary-watermelon" border="5px solid white">
+            <mj-column width="25%" mj-class="bg-red"border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    secondary-watermelon
-                </mj-text>
-            </mj-column>
-            <mj-column mj-class="bg-secondary-red"border="5px solid white">
-                <mj-spacer height="90px" />
-                 <mj-text align="center">
-                    secondary-red
+                    red
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -180,22 +193,22 @@
                     <h2>Tertiary colours</h2>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-golden" border="5px solid white">
+            <mj-column mj-class="bg-golden" border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    tertiary-golden
+                    golden
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-peach" border="5px solid white">
+            <mj-column mj-class="bg-peach" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    tertiary-peach
+                    peach
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-sprout" border="5px solid white">
+            <mj-column mj-class="bg-sprout" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    tertiary-sprout
+                    sprout
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -205,46 +218,120 @@
                 <mj-text>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-tan" border="5px solid white">
+            <mj-column mj-class="bg-tan" border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    tertiary-tan
+                    tan
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-sinbad" border="5px solid white">
+            <mj-column mj-class="bg-sinbad" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    tertiary-sinbad
+                    sinbad
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-tertiary-dust" border="5px solid white">
+            <mj-column mj-class="bg-dust" border="5px solid white">
                 <mj-spacer height="90px" />
                  <mj-text align="center">
-                    tertiary-dust
+                    dust
                 </mj-text>
             </mj-column>           
         </mj-section>
 
-        <mj-section>
+        <mj-section padding-bottom="0">
             <mj-column>
+                <mj-text>
+                    <h2>Greyscale</h2>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="bg-grey-4" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-4
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="bg-grey-8" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-8
+                </mj-text>
+            </mj-column>    
+            <mj-column mj-class="bg-grey-12" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-8
+                </mj-text>
+            </mj-column>        
+        </mj-section>
+
+        <mj-section padding="0">
+            <mj-column>
+            </mj-column>
+            <mj-column mj-class="bg-grey-16" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-16
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="bg-grey-24" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-24
+                </mj-text>
+            </mj-column>    
+            <mj-column mj-class="bg-grey-32" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-32
+                </mj-text>
+            </mj-column>        
+        </mj-section>
+
+        <mj-section padding="0">
+            <mj-column>
+            </mj-column>
+            <mj-column mj-class="bg-grey-48" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-48
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="bg-grey-64" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-64
+                </mj-text>
+            </mj-column>    
+            <mj-column mj-class="bg-grey-72" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text align="center">
+                    grey-72
+                </mj-text>
+            </mj-column>        
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column width="25%">
+            </mj-column>
+            <mj-column width="25%" mj-class="bg-grey-100" border="5px solid white">
+                <mj-spacer height="90px" />
+                 <mj-text color="white" align="center">
+                    grey-100
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="25%">
                 <mj-text>
                     <h2>Special colours</h2>
                 </mj-text>
             </mj-column>
-            <mj-column mj-class="bg-special-light" border="5px solid white">
+            <mj-column width="75%" mj-class="bg-light" border="5px solid white">
                 <mj-spacer height="90px" />
                 <mj-text align="center">
-                    special-light
+                    light
                 </mj-text>
-            </mj-column>
-            <mj-column mj-class="bg-special-grey" border="5px solid white">
-                <mj-spacer height="90px" />
-                 <mj-text align="center">
-                    special-grey
-                </mj-text>
-            </mj-column>
-            <mj-column  border="5px solid white">
-            </mj-column>           
+                     
         </mj-section>
     </mj-body>
 </mjml>

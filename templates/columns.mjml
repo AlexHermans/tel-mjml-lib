@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../partials/head/_.mjml" />
+  </mj-head>
+  <mj-body mj-class="bg-white">
+      <mj-section>
+          <mj-column mj-class="col-10 bg-lemon">
+              <mj-text align="center">
+                  col-10
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section>
+          <mj-column mj-class="col-5 bg-grey-4">
+              <mj-text align="center">
+                  col-5
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-5 bg-grey-8">
+              <mj-text align="center">
+                  col-5
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section>
+          <mj-column mj-class="col-8 bg-grey-4">
+              <mj-text align="center">
+                  col-8
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-2 bg-grey-8">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section>
+          <mj-column mj-class="col-2 bg-grey-4">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-2 bg-grey-8">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-2 bg-grey-16">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-2 bg-grey-8">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-2 bg-grey-4">
+              <mj-text align="center">
+                  col-2
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+      <mj-section>
+          <mj-column mj-class="col-1 bg-grey-4">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-16">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-4">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-16">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-4">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-16">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-4">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-16">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-4">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1 bg-grey-16">
+              <mj-text align="center">
+                  col-1
+              </mj-text>
+          </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>

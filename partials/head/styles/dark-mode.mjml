@@ -8,7 +8,11 @@
   /* Load first because of precedence rules */
   
   @media (prefers-color-scheme: dark) {
-      .light-img {
+      body, body > div {
+        background-color:#222222 !important;
+      }
+
+    .light-img {
       display:none; 
       display:none !important; 
     }

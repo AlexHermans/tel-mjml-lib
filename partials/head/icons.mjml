@@ -1,6 +1,14 @@
 <mjml>
     <mj-head>
         <mj-attributes>
+            <!-- global layout-styles -->
+            <mj-class name="icon-xs" width="10px" />
+            <mj-class name="icon-s" width="20px" />
+            <mj-class name="icon-m" width="30px" />
+            <mj-class name="icon-l" width="60px" />
+            <mj-class name="icon-xl" width="90px" />
+            <mj-class name="icon-xxl" width="120px" />
+
             <!-- check -->
             <mj-class name="icon-check-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xs.png" />
             <mj-class name="icon-check-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-s.png" />
@@ -61,7 +69,7 @@
             <mj-class name="icon-storefront-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xs.png" />
             <mj-class name="icon-storefront-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-s.png" />
             <mj-class name="icon-storefront-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-m.png" />
-            <mj-class name="icon-check-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-l.png" />
+            <mj-class name="icon-storefront-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-l.png" />
             <mj-class name="icon-storefront-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xl.png" />
             <mj-class name="icon-storefront-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xxl.png" />
             
@@ -99,7 +107,7 @@
                         <li style="padding:5px 0">XS: 10px</li>
                         <li style="padding:5px 0">S: 12px</li>
                         <li style="padding:5px 0">M: 30px</li>
-                        <li style="padding:5px 0">L: 60px</li>
+                        <li style="padding:5px 0">L: 60px => "col-10"</li>
                         <li style="padding:5px 0">XL: 90px</li>
                         <li style="padding:5px 0">XXL: 120px</li>
                     </ul>

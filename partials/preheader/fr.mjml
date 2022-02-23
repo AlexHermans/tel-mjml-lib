@@ -8,7 +8,7 @@
                         <strong>~MESSAGE.PREHEADER~</strong>
                     </mj-text>
                     <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
-                        <a href="~PROBE(0)~">View online</a>
+                        Vous ne pouvez pas lire ce mail ? <a href="~PROBE(0)~">Cliquez ici</a>
                     </mj-text>
                 </mj-column>
             </mj-group>
