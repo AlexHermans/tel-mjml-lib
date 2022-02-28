@@ -21,16 +21,16 @@
   TEXT SIZES
   
   Font sizes are based on major third intervals (1.25 times)
-  Line heights are 1.61 (golden ratio) for bodytext
-  and 1.2 (minor third) intervals for headings  
+  Line heights are 1.61 (golden ratio) for bodytext, h6 and h5
+  and 1.2 (minor third) intervals for h4, h3, h2, h1  
   
   -->
 
   <mj-class name="heading-1" font-size="48px" line-height="57px" padding="60px 0 30px" css-class="outlook-font-fix heading-1" />
   <mj-class name="heading-2" font-size="39px" line-height="46px" padding="45px 0 30px" css-class="outlook-font-fix heading-2" />
   <mj-class name="heading-3" font-size="31px" line-height="37px" padding="45px 0 15px" css-class="outlook-font-fix heading-3" />
-  <mj-class name="heading-4" font-size="25px" line-height="30px" padding="45px 0 15px" css-class="outlook-font-fix heading-4" />
-  <mj-class name="heading-5" font-size="20px" line-height="24px" padding="30px 0 0" css-class="outlook-font-fix heading-5" />
+  <mj-class name="heading-4" font-size="25px" line-height="30px" padding="30px 0 15px" css-class="outlook-font-fix heading-4" />
+  <mj-class name="heading-5" font-size="20px" line-height="32px" padding="30px 0 0" css-class="outlook-font-fix heading-5" />
   <mj-class name="heading-6" font-size="16px" line-height="25px" padding="30px 0 0" css-class="outlook-font-fix heading-6" />
   <mj-class name="text-small" font-size="11px" line-height="17px" padding="15px 0" css-class="outlook-font-fix text-small" />
 
@@ -43,7 +43,7 @@
   <mj-class name="hero-image-center" padding="0" css-class="hero-container center" />
   <mj-class name="hero-image-right" padding="0" css-class="hero-container right" padding-left="100px"/>
 
-  <mj-class name="column-padding" padding="0 30px" />
+  <mj-class name="column-padding" padding="0 30px 30px" />
 
   <mj-class name="col-10" css-class="col-10" width="600px" />
   <mj-class name="col-9" css-class="col-9" width="540px" />
@@ -55,6 +55,8 @@
   <mj-class name="col-3" css-class="col-3" width="180px" />
   <mj-class name="col-2" css-class="col-2" width="120px" />
   <mj-class name="col-1" css-class="col-1" width="60px" />
+
+  <mj-class name="col-1-sm" css-class="col-1-sm" width="60px" />
 
   <mj-include path="icons.mjml" />
   <mj-include path="styles/colours.mjml" />
