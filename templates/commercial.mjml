@@ -77,9 +77,9 @@
     <mj-section mj-class="container-group" padding="0"> 
       <mj-group mj-class="col-10">
         <mj-column width="10%" padding="0" mj-class="bg-lemon">
-          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-cursor-xl" alt="" />
+          <mj-image align="center" padding="0" width="30px" mj-class="icon-cursor-xl" alt="" />
         </mj-column>
-        <mj-column width="90%" mj-class="bg-lemon">
+        <mj-column width="90%" mj-class="bg-lemon" padding="0">
           <mj-text padding="0" padding-left="15px"> 
             <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
           </mj-text>
@@ -88,13 +88,27 @@
     </mj-section>
 
     <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section mj-class="container-group" padding="0"> 
+    <mj-section mj-class="container-group bg-yellow" padding="0"> 
       <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="15px 0" width="30px" mj-class="icon-tv-xl" alt="" />
+        <mj-column width="10%" padding="0" mj-class="bg-lemon">
+          <mj-image align="center" padding="0" width="30px" mj-class="icon-tv-xl" alt="" />
         </mj-column>
-        <mj-column width="90%">
-          <mj-text padding="0" padding-left="15px" mj-class="bg-lemon"> 
+        <mj-column width="90%" mj-class="bg-lemon" padding="0">
+          <mj-text padding="0" padding-left="15px" > 
+            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- LIST-ITEM-WITH-ICON -->
+    <mj-section mj-class="container-group bg-yellow" padding="0"> 
+      <mj-group mj-class="col-10">
+        <mj-column width="10%" padding="0" mj-class="bg-lemon">
+          <mj-image align="center" padding="0" width="30px" mj-class="icon-tv-xl" alt="" />
+        </mj-column>
+        <mj-column width="90%" mj-class="bg-lemon" padding="0">
+          <mj-text padding="0" padding-left="15px" > 
             <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
           </mj-text>
         </mj-column>

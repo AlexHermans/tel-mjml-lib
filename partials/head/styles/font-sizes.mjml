@@ -1,7 +1,7 @@
 <mj-style>
 
     /* screensize between MD and LG */
-    @media screen and (max-width:599px) {
+    @media screen and (max-width:630px) {
     .text-medium * {font-size: 15px !important; line-height:24px !important;}
     .heading-1 * {font-size: 45px !important; line-height:54px !important;}
     .heading-2 * {font-size: 36px !important; line-height:43px !important;}
