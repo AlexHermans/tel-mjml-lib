@@ -1,23 +1,27 @@
 <mjml>
     <mj-body>
-        <mj-section mj-class="bg-light">
-            <mj-group width="600px">
-                <mj-column width="70%">
+         <mj-section mj-class="bg-light">
+            <mj-column width="510px">
+                <mj-social mode="horizontal" align="left" inner-padding="0 15px 0 0" icon-size="35px" padding="0">
+                    <mj-social-element title="Telenet Service Cliènt" href="~PROBE(503)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-ks.png"/>
+                    <mj-social-element title="Telenet Facebook" href="~PROBE(502)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-facebook.png"/>
+                    <mj-social-element title="Telenet Instagram" href="~PROBE(505)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-instagram.png"/>
+                    <mj-social-element title="Telenet Netweters" href="~PROBE(504)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-netweters.png"/>
+                </mj-social>
                 <mj-text mj-class="text-darkgrey text-small">
                     &copy; ~SYSTEM.ENV_LEGAL_ENTITY_FR~ &bull; Siège sociale &bull; ~SYSTEM.ENV_LEGAL_ADDRESS_FR~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_FR~. <br><a title="Privacy statement" target="_blank" href="~PROBE(300)~">Vie&nbsp;privée</a>&nbsp;|&nbsp;<a title="Conditions générales" target="_blank" href="~PROBE(301)~">Conditions&nbsp;generales</a>&nbsp;|&nbsp;<a title="Se désinscrire" target="_blank" href="~PROBE(9)~">Se désinscrire</a>
                 </mj-text>
-                </mj-column>
-                <mj-column width="25%">
+            </mj-column>
+            <mj-column width="90px" >
                 <mj-raw>
                     <!--[if !mso]>-->
                 </mj-raw>
-                <mj-image href="~PROBE(500)~" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="" css-class="dark-img"/>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="90px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="dark-img"/>
                 <mj-raw>
                     <!--<![endif]-->
                 </mj-raw>
-                <mj-image href="~PROBE(500)~" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="" css-class="light-img"/>
-                </mj-column>
-            </mj-group>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="120px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="light-img"/>
+            </mj-column>
         </mj-section>
     </mj-body>
 </mjml>

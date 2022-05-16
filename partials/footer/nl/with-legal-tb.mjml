@@ -1,30 +1,24 @@
 <mjml>
     <mj-body>
-        <mj-section css-class="container-group" padding="25px 0 15px" mj-class="bg-light">
-            <mj-column width="600px">
-                <mj-text mj-class="text-darkgrey text-small">
+        <mj-section mj-class="bg-light">
+            <mj-column width="510px">
+                <mj-text mj-class="text-darkgrey text-small" padding="30px 0 0">
                     Uw persoonsgegevens worden verwerkt zoals uiteengezet in het Telenet-privacybeleid (beschikbaar op https://www2.telenet.be/nl/privacy), conform uw huidige privacy-instellingen (zie ‘Mijn Telenet’).
                 </mj-text>
+                <mj-text mj-class="text-darkgrey text-small">
+                    &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
+                </mj-text>
             </mj-column>
-        </mj-section>
-        <mj-section css-class="container-group" padding="0" mj-class="bg-light">
-            <mj-group width="600px">
-                <mj-column width="70%">
-                    <mj-text mj-class="text-darkgrey text-small">
-                        &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <br><a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
-                    </mj-text>
-                </mj-column>
-                <mj-column width="25%">
-                    <mj-raw>
-                        <!--[if !mso]>-->
-                    </mj-raw>
-                    <mj-image href="~PROBE(500)~" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="" css-class="dark-img"/>
-                    <mj-raw>
-                        <!--<![endif]-->
-                    </mj-raw>
-                    <mj-image href="~PROBE(500)~" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="" css-class="light-img"/>
-                </mj-column>
-            </mj-group>
+            <mj-column width="90px" >
+               <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="left" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="left" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="" css-class="light-img"/>
+            </mj-column>
         </mj-section>
     </mj-body>
 </mjml>

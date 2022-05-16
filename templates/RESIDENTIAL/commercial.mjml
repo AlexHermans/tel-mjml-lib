@@ -145,7 +145,8 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/nl/standard-res.mjml" />
+    <mj-include path="../../partials/footer/nl/with-legal-res.mjml" />
+
     
   </mj-body>
 </mjml>
