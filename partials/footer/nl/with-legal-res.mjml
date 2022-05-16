@@ -1,0 +1,30 @@
+<mjml>
+    <mj-body>
+        <mj-section mj-class="bg-light">
+            <mj-column width="510px">
+                <mj-social mode="horizontal" align="left" inner-padding="0 15px 0 0" icon-size="35px" padding="0">
+                    <mj-social-element title="Telenet Klantenservice" href="~PROBE(503)~" title="klantenservice" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-ks.png"/>
+                    <mj-social-element title="Telenet Facebook" href="~PROBE(502)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-facebook.png"/>
+                    <mj-social-element title="Telenet Instagram" href="~PROBE(505)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-instagram.png"/>
+                    <mj-social-element title="Telenet Netweters" href="~PROBE(504)~" src="https://mkt.telenet.be/images/TB/General/icons/social/icon-netweters.png"/>
+                </mj-social>
+                <mj-text mj-class="text-darkgrey text-small" padding="30px 0 0">
+                    Uw persoonsgegevens worden verwerkt zoals uiteengezet in het Telenet-privacybeleid (beschikbaar op https://www2.telenet.be/nl/privacy), conform uw huidige privacy-instellingen (zie ‘Mijn Telenet’).
+                </mj-text>
+                <mj-text mj-class="text-darkgrey text-small">
+                    &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="~PROBE(9)~">Uitschrijven</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="90px" >
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="90px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="120px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="light-img"/>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

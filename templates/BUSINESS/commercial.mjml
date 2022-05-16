@@ -5,7 +5,7 @@
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../partials/preheader/nl.mjml" />
+    <mj-include path="../partials/preheader/nl-tb.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
@@ -145,7 +145,7 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../partials/footer/nl/standard.mjml" />
+    <mj-include path="../partials/footer/nl/standard-tb.mjml" />
     
   </mj-body>
 </mjml>

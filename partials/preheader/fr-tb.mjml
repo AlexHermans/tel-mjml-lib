@@ -2,8 +2,8 @@
     <mj-body>
           <mj-section css-class="dark-mode-fix" padding="0">
             <mj-group mj-class="col-10">
-                <mj-include path="partials/logo.mjml" />
-                <mj-column padding="40px 0 0" width="66%">
+                <mj-include path="partials/logo-tb.mjml" />
+                <mj-column padding="25px 0 0" width="66%">
                     <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="right" padding="0">
                         <strong>~MESSAGE.PREHEADER~</strong>
                     </mj-text>
