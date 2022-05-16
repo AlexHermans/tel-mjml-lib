@@ -1,0 +1,10 @@
+<mjml>
+      <mj-body>
+          <mj-section padding="0" css-class="dark-mode-fix">
+            <mj-group mj-class="col-10">
+                <mj-include path="partials/logo-res.mjml" />
+                <mj-include path="partials/content-nl.mjml" />
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>

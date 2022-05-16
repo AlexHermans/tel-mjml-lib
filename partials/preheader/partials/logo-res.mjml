@@ -1,0 +1,8 @@
+<mjml>
+    <mj-body>
+        <mj-column padding="25px 25px 25px 0" width="15%" >
+            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" css-class="dark-img"/>
+            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" css-class="light-img" />
+        </mj-column>
+    </mj-body>
+</mjml>
