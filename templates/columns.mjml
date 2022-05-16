@@ -117,5 +117,18 @@
               </mj-text>
           </mj-column>
       </mj-section>
+
+      <mj-section>
+          <mj-column mj-class="col-1-sm bg-lemon">
+              <mj-text>
+                  col-1-sm
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="col-1-sm bg-lemon">
+              <mj-text>
+                  col-1-sm
+              </mj-text>
+          </mj-column>
+      </mj-section>
   </mj-body>
 </mjml>

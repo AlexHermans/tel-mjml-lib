@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-section css-class="dark-mode-fix" padding="0">
+            <mj-group mj-class="col-10">
+                <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                    <mj-column padding="25px 0" width="25%" css-class="hide-from-lg">
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Telenet Business Logo  - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                    </mj-column>
+                <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                <mj-column padding="25px 0" width="33%" css-class="hide-until-lg">
+                    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_white.png" alt="Telenet Business Logo - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                    <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                </mj-column>
+                <mj-column padding="40px 0 0" width="66%">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="right" padding="0">
+                        <strong>Annulering van je videogesprek <br>met Telenet Business</strong>
+                    </mj-text>
+                    <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
+                        Kan je deze mail niet goed lezen? <a href="{VIEW_ONLINE_LINK}">Klik hier</a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0" padding-bottom="30px">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2">
+            Annulering van je videogesprek met Telenet Business
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- MAIN BODY -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+            Beste {naam klant},
+        </mj-text>
+        <mj-text>
+            Je videogesprek op [date] om [uur] is geannuleerd. Dat vinden we uiteraard jammer. 
+        </mj-text>
+        <mj-text>
+          Wil je graag een nieuw videogesprek inplannen? Dat kan!
+        </mj-text>
+        <mj-button align="left" mj-class="primary">
+          <strong>Nieuw gesprek inplannen</strong>
+        </mj-button>
+        <mj-text>   
+          Vriendelijke groeten,<br>Telenet Business-klantendienst
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-section mj-class="bg-light">
+            <mj-group width="600px">
+                <mj-column width="70%">
+                <mj-text mj-class="text-small">
+                    &copy; Telenet BV &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> Liersesteenweg 4, 2800 Mechelen.<br />BTW BE0473.416.418 • RPR Antwerpen, afdeling Mechelen. <a title="Privacy statement" target="_blank" href="https://www2.telenet.be/residential/nl/juridische-info/privacy">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="https://www2.telenet.be/content/www-telenet-be/nl/business/klantenservice/wat-zijn-de-algemene-voorwaarden-van-telenet-business">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="{UNSUBSCRIBE_LINK}">Uitschrijven</a>
+                </mj-text>
+                </mj-column>
+                <mj-column width="25%">
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/nl/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Logo Telenet Business - dark-mode version" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/nl/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Logo Telenet Business" css-class="light-img"/>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    
+  </mj-body>
+</mjml>

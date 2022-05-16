@@ -12,13 +12,20 @@
         background-color:#222222 !important;
       }
 
+    .dark-mode-fix, .dark-mode-fix > table {
+      background-color: #222222 !important;
+      color: #FFFFFF !important;
+    }
+
+    .dark-mode-fix, .dark-mode-fix div, .dark-mode a {
+      color: #FFFFFF !important;
+    }
+
     .light-img {
-      display:none; 
       display:none !important; 
     }
 
     [data-ogsc] .light-img {
-      display:none; 
       display:none !important; 
     }
 

@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../partials/preheader/fr.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding-top="30px" padding-bottom="0">
+      <mj-column padding-bottom="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="0" padding-bottom="0">
+            Obtenez un appareil <span style="color:#FFC421">haut de gamme</span> pour votre entreprise
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-center" padding="0" padding-top="0">
+      <mj-column width="570px" padding="0">
+        <mj-image href="~PROBE(110)~" mj-class="hide-until-lg"  padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hw-2022-lll/header-desktop-fr-1111.png" alt="" />
+        <mj-include path="../../partials/raw/not-mso/start.mjml" />
+            <mj-image href="~PROBE(110)~" mj-class="hide-from-lg" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hw-2022-lll/header-mobile-fr-1111.png" alt="" />
+        <mj-include path="../../partials/raw/not-mso/end.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding-top="15px" padding-bottom="60px">
+      <mj-column padding-bottom="0">
+        <mj-text align="right" mj-class="fontstack-semi heading-2" padding-top="0" padding-bottom="0">
+            Maintenant chez <span style="font-weight:900;color:#FFC421">CLIC</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+            Cher entrepreneur,
+        </mj-text>
+        <mj-text>
+            Vous nous avez signalé votre intérêt en CLIC avec un super appareil.
+        </mj-text>
+        <mj-text>
+            Que diriez-vous d'un <strong>iPhone 13 (128 GB), d’un iPhone 12 Mini (128 GB), d’un Samsung Galaxy S22 Ultra</strong> ou d’un <strong>Samsung Galaxy S21 FE</strong> pour votre entreprise ? Vous bénéficiez de réductions jusqu'à 60%*, avec un <strong>CLIC</strong> sur mesure pour votre entreprise.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section>
+      <mj-column mj-class="bg-lemon column-padding col-10">
+        <mj-text mj-class="heading-6">
+          <strong>Pour plus d’info et pour activer cette promotion, appelez le 
+        </mj-text>
+        <mj-button mj-class="primary" href="~PROBE(120)~" align="left">
+            <strong>0800/66.881</strong>
+        </mj-button>
+        <mj-text padding-top="0" padding-bottom="0">
+            Nos experts sont à votre service pour vous aider.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+            <mj-button align="left" mj-class="secondary" href="~PROBE(140)~">
+                Je veux en savoir plus
+            </mj-button>
+            <mj-text>
+                Cordialement,<br>L’équipe Telenet Business 
+            </mj-text>
+        </mj-column>
+    </mj-section>
+     <!-- FOOTER -->
+    <mj-include path="../../partials/footer/fr/with-legal.mjml" />
+    
+  </mj-body>
+</mjml>

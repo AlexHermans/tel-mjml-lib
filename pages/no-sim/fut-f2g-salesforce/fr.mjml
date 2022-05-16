@@ -1,0 +1,167 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-section css-class="dark-mode-fix" padding="0">
+            <mj-group mj-class="col-10">
+                <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                    <mj-column padding="25px 0" width="25%" css-class="hide-from-lg">
+                        <mj-image href="https://www.telenet.be/business/fr/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Telenet Business Logo  - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                        <mj-image href="https://www.telenet.be/business/fr/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                    </mj-column>
+                <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                <mj-column padding="25px 0" width="33%" css-class="hide-until-lg">
+                    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                        <mj-image href="https://www.telenet.be/business/fr/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_white.png" alt="Telenet Business Logo - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                    <mj-image href="https://www.telenet.be/business/fr/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                </mj-column>
+                <mj-column padding="40px 0 0" width="66%">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="right" padding="0">
+                        <strong>Vous y êtes presque,nous avons juste besoin de quelques données supplémentaires</strong>
+                    </mj-text>
+                    <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
+                        Vous n'arrivez pas à lire ce mail ? <a href="{VIEW_ONLINE_LINK}">Clicquez içi</a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0" padding-bottom="30px">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-3">
+            Vous y êtes presque, nous avons juste besoin de quelques données supplémentaires
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text align="right">
+            Votre numéro de client: ...
+        </mj-text>
+        <mj-text>
+            Chère cliente, cher client, 
+        </mj-text>
+        <mj-text>
+            Configurez une adresse e-mail par numéro fixe pour pouvoir vous connecter à l'app Phone2Go. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- LIST OF NUMBERS -->
+    <mj-section>
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+         Votre ou vos numéro(s) de téléphone Phone2Go 
+        </mj-text>
+        <mj-text padding-bottom="0">
+            <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li>
+                    XX/XXX.XX.XX
+                </li>
+                <li>
+                    XX/XXX.XX.XX
+                </li>
+                <li>
+                    ...
+                </li>
+            </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>  
+
+    <!-- MAIN CTA -->
+    <mj-section>
+        <mj-column mj-class="col-10">
+            <mj-button href="https://www2.telenet.be/business/fr/soho/customer-zone/gerez-phone2go.html" padding="0" mj-class="primary" align="left">
+                <strong>Configurer</strong>
+            </mj-button>
+        </mj-column>
+    </mj-section>  
+
+    <!-- HOW-TO -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-5">
+          <strong>Transférer votre numéro de ligne fixe existant ?</strong>
+        </mj-text>
+        <mj-text>
+            C'est possible ! Entrez toutes les informations puis cliquez sur Enregistrer. Nous transférerons ensuite votre numéro. 
+        </mj-text>
+        <mj-text>
+            Vous avez un numéro fixe de... 
+            <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li style="margin: 15px 0">
+                    <strong>Telenet?</strong> Dans ce cas, nous réglons immédiatement votre transfert de numéro. <strong>Attention </strong>! Vous ne pourrez <strong>plus téléphoner ou recevoir des appels</strong> sur votre appareil fixe. Téléchargez donc l'app dès que possible.
+                </li>
+                <li>
+                    <strong>un autre opérateur ?</strong> Nous réglons votre transfert de numéro dans les 2 heures. Le transfert n'est effectué <strong>que pendant les heures de bureau</strong>, pour que vous restiez joignable en dehors des heures de bureau. <strong>Conseil</strong> : installez déjà l'app. Ainsi, vous pourrez commencer à l'utiliser dès que le numéro aura été transféré.   
+                </li>
+            </ul>
+        </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- FAQ -->
+    <mj-section>
+      <mj-column mj-class="col-10 bg-grey-4 column-padding">
+        <mj-text mj-class="heading-5">
+          <strong>Des questions?</strong>
+        </mj-text>
+        <mj-text>
+            <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li>
+                   En savoir plus sur votre activation ? Consultez le <a href="ttps://www2.telenet.be/fr/business/serviceclient/tout-savoir-sur-phone2go.html">Service Client</a> 
+                </li>
+                <li>
+                    Ou envoyez-nous un message via <a href="https://api.whatsapp.com/send?phone=32468000068&text=Bonjour%20Telenet%20Business,%25je%20veux%20vous%20poser%20une%20question%20via%20WhatsApp%20à%20propos%20%20du%20test%20de%20Phone2Go.%20">WhatsApp</a> 
+                </li>
+                <li>
+                    Vous préférez que nous vous appelions ? Laissez votre numéro via l'<a href="http://business.telenet.be/fr/syba">app A-desk</a> 
+                </li>
+                <li>
+                    Appelez-nous au <a href="tel:+3215332266">015 33 22 66</a>
+                </li>
+            </ul>
+        </mj-text>
+    </mj-column>
+    </mj-section>
+
+    <!-- SALUTATION -->
+    <mj-section>
+        <mj-column mj-class="col-10">
+            <mj-text>
+                Cordialement,<br>Le service clientèle Telenet Business
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+
+     <!-- FOOTER -->
+    <mj-section mj-class="bg-light">
+            <mj-group width="600px">
+                <mj-column width="70%">
+                <mj-text mj-class="text-small">
+                    &copy; Telenet SRL &bull; Siège sociale <span class="HideMobile">&bull;</span> Liersesteenweg 4, 2800 Malines.<br />TVA BE0473.416.418 • RPM Anvers, division Malines. <a title="Vie privée" target="_blank" href="https://www2.telenet.be/residential/fr/juridische-info/privacy">Vie privée</a>&nbsp;|&nbsp;<a title="Conditions générales" target="_blank" href="https://www2.telenet.be/fr/business/serviceclient/quest-ce-que-sont-les-conditions-generales-de-telenet-business">Conditions générales</a>&nbsp;|&nbsp;<a title="Se désinscrire" target="_blank" href="{UNSUBSCRIBE_LINK}">Se désinscrire</a>
+                </mj-text>
+                </mj-column>
+                <mj-column width="25%">
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/fr/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Logo Telenet Business - dark-mode version" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/fr/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Logo Telenet Business" css-class="light-img"/>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+  </mj-body>
+</mjml>
