@@ -54,16 +54,7 @@
       padding-right: 6px !important;
     }
 
-    .col-10 {width: 100% !important;}
-    .col-9  {width: 90% !important;}
-    .col-8  {width: 80% !important;}
-    .col-7  {width: 70% !important;}
-    .col-6  {width: 60% !important;}
-    .col-5  {width: 50% !important;}
-    .col-4  {width: 40% !important;}
-    .col-3  {width: 30% !important;}
-    .col-2  {width: 20% !important;}
-    .col-1  {width: 10% !important;}
+    .col-1-sm {width: 10% !important;}
   }
 
   /* md breakpoint */
@@ -71,13 +62,15 @@
 
     .hide-until-md {display: none !important;}
     .hide-from-md {display: inherit !important;}
+
+    .col-1-sm {width: 10% !important;}
   }
 
   /* sm breakpoint */
   @media (max-width: 320px) {
 
     .hide-until-sm {display: none !important;}
-    .hide-from-sm {display: inherit !important;}
+    .hide-from-sm  {display: inherit !important;}
 
     .col-10 {width: 100% !important;}
     .col-9  {width: 90% !important;}
@@ -89,5 +82,6 @@
     .col-3  {width: 30% !important;}
     .col-2  {width: 20% !important;}
     .col-1  {width: 10% !important;}
+
   }
 </mj-style>
