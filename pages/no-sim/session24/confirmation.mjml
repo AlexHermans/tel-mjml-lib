@@ -1,0 +1,154 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-section css-class="dark-mode-fix" padding="0">
+            <mj-group mj-class="col-10">
+                <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                    <mj-column padding="25px 0" width="25%" css-class="hide-from-lg">
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Telenet Business Logo  - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                    </mj-column>
+                <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                <mj-column padding="25px 0" width="33%" css-class="hide-until-lg">
+                    <mj-include path="../../../partials/raw/not-mso/start.mjml" />
+                        <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_white.png" alt="Telenet Business Logo - dark-mode version" align="left" padding="0" css-class="dark-img"/>
+                    <mj-include path="../../../partials/raw/not-mso/end.mjml" />
+                    <mj-image href="https://www.telenet.be/business/nl/soho" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_glow.png" alt="Telenet Business Logo" align="left" padding="0" css-class="light-img" />
+                </mj-column>
+                <mj-column padding="40px 0 0" width="66%">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="right" padding="0">
+                        <strong>Bevestiging van je videogesprek <br>met Telenet Business</strong>
+                    </mj-text>
+                    <mj-text mj-class="fontstack-light text-medium" align="right" padding="5px 0 0 0">
+                        Kan je deze mail niet goed lezen? <a href="{VIEW_ONLINE_LINK}">Klik hier</a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2">
+            Bevestiging van je videogesprek met Telenet Business
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-center" padding="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" src="https://dummyimage.com/600x200/ddd.png?text=Placeholder+image" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+            Beste {naam klant},
+        </mj-text>
+        <mj-text>
+            Fijn dat je een videogesprek met ons hebt gepland. Hierbij bevestigen we je afspraak met onze medewerker <strong>vandaag</strong> om <strong>[uur]</strong>. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- INSTRUCTIONS -->
+    <mj-section>
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+         Hoe start je het videogesprek ... 
+        </mj-text>
+        <mj-text>
+            Via je <strong>tablet</strong> of <strong>smartphone</strong>?
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+            <li>
+                Open deze link: <a href="#">{LINK}</a>
+            </li>
+            <li>
+                Zet je luidspreker aan
+            </li>
+        </ul>
+        </mj-text>
+         <mj-text>
+            Via je <strong>laptop</strong> of <strong>computer</strong>?
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+            <li>
+                Open Google Chrome, Firefox, Safari of Microsoft Edge 83+
+            </li>
+            <li>
+                Open deze link: <a href="#">{LINK}</a>
+            </li>
+        </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>    
+
+    <!-- TIP -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text >
+          <strong>Tip</strong>: doorloop vooraf bovenstaande stappen zodat je zeker gemakkelijk in het gesprek komt. Oortjes of een headset zijn ook handig om klaar te leggen!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ADD TO AGENDA -->
+    <mj-section>
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+         Voeg je videogesprek toe aan je agenda
+        </mj-text>
+        <mj-text>
+            <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li>
+                    <a href="#">{Toevoegen aan Outlook/iCal}</a>
+                </li>
+                <li>
+                    <a href="#">{Toevoegen aan Google Calendar}</a>
+                </li>
+            </ul>
+        </mj-text>
+    </mj-column>
+    </mj-section>
+
+    <!-- ADJUST APPOINTMENT -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+          Wil je graag je afspraak aanpassen? Dat kan. Je kan de afspraak <a href="#">verplaatsen</a> of <a href="#">annuleren</a>. 
+        </mj-text>
+        <mj-text>
+          Vriendelijke groeten,<br>Telenet Business-klantendienst
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-section mj-class="bg-light">
+            <mj-group width="600px">
+                <mj-column width="70%">
+                <mj-text mj-class="text-small">
+                    &copy; Telenet BV &bull; Maatschappelijke zetel <span class="HideMobile">&bull;</span> Liersesteenweg 4, 2800 Mechelen.<br />BTW BE0473.416.418 • RPR Antwerpen, afdeling Mechelen. <a title="Privacy statement" target="_blank" href="https://www2.telenet.be/residential/nl/juridische-info/privacy">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="https://www2.telenet.be/content/www-telenet-be/nl/business/klantenservice/wat-zijn-de-algemene-voorwaarden-van-telenet-business">Algemene&nbsp;voorwaarden</a>&nbsp;|&nbsp;<a title="Uitschrijven" target="_blank" href="{UNSUBSCRIBE_LINK}">Uitschrijven</a>
+                </mj-text>
+                </mj-column>
+                <mj-column width="25%">
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/nl/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_white.png" alt="Logo Telenet Business - dark-mode version" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="https://www.telenet.be/business/nl/soho" padding="0" align="right" width="75px" src="https://mkt.telenet.be/images/TB/General/2021_tb_logo/logo_tb_mobile_glow.png" alt="Logo Telenet Business" css-class="light-img"/>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    
+  </mj-body>
+</mjml>

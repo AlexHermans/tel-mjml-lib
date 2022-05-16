@@ -17,6 +17,10 @@
       color: #FFFFFF !important;
     }
 
+    .dark-mode-fix, .dark-mode-fix div, .dark-mode a {
+      color: #FFFFFF !important;
+    }
+
     .light-img {
       display:none !important; 
     }
