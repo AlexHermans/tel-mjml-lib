@@ -11,7 +11,7 @@
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
       <mj-column padding="0">
         <mj-text mj-class="text-white fontstack-bold heading-1" padding-top="0">
-          KLIK
+          ONEup
         </mj-text>
         <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
             Commercial template subheader
@@ -54,7 +54,7 @@
     <mj-section mj-class="container-group" padding="0">
       <mj-column mj-class="col-10" >
         <mj-text mj-class="fontstack-semi heading-3" >
-          Waarom Safespot Pro?
+          Waarom OneUp?
         </mj-text>
       </mj-column>
     </mj-section>
@@ -133,7 +133,7 @@
           Meer info nodig?
         </mj-text>
         <mj-button href="~PROBE(121)~" align="left" mj-class="secondary col-4">
-          <strong>Lees hier alles over Safespot Pro
+          <strong>Lees hier alles over OneUp
         </mj-button>
         <mj-text >
           Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
@@ -146,7 +146,6 @@
 
      <!-- FOOTER -->
     <mj-include path="../../partials/footer/nl/with-legal-res.mjml" />
-
     
   </mj-body>
 </mjml>

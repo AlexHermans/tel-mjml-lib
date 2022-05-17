@@ -17,7 +17,7 @@
       color: #FFFFFF !important;
     }
 
-    .dark-mode-fix, .dark-mode-fix div, .dark-mode a {
+    .dark-mode-fix, .dark-mode-fix div, .dark-mode-fix a {
       color: #FFFFFF !important;
     }
 
