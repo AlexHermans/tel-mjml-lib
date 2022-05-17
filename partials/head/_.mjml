@@ -74,6 +74,7 @@
   <mj-column padding="7.5px 15px"/>
   <mj-section padding="7.5px 15px" background-color="#FFFFFF" css-class="container"/>
   <mj-all font-family="Arial, Helvetica, sans-serif" />
+  <mj-social-element color="#291D18" font-size="16px" line-height="28px" css-class="outlook-font-fix text-medium" />
   <mj-text color="#291D18" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium"/>
   <mj-body background-color="#f5f4f0" width="800px" />
   <mj-button href="~PROBE(120)~" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" />
