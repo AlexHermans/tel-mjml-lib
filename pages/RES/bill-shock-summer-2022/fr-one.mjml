@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-3" padding-top="0">
+            Éviter les frais imprévus a l'extérieur? <span style="color:#FFF7C7">Tout sur roaming</span><br> en un coup d'&oelig;il.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-jeans-blue hero-image-center" padding="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-06/bssummer2022/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+          Enfin, les vacances d'été. Vous les méritez bien ! Vous comptez vous évader ? Que ce soit pour de longues vacances ou un court citytrip, vous voulez toujours rester connecté. Mais surfer à l'étranger peut vite coûter cher. Vous préférez évidemment éviter les frais inattendus. Voici donc un rappel des informations importantes concernant le roaming. 
+        </mj-text>
+         <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Roam like home</b>
+        </mj-text>
+        <mj-text>
+         <b>Les appels et SMS dans la zone UE</b> coûtent la même chose qu’en Belgique. Vous ne payez <b>pas de frais de roaming.</b> 
+        </mj-text>
+        <mj-text>
+          Pour <b>surfer</b> dans la <b>zone UE</b>, vous bénéficiez de 40 GB de données inclus par numéro de téléphone dans votre ONE(up). Ensuite, vous payez 0,00030 €/MB. 
+        </mj-text>
+        <mj-text>
+          Vous pouvez répartir ces données entre vous. Vous avez par exemple 2 numéros ? Dans ce cas, une personne peut consommer 80 GB sur internet sans frais supplémentaires si l'autre désactive son roaming.   
+        </mj-text>
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Attention !</b>
+        </mj-text>
+        <mj-text>
+         <b>En dehors de l’UE</b>, vous devez payer des frais de roaming. Leur montant dépend des tarifs en vigueur localement. <b>Surveillez donc bien votre consommation.</b> 
+        </mj-text>
+        <mj-text>
+         Pour vous donner une idée, une heure passée à regarder la TV en Suisse, ce qui correspond à 1,7 GB de données mobiles, peut coûter jusqu'à 5.100 € (3 €/MB) ! Ne vous inquiétez pas : en pratique, nous bloquons vos données dès que vous dépassez votre abonnement de 60,5 €. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- BLOCK-2 -->
+   <mj-section padding-top="0">
+      <mj-column mj-class="col-10" padding-top="0">
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Vérifier votre consommation ? </b>
+        </mj-text>
+        <mj-text>
+         Le plus simple consiste à utiliser My Telenet ou l'app Telenet. Vous pouvez facilement y définir des rappels ou modifier vos limites.  
+        </mj-text>
+        <mj-text>
+          <b>Astuce</b> : en dehors de l'UE, utilisez une connexion wifi et n'utilisez pas les données mobiles. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- CARDS-WITH-CTA'S-->
+    <mj-section padding="0">
+      <mj-column mj-class="col-5" inner-background-color="#FFF7C7">
+        <mj-spacer height="15px"/>
+        <mj-image mj-class="icon-l icon-settings-l" />
+        <mj-button mj-class="primary">
+          <b>Accédez à My Telenet</b>
+        </mj-button>
+        <mj-text align="center" padding-top="0">
+          pour modifier <br class="hide-until-lg"/>vos paramètres.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="col-5" inner-background-color="#FFF7C7">
+      <mj-spacer height="15px"/>
+        <mj-image mj-class="icon-l icon-usage-l" />
+        <mj-button href="~PROBE(121)~" mj-class="primary">
+          <b>Découvrez ici</b>
+        </mj-button>
+        <mj-text padding="15px" align="center" padding-top="0">
+          tout ce qu'il faut savoir au sujet du roaming. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+         Nous vous souhaitons un voyage sans souci, d’où vous ne ramènerez que de beaux souvenirs ! 
+        </mj-text>
+        <mj-text >
+          Vriendelijke groeten, <br>het Telenet-team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>
