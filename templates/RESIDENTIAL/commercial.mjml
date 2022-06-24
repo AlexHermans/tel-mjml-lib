@@ -138,9 +138,7 @@
         <mj-text >
           Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
         </mj-text>
-        <mj-text >
-          Met vriendelijke groeten, <br>het Team van Telenet Business
-        </mj-text>
+        <mj-include path="../../partials/signature/nl-res.mjml" />
       </mj-column>
     </mj-section>
 

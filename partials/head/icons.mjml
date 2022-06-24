@@ -88,6 +88,22 @@
             <mj-class name="icon-tv-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-l.png" />
             <mj-class name="icon-tv-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xl.png" />
             <mj-class name="icon-tv-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xxl.png" />
+
+            <!-- settings -->
+            <mj-class name="icon-settings-xs" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xs.png" />
+            <mj-class name="icon-settings-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-s.png" />
+            <mj-class name="icon-settings-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-m.png" />
+            <mj-class name="icon-settings-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-l.png" />
+            <mj-class name="icon-settings-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xl.png" />
+            <mj-class name="icon-settings-xxl" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xxl.png" />
+
+            <!-- usage -->
+            <mj-class name="icon-usage-xs" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xs.png" />
+            <mj-class name="icon-usage-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-s.png" />
+            <mj-class name="icon-usage-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-m.png" />
+            <mj-class name="icon-usage-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-l.png" />
+            <mj-class name="icon-usage-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xl.png" />
+            <mj-class name="icon-usage-xxl" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xxl.png" />
             
         </mj-attributes>
     </mj-head>
@@ -107,7 +123,7 @@
                         <li style="padding:5px 0">XS: 10px</li>
                         <li style="padding:5px 0">S: 12px</li>
                         <li style="padding:5px 0">M: 30px</li>
-                        <li style="padding:5px 0">L: 60px => "col-10"</li>
+                        <li style="padding:5px 0">L: 60px => "col-1"</li>
                         <li style="padding:5px 0">XL: 90px</li>
                         <li style="padding:5px 0">XXL: 120px</li>
                     </ul>
@@ -202,10 +218,16 @@
                 <mj-image width="60px" mj-class="icon-tv-xl" />
             </mj-column>
             <mj-column border-right="1px solid #333" vertical-align="middle">
-                
+                <mj-text align="center">
+                    <strong>icon-settings</strong>
+                </mj-text>
+                <mj-image width="60px" mj-class="icon-settings-xl" />
             </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                
+            <mj-column vertical-align="middle">
+                <mj-text align="center">
+                    <strong>icon-usage</strong>
+                </mj-text>
+                <mj-image width="60px" mj-class="icon-usage-xl" />
             </mj-column>
         </mj-section>
 

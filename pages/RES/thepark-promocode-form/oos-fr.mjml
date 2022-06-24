@@ -1,0 +1,46 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-red hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+        <span style="color:#FFF7C7">Désolé! </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-red hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/header-thepark.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            Désolé, toutes notres codes sont parti.
+        </mj-text>
+        <mj-text>
+            Cordialement,<br>
+            L'équipe Telenet
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/with-legal-res.mjml" />
+
+    
+  </mj-body>
+</mjml>

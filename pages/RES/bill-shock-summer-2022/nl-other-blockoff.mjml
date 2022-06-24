@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-3" padding-top="0">
+            Liever geen onverwachte kosten?<br><span style="color:#FFF7C7">Alles over roaming</span> op een rijtje.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-jeans-blue hero-image-center" padding="0">
+      <mj-column width="600px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-06/bssummer2022/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../partials/salutation/nl/dynamic-formal-res.mjml" />
+        <mj-text>
+         Eindelijk, zomervakantie. En of je het verdient! Trek je er even tussenuit? Een lange vakantie of een korte citytrip: je wil altijd verbonden blijven. Maar surfen in het buitenland kan duur uitvallen. En omdat onverwachte kosten nooit leuk zijn, zetten we de belangrijkste zaken over roaming even op een rijtje. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10 bg-grey-4 column-padding" padding-bottom="15px">
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Eerst even dit</b> 
+        </mj-text>
+           <mj-text>
+         De <b>blokkering</b> van je dataverbruik eens je € 50 (excl. BTW) buiten je abonnement gaat, is <b>uitgeschakeld</b>. Dat mag natuurlijk, maar hou er rekening mee dat je kosten in het buitenland kunnen oplopen.  
+        </mj-text>
+        <mj-text>
+          Liever geen onaangename verrassingen? Zet dan het vinkje naar ‘Dataverbruik in het buitenland na € 60,5 (incl. BTW) uit.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Roam like home</b>
+        </mj-text>
+        <mj-text>
+         <b>In de EU-zone</b> betaal je geen roamingkosten voor je mobiele verbruik. Telefoneren, sms’en en surfen kost dus net evenveel als in België. 
+        </mj-text>
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Opgelet!</b>
+        </mj-text>
+        <mj-text>
+         <b>Buiten de EU-zone</b> betaal je wél extra kosten. Hoeveel hangt af van welke tarieven er ter plaatse van toepassing zijn. Hou je verbruik dus goed in het oog. 
+        </mj-text>
+        <mj-text>
+          Om je een idee te geven: een uur tv kijken op je gsm in Zwitserland, goed voor 1,7 GB aan mobiele data, kost € 5.100 (€ 3/MB)! 
+        </mj-text>
+        <mj-text mj-class="heading-5 text-jeans-blue">
+          <b>Je verbruik controleren?</b>
+        </mj-text>
+        <mj-text>
+        Dat doe je het best via Mijn Telenet of de Telenet-app. Je stelt er eenvoudig herinneringen in of past er je limieten aan.  
+        </mj-text>
+        <mj-text>
+          <b>Tip</b>: gebruik buiten de EU-zone een wifi-verbinding en verbruik geen data.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- CARDS-WITH-CTA'S-->
+    <mj-section padding="0">
+      <mj-column mj-class="col-5" inner-background-color="#FFF7C7">
+        <mj-spacer height="15px"/>
+        <mj-image mj-class="icon-l icon-settings-l" />
+        <mj-button mj-class="primary">
+          <b>Ga naar Mijn Telenet</b>
+        </mj-button>
+        <mj-text align="center" padding-top="0">
+          om je instellingen <br class="hide-until-lg"/>aan te passen.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="col-5" inner-background-color="#FFF7C7">
+      <mj-spacer height="15px"/>
+        <mj-image mj-class="icon-l icon-usage-l" />
+        <mj-button href="~PROBE(121)~" mj-class="primary">
+          <b>Ontdek hier</b>
+        </mj-button>
+        <mj-text padding="15px" align="center" padding-top="0">
+          alles wat je moet weten over roaming.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+          Wij wensen je alvast een zorgeloze reis toe met alleen maar mooie herinneringen!
+        </mj-text>
+        <mj-text >
+          Vriendelijke groeten, <br>Telenet-Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/nl/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

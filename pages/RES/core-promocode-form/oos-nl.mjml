@@ -1,0 +1,44 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-turquoise hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+            <span style="color:#FFF7C7">Sorry!</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-turquoise hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/CORE_PROMOCODE_FORM/header-core.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+           Je vroeg een kortingscode aan voor de Fast Bar op CORE Festival, maar ons laatste rondje was helaas al gegeven. <b>We hebben dus geen codes meer.</b> Sorry daarvoor. Gelukkig kan je nog altijd gigasnel bestellen aan de Fast Bar, ook zonder kortingscode. 
+        </mj-text>
+        <mj-text>
+            Geniet nog van CORE Festival,<br>
+            Telenet-team
+        </mj-text>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/nl/with-legal-res.mjml" />
+
+    
+  </mj-body>
+</mjml>

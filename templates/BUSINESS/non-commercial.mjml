@@ -1,11 +1,11 @@
 <mjml>
   <mj-head>
-      <mj-include path="../partials/head/_.mjml" />
+      <mj-include path="../../partials/head/_.mjml" />
   </mj-head>
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../partials/preheader/_.mjml" />
+    <mj-include path="../../partials/preheader/nl-tb.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text">
@@ -18,7 +18,7 @@
 
     <!-- HERO IMAGE -->
     <mj-section mj-class="bg-watermelon hero-image-center">
-      <mj-column width="600px" >
+      <mj-column width="600px" padding="0" >
         <mj-image padding="0" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
     </mj-section>
@@ -84,13 +84,11 @@
         <mj-text mj-class="text-medium">
           Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
         </mj-text>
-        <mj-text mj-class="text-medium">
-          Met vriendelijke groeten, <br>het Team van Telenet Business
-        </mj-text>
+        <mj-include path="../../partials/signature/nl-tb.mjml" />
       </mj-column>
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../partials/footer/nl/standard.mjml" />
+    <mj-include path="../../partials/footer/nl/standard-tb.mjml" />
   </mj-body>
 </mjml>

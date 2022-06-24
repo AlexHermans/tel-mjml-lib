@@ -1,0 +1,44 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-turquoise hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+            <span style="color:#FFF7C7">Désolé !</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-turquoise hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/CORE_PROMOCODE_FORM/header-core.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+           Vous avez demandé un code de réduction pour le Fast Bar au CORE Festival. Malheureusement, nous avions déjà offert notre dernière tournée. <b>Nous n’avons donc plus de codes.</b> Toutes nos excuses. Heureusement, vous pouvez toujours passer commande à gigavitesse au Fast Bar, même sans code de réduction
+        </mj-text>
+        <mj-text>
+            Profitez bien du CORE Festival ! <br>
+            L’équipe Telenet
+        </mj-text>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/standard-res.mjml" />
+
+    
+  </mj-body>
+</mjml>

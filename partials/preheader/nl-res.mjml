@@ -3,11 +3,11 @@
           <mj-section padding="0" css-class="dark-mode-fix">
             <mj-group mj-class="col-10">
                 <mj-include path="partials/logo-res.mjml" />
-                <mj-column padding="25px 0 0" width="66%">
-                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="left" padding="0">
+                <mj-column padding="25px 0 0" width="85%">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="left" padding="0 0 5px 0">
                         <strong>~MESSAGE.PREHEADER~</strong>
                     </mj-text>
-                    <mj-text mj-class="fontstack-light text-medium" align="left" padding="5px 0 0 0">
+                    <mj-text mj-class="fontstack-light text-medium" align="left" padding="0">
                         Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
                     </mj-text>
                 </mj-column>

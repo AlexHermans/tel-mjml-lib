@@ -8,18 +8,18 @@
     <mj-include path="../../../partials/preheader/nl-res.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
+    <mj-section  mj-class="bg-red hero-text" padding="0">
       <mj-column padding="0">
         <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
-            Je kortingscode <br class="hide-until-md" >voor <span style="color:#FFF7C7">CORE Festival</span>
+            Telenet trakteert! <br class="hide-until-md" ><span style="color:#FFF7C7">Player één </span> speelt gratis… 
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-baby-blue hero-image-right" padding="0">
+    <mj-section mj-class="bg-red hero-image-right" padding="0">
       <mj-column width="700px" padding="0">
-        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-05/thepark-promocode/header-thepark.jpg" alt="" />
+        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/header-thepark.jpg" alt="" />
       </mj-column>
     </mj-section>
 
@@ -33,14 +33,18 @@
       </mj-column>
     </mj-section>
 
-    <!-- CODE -->
+      <!-- CODE -->
     <mj-section padding-top="0">
-      <mj-column mj-class="bg-grey-16 column-padding" width="600px" >
-        <mj-text mj-class="fontstack-semi heading-4" align="center" padding-bottom="0">
-          1534<span style="padding:0 5px">-</span>45SB<span style="padding:0 5px">-</span>B7K3<span style="padding:0 5px">-</span>Z87E<span style="padding:0 5px">-</span>W137A<span style="padding:0 5px">-</span>AZEA
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px" >
+        <mj-text mj-class="fontstack-semi heading-5" align="center">
+          XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX
         </mj-text>
+        <mj-button mj-class="primary"  padding-bottom="0">
+          <b>Let's go!</b>
+        </mj-button>
       </mj-column>
     </mj-section>
+
 
     <!-- SUBTITLE -->
     <mj-section padding-bottom="0">
@@ -52,22 +56,22 @@
     </mj-section>
 
     <!-- STEPS -->
-    <mj-section padding="0">
-      <mj-column mj-class="bg-grey-4 column-padding" width="600px" >
+    <mj-section padding="0" >
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px" padding-bottom="0">
         <mj-social align="left" mode="vertical" padding-left="0" inner-padding="0 0 15px" icon-size="25px" text-padding="0 0 0 15px" icon-padding="15px 0 0">
-            <mj-social-element title="stap 1" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-1-accent-turquoise.png">
+            <mj-social-element title="stap 1" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/icon-number-1-accent-red.png">
                 Surf <b>vóór 31/7</b> naar <a href="~PROBE(120)~">theparkplayground.com/nl/</a> 
             </mj-social-element>
-            <mj-social-element title="stap 2" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-2-accent-turquoise.png">
+            <mj-social-element title="stap 2" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/icon-number-2-accent-red.png">
                 Klik op <b>‘Reserveer nu’</b>
             </mj-social-element>
-            <mj-social-element title="stap 3" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-3-accent-turquoise.png">
+            <mj-social-element title="stap 3" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/icon-number-3-accent-red.png">
                 Kies je locatie, spel, aantal spelers (min. 4), tijdstip (vóór 30/9) en bevestig 
             </mj-social-element>
-            <mj-social-element title="stap 4" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-4-accent-turquoise.png">
+            <mj-social-element title="stap 4" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/icon-number-4-accent-red.png">
                 Vul je gegevens en kortingscode in 
             </mj-social-element>
-            <mj-social-element title="stap 5" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-5-accent-turquoise.png">
+            <mj-social-element title="stap 5" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/icon-number-5-accent-red.png">
                 <b>Spelen maar!</b>
             </mj-social-element>
         </mj-social>
