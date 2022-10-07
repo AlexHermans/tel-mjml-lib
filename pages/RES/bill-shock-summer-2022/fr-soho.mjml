@@ -5,7 +5,7 @@
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+    <mj-include path="../../../partials/preheader/fr-tb.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
@@ -26,7 +26,7 @@
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-include path="../../../partials/salutation/fr/dynamic-tb.mjml" />
         <mj-text>
           Enfin, les vacances d'été. Vous les méritez bien ! Vous comptez vous évader ? Que ce soit pour de longues vacances ou un court citytrip, vous voulez toujours rester connecté. Mais surfer à l'étranger peut vite coûter cher. Vous préférez évidemment éviter les frais inattendus. Voici donc un rappel des informations importantes concernant le roaming. 
         </mj-text>
@@ -34,13 +34,7 @@
           <b>Roam like home</b>
         </mj-text>
         <mj-text>
-         <b>Les appels et SMS dans la zone UE</b> coûtent la même chose qu’en Belgique. Vous ne payez <b>pas de frais de roaming.</b> 
-        </mj-text>
-        <mj-text>
-          Pour <b>surfer</b> dans la <b>zone UE</b>, vous bénéficiez de 40 GB de données inclus par numéro de téléphone dans votre ONE(up). Ensuite, vous payez 0,00030 €/MB. 
-        </mj-text>
-        <mj-text>
-          Vous pouvez répartir ces données entre vous. Vous avez par exemple 2 numéros ? Dans ce cas, une personne peut consommer 80 GB sur internet sans frais supplémentaires si l'autre désactive son roaming.   
+         <b>Dans l'UE</b>, vous ne payez pas de frais de roaming pour votre consommation mobile. Les appels téléphoniques, les SMS et le surf coûtent donc la même chose qu'en Belgique.  
         </mj-text>
         <mj-text mj-class="heading-5 text-jeans-blue">
           <b>Attention !</b>
@@ -49,7 +43,7 @@
          <b>En dehors de l’UE</b>, vous devez payer des frais de roaming. Leur montant dépend des tarifs en vigueur localement. <b>Surveillez donc bien votre consommation.</b> 
         </mj-text>
         <mj-text>
-         Pour vous donner une idée, une heure passée à regarder la TV en Suisse, ce qui correspond à 1,7 GB de données mobiles, peut coûter jusqu'à 5.100 € (3 €/MB) ! Ne vous inquiétez pas : en pratique, nous bloquons vos données dès que vous dépassez votre abonnement de 60,5 €. 
+         Pour vous donner une idée, une heure d’appel vidéo en Suisse, ce qui correspond à 450 MB de données mobiles, peut coûter jusqu'à 1.111,50 € (2,47 €/MB) hors TVA ! Ne vous inquiétez pas : en pratique, nous bloquons vos données dès que vous dépassez votre abonnement de 50 € (hors TVA). 
         </mj-text>
       </mj-column>
     </mj-section>
@@ -99,12 +93,12 @@
         <mj-text>
          Nous vous souhaitons un voyage sans souci, d’où vous ne ramènerez que de beaux souvenirs ! 
         </mj-text>
-        <mj-include path="../../../partials/signature/fr-res.mjml" />
+        <mj-include path="../../../partials/signature/fr-tb.mjml" />
       </mj-column>
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../../partials/footer/fr/standard-res.mjml" />
+    <mj-include path="../../../partials/footer/fr/standard-tb.mjml" />
     
   </mj-body>
 </mjml>

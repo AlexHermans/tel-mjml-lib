@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
+            Votre promo de déménagement est déjà emballée ! 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-baby-blue hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-09/move-promo/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+      <mj-include path="../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            Merci de votre confiance ! Comme vous nous avez réservé une place dans vos cartons de déménagement, vous bénéficiez d'une réduction totale de <b>~IF(MASTER.WAVE2=0,'30', '60')~ € !</b> 
+        </mj-text>
+         <mj-text mj-class="fontstack-semi heading-5">
+          Que va-t-il se passer ?  
+        </mj-text>
+        <mj-text>
+          Tout est prêt. Dès que vous activez votre connexion internet à votre nouvelle adresse, la promotion commence. Même si cela prend du temps, votre promotion n’attend plus que vous ! Il ne vous reste plus qu'à faire vos bagages. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10 column-padding bg-grey-4">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Encore plus d'avantages ?
+        </mj-text>
+        <mj-text>
+          Camionette nodig? Inpakdozen? Of ga je nog wat klussen in je nieuwe woonst? Dan hebben we nog wat leuks in petto. Ontdek al je andere voordelen als Telenet-klant op onze <a href="~PROBE(140)~">verhuispagina!</a>  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+          Bon travail ! 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/fr/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

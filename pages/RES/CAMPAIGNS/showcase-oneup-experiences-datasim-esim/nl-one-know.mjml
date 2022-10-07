@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
+            Zot wat je allemaal kan <br class="hide-until-lg"/>met <span style="color:#FFF7C7">ONE.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-jeans-blue hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-10/showcaseoneup/header-one-female.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+      <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+           Als fan van ONE ben jij altijd en overal verbonden. Zonder na te denken over je verbruik. Maar benut jij wel alle mogelijkheden? 
+        </mj-text>
+         <mj-text>
+          <b>Haal nog meer uit je ONE met deze handige en gratis extra’s:</b> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SECTION DATASIM -->
+    <mj-section mj-class="bg-lemon" padding-bottom="15px">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0" padding-bottom="0">
+          Overal online op je tablet met je datasimkaart
+        </mj-text>
+        <mj-text>
+          Nog even doorwerken op de trein? Of je kids entertainen op de achterbank? Met de gratis datasimkaart verbind je ook je tablet of zelfs camera met het internet. Zonder extra kosten. Kijk wat allemaal kan: 
+        </mj-text>
+        <mj-text padding-top="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#1A9AAA; font-size:16px; line-height:28px;" align="left" type="disc">
+              <li><span style="color:#291D18">Surf en stream <b>waar je maar wil.</b></span></li>
+              <li><span style="color:#291D18"><b>Geen extra abonnement</b> nodig: alles zit in je huidige ONE. Zie het als een kopie van je simkaart. </span></li>
+              <li><span style="color:#291D18">Deze datasimkaart is <b>helemaal gratis</b> voor jou als ONE-klant!</span></li>
+          </ul>
+        </mj-text>
+        <mj-text>
+          <b>Waar wacht je op?</b>
+        </mj-text>
+        <mj-button mj-class="primary fontstack-semi" align="left" padding-top="0">
+          Gratis datasimkaart aanvragen
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- SECTION ESIM -->
+    <mj-section mj-class="bg-jeans-blue" padding-bottom="15px">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4 text-lemon" padding-top="0" padding-bottom="0">
+          Altijd verbonden met je smartwatch
+        </mj-text>
+        <mj-text>
+          Ga je liever joggen zonder smartphone? Met de nieuwe Telenet One Number-technologie blijft je smartwatch met eSIM op elk moment verbonden met je smartphone, zelfs als die niet in de buurt is. Alle voordelen op een rij: 
+        </mj-text>
+        <mj-text padding-top="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#FFF7C7; font-size:16px; line-height:28px;" align="left" type="disc">
+              <li><span style="color:#291D18"><b>Blijf overal verbonden</b>, met je playlist, gps … </span></li>
+              <li><span style="color:#291D18"><b>Mis nooit een oproep of bericht</b>, want je appjes en oproepen krijg je op je smartwatch.</span></li>
+              <li><span style="color:#291D18"><b>Alles loopt synchroon</b> via mobiele data, en niet enkel via wifi of bluetooth. Alles komt voortaan op ’t zelfde moment binnen. </span></li>
+          </ul>
+        </mj-text>
+        <mj-text>
+          <b>Iets voor jou?</b>
+        </mj-text>
+        <mj-button mj-class="secondary fontstack-semi" align="left" padding-top="0">
+          Koppel je eSIM
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="column-padding col-10" border="2px solid #FFC421">
+       <mj-text mj-class="heading-5 fontstack-semi">
+        Deze tips wil je toch niet voor jezelf houden?
+       </mj-text>
+       
+       <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
+         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Delen via WhatsApp</span>
+       </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

@@ -109,9 +109,7 @@
         <mj-text>
           Wij wensen je alvast een zorgeloze reis toe met alleen maar mooie herinneringen!
         </mj-text>
-        <mj-text >
-          Vriendelijke groeten, <br>het Telenet Business-team
-        </mj-text>
+        <mj-include path="../../../partials/signature/nl-tb.mjml" />
       </mj-column>
     </mj-section>
 

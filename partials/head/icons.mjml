@@ -1,109 +1,101 @@
 <mjml>
     <mj-head>
         <mj-attributes>
-            <!-- global layout-styles -->
-            <mj-class name="icon-xs" width="10px" />
-            <mj-class name="icon-s" width="20px" />
-            <mj-class name="icon-m" width="30px" />
-            <mj-class name="icon-l" width="60px" />
-            <mj-class name="icon-xl" width="90px" />
-            <mj-class name="icon-xxl" width="120px" />
+
+            <!-- page layout styles -->
+            <mj-class name="icon-row" background-color="#F7F6F6">
+                <mj-column padding="15px" vertical-align="middle" />
+                <mj-text align="center" font-weight="bold"/>
+            </mj-class>
+
+            <mj-section padding="0"/>
+
+            <!-- global icon-sizes -->
+            <mj-class name="icon-s" width="30px" />
+            <mj-class name="icon-m" width="60px" />
+            <mj-class name="icon-l" width="90px" />
+            <mj-class name="icon-xl" width="120px" />
+
+            <!-- global icon decs -->
+            <mj-class name="icon-check" mj-class="icon-m icon-check-s" />
 
             <!-- check -->
-            <mj-class name="icon-check-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xs.png" />
-            <mj-class name="icon-check-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-s.png" />
-            <mj-class name="icon-check-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-m.png" />
-            <mj-class name="icon-check-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-l.png" />
-            <mj-class name="icon-check-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xl.png" />
-            <mj-class name="icon-check-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xxl.png" />
+            <mj-class name="icon-check-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-s.png" alt="Checkmark icon"/>
+            <mj-class name="icon-check-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-m.png" alt="Checkmark icon"/>
+            <mj-class name="icon-check-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-l.png" alt="Checkmark icon"/>
+            <mj-class name="icon-check-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xl.png" alt="Checkmark icon"/>
 
             <!-- cursor -->
-            <mj-class name="icon-cursor-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-xs.png" />
             <mj-class name="icon-cursor-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-s.png" />
             <mj-class name="icon-cursor-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-m.png" />
             <mj-class name="icon-cursor-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-l.png" />
             <mj-class name="icon-cursor-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-xl.png" />
-            <mj-class name="icon-cursor-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-xxl.png" />
 
             <!-- headset -->
-            <mj-class name="icon-headset-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-xs.png" />
             <mj-class name="icon-headset-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-s.png" />
             <mj-class name="icon-headset-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-m.png" />
             <mj-class name="icon-headset-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-l.png" />
             <mj-class name="icon-headset-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-xl.png" />
-            <mj-class name="icon-headset-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-xxl.png" />
 
             <!-- lightbulb -->
-            <mj-class name="icon-lightbulb-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-xs.png" />
             <mj-class name="icon-lightbulb-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-s.png" />
             <mj-class name="icon-lightbulb-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-m.png" />
             <mj-class name="icon-lightbulb-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-l.png" />
             <mj-class name="icon-lightbulb-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-xl.png" />
-            <mj-class name="icon-lightbulb-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-xxl.png" />
 
             <!-- mail -->
-            <mj-class name="icon-mail-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-xs.png" />
             <mj-class name="icon-mail-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-s.png" />
             <mj-class name="icon-mail-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-m.png" />
             <mj-class name="icon-mail-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-l.png" />
             <mj-class name="icon-mail-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-xl.png" />
-            <mj-class name="icon-mail-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-xxl.png" />
         
             <!-- signal -->
-            <mj-class name="icon-signal-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-xs.png" />
             <mj-class name="icon-signal-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-s.png" />
             <mj-class name="icon-signal-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-m.png" />
             <mj-class name="icon-signal-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-l.png" />
             <mj-class name="icon-signal-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-xl.png" />
-            <mj-class name="icon-signal-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-xxl.png" />
         
             <!-- smartphone -->
-            <mj-class name="icon-smartphone-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-xs.png" />
             <mj-class name="icon-smartphone-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-s.png" />
             <mj-class name="icon-smartphone-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-m.png" />
             <mj-class name="icon-smartphone-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-l.png" />
             <mj-class name="icon-smartphone-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-xl.png" />
-            <mj-class name="icon-smartphone-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-xxl.png" />
         
             <!-- storefront -->
-            <mj-class name="icon-storefront-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xs.png" />
             <mj-class name="icon-storefront-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-s.png" />
             <mj-class name="icon-storefront-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-m.png" />
             <mj-class name="icon-storefront-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-l.png" />
             <mj-class name="icon-storefront-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xl.png" />
-            <mj-class name="icon-storefront-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xxl.png" />
             
             <!-- telephone -->
-            <mj-class name="icon-telephone-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xs.png" />
             <mj-class name="icon-telephone-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-s.png" />
             <mj-class name="icon-telephone-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-m.png" />
             <mj-class name="icon-telephone-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-l.png" />
             <mj-class name="icon-telephone-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xl.png" />
-            <mj-class name="icon-telephone-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xxl.png" />
         
             <!-- tv -->
-            <mj-class name="icon-tv-xs" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xs.png" />
             <mj-class name="icon-tv-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-s.png" />
             <mj-class name="icon-tv-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-m.png" />
             <mj-class name="icon-tv-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-l.png" />
             <mj-class name="icon-tv-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xl.png" />
-            <mj-class name="icon-tv-xxl" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xxl.png" />
 
             <!-- settings -->
-            <mj-class name="icon-settings-xs" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xs.png" />
             <mj-class name="icon-settings-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-s.png" />
             <mj-class name="icon-settings-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-m.png" />
             <mj-class name="icon-settings-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-l.png" />
             <mj-class name="icon-settings-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xl.png" />
-            <mj-class name="icon-settings-xxl" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xxl.png" />
 
             <!-- usage -->
-            <mj-class name="icon-usage-xs" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xs.png" />
             <mj-class name="icon-usage-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-s.png" />
             <mj-class name="icon-usage-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-m.png" />
             <mj-class name="icon-usage-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-l.png" />
             <mj-class name="icon-usage-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xl.png" />
-            <mj-class name="icon-usage-xxl" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xxl.png" />
+
+            <!-- whatsapp -->
+            <mj-class name="icon-whatsapp-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" />
             
         </mj-attributes>
     </mj-head>
@@ -114,126 +106,124 @@
                 <mj-text>
                     <h1>Icons</h1>
                     <p style="line-height: 1.4">You can use these icons in your emails by adding an mj-image tag and use the mj-class attribute.</p>
-                    <p style="line-height: 1.4">For example: <strong></strong></p>
-                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900">< mj-image mj-class=<span style="color:green">"icon-telephone-xxl"</span> alt="" /></p>
+                    <p style="line-height: 1.4">For example:</p>
+                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900">< mj-image mj-class=<span style="color:green">"icon-telephone-l"</span> alt="" /></p>
                     <p>&nbsp;</p>
                     <h3>A quick word on sizes:</h3>
-                    <p>The icons come in 6 sizes:</p>
+                    <p>The icons come in 4 sizes:</p>
                     <ul>
-                        <li style="padding:5px 0">XS: 10px</li>
-                        <li style="padding:5px 0">S: 12px</li>
-                        <li style="padding:5px 0">M: 30px</li>
-                        <li style="padding:5px 0">L: 60px => "col-1"</li>
-                        <li style="padding:5px 0">XL: 90px</li>
-                        <li style="padding:5px 0">XXL: 120px</li>
+                        <li style="padding:5px 0">S: 30px</li>
+                        <li style="padding:5px 0">M: 60px => "col-1"</li>
+                        <li style="padding:5px 0">L: 90px</li>
+                        <li style="padding:5px 0">XL: 120px</li>
                     </ul>
                     <p style="line-height: 1.4">Using an icon with the appropriate size is of course recommended (especially in image-heavy mails). For comparison, size L corresponds to 10% of the width of the inner-content container. Size M should serve you in most cases. </p>
                     <p style="line-height: 1.4">Whenever you use the icon-class with an image tag it's entirely possible to import a high resolution icon for a small image size to gain sharpness.</p>
                 </mj-text>
                 <mj-text>
                     <h2>List of available icons</h2>
-                    <p>The icons below are represented by <strong>size L</strong> and upsampled to use <strong>size XL</strong> icons.</p>
+                    <p>The icons below are represented by <strong>size M</strong> and upsampled to use <strong>size XL</strong> icons.</p>
                 </mj-text>
             </mj-column>
         </mj-section>
 
         <!-- ROW OF ICONS -->
-        <mj-section background-color="#EEE">
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-check</strong>
+        <mj-section mj-class="icon-row">
+            <mj-column>
+                <mj-text>
+                    icon-check
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-check-xl" />
+                <mj-image mj-class="icon-check-xl icon-m" />
             </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-cursor</strong>
+            <mj-column>
+                <mj-text>
+                    icon-cursor
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-cursor-xl" />
+                <mj-image mj-class="icon-cursor-xl icon-m" />
             </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-headset</strong>
+            <mj-column>
+                <mj-text>
+                    icon-headset
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-headset-xl" />
+                <mj-image mj-class="icon-headset-xl icon-m" />
+            </mj-column>
+            <mj-column >
+                <mj-text>
+                    icon-lightbulb
+                </mj-text>
+                <mj-image mj-class="icon-lightbulb-xl icon-m" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="icon-row">
+            <mj-column>
+                <mj-text>
+                    icon-mail
+                </mj-text>
+                <mj-image mj-class="icon-mail-xl icon-m" />
+            </mj-column>
+            <mj-column>
+                <mj-text>
+                    icon-signal
+                </mj-text>
+                <mj-image mj-class="icon-signal-xl icon-m" />
+            </mj-column>
+            <mj-column>
+                <mj-text>
+                    icon-smartphone
+                </mj-text>
+                <mj-image mj-class="icon-smartphone-xl icon-m" />
             </mj-column>
             <mj-column  vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-lightbulb</strong>
+                <mj-text>
+                    icon-storefront
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-lightbulb-xl" />
+                <mj-image mj-class="icon-storefront-xl icon-m" />
             </mj-column>
         </mj-section>
 
-        <mj-section padding="0">
+        <mj-section mj-class="icon-row">
             <mj-column>
-                <mj-spacer height="15px" />
-            </mj-column>
-        </mj-section>
-
-        <mj-section background-color="#EEE">
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-mail</strong>
+                <mj-text>
+                    icon-telephone
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-mail-xl" />
+                <mj-image mj-class="icon-telephone-xl icon-m" />
             </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-signal</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-signal-xl" />
-            </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-smartphone</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-smartphone-xl" />
-            </mj-column>
-            <mj-column  vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-storefront</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-storefront-xl" />
-            </mj-column>
-        </mj-section>
-
-        <mj-section padding="0">
             <mj-column>
-                <mj-spacer height="15px" />
-            </mj-column>
-        </mj-section>
-
-        <mj-section background-color="#EEE">
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-telephone</strong>
+                <mj-text>
+                    icon-tv
                 </mj-text>
-                <mj-image width="60px" mj-class="icon-telephone-xl" />
+                <mj-image mj-class="icon-tv-xl icon-m" />
             </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-tv</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-tv-xl" />
-            </mj-column>
-            <mj-column border-right="1px solid #333" vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-settings</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-settings-xl" />
-            </mj-column>
-            <mj-column vertical-align="middle">
-                <mj-text align="center">
-                    <strong>icon-usage</strong>
-                </mj-text>
-                <mj-image width="60px" mj-class="icon-usage-xl" />
-            </mj-column>
-        </mj-section>
-
-        <mj-section padding="0">
             <mj-column>
-                <mj-spacer height="15px" />
+                <mj-text>
+                    icon-settings
+                </mj-text>
+                <mj-image mj-class="icon-settings-xl icon-m" />
+            </mj-column>
+            <mj-column >
+                <mj-text>
+                    icon-usage
+                </mj-text>
+                <mj-image mj-class="icon-usage-xl icon-m" />
+            </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="icon-row">
+            <mj-column>
+                <mj-text>
+                    icon-whatsapp
+                </mj-text>
+                <mj-image mj-class="icon-whatsapp-xl icon-m" />
+            </mj-column>
+            <mj-column>
+                
+            </mj-column>
+            <mj-column>
+                
+            </mj-column>
+            <mj-column >
+                
             </mj-column>
         </mj-section>
     </mj-body>

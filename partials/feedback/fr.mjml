@@ -1,0 +1,22 @@
+<mjml>
+    <mj-body>
+        <mj-section padding-bottom="60px">
+            <mj-column mj-class="bg-grey-4 column-padding col-10">
+                <mj-text mj-class="fontstack-semi heading-5" align="center" padding-bottom="10px">
+                Avez-vous trouvé cette information utile&nbsp;?
+                </mj-text>
+                <mj-table border="0" cellpadding="0" cellspacing="0" align="center" width="120px" line-height="100%">
+                <tr>
+                    <td width="30" valign="middle">
+                        <a href="~PROBE(602)~" target="_blank"><img src="https://comm.uat.telenet.be/images//Feedback/smiley_1.png" width="34" height="34" border="0" alt="" style="width:34px !important;height:34px !important;max-width:34px !important;max-height:34px !important;" /></a>
+                    </td>
+                    <td width="60" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                    <td width="30" valign="middle">
+                        <a href="~PROBE(601)~" target="_blank"><img src="https://comm.uat.telenet.be/images//Feedback/smiley_0.png" width="34" height="34" border="0" alt="" style="width:34px !important;height:34px !important;max-width:34px !important;max-height:34px !important;" /></a>
+                    </td>
+                </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

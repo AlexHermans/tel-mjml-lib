@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inbox Message - ~SYSTEM.CAMPAIGNNAME~</title>
+    <style>
+        * {
+            color: #291d18;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .container-outer{
+            display: flex;
+            flex-direction: column;
+        }
+        .container-inner{
+            background-color: #f7f6f6;
+            padding: 15px;
+            margin: 15px 0;
+            line-height: 150%;
+        }
+
+        @media screen and (min-width: 800px) {
+            .container-inner {
+                width: 75%;
+            }
+            
+            .container-outer {
+                align-items: center;
+            }
+        }
+
+        @media screen and (min-width: 1200px) {
+            .container-inner {
+                width: 50%;
+            }
+            
+            .container-outer {
+                align-items: center;
+            }
+        }
+
+        table {
+            border: 1px solid #291d18;
+            width: 100%;
+            border-collapse: collapse; 
+        }
+
+        tr {
+            border: 1px solid #DDDBDA;
+        }
+
+        td {
+            padding: 8px;
+        }
+
+        td:hover>span.explanation{
+            display: block;
+        }
+
+        table td:first-of-type{
+            background-color: #EEEDED;            
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container-outer">
+        <div class="container-inner" id="info">
+            <h3>Additional info</h3>
+            <p>Technical information on the message, not relevant to client.</p>
+            <table>
+                <tr>
+                    <td>brand</td>
+                    <td>Telenet</td>
+                </tr>
+                <tr>
+                    <td>trackingID</td>
+                    <td>AXS-TN-COM-X-RES-APP-01-XX-MAANROCK_FAST_BAR-20220824</td>
+                </tr>
+                <tr>
+                    <td>type</td>
+                    <td>*</td>
+                </tr>
+            </table>
+        </div>
+        <div class="container-inner" id="language-nl">
+            <h3>Message - NL</h3>
+            <p>Content of message</p>
+            <table>
+                <tr>
+                    <td>title</td>
+                    <td>Telenet trakteert!</td>
+                </tr>
+                <tr>
+                    <td>body</td>
+                    <td> Staat Maanrock in Mechelen op jouw festivalplanning? Dan trakteren we je graag op een drankje aan de Fast Bar. Vraag snel je kortingscode aan!</td>
+                </tr>
+                <tr>
+                    <td>deepLink</td>
+                    <td><a href="https://www.telenet.be/residential/nl/landingspaginas/maanrock">https://www.telenet.be/residential/nl/landingspaginas/maanrock</a></td>
+                </tr>
+                <tr>
+                    <td>callToAction</td>
+                    <td>Trakteer mij!</td>
+                </tr>
+            </table>
+        </div>
+        <div class="container-inner" id="language-fr">
+            <h3>Message - FR</h3>
+            <p>Content of message</p>
+            <table>
+                <tr>
+                    <td>title</td>
+                    <td>C’est Telenet qui offre !</td>
+                </tr>
+                <tr>
+                    <td>body</td>
+                    <td>Le festival Maanrock à Malines est inscrit à votre calendrier ? Dans ce cas, nous vous offrons une boisson au Fast Bar. Demandez sans plus tarder votre code de réduction !</td>
+                </tr>
+                <tr>
+                    <td>deepLink</td>
+                    <td><a href="https://www.telenet.be/residential/nl/landingspaginas/maanrock">https://www.telenet.be/residential/nl/landingspaginas/maanrock</a></td>
+                </tr>
+                <tr>
+                    <td>callToAction</td>
+                    <td>À votre santé ! (Néerlandais)</td>
+                </tr>
+            </table>
+        </div>
+        <div class="container-inner" id="language-en">
+            <h3>Message - EN</h3>
+            <p>Content of message</p>
+            <table>
+                <tr>
+                    <td>title</td>
+                    <td>This one's on Telenet!</td>
+                </tr>
+                <tr>
+                    <td>body</td>
+                    <td>Is Maanrock on your festivalplanning? Then we would love to buy you a drink at the Fast Bar. Get your code now!!</td>
+                </tr>
+                <tr>
+                    <td>deepLink</td>
+                    <td><a href="https://www.telenet.be/residential/nl/landingspaginas/maanrock">https://www.telenet.be/residential/nl/landingspaginas/maanrock</a></td>
+                </tr>
+                <tr>
+                    <td>callToAction</td>
+                    <td>Buy me one! (Dutch)</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

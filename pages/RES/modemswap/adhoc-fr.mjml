@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2">
+            Surfez à des vitesses allant jusqu'à 1 Gbps avec votre <span style="color:#FFC421">ONEup </span> et votre nouveau modem
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-07/modemswap/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            Le temps passe vite, y compris pour nos modems. Et les modems du type du vôtre ont fait leur temps. Par conséquent, vous n'atteignez pas les vitesses élevées pour lesquelles vous avez opté avec ONEup. Savez-vous qu'en votre qualité de <b>client ONEup, vous pouvez échanger gratuitement votre modem contre un modèle plus récent ?</b> Vous pouvez ainsi surfer, streamer et télécharger à des <b>vitesses allant jusqu'à 1 Gbps.</b> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section>
+      <mj-column mj-class="bg-lemon column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-4">
+          Remplacez votre modem gratuitement
+        </mj-text>
+        <mj-text>
+          Échangez rapidement votre modem pour surfer encore plus vite. Et l’échange se fait en un rien de temps. Qu'attendez-vous encore ?
+        </mj-text>
+        <mj-button mj-class="primary" align="left" padding-top="0" padding-bottom="0">
+          <b>Commander un modem gratuit</b>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section mj-class="container-group" padding="0">
+      <mj-column mj-class="col-10" >
+        <mj-text mj-class="fontstack-semi heading-5" >
+          Comment obtenir votre modem ? 
+        </mj-text>
+        <mj-social align="left" mode="vertical" padding-left="0" inner-padding="0" icon-size="25px" text-padding="0 0 15px 15px">
+            <mj-social-element vertical-align="top" title="stap 1" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-1.png">
+               Venez chercher votre nouveau modem dans le <a href="~PROBE(140)~"><b>point de vente Telenet le plus proche</b></a>. Pensez à ramener votre ancien modem et son cordon d'alimentation.<br/><br/>Vous préférez que votre nouveau modem soit livré à votre domicile ? C'est possible ! <a href="~PROBE(141)~">Commandez-le en ligne</a> et nous le livrons à votre domicile dans les 2 jours ouvrables. Pour la livraison, vous ne payez qu'une seule fois 5 €. Vous pouvez renvoyer facilement votre ancien modem dans les 30 jours via le <a href="~PROBE(142)~">point de retour</a> le plus proche. Tout ce dont vous avez besoin pour le retour vous est envoyé avec votre nouveau modem.
+            </mj-social-element>
+            <mj-social-element vertical-align="top" title="stap 2" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-2.png">
+               Vous pouvez installer vous-même votre nouveau modem en quelques minutes. Vous trouverez une <b>procédure pratique</b> dans la boîte ou <a href="~PROBE(143)~">en ligne</a>. 
+            </mj-social-element>
+            <mj-social-element vertical-align="top" title="stap 3" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-3.png">
+                <b>Terminé</b> ! Vous profitez à présent des vitesses élevées de votre ONEup.
+            </mj-social-element>
+        </mj-social>
+        <mj-text mj-class="heading-5 fontstack-semi">
+          Vous avez encore des questions ?
+        </mj-text>
+        <mj-text >
+         Rendez-vous sur <a href="~PROBE(144)~">telenet.be/livraisonnouveaumodem</a> ou appelez-nous au <a href="~PROBE(190)~">015 66 66 66</a>. Nos collaborateurs se feront un plaisir de vous aider.
+        </mj-text>
+        <mj-include path="../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

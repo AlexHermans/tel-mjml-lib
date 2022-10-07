@@ -1,11 +1,11 @@
 <mjml>
   <mj-head>
-      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-include path="../../../../../partials/head/_.mjml" />
   </mj-head>
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../../../../partials/preheader/nl.mjml" />
+    <mj-include path="../../../../../partials/preheader/nl-tb.mjml" />
 
     <!-- HERO SEGMENT -->
     <mj-section mj-class="bg-watermelon" padding="0" padding-left="100px">
@@ -16,16 +16,16 @@
       </mj-column>
       <mj-column padding="0" vertical-align="bottom">
         <mj-image mj-class="hide-until-lg" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/header-desktop-bo-s22.png" alt="" />
-        <mj-include path="../../../../partials/raw/not-mso/start.mjml" />
+        <mj-include path="../../../../../partials/raw/not-mso/start.mjml" />
           <mj-image mj-class="hide-from-lg" padding="0" height="150px" width="150px" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/header-desktop-bo-s22.png" alt="" />
-        <mj-include path="../../../../partials/raw/not-mso/end.mjml" />
+        <mj-include path="../../../../../partials/raw/not-mso/end.mjml" />
       </mj-column>
     </mj-section>
 
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/salutation/nl/dynamic.mjml" />
+        <mj-include path="../../../../../partials/salutation/nl/dynamic-tb.mjml" />
         <mj-text>
             Je bestelde onlangs een Samsung Galaxy S22 Ultra in het kader van onze KLIK promotie. Een mooie keuze!
         </mj-text>
@@ -48,7 +48,7 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../../../partials/footer/nl/standard.mjml" />
+    <mj-include path="../../../../../partials/footer/nl/standard-tb.mjml" />
     
   </mj-body>
 </mjml>

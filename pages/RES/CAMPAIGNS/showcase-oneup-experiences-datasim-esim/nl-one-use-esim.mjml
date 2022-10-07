@@ -1,0 +1,103 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
+            Haal meer uit je smartwatch <br class="hide-until-lg"/> met <span style="color:#1A9AAA">ONE.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-10/showcaseoneup/header-one-male.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+      <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+           Blinkt er een smartwatch rond je pols? Of rond die van iemand anders in huis? Als ONE-klant haal je daar nóg meer uit door je <b>eSIM te activeren</b> met Telenet One Number. Want zo blijft <b>je smartwatch op elk moment verbonden</b> aan je smartphone, zelfs als die niet in de buurt is. 
+        </mj-text>
+         <mj-button mj-class="primary fontstack-semi" align="left">
+          Tiktak, aan de slag!
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+     <!-- SECTION DATASIM -->
+    <mj-section mj-class="bg-lemon" padding-bottom="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0" padding-bottom="0">
+          Hoe activeer je je <span style="color:#1A9AAA">eSIM</span>?
+        </mj-text>
+        <mj-text>
+         <!--[if mso | IE]-->
+            <ol start="1" style="margin: 0; margin-left: 0; padding: 0; font-family: Arial, sans-serif; color: #291d18; font-size: 16px; line-height: 28px;" align="left" type="1" >
+          <!--[endif]-->
+          <!--[if !mso]-->
+            <ol start="1" style="margin: 0; margin-left: 25px; padding: 0; font-family: Arial, sans-serif; color: #291d18; font-size: 16px; line-height: 28px;" align="left" type="1" >
+          <!--[endif]-->
+              <li style="padding-bottom:5px"><b>Hou je smartphone bij de hand.</b> Die heb je nodig om je mobiele nummer te koppelen aan je smartwatch.</li>
+              <li style="padding-bottom:5px"><b>Selecteer je type smartwatch</b> en volg de eenvoudige zelfactivatie. </li>
+              <ul>
+                <li><a href="~PROBE(121)~">Apple Watch Cellular</a></li>
+                <li style="padding-bottom:5px"><a href="~PROBE(122)~">Samsung Watch LTE</a></li>
+              </ul>
+              <li><b>Ziezo, je smartwatch en smartphone zijn nu verbonden</b> dankzij de Telenet One Number-technologie. </li>
+          </ol>
+        </mj-text>
+        <mj-text>
+          ’t Is gratis, makkelijk én in enkele minuten gepiept, hou je klok maar in de gaten.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Jouw voordelen:
+        </mj-text>
+        <mj-text>
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+              <li><b>Blijf overal verbonden</b>, met je playlist, gps … Handig tijdens ’t joggen!</li>
+              <li><b>Mis nooit een oproep of bericht</b>, want je appjes en oproepen krijg je op je smartwatch. </li>
+              <li><b>Alles loopt synchroon</b> via mobiele data, en niet enkel via wifi of bluetooth. Alles komt voortaan op ’t zelfde moment binnen.  </li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="column-padding col-10" border="2px solid #FFC421">
+       <mj-text mj-class="heading-5 fontstack-semi">
+        Met welke van fan van <span style="color:#1A9AAA">ONE</span> deel jij deze tip?
+       </mj-text>
+       <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
+         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Delen via WhatsApp</span>
+       </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

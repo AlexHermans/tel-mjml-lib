@@ -1,7 +1,7 @@
 <mjml>
     <mj-body>
         <mj-text>
-            ~(IF(LEN(MASTER.FIRSTNAME)>0,'Dag '&MASTER.FIRSTNAME,'Beste,'))~,
+            ~(IF(LEN(MASTER.FIRSTNAME)>0,'Hallo '&MASTER.FIRSTNAME,'Beste'))~,
         </mj-text>
     </mj-body>
 </mjml>

@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lemon hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2">
+            Surf aan snelheden tot 1 Gbps<br class="hide-until-lg"/> met je <span style="color:#FFC421">ONEup</span> en nieuwe modem
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-07/modemswap/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            De tijd vliegt, ook voor onze modems. En jouw type modem zag al heel wat tijd passeren. Daardoor haal je niet de hoge snelheden waar je met ONEup voor koos. Wist je dat je als <b>ONEup-klant gratis je modem kan omruilen voor een nieuwer model</b>? Zo surf, stream en download je aan <b>snelheden tot wel 1 Gbps.</b> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section>
+      <mj-column mj-class="bg-lemon column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-4">
+          Vervang gratis je modem
+        </mj-text>
+        <mj-text>
+          Snel je modem omruilen, nog sneller surfen. En de omruiling is zo geregeld. Waar wacht je op?
+        </mj-text>
+        <mj-button mj-class="primary" align="left" padding-top="0" padding-bottom="0">
+          <b>Gratis modem bestellen</b>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section mj-class="container-group" padding="0">
+      <mj-column mj-class="col-10" >
+        <mj-text mj-class="fontstack-semi heading-5" >
+          Hoe haal je jouw modem in huis?
+        </mj-text>
+        <mj-social align="left" mode="vertical" padding-left="0" inner-padding="0" icon-size="25px" text-padding="0 0 15px 15px">
+            <mj-social-element vertical-align="top" title="stap 1" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-1.png">
+               Haal je nieuwe modem op in een <a href="~PROBE(140)~"><b>Telenet-winkelpunt in jouw buurt</b></a>.  Vergeet je oude modem en stroomkabel niet mee te nemen.<br/><br/>Je nieuwe modem liever thuis geleverd? Dat kan! <a href="~PROBE(141)~">Bestel ‘m online</a> en we leveren binnen de 2 werkdagen bij je thuis. Voor de levering betaal je eenmalig € 5. Je oude modem stuur je binnen de 30 dagen eenvoudig terug via een <a href="~PROBE(142)~">retourpunt</a> in je buurt. Alles wat je nodig hebt voor de retour, sturen we je mee op met je nieuwe modem.
+            </mj-social-element>
+            <mj-social-element vertical-align="top" title="stap 2" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-2.png">
+               Je installeert je nieuwe modem zelf in enkele minuten. Je vindt een <b>handig stappenplan</b> in de doos of online. 
+            </mj-social-element>
+            <mj-social-element vertical-align="top" title="stap 3" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-3.png">
+                <b>Klaar</b>! Je geniet nu van de hoge snelheden van je ONEup.
+            </mj-social-element>
+        </mj-social>
+        <mj-text mj-class="heading-5 fontstack-semi">
+          Heb je nog vragen?
+        </mj-text>
+        <mj-text >
+          Surf naar <a href="~PROBE(143)~">telenet.be/leveringnieuwemodem</a> of bel ons op <a href="~PROBE(190)~">015 66 66 66</a>. Onze medewerkers helpen je graag verder.
+        </mj-text>
+        <mj-include path="../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/nl/with-legal-res.mjml" />
+    
+  </mj-body>
+</mjml>

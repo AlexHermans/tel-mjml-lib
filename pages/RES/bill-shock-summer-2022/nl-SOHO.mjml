@@ -93,7 +93,7 @@
         <mj-text>
           Wij wensen je alvast een zorgeloze reis toe met alleen maar mooie herinneringen!
         </mj-text>
-        <mj-include path="../../../partials/signature/nl-res.mjml" />
+        <mj-include path="../../../partials/signature/nl-tb.mjml" />
       </mj-column>
     </mj-section>
 

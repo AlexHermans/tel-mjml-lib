@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-turquoise hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+            Telenet paie la tournée <br class="hide-until-md" >au <span style="color:#FFF7C7">Fast Bar</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-turquoise hero-image-right" padding="0">
+      <mj-column width="700px" padding="0">
+        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/VOODOOVILLAGE_PROMOCODE_FORM/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            Avec votre code de réduction, vous recevez une boisson gratuite<sup>1</sup> au Fast Bar de Telenet lors du Voodoo Village. Vous trouverez notre bar XXX. Entrez votre code avant de passer à la caisse sur <a href="~PROBE(120)~">dorst.app/telenetfastbar.</a> 
+        </mj-text>
+        
+    </mj-section>
+
+    <!-- CODE -->
+    <mj-section padding-top="0">
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px" >
+         <mj-text align="center">
+            Votre code de réduction personnel:
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" align="center" padding-top="0" padding-bottom="0">
+          ~VOODOOVILLAGE_PROMOCODE_PRODUCTS.CODE_UID~
+        </mj-text>
+        <mj-raw>
+          <div id="MASECTION" macontenteditable="FALSE" maconstraint="GETDATE() >= '2022-05-26T00:00:00'" maparameter="" matype="" mahidediv="true">
+        </mj-raw>
+        <mj-button mj-class="primary" align="center" padding-bottom="0" href="~PROBE(120)~">
+            <b>Commandez maintenant sur dorst.app</b>
+        </mj-button>
+        <mj-raw>
+          </div>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUBTITLE -->
+    <mj-section padding-bottom="0">
+        <mj-column mj-class="col-10" padding-bottom="0">
+            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+               En pratique
+            </mj-text>
+            <mj-text>
+               Commander et payer des boissons en ligne sur la piste de danse ? Avec le Fast Bar de Telenet, c’est possible ! 
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- STEPS -->
+    <mj-section padding="0" padding-top="0">
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px"  padding-bottom="0">
+        <mj-social align="left" mode="vertical" padding-left="0" inner-padding="0 0 25px" icon-size="25px" text-padding="0 0 0 15px" icon-padding="15px 0 0">
+            <mj-social-element title="stap 1" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-1-accent-turquoise.png">
+               Pendant le Voodoo Village, rendez-vous sur <a href="~PROBE(120)~">dorst.app/telenetfastbar</a> ou scannez le code QR au Fast Bar. 
+            </mj-social-element>
+            <mj-social-element title="stap 2" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-2-accent-turquoise.png">
+             Commandez votre boisson, ajoutez votre code personnel et payez en ligne. 
+            </mj-social-element>
+            <mj-social-element title="stap 3" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-3-accent-turquoise.png">
+                Nos collaborateurs préparent vos boissons dans une boîte réfrigérée. Vous recevez un SMS et un mail contenant votre code de retrait lorsque votre commande est prête. 
+            </mj-social-element>
+            <mj-social-element title="stap 4" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-4-accent-turquoise.png">
+                Rendez-vous au Fast Bar dans les 15 minutes. Entrez votre code de retrait et retirez votre boisson de la boîte. Santé !  
+            </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Outro -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-text>
+            <b>Bon à savoir</b>: votre code est personnel et ne peut être utilisé qu'une seule fois.
+        </mj-text>
+        <mj-text>
+            Profitez-en bien !<br>
+            L’équipe Telenet
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/fr/with-legal-res.mjml" />
+
+    
+  </mj-body>
+</mjml>

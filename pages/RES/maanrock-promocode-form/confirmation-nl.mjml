@@ -1,0 +1,108 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-lila hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px" >
+            Je kortingscode voor de <span style="color:#FFF7C7">Fast Bar</span> op Maanrock
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section padding-top="0" padding-bottom="30px" mj-class="bg-lila hero-image-center" padding="0">
+      <mj-column width="600px" padding="0" >
+        <mj-image padding="0" src="https://comm.telenet.be/images/Tribes_and_Squads/Inlife-tribe/Lifetime-relationship/2022/08/maanrock/header.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            Met je kortingscode krijg je één drankje gratis<sup>1</sup> aan de Fast Bar van Telenet op Maanrock. Je vindt onze bar op de Schoenmarkt .Geef je code in voor je afrekent op <a href="~PROBE(120)~">dorst.app/telenetfastbar.</a> 
+        </mj-text>
+        
+    </mj-section>
+
+    <!-- CODE -->
+    <mj-section padding-top="0">
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px" >
+         <mj-text align="center">
+            Je persoonlijke kortingscode:
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" align="center" padding-top="0" padding-bottom="0">
+          ~CORE_PROMOCODE_PRODUCTS.CODE_UID~
+        </mj-text>
+        <mj-raw>
+          <div id="MASECTION" macontenteditable="FALSE" maconstraint="GETDATE() >= '2022-05-26T00:00:00'" maparameter="" matype="" mahidediv="true">
+        </mj-raw>
+        <mj-button mj-class="primary" align="center" padding-bottom="0" href="~PROBE(120)~">
+            <b>Bestel nu op dorst.app</b>
+        </mj-button>
+        <mj-raw>
+          </div>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUBTITLE -->
+    <mj-section padding-bottom="0">
+        <mj-column mj-class="col-10" padding-bottom="0">
+            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+               Praktisch
+            </mj-text>
+            <mj-text>
+              Je drank online bestellen en betalen terwijl je van de beste optredens geniet? Het kan dankzij de Fast Bar van Telenet. Je hoeft je bestelling alleen maar op te pikken.  
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- STEPS -->
+    <mj-section padding="0" padding-top="0">
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px"  padding-bottom="0">
+        <mj-social align="left" mode="vertical" padding-top="25px" padding-left="0" inner-padding="0" icon-size="25px" text-padding="0 0 20px 15px">
+            <mj-social-element title="stap 1" align="center" vertical-align="top" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-1.png">
+               Surf naar <a href="~PROBE(120)~">dorst.app/telenetfastbar</a> of scan de QR-code aan de Fast Bar.
+            </mj-social-element>
+            <mj-social-element title="stap 2" vertical-align="top" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-2.png">
+               Plaats je bestelling, voeg je persoonlijke kortingscode toe en betaal online. 
+            </mj-social-element>
+            <mj-social-element title="stap 3" vertical-align="top" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-3.png">
+                Onze medewerkers zetten je drankjes klaar in een gekoelde box. Jij ontvangt een sms en e-mail met je afhaalcode als je bestelling klaar staat.
+            </mj-social-element>
+            <mj-social-element title="stap 4" vertical-align="top" src="https://mkt.telenet.be/images/TB/General/icons/numbers/icon-number-4.png">
+                Ga binnen de 15 minuten naar de Fast Bar. Geef je afhaalcode in en haal je drank uit je barbox. Schol! 
+            </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Outro -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-text>
+            <b>Goed om te weten</b>: Je code is persoonlijk en kan eenmalig gebruikt worden.
+        </mj-text>
+        <mj-text>
+            Geniet ervan!<br>
+            Telenet-team 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+     <!-- FOOTER -->
+    <mj-include path="../../../partials/footer/nl/with-legal-res.mjml" />
+
+    
+  </mj-body>
+</mjml>

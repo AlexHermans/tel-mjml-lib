@@ -34,13 +34,7 @@
           <b>Roam like home</b>
         </mj-text>
         <mj-text>
-         <b>Les appels et SMS dans la zone UE</b> coûtent la même chose qu’en Belgique. Vous ne payez <b>pas de frais de roaming.</b> 
-        </mj-text>
-        <mj-text>
-          Pour <b>surfer</b> dans la <b>zone UE</b>, vous bénéficiez de 40 GB de données inclus par numéro de téléphone dans votre ONE(up). Ensuite, vous payez 0,00030 €/MB. 
-        </mj-text>
-        <mj-text>
-          Vous pouvez répartir ces données entre vous. Vous avez par exemple 2 numéros ? Dans ce cas, une personne peut consommer 80 GB sur internet sans frais supplémentaires si l'autre désactive son roaming.   
+         <b>Dans l'UE</b>, vous ne payez pas de frais de roaming pour votre consommation mobile. Les appels téléphoniques, les SMS et le surf coûtent donc la même chose qu'en Belgique.  
         </mj-text>
         <mj-text mj-class="heading-5 text-jeans-blue">
           <b>Attention !</b>
@@ -49,7 +43,7 @@
          <b>En dehors de l’UE</b>, vous devez payer des frais de roaming. Leur montant dépend des tarifs en vigueur localement. <b>Surveillez donc bien votre consommation.</b> 
         </mj-text>
         <mj-text>
-         Pour vous donner une idée, une heure passée à regarder la TV en Suisse, ce qui correspond à 1,7 GB de données mobiles, peut coûter jusqu'à 5.100 € (3 €/MB) ! Ne vous inquiétez pas : en pratique, nous bloquons vos données dès que vous dépassez votre abonnement de 60,5 €. 
+         Pour vous donner une idée, une heure passée à regarder la TV en Suisse, ce qui correspond à 1,7 GB de données mobiles, peut coûter jusqu'à 5.100 € (3 €/MB) !
         </mj-text>
       </mj-column>
     </mj-section>
