@@ -1,0 +1,665 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-attributes>
+        <mj-class name="table-border" border="1px solid #DDDBDA" />
+        <mj-class name="table-head" width="30%" />
+        <mj-class name="table-content" width="70%" />
+        <mj-class name="table-row" padding-top="0"/>
+      </mj-attributes>
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            New takeover form submission
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Installation information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains information on the deceased person's installation information.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- CUSTOMERNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Customernumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.CUSTOMERNUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- INSTALLATION_STREET -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Street</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.INSTALLATION_STREET~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- INSTALLATION_HOUSENUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Housenumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.INSTALLATION_HOUSENUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+        <!-- INSTALLATION_BUS -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Bus</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.INSTALLATION_BUS~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+        <!-- INSTALLATION_ZIP_CODE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>ZIP code</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.INSTALLATION_ZIP_CODE~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- INSTALLATION_LOCATION -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Location</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.INSTALLATION_LOCATION~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Entrant information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains information on the person filling in the form.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- TYPE_ENTRY -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Entry type</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.TYPE_ENTRY~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- TYPE_TAKEOVER -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Type of takeover</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.TYPE_TAKEOVER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- SOMEONE_ELSE_FIRSTNAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>First name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.SOMEONE_ELSE_FIRSTNAME~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+        <!-- SOMEONE_ELSE_LASTNAME -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Last name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.SOMEONE_ELSE_LASTNAME~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+        <!-- COMPANY_NAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Name of company</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.COMPANY_NAME~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Overtaker general information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains general information on the person taking over from the deceased.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- OVERTAKER_FIRSTNAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>First name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_FIRSTNAME~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- OVERTAKER_LASTNAME -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Last name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_LASTNAME~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_CUSTOMERNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Customernumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_CUSTOMERNUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+        <!-- OVERTAKER_STREET -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Street</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_STREET~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+        <!-- OVERTAKER_HOUSENUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Housenumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_HOUSENUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_BUS -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Bus</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_BUS~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_ZIP_CODE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>ZIP-code</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_ZIP_CODE~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_LOCATION -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Location</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_LOCATION~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_NATIONALITY -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Nationality</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_NATIONALITY~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_DATEOFBIRTH -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Date of birth</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_DATEOFBIRTH~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_GENDER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Gender</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_GENDER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_IDCARDNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>ID card number</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_IDCARDNUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_EMAIL -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Email adress</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_EMAIL~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_PHONE -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Phonenumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_PHONE~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Overtaker payment information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains the payment information on the person taking over from the deceased.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- OVERTAKER_PAYMENT_OPTIONS -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Chosen payment option</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_PAYMENT_OPTIONS~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- OVERTAKER_PAYMENT_IBANNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>IBAN number</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_PAYMENT_IBANNUMBER~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_EMAIL_ALTERNATIVE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Alternative email adress</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_EMAIL_ALTERNATIVE~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Products and services</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains the information on what products and services are being taken over and what to do with the deceased's phonenumbers.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- OVERTAKER_PRODUCTS_AND_SERVICES -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Products and services</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.OVERTAKER_PRODUCTS_AND_SERVICES~ [TEST_ENTRY]
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <mj-spacer />
+
+      <!-- OVERTAKER_PHONENUMBER_ACTIONS_HEADER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                <b>Phonenumber</b>
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  <b>Publication type</b>
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  <b>Keep or discard</b>
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_1-->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_1~ [TEST_ENTRY]
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_1~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_1~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+         <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_2-->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_2~ [TEST_ENTRY]
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_2~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_2~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+         <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_3-->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_3~ [TEST_ENTRY]
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_3~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_3~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+         <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_4-->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_4~ [TEST_ENTRY]
+            </mj-text> 
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_4~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_4~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+         <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_5-->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_5~ [TEST_ENTRY]
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_5~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_5~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+         <!-- OVERTAKER_PHONENUMBER_ACTIONS_ROW_6-->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+          <mj-column mj-class="table-border ">
+            <mj-text>
+                ~MASTER.PHONENUMBER_TAKEOVER_6~ [TEST_ENTRY]
+            </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_PUBLICATIONTYPE_6~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+          <mj-column mj-class="table-border">
+              <mj-text>
+                  ~MASTER.NUMBER_RETENTION_6~ [TEST_ENTRY]
+              </mj-text>
+          </mj-column>
+        </mj-section>
+       
+    </mj-wrapper>
+
+    <mj-section padding="30px" mj-class="col-10">
+      <mj-column >
+        <mj-text>
+          Thank you!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

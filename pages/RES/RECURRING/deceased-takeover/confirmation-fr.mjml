@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-attributes>
+        <mj-class name="table-border" border="1px solid #DDDBDA" />
+        <mj-class name="table-head" width="30%" />
+        <mj-class name="table-content" width="70%" />
+        <mj-class name="table-row" padding-top="0"/>
+      </mj-attributes>
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-olivine hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+             Reprise de services Telenet
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <mj-section>
+    <mj-column mj-class="col-10">
+        <mj-text>
+            ~(IF(LEN(TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_FIRSTNAME)>0,'Cher/Chère '&TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_FIRSTNAME, IF(LEN(TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME)>0,'Cher/Chère '&TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME, 'Cher/Chère')))~,
+        </mj-text>
+        <mj-text>
+           Nous avons bien reçu votre demande de reprise en raison d'un décès. Nous vous présentons nos sincères condoléances.
+        </mj-text>
+        <mj-text>
+            Nous vous contacterons dans les 2 jours pour régler la reprise. 
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+   <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="0">
+    <mj-column mj-class="col-10" padding-bottom="0">
+        <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+            Voici les données que vous nous avez communiquées : 
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+   <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
+    <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+            Données du cédant
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Numéro de client</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~MASTER.CUSTOMERNUMBER~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Adresse</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.INSTALLATION_STREET~  ~TAKEOVER_DECEASED_FORM.INSTALLATION_HOUSENUMBER~ ~TAKEOVER_DECEASED_FORM.INSTALLATION_BUS~, ~TAKEOVER_DECEASED_FORM.INSTALLATION_ZIP_CODE~ ~TAKEOVER_DECEASED_FORM.INSTALLATION_LOCATION~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
+    <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+            Données du repreneur
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Nom</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_LASTNAME~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Adresse</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_STREET~  ~TAKEOVER_DECEASED_FORM.OVERTAKER_HOUSENUMBER~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_BUS~, ~TAKEOVER_DECEASED_FORM.OVERTAKER_ZIP_CODE~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_LOCATION~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Numéro de carte d’identité</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_IDCARDNUMBER~  
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row" padding-bottom="30px">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Services Telenet à reprendre</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~(IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-fixed', 'Tous les services fixes (internet, TV digitale, télédistribution et/ou téléphonie fixe)', IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-fixed-and-all-mobile', 'Tous les services fixes et tous les abonnements mobiles', IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-mobile', 'Uniquement le ou les abonnement(s) mobile(s)', 'Aucun produit ou service sélectionné'))))~  
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-text>
+          Merci de votre confiance envers nos services. 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../../../partials/footer/fr/comm-res.mjml" />
+
+  </mj-body>
+</mjml>

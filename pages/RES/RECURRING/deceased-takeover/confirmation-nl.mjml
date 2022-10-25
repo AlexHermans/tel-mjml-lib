@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-attributes>
+        <mj-class name="table-border" border="1px solid #DDDBDA" />
+        <mj-class name="table-head" width="30%" />
+        <mj-class name="table-content" width="70%" />
+        <mj-class name="table-row" padding-top="0"/>
+      </mj-attributes>
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-olivine hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Overname Telenet-diensten
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <mj-section>
+    <mj-column mj-class="col-10">
+        <mj-text>
+            ~(IF(LEN(TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_FIRSTNAME)>0,'Hallo '&TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_FIRSTNAME, IF(LEN(TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME)>0,'Hallo '&TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME, 'Beste')))~,
+        </mj-text>
+        <mj-text>
+            We hebben je aanvraag voor de overname naar aanleiding van een overlijden goed ontvangen. Onze deelneming met je verlies.
+        </mj-text>
+        <mj-text>
+            We contacteren je binnen de 2 dagen om de overname te regelen. 
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+   <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="0">
+    <mj-column mj-class="col-10" padding-bottom="0">
+        <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+            De gegevens die we van jou ontvingen: 
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+   <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
+    <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+            Gevens overlater
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Klantennummer</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~MASTER.CUSTOMERNUMBER~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Adres</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.INSTALLATION_STREET~  ~TAKEOVER_DECEASED_FORM.INSTALLATION_HOUSENUMBER~ ~TAKEOVER_DECEASED_FORM.INSTALLATION_BUS~, ~TAKEOVER_DECEASED_FORM.INSTALLATION_ZIP_CODE~ ~TAKEOVER_DECEASED_FORM.INSTALLATION_LOCATION~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
+    <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+            Gevens overnemer
+        </mj-text>
+    </mj-column>
+   </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Naam</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_LASTNAME~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Adres</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_STREET~  ~TAKEOVER_DECEASED_FORM.OVERTAKER_HOUSENUMBER~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_BUS~, ~TAKEOVER_DECEASED_FORM.OVERTAKER_ZIP_CODE~ ~TAKEOVER_DECEASED_FORM.OVERTAKER_LOCATION~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>ID-kaartnummer</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.OVERTAKER_IDCARDNUMBER~  
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row" padding-bottom="30px">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Over te nemen Telenet-diensten</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~(IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-fixed', 'Alle vaste diensten (internet, digitale tv, kabeltelevisie, en/of vaste telefonie)', IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-fixed-and-all-mobile', 'Alle vaste diensten én alle mobiele abonnementen', IF(TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES='all-mobile', 'Alleen mobiele abonnementen', 'Geen producten of diensten geselecteerd'))))~  
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-text>
+          Bedankt voor het vertrouwen in onze diensten. 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="../../../../partials/footer/nl/comm-res.mjml" />
+
+  </mj-body>
+</mjml>
