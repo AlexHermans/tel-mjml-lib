@@ -4,42 +4,42 @@
 
             <!-- BG COLOURS -->
             <!-- Primary -->
-            <mj-class name="bg-yellow"        background-color="#FFC421" />
+            <mj-class name="bg-yellow"        background-color="#FFC421" css-class="bg-yellow dark-mode-ignore"/>
             <mj-class name="bg-white"         background-color="#FFFFFF" />
-            <mj-class name="bg-brown"         background-color="#291D18" />
-            <mj-class name="bg-lemon"         background-color="#FFF7C7" />
+            <mj-class name="bg-brown"         background-color="#291D18" css-class="bg-brown dark-mode-ignore"/>
+            <mj-class name="bg-lemon"         background-color="#FFF7C7" css-class="bg-lemon dark-mode-ignore"/>
             
             <!-- Secondary -->
-            <mj-class name="bg-jeans-blue"    background-color="#1A9AAA" />
-            <mj-class name="bg-baby-blue"     background-color="#7291B5" />
-            <mj-class name="bg-red"           background-color="#C95942" />
-            <mj-class name="bg-turquoise"     background-color="#209D91" />
-            <mj-class name="bg-lila"          background-color="#AA81A8" />
-            <mj-class name="bg-watermelon"    background-color="#E16A5B" />
-            <mj-class name="bg-olivine"       background-color="#749645" />
+            <mj-class name="bg-jeans-blue"    background-color="#1A9AAA" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-baby-blue"     background-color="#7291B5" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-red"           background-color="#C95942" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-turquoise"     background-color="#209D91" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-lila"          background-color="#AA81A8" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-watermelon"    background-color="#E16A5B" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-olivine"       background-color="#749645" css-class="dark-mode-ignore"/>
             
             <!-- Tertiary -->            
-            <mj-class name="bg-golden"        background-color="#FDD671" />
-            <mj-class name="bg-peach"         background-color="#FAC7BA" />
-            <mj-class name="bg-sprout"        background-color="#ADD1A6" />
-            <mj-class name="bg-tan"           background-color="#F7945C" />
-            <mj-class name="bg-sinbad"        background-color="#A6D9D9" />
-            <mj-class name="bg-dust"          background-color="#E5CFC7" />
+            <mj-class name="bg-golden"        background-color="#FDD671" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-peach"         background-color="#FAC7BA" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-sprout"        background-color="#ADD1A6" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-tan"           background-color="#F7945C" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-sinbad"        background-color="#A6D9D9" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-dust"          background-color="#E5CFC7" css-class="dark-mode-ignore"/>
             
             <!-- Greys --> 
-            <mj-class name="bg-grey-4"        background-color="#F7F6F6" />
-            <mj-class name="bg-grey-8"        background-color="#EEEDED" />
-            <mj-class name="bg-grey-12"       background-color="#E5E3E3" />
-            <mj-class name="bg-grey-16"       background-color="#DDDBDA" />
-            <mj-class name="bg-grey-24"       background-color="#CCC9C8" />
-            <mj-class name="bg-grey-32"       background-color="#BAB6B5" />
-            <mj-class name="bg-grey-48"       background-color="#999391" />
-            <mj-class name="bg-grey-64"       background-color="#766F6B" />
+            <mj-class name="bg-grey-4"        background-color="#F7F6F6" css-class="bg-grey-4 dark-mode-fix"/>
+            <mj-class name="bg-grey-8"        background-color="#EEEDED" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-12"       background-color="#E5E3E3" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-16"       background-color="#DDDBDA" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-24"       background-color="#CCC9C8" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-32"       background-color="#BAB6B5" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-48"       background-color="#999391" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-grey-64"       background-color="#766F6B" css-class="dark-mode-ignore"/>
             <mj-class name="bg-grey-72"       background-color="#655C58" />
             <mj-class name="bg-grey-100"      background-color="#291D18" />
 
             <!-- Special --> 
-            <mj-class name="bg-light"         background-color="#f5f4f0" />
+            <mj-class name="bg-light"         background-color="#f5f4f0"/>
 
             <!-- TEXT COLOURS -->
             <!-- Primary -->

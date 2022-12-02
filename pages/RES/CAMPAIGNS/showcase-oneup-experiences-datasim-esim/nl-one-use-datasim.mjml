@@ -11,7 +11,7 @@
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
       <mj-column padding="0">
         <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
-            Overal onbezorgd online met <br class="hide-until-lg"/><span style="color:#FFF7C7">je gratis datakaart.</span>
+            Overal onbezorgd online met <br class="hide-until-lg"/><span style="color:#FFF7C7">je gratis datasimkaart.</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -63,11 +63,8 @@
        <mj-text mj-class="heading-5 fontstack-semi">
         Kan je iemand anders blij maken met deze tip?
        </mj-text>
-       <mj-text mj-class="heading-6" padding-top="0">
-        Vertel ’t verder!
-       </mj-text>
-       <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
-         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Delen via WhatsApp</span>
+              <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
+         Delen via e-mail
        </mj-button>
       </mj-column>
     </mj-section>

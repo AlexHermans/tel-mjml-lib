@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-watermelon hero-text" padding="0">
+      <mj-column padding="0">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+            Virus sur vos appareils&nbsp;:<br class="hide-until-lg"/><span style="color:#FFF7C7">que faire&nbsp;?</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            D’après nos informations, l’un de vos appareils sur votre réseau semble infecté par un virus informatique. C’est peut-être la raison pour laquelle vos appareils sont plus lents, vous avez reçu des messages d’erreur étranges ou vos appareils sont même complètement bloqués.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+        <mj-column mj-class="column-padding col-10 bg-grey-4">
+            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+                Au secours ! Que faire ?
+            </mj-text>
+            <mj-text>
+                Ne vous inquiétez pas, nous allons essayer de régler ça ensemble. Vous devriez analyser vos appareils avec un programme antivirus. Pour savoir comment faire et à quoi faire attention, consultez le Service Client.
+            </mj-text>
+            <mj-button padding-top="0" mj-class="fontstack-semi primary" align="left">
+                Allons-y !
+            </mj-button>
+             <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+                Restez dans le coup avec l'app Telenet
+            </mj-text>
+            <mj-text>
+                Vous avez installé notre app ? Trouvez-y toujours les dernières informations sur vos produits et restez au courant des dernières actualités Telenet ! Également concernant les virus... 
+            </mj-text>
+            <mj-button mj-class="fontstack-semi secondary" href="~PROBE(121)~" align="left" padding-top="0">
+                Telechargez l'app ici
+            </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+        <mj-column mj-class="col-10">
+            <mj-text>
+                <b>Plus d’infos sur l'utilisation d’internet en toute sécurité ?</b> Consultez le  <a href="~PROBE(140)~">Service Client</a>  ou le site de <a href="~PROBE(141)~">Safeonweb</a>.
+            </mj-text>
+            <mj-include path="../../../../partials/signature/fr-res.mjml" />
+        </mj-column>
+    </mj-section>
+
+    
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/fr/with-legal-res.mjml" />
+    
+  </mj-body>
+</mjml>

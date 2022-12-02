@@ -36,7 +36,7 @@
     </mj-section>
 
     <!-- SUB-TITLE -->
-    <mj-section css-class="container-group" padding-top="0">
+    <mj-section padding-top="0">
       <mj-column width="600px">
         <mj-text mj-class="heading-4 fontstack-semi">
           Kunnen wij je helpen?
@@ -45,7 +45,7 @@
     </mj-section>
 
     <!-- THREE BLOCKS -->
-    <mj-section css-class="container-group" padding-top="0">
+    <mj-section  padding-top="0">
         <mj-column width="190px" mj-class="bg-watermelon" padding="25px">
         <mj-text mj-class="text-medium" align="center">
          Ja ik heb hulp nodig!

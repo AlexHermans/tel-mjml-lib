@@ -8,8 +8,8 @@
     <mj-include path="../../../partials/preheader/nl-res.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-lemon hero-text" padding="0">
-      <mj-column padding="0">
+    <mj-section mj-class="bg-lemon hero-text" padding="0">
+      <mj-column width="80%">
         <mj-text mj-class="fontstack-semi heading-2">
             Surf aan snelheden tot 1 Gbps<br class="hide-until-lg"/> met je <span style="color:#FFC421">ONEup</span> en nieuwe modem
         </mj-text>
@@ -17,9 +17,9 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-lemon hero-image-right" padding="0">
-      <mj-column width="700px" padding="0">
-        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-07/modemswap/header.jpg" alt="" />
+    <mj-section mj-class="bg-lemon hero-image">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-07/modemswap/header.jpg" alt="" />
       </mj-column>
     </mj-section>
 

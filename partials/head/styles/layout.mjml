@@ -13,45 +13,23 @@
     display: none !important;
   }
 
-  @media only screen and (min-width: 600px) {
-
-    .mj-column-px-700 {
-      width: auto !important;
-      max-width: auto
-    }
-  }
-
   @media (max-width: 700px) {
 
-    .hero-container.left > table > tbody > tr > td {
-      padding: 0 12px 0 0 !important;
+    body {
+      padding: 15px 13px !important;
     }
-    .hero-container.center > table > tbody > tr > td {
-      padding: 0 12px !important;
-    }
-    .hero-container.right > table > tbody > tr > td {
-      padding: 0 0 0 12px !important;
-    }
+    
   }
-
   
-
   /* lg breakpoint (add 30 for paddings) */
   @media (max-width: 630px) {
 
     .hide-until-lg {display: none !important;}
     .hide-from-lg {display: inherit !important;}
 
-    .container > table > tbody > tr > td {
-      padding: 15px 13px !important;
-    }
 
     .container-group > table > tbody > tr > td {
       padding: 0 13px !important;
-    }
-
-    .hero-container > table > tbody > tr > td {
-      padding-right: 6px !important;
     }
 
     .col-1-sm {width: 10% !important;}

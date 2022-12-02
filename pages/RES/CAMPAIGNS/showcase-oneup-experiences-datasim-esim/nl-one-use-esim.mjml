@@ -84,8 +84,8 @@
        <mj-text mj-class="heading-5 fontstack-semi">
         Met welke van fan van <span style="color:#1A9AAA">ONE</span> deel jij deze tip?
        </mj-text>
-       <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
-         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Delen via WhatsApp</span>
+        <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
+         Delen via e-mail
        </mj-button>
       </mj-column>
     </mj-section>

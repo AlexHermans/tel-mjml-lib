@@ -1,0 +1,199 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-attributes>
+        <mj-class name="table-border" border="1px solid #DDDBDA" />
+        <mj-class name="table-head" width="30%" />
+        <mj-class name="table-content" width="70%" />
+        <mj-class name="table-row" padding-top="0"/>
+      </mj-attributes>
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            New Online Payment Plan Request
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Contact Information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains information the person filling in the form.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- CUSTOMERNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Customernumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.CUSTOMERNUMBER~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- FIRSTNAME -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>First name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.FIRSTNAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- NAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Last name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.NAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+        <!-- MAIL -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Email adress</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.MAIL~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- PHONE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Phonenumber</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.PHONE~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Payment information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains information on the person's payment details.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- OPEN_BALANCE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Open balance</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.OPEN_BALANCE~ €
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- PAYMENT_OPTIONS -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Payment term</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.PAYMENT_OPTIONS~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Other information</b>
+            </mj-text>
+            <mj-text padding-top="0">
+              This part contains other information.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- EXTRA_INFO -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Remarks</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.EXTRA_INFO~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+    </mj-wrapper>
+
+    <mj-section padding="30px" mj-class="col-10">
+      <mj-column >
+        <mj-text>
+          Thank you!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,219 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+      <mj-attributes>
+        <mj-class name="table-border" border="1px solid #DDDBDA" />
+        <mj-class name="table-head" width="30%" />
+        <mj-class name="table-content" width="70%" />
+        <mj-class name="table-row" padding-top="0"/>
+      </mj-attributes>
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-olivine hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Jouw aanvraag voor een afbetalingsplan
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            We hebben je aanvraag voor een afbetalingsplan goed ontvangen.
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Wat gebeurt er nu?
+        </mj-text>
+        <mj-text>
+            We contacteren je binnen de 2 dagen om alles in orde te brengen.
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi" padding-bottom="15px">
+           Hier is de informatie die je ons meegaf:
+        </mj-text>
+        </mj-column>
+    </mj-section>
+
+   <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-grey-16" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10 bg-grey-16" padding-top="0">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Contact informatie</b>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- CUSTOMERNUMBER -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Klantnummer</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.CUSTOMERNUMBER~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- FIRSTNAME -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Voornaam</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.FIRSTNAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- NAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Achternaam</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.NAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+        <!-- MAIL -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>E-mail adres</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~MASTER.MAIL~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- PHONE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Telefoonnummer</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.PHONE~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-white bg-grey-16" padding="0 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10 bg-grey-16">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Betalingsinformatie</b>
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+
+        <!-- OPEN_BALANCE -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Openstaand saldo</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.OPEN_BALANCE~ €
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+        <!-- PAYMENT_OPTIONS -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Betaaltermijn</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.PAYMENT_OPTIONS~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       
+    </mj-wrapper>
+
+    <!-- WRAPPER -->
+    <mj-wrapper mj-class="bg-grey-16" padding="0 30px 30px">
+
+        <!-- FIELD_GROUP_TITLE -->
+        <mj-section mj-class="col-10 bg-grey-16">
+          <mj-column >
+            <mj-text mj-class="heading-4">
+              <b>Andere informatie</b>
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+
+        <!-- EXTRA_INFO -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Opmerking(en)</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.EXTRA_INFO~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+       
+    </mj-wrapper>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text>
+            Is er iets niet juist? Vul het formulier opnieuw in.
+        </mj-text>
+        <mj-button align="left" mj-class="primary fontstack-semi">
+            Vul het formulier opnieuw in
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

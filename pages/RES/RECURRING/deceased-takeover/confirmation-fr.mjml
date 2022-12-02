@@ -71,6 +71,36 @@
         <mj-group mj-class="col-10">
             <mj-column mj-class="col-3 table-border table-head">
                 <mj-text>
+                    <b>Prénom</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.INSTALLATION_FIRSTNAME~ 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+     <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
+                    <b>Nom de famille</b>
+                </mj-text>
+            </mj-column>
+            <mj-column mj-class="col-7 table-border table-content">
+                <mj-text>
+                    ~TAKEOVER_DECEASED_FORM.INSTALLATION_LASTNAME~                 
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="bg-grey-4 table-row">
+        <mj-group mj-class="col-10">
+            <mj-column mj-class="col-3 table-border table-head">
+                <mj-text>
                     <b>Adresse</b>
                 </mj-text>
             </mj-column>

@@ -91,9 +91,8 @@
        <mj-text mj-class="heading-5 fontstack-semi">
         Deze tips wil je toch niet voor jezelf houden?
        </mj-text>
-       
        <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
-         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Delen via WhatsApp</span>
+         Delen via e-mail
        </mj-button>
       </mj-column>
     </mj-section>

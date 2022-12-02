@@ -8,18 +8,18 @@
     <mj-include path="../../../partials/preheader/nl-res.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-red hero-text" padding="0">
-      <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
-        <span style="color:#FFF7C7">Sorry! </span>
+    <mj-section mj-class="bg-red hero-text" padding="0">
+      <mj-column width="80%">
+        <mj-text mj-class="fontstack-semi heading-1">
+          <span style="color:#FFF7C7">Sorry!</span>
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-red hero-image-right" padding="0">
-      <mj-column width="700px" padding="0">
-        <mj-image padding="0" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/header-thepark.jpg" alt="" />
+    <mj-section mj-class="bg-red hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-center" src="https://comm.telenet.be/images/Ocapi/THEPARK_PROMOCODE_FORM/header-thepark.jpg" alt="" />
       </mj-column>
     </mj-section>
 

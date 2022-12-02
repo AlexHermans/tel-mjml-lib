@@ -8,17 +8,26 @@
   /* Load first because of precedence rules */
   
   @media (prefers-color-scheme: dark) {
-      body, body > div {
-        background-color:#222222 !important;
-      }
+    body, body > div {
+      background-color: #222222 !important;
+    }
 
     .dark-mode-fix, .dark-mode-fix > table {
       background-color: #222222 !important;
+    }
+
+    .dark-mode-fix, 
+    .dark-mode-fix div, 
+    .dark-mode-fix a, 
+    .dark-mode-fix li > span,
+    .dark-mode-fix.mj-social span {
       color: #FFFFFF !important;
     }
 
-    .dark-mode-fix, .dark-mode-fix div, .dark-mode-fix a {
-      color: #FFFFFF !important;
+    .dark-mode-ignore, 
+    .dark-mode-ignore div, 
+    .dark-mode-ignore a  {
+      color: #291D18 !important;
     }
 
     .light-img {
@@ -52,5 +61,9 @@
       margin-top:0px !important; 
       visibility:inherit !important; 
     }
+
+    /* reworking actual colours */
+
+    .bg-grey-4 td { background-color: #2A2A2A !important; }
   }
 </mj-style>

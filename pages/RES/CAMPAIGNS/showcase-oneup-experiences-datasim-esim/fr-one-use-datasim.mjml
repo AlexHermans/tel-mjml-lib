@@ -63,11 +63,8 @@
        <mj-text mj-class="heading-5 fontstack-semi">
        Vous voulez faire des heureux avec cette bonne combine ?
        </mj-text>
-       <mj-text mj-class="heading-6" padding-top="0">
-        Partagez-la !
-       </mj-text>
        <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
-         <img src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" style="width:20px; vertical-align:middle;" width="20"/>&nbsp;&nbsp;<span style="vertical-align: middle">Partager via WhatsApp</span>
+          Partager via WhatsApp
        </mj-button>
       </mj-column>
     </mj-section>

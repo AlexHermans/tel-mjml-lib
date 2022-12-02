@@ -9,9 +9,9 @@
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
-      <mj-column padding="0">
-        <mj-text mj-class="text-white fontstack-bold heading-1" padding-top="0">
-          ONEup
+      <mj-column width="80%">
+        <mj-text mj-class="text-yellow fontstack-bold heading-1" padding-top="0">
+          ONE
         </mj-text>
         <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
             Commercial template subheader
@@ -20,9 +20,9 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-baby-blue hero-image-right" padding="0">
-      <mj-column width="700px" padding="0">
-        <mj-image padding="0" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
+    <mj-section mj-class="bg-baby-blue hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
     </mj-section>
 
@@ -120,7 +120,7 @@
     <!-- MAIN CTA -->
     <mj-section mj-class="container-group" padding="0">
       <mj-column mj-class="col-10">
-        <mj-button mj-class="col-4 primary" align="left">
+        <mj-button mj-class="primary" align="left">
           <strong>Bestel nu</strong>
         </mj-button>
       </mj-column>
@@ -132,7 +132,7 @@
         <mj-text mj-class="heading-3 fontstack-semi">
           Meer info nodig?
         </mj-text>
-        <mj-button href="~PROBE(121)~" align="left" mj-class="secondary col-4">
+        <mj-button href="~PROBE(121)~" align="left" mj-class="secondary ">
           <strong>Lees hier alles over OneUp
         </mj-button>
         <mj-text >

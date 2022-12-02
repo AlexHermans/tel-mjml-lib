@@ -46,11 +46,38 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.CUSTOMERNUMBER~ [TEST_ENTRY]
+                ~MASTER.CUSTOMERNUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
 
+       <!-- INSTALLATION_FIRSTNAME -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>First name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_FIRSTNAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- INSTALLATION_LASTNAME -->
+        <mj-section mj-class="col-10 bg-grey-4 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Last name</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_LASTNAME~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
        
         <!-- INSTALLATION_STREET -->
         <mj-section mj-class="col-10 bg-grey-8 table-row">
@@ -61,7 +88,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.INSTALLATION_STREET~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_STREET~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -75,7 +102,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.INSTALLATION_HOUSENUMBER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_HOUSENUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -89,7 +116,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.INSTALLATION_BUS~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_BUS~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -103,7 +130,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.INSTALLATION_ZIP_CODE~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_ZIP_CODE~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -118,7 +145,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.INSTALLATION_LOCATION~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.INSTALLATION_LOCATION~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -149,7 +176,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.TYPE_ENTRY~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.TYPE_ENTRY~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -164,7 +191,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.TYPE_TAKEOVER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.TYPE_TAKEOVER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -178,7 +205,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.SOMEONE_ELSE_FIRSTNAME~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_FIRSTNAME~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -192,7 +219,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.SOMEONE_ELSE_LASTNAME~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.SOMEONE_ELSE_LASTNAME~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -206,7 +233,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.COMPANY_NAME~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.COMPANY_NAME~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -237,7 +264,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_FIRSTNAME~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_FIRSTNAME~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -252,7 +279,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_LASTNAME~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_LASTNAME~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -266,7 +293,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_CUSTOMERNUMBER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_CUSTOMERNUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -280,7 +307,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_STREET~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_STREET~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -294,7 +321,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_HOUSENUMBER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_HOUSENUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -308,7 +335,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_BUS~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_BUS~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -322,7 +349,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_ZIP_CODE~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_ZIP_CODE~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -336,7 +363,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_LOCATION~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_LOCATION~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -350,7 +377,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_NATIONALITY~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_NATIONALITY~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -364,7 +391,21 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_DATEOFBIRTH~ [TEST_ENTRY]
+                ~(FORMATDATETIME(TAKEOVER_DECEASED_FORM.OVERTAKER_DATEOFBIRTH, '%d/%m/%Y'))~ 
+            </mj-text>
+        </mj-column>
+       </mj-section>
+
+       <!-- OVERTAKER_PLACEOFBIRTH -->
+        <mj-section mj-class="col-10 bg-grey-8 table-row">
+             <mj-column mj-class="table-border table-head">
+            <mj-text>
+                <b>Place of birth</b>
+            </mj-text>
+        </mj-column>
+        <mj-column mj-class="table-border table-content">
+            <mj-text>
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_PLACEOFBIRTH~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -378,7 +419,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_GENDER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_GENDER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -392,7 +433,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_IDCARDNUMBER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_IDCARDNUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -406,7 +447,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_EMAIL~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_EMAIL~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -420,7 +461,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_PHONE~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_PHONE~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -451,7 +492,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_PAYMENT_OPTIONS~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_PAYMENT_OPTIONS~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -466,7 +507,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_PAYMENT_IBANNUMBER~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_PAYMENT_IBANNUMBER~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -480,7 +521,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_EMAIL_ALTERNATIVE~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_EMAIL_ALTERNATIVE~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -511,7 +552,7 @@
         </mj-column>
         <mj-column mj-class="table-border table-content">
             <mj-text>
-                ~MASTER.OVERTAKER_PRODUCTS_AND_SERVICES~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.OVERTAKER_PRODUCTS_AND_SERVICES~ 
             </mj-text>
         </mj-column>
        </mj-section>
@@ -532,7 +573,7 @@
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  <b>Keep or discard</b>
+                  <b>Keep?</b>
               </mj-text>
           </mj-column>
         </mj-section>
@@ -541,17 +582,17 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_1~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_1~ 
             </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_1~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_1~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_1~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_1~ 
               </mj-text>
           </mj-column>
         </mj-section>
@@ -560,17 +601,17 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_2~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_2~ 
             </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_2~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_2~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_2~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_2~ 
               </mj-text>
           </mj-column>
         </mj-section>
@@ -579,17 +620,17 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_3~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_3~ 
             </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_3~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_3~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_3~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_3~ 
               </mj-text>
           </mj-column>
         </mj-section>
@@ -598,17 +639,17 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_4~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_4~ 
             </mj-text> 
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_4~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_4~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_4~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_4~ 
               </mj-text>
           </mj-column>
         </mj-section>
@@ -617,17 +658,17 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_5~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_5~ 
             </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_5~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_5~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_5~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_5~ 
               </mj-text>
           </mj-column>
         </mj-section>
@@ -636,17 +677,17 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
           <mj-column mj-class="table-border ">
             <mj-text>
-                ~MASTER.PHONENUMBER_TAKEOVER_6~ [TEST_ENTRY]
+                ~TAKEOVER_DECEASED_FORM.PHONENUMBER_TAKEOVER_6~ 
             </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_PUBLICATIONTYPE_6~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_PUBLICATIONTYPE_6~ 
               </mj-text>
           </mj-column>
           <mj-column mj-class="table-border">
               <mj-text>
-                  ~MASTER.NUMBER_RETENTION_6~ [TEST_ENTRY]
+                  ~TAKEOVER_DECEASED_FORM.NUMBER_RETENTION_6~ 
               </mj-text>
           </mj-column>
         </mj-section>

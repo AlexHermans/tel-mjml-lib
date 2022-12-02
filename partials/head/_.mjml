@@ -40,10 +40,13 @@
   <mj-class name="tertiary" href="~PROBE(122)~" background-color="" color="#291D18" text-decoration="underline"/>
   
 
-  <mj-class name="hero-text" padding-left="100px" padding-right="100px" />
-  <mj-class name="hero-image-left" padding="0" css-class="hero-container left" padding-right="100px" />
-  <mj-class name="hero-image-center" padding="0" css-class="hero-container center" />
-  <mj-class name="hero-image-right" padding="0" css-class="hero-container right" padding-left="100px"/>
+  <mj-class name="hero-text" css-class="dark-mode-ignore">
+    <mj-column width="80%" />
+  </mj-class>
+  <mj-class name="hero-image" padding="0" css-class="dark-mode-ignore"/>
+  <mj-class name="hero-image-left" padding="0" width="700px" align="left" />
+  <mj-class name="hero-image-right" padding="0" width="700px" align="right" />
+  <mj-class name="hero-image-center" padding="0" width="600px" align="center" />
 
   <mj-class name="column-padding" padding="0 30px 30px" />
 
@@ -70,21 +73,21 @@
   <mj-class name="hide-from-lg" css-class="hide-from-lg" />
   <mj-class name="hide-from-md" css-class="hide-from-md" />
   <mj-class name="hide-from-sm" css-class="hide-from-sm" />
-  <mj-class name="container-group" css-class="container-group" />
 
   <!-- GLOBAL STYLES -->
   <mj-table line-height="100%"/> <!-- Used to make sure images don't clip in Outlook because of fixed line-height. Overwrite when necessary. -->
   <mj-column padding="7.5px 15px"/>
-  <mj-section padding="7.5px 15px" background-color="#FFFFFF" css-class="container"/>
+  <mj-section padding="7.5px 15px" background-color="#FFFFFF" css-class="dark-mode-fix"/>
   <mj-all font-family="Arial, Helvetica, sans-serif" />
-  <mj-social-element color="#291D18" font-size="16px" line-height="28px" css-class="outlook-font-fix text-medium" />
+  <mj-social css-class="dark-mode-fix mj-social" /> 
+  <mj-social-element color="#291D18" font-size="16px" line-height="28px" css-class="outlook-font-fix text-medium dark-mode-fix" />
   <mj-text color="#291D18" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium"/>
   <mj-body background-color="#f5f4f0" width="800px" />
-  <mj-button href="~PROBE(120)~" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" />
+  <mj-button href="~PROBE(120)~" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6 dark-mode-ignore" />
 
 </mj-attributes>
 
-<mj-breakpoint width="630px" />
+<mj-breakpoint width="700px" />
 
 <mj-style>
   /*

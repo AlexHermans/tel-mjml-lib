@@ -1,18 +1,15 @@
 <mjml>
   <mj-head>
-      <mj-include path="../../partials/head/_.mjml" />
+      <mj-include path="../../../partials/head/_.mjml" />
   </mj-head>
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../../partials/preheader/_.mjml" />
+    <mj-include path="../../../partials/preheader/nl-tb.mjml" />
 
-    <mj-section>
-        <!-- PLACEHOLDER -->
-    </mj-section>
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
-      <mj-column>
+      <mj-column width="600px">
         <mj-text mj-class="heading-4 fontstack-semi">
             Sorry, als je ons gisteren niet kon bereiken 
         </mj-text>
@@ -22,7 +19,7 @@
 
    <!-- INTRO -->
    <mj-section>
-      <mj-column width="600px">
+      <mj-column mj-class="col-10">
         <mj-text mj-class="text-medium">
             Beste klant,<br><br>Je hebt het misschien opgemerkt of vernomen via de pers: gisteren hadden we een storing waardoor een aantal van onze apps en diensten zoals Mijn Telenet en Webmail niet werkten. Klaarstaan voor jou en ervoor zorgen dat je altijd verbonden blijft, is onze hoogste prioriteit. En dus is het alle hens aan dek om het probleem te fiksen. <br><br>Sorry als je ons gisteren niet kon bereiken of niet kon inloggen op je Telenet-diensten. 
         </mj-text>
@@ -30,8 +27,8 @@
     </mj-section>
 
     <!-- SUB-TITLE -->
-    <mj-section css-class="container-group" padding-top="0" padding-bottom="0">
-      <mj-column width="600px">
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column mj-class="col-10">
         <mj-text mj-class="heading-5 fontstack-semi">
           We zijn er terug
         </mj-text>
@@ -40,24 +37,16 @@
 
     <!-- INTRO -->
    <mj-section padding-top="0">
-      <mj-column width="600px">
+      <mj-column mj-class="col-10">
         <mj-text mj-class="text-medium" padding-top="0">
             En we staan opnieuw voor je klaar! Ondervind je toch nog hinder of heb je een vraag voor ons? We helpen je graag via het kanaal dat jij verkiest. <a href="~PROBE(140)~">Meer info</a>
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-     <!-- INTRO -->
-   <mj-section padding-bottom="30px" padding-top="0">
-      <mj-column width="600px">
-        <mj-text mj-class="text-medium">
-           Vriendelijke groeten,<br>Het Telenet Business-team
-        </mj-text>
+        <mj-include path="../../../partials/signature/nl-tb.mjml" />
       </mj-column>
     </mj-section>
 
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/nl/standard.mjml" />
+    <mj-include path="../../../partials/footer/nl/standard-tb.mjml" />
   </mj-body>
 </mjml>
