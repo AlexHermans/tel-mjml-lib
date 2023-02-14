@@ -15,6 +15,9 @@
 
   @media (max-width: 700px) {
 
+    .hide-until-xl {display: none !important;}
+    .hide-from-xl {display: inherit !important;}
+
     body {
       padding: 15px 13px !important;
     }

@@ -20,17 +20,6 @@
         </mj-column>
     </mj-section>
 
-    <!-- PRE-HEADER -->
-    <!-- <mj-section>
-      <mj-column mj-class="col-10">
-        <mj-social padding="0" align="left" icon-size="60px" text-padding="0 0 0 15px">
-          <mj-social-element href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png">
-            <b>~MESSAGE.PREHEADER~</b><br>Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
-          </mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section> -->
-
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
       <mj-column padding="0" width="300px">
@@ -51,8 +40,8 @@
         </mj-table>
         <mj-spacer/>
       </mj-column >
-       <mj-column width="400px" padding="0" padding-top="3px">
-        <mj-image mj-class="hide-until-lg" padding="0" height="250px" width="300px" src="https://comm.telenet.be/images//SANDBOX/Alex/pega-em-new3.png" alt="" />
+       <mj-column width="300px" padding="0" padding-top="3px">
+        <mj-image mj-class="hide-until-xl" padding="0" height="250px" width="300px" src="https://comm.telenet.be/images//SANDBOX/Alex/pega-em-new3.png" alt="" />
       </mj-column>
     </mj-section>
 

@@ -67,9 +67,11 @@
   <mj-include path="styles/colours.mjml" />
 
   <!-- MJ-CLASS to CSS-CLASS MAPPING -->
+  <mj-class name="hide-until-xl" css-class="hide-until-xl" />
   <mj-class name="hide-until-lg" css-class="hide-until-lg" />
   <mj-class name="hide-until-md" css-class="hide-until-md" />
   <mj-class name="hide-until-sm" css-class="hide-until-sm" />
+  <mj-class name="hide-from-xl" css-class="hide-from-xl" />
   <mj-class name="hide-from-lg" css-class="hide-from-lg" />
   <mj-class name="hide-from-md" css-class="hide-from-md" />
   <mj-class name="hide-from-sm" css-class="hide-from-sm" />
