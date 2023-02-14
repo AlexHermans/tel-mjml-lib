@@ -1,12 +1,14 @@
 <!-- These are utility classes for layouting -->
 
 <mj-style>
+  .hide-until-xl,
   .hide-until-lg,
   .hide-until-md,
   .hide-until-sm {
     display: auto;
   }
 
+  .hide-from-xl,
   .hide-from-lg,
   .hide-from-md,
   .hide-from-sm {
