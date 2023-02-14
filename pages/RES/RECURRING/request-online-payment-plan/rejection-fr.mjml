@@ -1,0 +1,50 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-olivine hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Votre demande de plan de paiement a été refusée
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+           Nous avons bien reçu votre demande de plan de paiement. Elle a malheureusement été refusée, car le solde impayé doit être d'au moins 100 €.
+        </mj-text>
+        <mj-text>
+            Vous avez indiqué un solde impayé de ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.OPEN_BALANCE~€
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Vous voulez vérifier votre solde impayé ? 
+        </mj-text>
+         <mj-text>
+           Vous pouvez facilement le faire via My Telenet ou dans l'app Telenet. Vous trouverez plus d'informations sur la façon de le faire sur le <a href="~PROBE(140)~">Service Client</a>.
+        </mj-text>
+        <mj-text>
+            Quelque chose n'est pas correct ou votre solde impayé dépasse bien 100 € ? Veuillez à nouveau remplir le formulaire.
+        </mj-text>
+        <mj-button align="left" mj-class="primary fontstack-semi">
+            Remplissez à nouveau le formulaire.
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+            ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_NL) > 0, CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_NL, 'Check!'))~
+        </mj-text>
+        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+            ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_NL) > 0, CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_NL, 'Je deelname aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~ is bevestigd'))~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            We hebben je deelname aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~ goed ontvangen!
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           En nu? Duimen maar!
+        </mj-text>
+         <mj-text>
+            De wedstrijd loopt nog tot ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. Nog even geduld dus. Heb je gewonnen? Dan ontvang je ten laatste ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d-%m'))~ een mailtje met alle info om je prijs te claimen. <b>Houd dus zeker je mailbox in de gaten!</b>
+        </mj-text>
+        <mj-raw>
+            <div id="MASECTION" macontenteditable="FALSE" maconstraint="MASTER.NUM_ENTRY < CONTEST_CONFIG.MAX_ALLOWED_ENTRIES" matype="" mahidediv="true">
+        </mj-raw>
+            <mj-text>
+                Je mag ~CONTEST_CONFIG.MAX_ALLOWED_ENTRIES~ keer/keren meedoen met deze wedstrijd. Jij hebt ~MASTER.NUM_ENTRY~ keer meegedaan dus jij kan nog opnieuw meedoen. Vul dan opnieuw het formulier in.
+            </mj-text>
+            <mj-button align="left" mj-class="fontstack-semi primary">
+                Formulier opnieuw invullen
+            </mj-button>
+        <mj-raw>
+            </div>
+        </mj-raw>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/comm-res.mjml" />
+
+  </mj-body>
+</mjml>

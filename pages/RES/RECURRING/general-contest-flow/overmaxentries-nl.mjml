@@ -1,0 +1,55 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL) > 0, CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL, 'Ai!'))~
+        </mj-text>
+        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_TAGLINE_NL) > 0, CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_TAGLINE_NL, 'Je nam al deel met de wedstrijd'))~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            Leuk dat je opnieuw probeerde meedoen aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~, maar we ontvingen al een deelname voor jouw klantennummer. Per klantennummer kan je maar ~CONTEST_CONFIG.MAX_ALLOWED_ENTRIES~ keer je kans wagen
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Wat gebeurt er nu?
+        </mj-text>
+         <mj-text>
+            Je deed al mee en je kan dus zeker nog winnen. De wedstrijd loopt nog tot ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d-%m-%y %X'))~. Gewonnen? Dan ontvang je ten laatste op  ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d-%m'))~ een mail met alle info om je prijs te claimen. <b>Hou dus zeker je mailbox in de gaten!</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/comm-res.mjml" />
+
+  </mj-body>
+</mjml>

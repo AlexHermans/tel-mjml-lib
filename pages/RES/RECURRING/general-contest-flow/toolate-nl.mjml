@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+            Sorry!
+        </mj-text>
+        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+            Je kan niet meer meedoen aan de wedstrijd
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            Bedankt voor je interesse in de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~ maar je bent jammer te laat om aan deze wedstrijd mee te doen. Deze wedstrijd liep tot ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d-%m-%y %X'))~.
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Wat moet ik nu doen?
+        </mj-text>
+         <mj-text>
+            Heb je je al geregistreerd? Dan krijg je binnenkort een mail met alle informatie als je gewonnen hebt. Heb je nog niet geregistreerd, neem dan een kijkje in de app of er niet meteen een volgende wedstrijd is!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/comm-res.mjml" />
+
+  </mj-body>
+</mjml>

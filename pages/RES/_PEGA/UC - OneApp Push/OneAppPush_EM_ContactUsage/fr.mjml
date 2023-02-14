@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-peach" padding="0" padding-top="0">
+      <mj-column padding="0" width="300px">
+        <mj-text mj-class="fontstack-semi heading-3">
+           L'app Telenet vous aide à vivre la  meilleure expérience de surf
+        </mj-text>
+        <mj-spacer/>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(101)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(102)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+        <mj-spacer/>
+      </mj-column >
+       <mj-column width="400px" padding-left="0px" padding="0">
+        <mj-image mj-class="hide-until-lg" padding="0" src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_visual.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+          Vous nous avez récemment posé une question au sujet de votre réseau. Nous espérons que vous avez reçu rapidement une réponse. <b>Savez-vous que vous pouvez aussi compter sur l'app gratuite Telenet pour une expérience de surf optimale ?</b> De cette façon, vous tirez le maximum du Réseau de Flandre.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section>
+      <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
+        <mj-text mj-class="fontstack-semi heading-5">
+          Tous les détails de votre réseau en poche
+        </mj-text>
+        <mj-text padding-bottom="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li style="margin-bottom:5px">Vérifiez le <b>statut de votre réseau domestique</b> et recevez une notification en cas de défaillances.
+                </li>
+                <li style="margin-bottom:5px">Grâce au <b>diagnostic</b>, vous résolvez tout problème internet étape par étape.
+                </li>
+                <li style="margin-bottom:5px">Gérez les paramètres de votre réseau, mesurez votre vitesse ou redémarrez votre modem directement dans l'app.
+                </li>
+                <li>Donnez aux visiteurs un <b>accès instantané à votre internet</b>, sans partager votre mot de passe.
+                </li>
+            </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Découvrez toutes les fonctions
+        </mj-text>
+        <mj-text>
+         L'app Telenet offre de nombreuses autres fonctionnalités utiles. 
+        </mj-text>
+        <mj-text padding-top="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li style="margin-bottom:5px">Trouvez une <b>réponse</b> à toutes vos questions ou <b>chattez</b> directement avec un collaborateur via WhatsApp.
+                </li>
+                <li style="margin-bottom:5px">Contrôlez votre <b>consommation</b> et configurez des <b>notifications de consommation</b>.
+                </li>
+                <li style="margin-bottom:5px">Consultez votre solde impayé, payez votre <b>relevé de compte</b> ou demandez une domiciliation en un clin d’œil. 
+                </li>
+                <li style="margin-bottom:5px">Restez toujours au courant grâce aux <b>messages personnels.</b>
+                </li>
+                <li>Téléchargez l'app et découvrez encore plus de fonctionnalités !</li>
+            </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-peach">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+          Téléchargez l’app !
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(101)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(102)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+        <mj-spacer/>
+      </mj-column>
+    </mj-section>
+
+    <!-- SIGNATURE -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FEEDBACK -->
+    <mj-include path="../../../../../partials/feedback/fr.mjml" />
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../../partials/footer/fr/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

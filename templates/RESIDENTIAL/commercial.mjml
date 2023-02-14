@@ -120,7 +120,7 @@
     <!-- MAIN CTA -->
     <mj-section mj-class="container-group" padding="0">
       <mj-column mj-class="col-10">
-        <mj-button mj-class="col-4 primary" align="left">
+        <mj-button mj-class="primary" align="left">
           <strong>Bestel nu</strong>
         </mj-button>
       </mj-column>
@@ -132,8 +132,8 @@
         <mj-text mj-class="heading-3 fontstack-semi">
           Meer info nodig?
         </mj-text>
-        <mj-button href="~PROBE(121)~" align="left" mj-class="secondary col-4">
-          <strong>Lees hier alles over OneUp
+        <mj-button href="~PROBE(121)~" align="left" mj-class="secondary">
+          <strong>Lees hier alles over OneUp</strong>
         </mj-button>
         <mj-text >
           Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.

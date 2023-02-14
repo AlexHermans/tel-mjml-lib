@@ -11,31 +11,31 @@
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-olivine hero-text" padding-top="0">
       <mj-column>
         <mj-text mj-class="heading-2 fontstack-semi">
-            Jouw aanvraag voor een afbetalingsplan
+            Votre demande de plan de paiement
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section>
         <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-include path="../../../../partials/salutation/fr/dynamic-res.mjml" />
         <mj-text>
-            We hebben je aanvraag voor een afbetalingsplan goed ontvangen.
+           Nous avons bien reçu votre demande de plan de paiement. 
         </mj-text>
         <mj-text mj-class="heading-5 fontstack-semi">
-           Wat gebeurt er nu?
+          Que va-t-il se passer ?
         </mj-text>
         <mj-text>
-            We contacteren je binnen de 2 werkdagen om alles in orde te brengen.
+            Nous vous contacterons dans les 2 ouvrables pour tout régler.
         </mj-text>
         <mj-text mj-class="heading-5 fontstack-semi" padding-bottom="15px">
-           Hier is de informatie die je ons meegaf:
+           Voici les informations que vous nous avez communiquées : 
         </mj-text>
         </mj-column>
     </mj-section>
@@ -47,7 +47,7 @@
         <mj-section mj-class="col-10 bg-grey-16" padding-top="0">
           <mj-column >
             <mj-text mj-class="heading-4">
-              <b>Contactgegevens</b>
+              <b>Données de contact</b>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -56,7 +56,7 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Klantennummer</b>
+                <b>Numméro de client</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -70,7 +70,7 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Voornaam</b>
+                <b>Prénom</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -84,7 +84,7 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Achternaam</b>
+                <b>Nom de famille</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -98,7 +98,7 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>E-mailadres</b>
+                <b>Adresse e-mail </b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -112,7 +112,7 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Telefoonnummer</b>
+                <b>Numéro de téléphone (+32...) </b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -131,7 +131,7 @@
         <mj-section mj-class="col-10 bg-grey-16">
           <mj-column >
             <mj-text mj-class="heading-4">
-              <b>Betalingsinformatie</b>
+              <b>Information de paiement</b>
             </mj-text>
 
           </mj-column>
@@ -141,7 +141,7 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Openstaand saldo</b>
+                <b>Solde impayé</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -156,7 +156,7 @@
         <mj-section mj-class="col-10 bg-grey-8 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Betaaltermijn</b>
+                <b>Délai de paiement</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -176,7 +176,7 @@
         <mj-section mj-class="col-10 bg-grey-16">
           <mj-column >
             <mj-text mj-class="heading-4">
-              <b>Andere informatie</b>
+              <b>Autre information</b>
             </mj-text>
 
           </mj-column>
@@ -186,7 +186,7 @@
         <mj-section mj-class="col-10 bg-grey-4 table-row">
              <mj-column mj-class="table-border table-head">
             <mj-text>
-                <b>Opmerking(en)</b>
+                <b>Remarque(s)</b>
             </mj-text>
         </mj-column>
         <mj-column mj-class="table-border table-content">
@@ -201,17 +201,17 @@
     <mj-section>
       <mj-column mj-class="col-10">
         <mj-text>
-            Is er iets niet juist? Vul het formulier opnieuw in.
+            Quelque chose n'est pas correct ? Remplissez à nouveau le formulaire.
         </mj-text>
         <mj-button align="left" mj-class="primary fontstack-semi">
-            Vul het formulier opnieuw in
+            Remplissez à nouveau le formulaire.
         </mj-button>
       </mj-column>
     </mj-section>
 
     <mj-section >
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+        <mj-include path="../../../../partials/signature/fr-res.mjml" />
       </mj-column>
     </mj-section>
 
