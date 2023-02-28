@@ -11,7 +11,7 @@
         </mj-column>
         <mj-column width="525px">
             <mj-text mj-class="fontstack-medium" css-class="hide-until-md" align="left" padding="0">
-                <strong>Téléchargez l'app et ne ratez plus rien.</strong>
+                <strong>Avec l’app Telenet, vous restez au courant partout</strong>
             </mj-text>
             <mj-text mj-class="fontstack-light" align="left" padding="0">
                 Vous ne pouvez pas lire ce mail? <a href="~PROBE(0)~">Cliquez ici</a>
@@ -23,7 +23,7 @@
     <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
       <mj-column padding="0" width="300px">
         <mj-text mj-class="fontstack-semi heading-3">
-            Toujours et partout au courant grâce à l'app Telenet
+            Au courant partout et à tout moment ?  <!--[if !mso]>--><span class="hide-from-xl" style="color:#FFC421">Téléchargez l’app sans attendre !</span><!--<![endif]-->
         </mj-text>
         <mj-spacer/>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">

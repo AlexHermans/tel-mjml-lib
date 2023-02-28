@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
+      <mj-column width="600px">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+            La collaboration entre NAKI et Telenet prend fin
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- BODY -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-text>
+            À partir du 1er avril 2023, NAKI ne fera plus partie de votre abonnement ONE, ONEup ou WIGO. Passé cette date, vous pouvez toujours recharger avec une powerbank NAKI, mais vous devrez payer le tarif normal de NAKI. Par conséquent, les premières 24 heures de votre session de recharge seront elles aussi payantes.
+        </mj-text>
+        <mj-text>
+            En raison de ces changements, vous voulez résilier votre abonnement ? Nous regrettons bien entendu cette décision. Vous pouvez résilier gratuitement via le <a href="~PROBE(140)~">0800 66 350</a>. 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/fr-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/fr/comm-res.mjml" />
+    
+  </mj-body>
+</mjml>

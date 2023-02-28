@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/en-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
+      <mj-column width="600px">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+            Cooperation between NAKI and Telenet will end
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- BODY -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../../partials/salutation/en/dynamic-informal-res.mjml" />
+        <mj-text>
+            Starting from April 1st 2023, NAKI will no longer be a part of your ONE(up), WIGO or YUGO subscription. You will still be able to charge your device with a NAKI powerbank, but you will have to pay the going rates determined by NAKI. This includes the first 24 hours of a charging session.
+        </mj-text>
+        <mj-text>
+            Do you want to cancel your subscription because of this change? We're sorry to hear that. You can cancel your subscription for free by calling <a href="~PROBE(140)~">0800 66 350</a>. 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/en-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/en/comm-res.mjml" />
+    
+  </mj-body>
+</mjml>

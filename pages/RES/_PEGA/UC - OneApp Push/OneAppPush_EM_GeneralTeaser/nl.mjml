@@ -4,6 +4,7 @@
   </mj-head>
 
   <mj-body>
+  
     <!-- PRE-HEADER -->
     <mj-section padding-bottom="30px">
         <mj-column width="75px" padding="0 0 0 15px">
@@ -11,10 +12,10 @@
         </mj-column>
         <mj-column width="525px">
             <mj-text mj-class="fontstack-medium" css-class="hide-until-md" align="left" padding="0">
-                <strong>Téléchargez l'app et ne ratez plus rien.</strong>
+                <strong>Aanrekening, netwerk of verbruik? Check ’t rap in de app.</strong>
             </mj-text>
             <mj-text mj-class="fontstack-light" align="left" padding="0">
-                Vous ne pouvez pas lire ce mail? <a href="~PROBE(0)~">Cliquez ici</a>
+                Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
             </mj-text>
         </mj-column>
     </mj-section>
@@ -23,7 +24,7 @@
     <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
       <mj-column padding="0" width="300px">
         <mj-text mj-class="fontstack-semi heading-3">
-            Toujours et partout au courant grâce à l'app Telenet
+            Altijd en overal op de hoogte? <!--[if !mso]>--><span class="hide-from-xl" style="color:#FFC421">Download rap de app</span><!--<![endif]-->
         </mj-text>
         <mj-spacer/>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
@@ -39,39 +40,39 @@
         </mj-table>
         <mj-spacer/>
       </mj-column >
-       <mj-column width="300px" padding="0" padding-top="3px" vertical-align="bottom">
-        <mj-image mj-class="hide-until-xl" padding="0" width="300px" src="https://mkt.telenet.be/images/CDH/Service/One-App-Push/header-em-fr.png" alt="" />
+       <mj-column width="300px" padding="0" padding-top="3px">
+        <mj-image mj-class="hide-until-xl" padding="0" height="250px" width="300px" src="https://mkt.telenet.be/images/CDH/Service/One-App-Push/header-em.png" alt="" />
       </mj-column>
     </mj-section>
 
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../../partials/salutation/fr/dynamic-res.mjml" />
+        <mj-include path="../../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
         <mj-text>
-          Telenet tient à vous <b>faciliter la vie</b>. Avec l'<b>app Telenet gratuite</b>, vous êtes informé partout à propos de votre réseau, vos services et votre relevé de compte. Vous y trouverez la réponse à vos questions et vous ne ratez plus jamais un message personnel.
+          Telenet maakt je leven graag <b>gemakkelijk</b>. Met de <b>gratis Telenet-app</b> blijf je overal op de hoogte van je netwerk, diensten en aanrekening. Je vindt er een antwoord op je vragen en mist nooit nog een persoonlijk berich
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- QUOTE -->
+    <!-- Block -->
     <mj-section>
       <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
         <mj-text mj-class="fontstack-semi heading-5">
-          Telenet dans votre poche
+          De wereld van Telenet op zak
         </mj-text>
         <mj-text padding-bottom="0">
-          Un écran de démarrage pratique vous donne en un coup d'œil une vue d’ensemble de votre univers Telenet personnel. L'app Telenet peut faire encore plus !
+          Een handig startscherm geeft je in één oogopslag een overzicht van jouw persoonlijke Telenet-wereld. Maar de Telenet-app gaat nog veel verder!
         </mj-text>
         <mj-text padding-bottom="0">
           <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; font-size:16px; line-height:28px;" align="left" type="disc">
-                <li style="margin-bottom:5px">Vérifiez votre <b>consommation</b>, découvrez combien il vous reste et quand commence votre nouvelle période de consommation. Vous trouverez tous les détails de tous vos numéros mobiles et d'internet chez vous.
+                <li style="margin-bottom:5px">Check je <b>verbruik</b>, kijk na hoeveel je nog over hebt én wanneer je nieuwe verbruiksperiode start. Je vindt er alle details van je mobiele nummers én van je internet thuis.
                 </li>
-                <li style="margin-bottom:5px">Vérifiez et payez votre <b>solde</b> impayé, commencez une <b>domiciliation</b> en un clin d’œil et consultez vos <b>relevés de compte</b> des 14 derniers mois.
+                <li style="margin-bottom:5px">Controleer en betaal je openstaande <b>saldo</b>, start in 1-2-3 een <b>domiciliëring</b> op, en kijk je <b>aanrekeningen</b> tot wel 14 maanden terug na.
                 </li>
-                <li style="margin-bottom:5px">Surveillez votre réseau domestique de n'importe où et recevez des alertes en cas de pannes. Vous voulez améliorer votre wifi ou permettre à vos visiteurs d'accéder à votre internet sans devoir partager votre mot de passe ? C’est un jeu d’enfant.
+                <li style="margin-bottom:5px">Volg overal je thuisnetwerk op en ontvang een melding bij storingen. Je wifi verbeteren of bezoekers toegang geven tot je internet, zonder je wachtwoord te delen? Zo gedaan.
                 </li>
-                <li>Modifier vos <b>services</b>, trouver des réponses à vos <b>questions</b>, chatter via WhatsApp avec un collaborateur ... tout ceci est possible dans l'app Telenet. Et grâce aux <b>messages personnels</b> dans l'app, vous restez toujours au courant. Pratique, n’est-ce pas ?
+                <li>Je <b>diensten</b> aanpassen, een antwoord vinden op je <b>vragen</b>, whatsappen met een medewerker, in de Telenet-app kan het allemaal. En met de <b>persoonlijke berichten</b> in de app blijf je altijd op te hoogte. Als dat niet handig is.
                 </li>
             </ul>
         </mj-text>
@@ -80,23 +81,23 @@
 
     <mj-section>
       <mj-column>
-         <mj-spacer/>
+        <mj-spacer />
       </mj-column>
     </mj-section>
 
     <mj-section mj-class="bg-lemon">
       <mj-column mj-class="col-10">
         <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
-          Téléchargez l’app !
+          Download nu de app!
         </mj-text>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
             <tr>
                 <td width="140">
-                    <a href="~PROBE(101)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                    <a href="~PROBE(101)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
                 </td>
                 <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
                 <td width="140">
-                    <a href="~PROBE(102)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                    <a href="~PROBE(102)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
                 </td>
             </tr>
         </mj-table>
@@ -107,15 +108,15 @@
     <!-- SIGNATURE -->
     <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../../partials/signature/fr-res.mjml" />
+        <mj-include path="../../../../../partials/signature/nl-res.mjml" />
       </mj-column>
     </mj-section>
 
     <!-- FEEDBACK -->
-    <mj-include path="../../../../../partials/feedback/fr.mjml" />
+    <mj-include path="../../../../../partials/feedback/nl.mjml" />
 
      <!-- FOOTER -->
-    <mj-include path="../../../../../partials/footer/fr/standard-res.mjml" />
+    <mj-include path="../../../../../partials/footer/nl/standard-res.mjml" />
     
   </mj-body>
 </mjml>
