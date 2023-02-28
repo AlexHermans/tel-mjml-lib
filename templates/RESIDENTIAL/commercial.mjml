@@ -5,7 +5,7 @@
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../../partials/preheader/nl-res.mjml" />
+    <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
@@ -138,12 +138,12 @@
         <mj-text >
           Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
         </mj-text>
-        <mj-include path="../../partials/signature/nl-res.mjml" />
+        <mj-include path="../../partials/signature/nl/res-standard.mjml" />
       </mj-column>
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/nl/with-legal-res.mjml" />
+    <mj-include path="../../partials/footer/nl/res-mkt-withlegal.mjml" />
     
   </mj-body>
 </mjml>

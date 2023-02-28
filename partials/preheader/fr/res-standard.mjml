@@ -1,0 +1,17 @@
+<mjml>
+    <mj-body>
+          <mj-section css-class="dark-mode-fix" padding="0">
+            <mj-group mj-class="col-10">
+                <mj-include path="../partials/logo-res.mjml" />
+                <mj-column padding="25px 0 0" width="66%">
+                    <mj-text mj-class="fontstack-medium text-medium" css-class="hide-until-md" align="left" padding="0">
+                        <strong>~MESSAGE.PREHEADER~</strong>
+                    </mj-text>
+                    <mj-text mj-class="fontstack-light text-medium" align="left" padding="5px 0 0 0">
+                        Vous ne pouvez pas lire ce mail ? <a href="~PROBE(0)~">Cliquez ici</a>
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+    </mj-body>
+</mjml>

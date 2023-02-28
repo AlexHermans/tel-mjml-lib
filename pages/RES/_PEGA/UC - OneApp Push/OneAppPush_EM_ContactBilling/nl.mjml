@@ -115,7 +115,7 @@
     </mj-section>
 
     <!-- FEEDBACK -->
-    <mj-include path="../../../../../partials/feedback/nl.mjml" />
+    <mj-include path="../../../../../partials/feedback/nl/standard.mjml" />
 
      <!-- FOOTER -->
     <mj-include path="../../../../../partials/footer/nl/standard-res.mjml" />

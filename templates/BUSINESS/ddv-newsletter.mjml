@@ -5,7 +5,7 @@
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../../partials/preheader/nl-tb.mjml" />
+    <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text" padding="0">
@@ -106,6 +106,6 @@
       </mj-group>
     </mj-section>
 
-    <mj-include path="../../partials/footer/nl/standard-tb.mjml" />
+    <mj-include path="../../partials/footer/nl/bus-mkt-standard.mjml" />
   </mj-body>
 </mjml>
