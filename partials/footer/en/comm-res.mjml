@@ -1,0 +1,21 @@
+<mjml>
+    <mj-body>
+        <mj-section mj-class="bg-light">
+            <mj-column width="510px">
+                <mj-text mj-class="text-darkgrey text-small">
+                    &copy; ~SYSTEM.ENV_LEGAL_ENTITY_EN~ &bull; Registered office <span class="HideMobile">&bull;</span> ~SYSTEM.ENV_LEGAL_ADDRESS_EN~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_EN~.<br><a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="General conditions" target="_blank" href="~PROBE(301)~">General&nbsp;Conditions</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="90px" >
+                <mj-raw>
+                    <!--[if !mso]>-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="90px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="dark-img"/>
+                <mj-raw>
+                    <!--<![endif]-->
+                </mj-raw>
+                <mj-image href="~PROBE(500)~" padding="0" align="right" width="120px" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="" css-class="light-img"/>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
