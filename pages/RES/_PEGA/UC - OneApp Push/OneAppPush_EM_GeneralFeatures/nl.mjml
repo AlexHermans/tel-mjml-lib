@@ -50,7 +50,7 @@
       <mj-column mj-class="col-10">
         <mj-include path="../../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
         <mj-text>
-          Telenet maakt je leven graag <b>gemakkelijk</b>. Met de <b>gratis Telenet-app</b> blijf je overal op de hoogte van je netwerk, diensten en aanrekening. Je vindt er een antwoord op je vragen en mist nooit nog een persoonlijk berich
+          Telenet maakt je leven graag <b>gemakkelijk</b>. Met de <b>gratis Telenet-app</b> blijf je overal op de hoogte van je netwerk, diensten en aanrekening. Je vindt er een antwoord op je vragen en mist nooit nog een persoonlijk bericht.
         </mj-text>
       </mj-column>
     </mj-section>
