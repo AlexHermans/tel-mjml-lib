@@ -5,16 +5,16 @@
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
+    <mj-include path="../../../../partials/preheader/fr/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
         <mj-text mj-class="heading-1 fontstack-semi text-yellow">
-            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_CALLOUT_NL)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_CALLOUT_NL,'Sorry!'))~
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_CALLOUT_FR,'Désolé !'))~
         </mj-text>
         <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
-            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_TAGLINE_NL)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_TAGLINE_NL,'Je kan nog niet meedoen aan de wedstrijd!'))~
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_TAGLINE_FR,'Vous ne pouvez pas encore participer au concours'))~
         </mj-text>
       </mj-column>
     </mj-section>
@@ -28,27 +28,27 @@
 
     <mj-section>
         <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/salutation/nl/res-informal.mjml" />
+        <mj-include path="../../../../partials/salutation/fr/res-standard.mjml" />
         <mj-text>
-            Je gaf je gegevens al door in de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~. Leuk dat je zo enthousiast bent! Helaas was je nog net iets te vroeg, de wedstrijd start pas ~(FORMATDATETIME(CONTEST_CONFIG.START_DATE, '%d-%m-%y %X'))~.
+            Vous avez déjà communiqué vos données dans le cadre du concours pour le ~CONTEST_CONFIG.CONTEST_NAME_FR~. Un tel enthousiasme fait plaisir à voir ! Malheureusement, vous êtes un peu trop à l’avance : le concours ne commence que le ~(FORMATDATETIME(CONTEST_CONFIG.START_DATE, '%d-%m-%y %X'))~.
         </mj-text>
         <mj-text mj-class="heading-5 fontstack-semi">
-           Kom snel terug!
+           Revenez bientôt !
         </mj-text>
          <mj-text>
-            <b>Je registratie is niet voltooid</b> Wil je graag winnen? Vul dan na de startdatum het formulier opnieuw in.  
+            <b>Votre enregistrement n'a pas été clôturé</b>. Vous tenez à gagner ? Remplissez à nouveau le formulaire après la date de début.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="0">
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/signature/nl/res-standard.mjml" />
+        <mj-include path="../../../../partials/signature/fr/res-standard.mjml" />
       </mj-column>
     </mj-section>
 
     <!-- FOOTER -->
-    <mj-include path="../../../../partials/footer/nl/res-com-standard.mjml" />
+    <mj-include path="../../../../partials/footer/fr/res-com-standard.mjml" />
 
   </mj-body>
 </mjml>

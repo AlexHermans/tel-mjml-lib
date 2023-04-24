@@ -5,16 +5,16 @@
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
+    <mj-include path="../../../../partials/preheader/fr/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
         <mj-text mj-class="heading-1 fontstack-semi text-yellow">
-            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_CALLOUT_NL)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_CALLOUT_NL,'Sorry!'))~
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_CALLOUT_FR,'Désolé !'))~
         </mj-text>
         <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
-            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_TAGLINE_NL)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_TAGLINE_NL,'Je kan niet meer meedoen aan de wedstrijd!'))~
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_TAGLINE_FR,'Vous ne pouvez plus participer au concours'))~
         </mj-text>
       </mj-column>
     </mj-section>
@@ -28,21 +28,21 @@
 
     <mj-section>
         <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/salutation/nl/res-informal.mjml" />
+        <mj-include path="../../../../partials/salutation/fr/res-standard.mjml" />
         <mj-text>
-            Bedankt voor je interesse in de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~. Helaas liep de wedstrijd af op ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. 
+            Merci de votre intérêt pour le concours consacré au ~CONTEST_CONFIG.CONTEST_NAME_FR~. Malheureusement, ce concours a pris fin le ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. 
         </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section padding-top="0">
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../partials/signature/nl/res-standard.mjml" />
+        <mj-include path="../../../../partials/signature/fr/res-standard.mjml" />
       </mj-column>
     </mj-section>
 
     <!-- FOOTER -->
-    <mj-include path="../../../../partials/footer/nl/res-com-standard.mjml" />
+    <mj-include path="../../../../partials/footer/fr/res-com-standard.mjml" />
 
   </mj-body>
 </mjml>

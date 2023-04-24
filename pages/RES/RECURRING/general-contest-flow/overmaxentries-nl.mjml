@@ -8,7 +8,7 @@
     <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section mj-class="bg-lemon hero-text" padding-top="0">
+    <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
         <mj-text mj-class="heading-1 fontstack-semi text-yellow">
              ~(IF(LEN(CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL) > 0, CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL, 'Ai!'))~
@@ -20,7 +20,7 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-lemon hero-image" padding="0">
+    <mj-section mj-class="hero-image" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding="0">
       <mj-column padding="0">
         <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
       </mj-column>
