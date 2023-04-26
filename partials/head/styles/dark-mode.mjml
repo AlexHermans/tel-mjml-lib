@@ -26,7 +26,12 @@
 
     .dark-mode-ignore, 
     .dark-mode-ignore div, 
-    .dark-mode-ignore a  {
+    .dark-mode-ignore a,
+    .dark-mode-ignore .button,  {
+      color: #291D18;
+    }
+
+    .dark-mode-fix .button a{
       color: #291D18 !important;
     }
 

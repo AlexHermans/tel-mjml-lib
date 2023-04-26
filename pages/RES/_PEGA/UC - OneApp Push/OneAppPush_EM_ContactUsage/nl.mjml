@@ -1,0 +1,124 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-peach" padding="0" padding-top="0">
+      <mj-column padding="0" width="300px">
+        <mj-text mj-class="fontstack-semi heading-3">
+            De Telenet-app helpt je aan de  beste surfervaring
+        </mj-text>
+        <mj-spacer/>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(101)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(102)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+        <mj-spacer/>
+      </mj-column >
+       <mj-column width="400px" padding-left="0px" padding="0">
+        <mj-image mj-class="hide-until-lg" padding="0" src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_visual.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+          Je stelde ons onlangs een vraag over je netwerk. Hopelijk kreeg je snel een antwoord. <b>Wist je dat je ook voor de beste surfervaring kan rekenen op de gratis Telenet-app?</b> Zo haal je alles uit hét netwerk van Vlaanderen.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Block -->
+    <mj-section>
+      <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
+        <mj-text mj-class="fontstack-semi heading-5">
+          Alle details van je netwerk op zak
+        </mj-text>
+        <mj-text padding-bottom="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li style="margin-bottom:5px">Controleer de <b>status van je thuisnetwerk</b> en ontvang een melding bij storingen.
+                </li>
+                <li style="margin-bottom:5px">Via <b>Diagnose</b> los je stap voor stap elk internetprobleem op.
+                </li>
+                <li style="margin-bottom:5px">Beheer de instellingen van je netwerk, meet je snelheid of herstart je modem, direct in de app.
+                </li>
+                <li>Bezoekers geef je direct <b>toegang tot je internet thuis</b>, zonder je wachtwoord te delen.
+                </li>
+            </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Ontdek alle functies
+        </mj-text>
+        <mj-text>
+          De Telenet-app heeft nog veel meer handige functies. 
+        </mj-text>
+        <mj-text padding-top="0">
+          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; color:#291D18; font-size:16px; line-height:28px;" align="left" type="disc">
+                <li style="margin-bottom:5px">Vind een <b>antwoord</b> op al je vragen of <b>chat</b> rechtstreeks met een medewerker via Whatsapp.
+                </li>
+                <li style="margin-bottom:5px">Controleer je <b>verbruik</b> en stel <b>verbruiksmeldingen</b> in.
+                </li>
+                <li style="margin-bottom:5px">Bekijk je openstaande <b>saldo</b>, betaal je <b>aanrekening</b> of start in 1-2-3 een domiciliëring op. 
+                </li>
+                <li style="margin-bottom:5px">Blijf altijd op de hoogte dankzij de <b>persoonlijke berichten</b>.
+                </li>
+                <li>Download nu de app en ontdek nog meer!</li>
+            </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-peach">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+          Download nu de app!
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(101)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(102)~" target="_blank"><img src="https://comm.uat.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+        <mj-spacer/>
+      </mj-column>
+    </mj-section>
+
+    <!-- SIGNATURE -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FEEDBACK -->
+    <mj-include path="../../../../../partials/feedback/nl.mjml" />
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../../partials/footer/nl/standard-res.mjml" />
+    
+  </mj-body>
+</mjml>

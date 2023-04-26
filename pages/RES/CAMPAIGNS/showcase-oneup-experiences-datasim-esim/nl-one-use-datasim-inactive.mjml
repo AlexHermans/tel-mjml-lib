@@ -9,7 +9,7 @@
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
-      <mj-column padding="0">
+      <mj-column width="80%">
         <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
             Overal onbezorgd online met <br class="hide-until-lg"/><span style="color:#FFF7C7">je gratis datasimkaart.</span>
         </mj-text>
@@ -17,9 +17,9 @@
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-jeans-blue hero-image-right" padding="0">
-      <mj-column width="700px" padding="0">
-        <mj-image padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-10/showcaseoneup/header-one-female.jpg" alt="" />
+    <mj-section mj-class="bg-jeans-blue hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" padding="0" src="https://mkt.telenet.be/images/Tribes_&_Squads/In-life-experience/Lifetime-relationship/Adhoc/2022/2022-10/showcaseoneup/header-one-female.jpg" alt="Afbeelding van vrouw die in een trein zit, uit het raam kijkt. Ze heeft een koptelefoon op, en houdt een smartphone in haar hand. Het logo van het Telenet-product ONE is op de afbeelding weergegeven." />
       </mj-column>
     </mj-section>
 

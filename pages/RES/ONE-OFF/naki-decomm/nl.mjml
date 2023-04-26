@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
+      <mj-column width="600px">
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+            Samenwerking NAKI en Telenet stopt
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- BODY -->
+   <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            Vanaf 1 april 2023 maakt NAKI geen onderdeel meer uit van je ONE(up)-, WIGO- of YUGO-abonnement. Je kan nadien nog wel opladen met NAKI powerbank, maar betaalt dan het normale tarief van NAKI. Ook de eerste 24 uur van je oplaadsessie worden dus betalend. 
+        </mj-text>
+        <mj-text>
+            Wil je door deze aanpassing je abonnement opzeggen? Dan vinden we dat natuurlijk jammer. Je kan kosteloos opzeggen via <a href="~PROBE(140)~">0800 66 350</a>. 
+        </mj-text>
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/comm-res.mjml" />
+    
+  </mj-body>
+</mjml>

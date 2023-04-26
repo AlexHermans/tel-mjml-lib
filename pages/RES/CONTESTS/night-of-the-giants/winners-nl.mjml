@@ -1,0 +1,88 @@
+<mjml>
+  <mj-head>
+    <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" padding="0">
+      <mj-column width="80%">
+        <mj-text mj-class="text-yellow fontstack-bold heading-2" padding-top="0">
+          Gewonnen!
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-3" padding-top="0">
+          Twee tickets én een extra verrassing
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-center" src="https://comm.telenet.be/images/Ocapi/GENERAL_CONTEST_FLOW/night-of-the-giants/notg-header-winner.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <!-- INTRO -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/res-informal.mjml" />
+        <mj-text>
+          Proficiat! Jij zat er wel heel dichtbij in de schiftingsvraag en verdient dubbel en dik een duoticket voor Night of the Giants. En we doen er nog een leuke extra bij! <b>Belangrijk: je plaatsen in het Sportpaleis moet je wel zelf reserveren.</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- codes -->
+    <mj-section>
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Praktisch
+        </mj-text>
+        <mj-text>
+          Met je codes heb je recht op 2 gratis tickets voor Night of the Giants op 21 april 2023 in het Sportpaleis. Jouw kortingscodes zijn:
+        </mj-text>
+        <mj-text>
+          ~MASTER.CODE_ONE~
+        </mj-text>
+        <mj-text>
+          ~MASTER.CODE_TWO~
+        </mj-text>
+        <mj-text>
+          De deuren gaan open om 19u, de show start om 20u. Nog beter supporteren? Rep je dan sneller dan Jean-Marc naar de Telenet-stand in het Sportpaleis en krijg een gratis supporterssjaal!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- How-to-claim -->
+    <mj-section padding="0" padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-5">
+          Claim je tickets
+        </mj-text>
+        <mj-text>
+          <ol style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; font-size:16px; line-height:28px;" align="left" type="disc">
+            <li><span style="color:#291D18">Surf naar de <a href="~PROBE(140)~">Night of the Giants Partner-website en klik op Koop tickets</a>. Gebruik zeker die link, anders werken je kortingscodes niet.</span></li>
+            <li><span style="color:#291D18">Kies 2 plaatsen en Klik op Verder. Je kan dus geen extra plaatsen zonder code kiezen.</span></li>
+            <li><span style="color:#291D18">Geef je kortingscodes in. Zo betaal je niet voor je 2 tickets.</span></li>
+            <li><span style="color:#291D18">Voltooi je bestelling en klaar!</span></li>
+          </ol>
+        </mj-text>
+        <mj-text>
+            Heb je nog vragen bij je bestelling? <a href="~PROBE(141)~">Tele Ticket Service</a> helpt je graag verder! Telenet regelde voor jou gratis codes, maar de ticketservice van het Sportpaleis zit niet bij ons.
+        </mj-text>
+        <mj-text>
+            Veel basketpret!<br/>
+            Het Telenet-team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/nl/res-com-standard.mjml" />
+
+  </mj-body>
+</mjml>

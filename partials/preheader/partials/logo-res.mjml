@@ -1,10 +1,7 @@
 <mjml>
     <mj-body>
         <mj-column padding="25px 25px 25px 0" width="15%" >
-            <mj-include path="../../raw/not-mso/start.mjml" />
-                <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" css-class="dark-img"/>
-            <mj-include path="../../raw/not-mso/end.mjml" />
-            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" css-class="light-img" />
+            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" />
         </mj-column>
     </mj-body>
 </mjml>

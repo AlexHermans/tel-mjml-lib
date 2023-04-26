@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_FR,'Aïe !'))~
+        </mj-text>
+        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+            ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_FR,'Un problème s’est produit'))~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="hero-image" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/fr/res-standard.mjml" />
+        <mj-text>
+            Merci de vouloir participer au concours pour le ~CONTEST_CONFIG.CONTEST_NAME_FR~. Votre participation a malheureusement rencontré un problème. Vous n'avez donc pas de possibilité de remporter un prix pour le moment. Toutes nos excuses !
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Mais ne vous inquiétez pas, cela peut s’arranger !
+        </mj-text>
+         <mj-text>
+            Remplissez à nouveau le formulaire pour avoir une nouvelle chance. Bref, rendez-vous sur la page sans plus tarder !
+        </mj-text>
+          <mj-button align="left" mj-class="fontstack-semi primary">
+              Participer à nouveau
+          </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/fr/res-standard.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/fr/res-com-standard.mjml" />
+
+  </mj-body>
+</mjml>

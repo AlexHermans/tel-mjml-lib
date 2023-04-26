@@ -1,0 +1,7 @@
+<mjml>
+    <mj-body>
+        <mj-text>
+            ~(IF(LEN(MASTER.FIRSTNAME)>0,'Dear '&MASTER.FIRSTNAME,'Dear enterpreneur'))~,
+        </mj-text>
+    </mj-body>
+</mjml>

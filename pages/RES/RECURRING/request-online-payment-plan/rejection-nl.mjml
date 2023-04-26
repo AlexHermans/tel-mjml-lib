@@ -1,0 +1,50 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-olivine hero-text" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-2 fontstack-semi">
+            Jouw aanvraag voor een afbetalingsplan is geweigerd
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-text>
+            We hebben je aanvraag voor een afbetalingsplan goed ontvangen. Die is helaas geweigerd, omdat het openstaand saldo minstens € 100 moet zijn. 
+        </mj-text>
+        <mj-text>
+            Jij gaf een openstaand saldo door van € ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.OPEN_BALANCE~
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Je openstaand saldo nakijken?
+        </mj-text>
+         <mj-text>
+           Dat kan makkelijk via Mijn Telenet of in de Telenet-app. Meer info over hoe je dat net checkt, vind je op <a href="~PROBE(140)~">Klantenservice</a>.
+        </mj-text>
+        <mj-text>
+            Is er iets niet juist of is je openstaand saldo toch € 100 of meer? Vul het formulier dan opnieuw in. 
+        </mj-text>
+        <mj-button align="left" mj-class="primary fontstack-semi">
+            Vul het formulier opnieuw in
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

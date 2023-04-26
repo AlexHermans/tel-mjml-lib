@@ -1,0 +1,55 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body mj-class="bg-light" width="800px">
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../partials/preheader/fr/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
+      <mj-column>
+        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+            ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_FR)>0, CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_FR,'C’est fait ! '))~
+        </mj-text>
+        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+            ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_FR)>0, CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_FR,'Votre participation au concours pour ~CONTEST_CONFIG.CONTEST_NAME_FR~ a été confirmée.'))~
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="hero-image" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-right" src="~CONTEST_CONFIG.HEADER_IMAGE~" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/salutation/fr/res-standard.mjml" />
+        <mj-text>
+            Nous avons bien reçu votre participation au concours pour le ~CONTEST_CONFIG.CONTEST_NAME_FR~ !
+        </mj-text>
+        <mj-text mj-class="heading-5 fontstack-semi">
+           Et maintenant ? On croise les doigts !
+        </mj-text>
+         <mj-text>
+            Le concours se déroule jusqu'au  ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. Encore un peu de patience. Vous avez gagné ? Vous recevrez alors un mail contenant toutes les infos nécessaires pour réclamer votre prix au plus tard le ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d/%m'))~. <b>Surveillez donc bien votre boîte e-mail !</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section >
+      <mj-column mj-class="col-10">
+        <mj-include path="../../../../partials/signature/fr/res-standard.mjml" />
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-include path="../../../../partials/footer/fr/res-com-standard.mjml" />
+
+  </mj-body>
+</mjml>
