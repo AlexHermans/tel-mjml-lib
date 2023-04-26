@@ -36,7 +36,7 @@
            Que va-t-il se passer ?
         </mj-text>
          <mj-text>
-            Comme vous avez déjà participé, vous pouvez encore gagner. Le concours se déroule jusqu'au ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d-%m-%y %X'))~. Vous recevrez alors un mail contenant toutes les infos nécessaires pour réclamer votre prix au plus tard le ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d-%m'))~. <b>Surveillez donc bien votre boîte e-mail !</b>
+            Comme vous avez déjà participé, vous pouvez encore gagner. Le concours se déroule jusqu'au ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d-%m-%y %X'))~. Vous recevrez alors un mail contenant toutes les infos nécessaires pour réclamer votre prix au plus tard le ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d/%m'))~. <b>Surveillez donc bien votre boîte e-mail !</b>
         </mj-text>
       </mj-column>
     </mj-section>

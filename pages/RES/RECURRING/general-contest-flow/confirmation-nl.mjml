@@ -36,7 +36,7 @@
            En nu? Duimen maar!
         </mj-text>
          <mj-text>
-            De wedstrijd loopt nog tot ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. Nog even geduld dus. Heb je gewonnen? Dan ontvang je ten laatste ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d-%m'))~ een mailtje met alle info om je prijs te claimen. <b>Houd dus zeker je mailbox in de gaten!</b>
+            De wedstrijd loopt nog tot ~(FORMATDATETIME(CONTEST_CONFIG.END_DATE, '%d/%m/%y %X'))~. Nog even geduld dus. Heb je gewonnen? Dan ontvang je ten laatste ~(FORMATDATETIME(DATEADD('dd', 5, CONTEST_CONFIG.END_DATE), '%d/%m'))~ een mailtje met alle info om je prijs te claimen. <b>Houd dus zeker je mailbox in de gaten!</b>
         </mj-text>
       </mj-column>
     </mj-section>
