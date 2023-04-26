@@ -20,19 +20,19 @@
   
   TEXT SIZES
   
-  Font sizes are based on major third intervals (1.25 times)
-  Line heights are 1.61 (golden ratio) for bodytext, h6 and h5
-  and 1.2 (minor third) intervals for h4, h3, h2, h1  
+ Font sizes are based on the mobile font sizes: 
+ https://www2.telenet.be/residential/nl/design/best-practices/typography/
   
   -->
 
-  <mj-class name="heading-1" font-size="48px" line-height="57px" padding="60px 0 15px" css-class="outlook-font-fix heading-1" />
-  <mj-class name="heading-2" font-size="39px" line-height="46px" padding="45px 0 15px" css-class="outlook-font-fix heading-2" />
-  <mj-class name="heading-3" font-size="31px" line-height="37px" padding="45px 0 15px" css-class="outlook-font-fix heading-3" />
-  <mj-class name="heading-4" font-size="25px" line-height="30px" padding="30px 0 15px" css-class="outlook-font-fix heading-4" />
-  <mj-class name="heading-5" font-size="20px" line-height="32px" padding="30px 0 0" css-class="outlook-font-fix heading-5" />
-  <mj-class name="heading-6" font-size="16px" line-height="25px" padding="30px 0 0" css-class="outlook-font-fix heading-6" />
-  <mj-class name="text-small" font-size="11px" line-height="17px" padding="15px 0" css-class="outlook-font-fix text-small" />
+  <mj-class name="display" font-size="48px" line-height="48px" padding="60px 0 15px" css-class="outlook-font-fix display" />
+  <mj-class name="heading-1" font-size="36px" line-height="40px" css-class="outlook-font-fix heading-1" />
+  <mj-class name="heading-2" font-size="28px" line-height="36px" css-class="outlook-font-fix heading-2" />
+  <mj-class name="heading-3" font-size="24px" line-height="32px" css-class="outlook-font-fix heading-3" />
+  <mj-class name="heading-4" font-size="20px" line-height="28px" css-class="outlook-font-fix heading-4" />
+  <mj-class name="heading-5" font-size="18px" line-height="24px" css-class="outlook-font-fix heading-5" />
+  <mj-class name="heading-6" font-size="16px" line-height="24px" css-class="outlook-font-fix heading-6" />
+  <mj-class name="text-small" font-size="14px" line-height="20px" padding="15px 0" css-class="outlook-font-fix text-small" />
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
   <mj-class name="primary" background-color="#FFC421" color="#291D18" css-class="button"/>
@@ -48,7 +48,7 @@
   <mj-class name="hero-image-right" padding="0" width="700px" align="right" />
   <mj-class name="hero-image-center" padding="0" width="600px" align="center" />
 
-  <mj-class name="column-padding" padding="0 30px 30px" />
+  <mj-class name="column-padding" padding="0 30px" />
 
   <mj-class name="col-10" css-class="col-10" width="600px" />
   <mj-class name="col-9" css-class="col-9" width="540px" />
@@ -83,7 +83,7 @@
   <mj-all font-family="Arial, Helvetica, sans-serif" />
   <mj-social css-class="dark-mode-fix mj-social" /> 
   <mj-social-element color="#291D18" font-size="16px" line-height="28px" css-class="outlook-font-fix text-medium dark-mode-fix" />
-  <mj-text color="#291D18" font-size="16px" line-height="28px" padding="15px 0" css-class="outlook-font-fix text-medium"/>
+  <mj-text color="#291D18" font-size="16px" line-height="24px" padding="15px 0" css-class="outlook-font-fix text-medium"/>
   <mj-body background-color="#f5f4f0" width="800px" />
   <mj-button href="~PROBE(120)~" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="400" inner-padding="15px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6 dark-mode-ignore" />
 

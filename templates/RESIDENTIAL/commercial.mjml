@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
       <mj-column width="80%">
-        <mj-text mj-class="text-yellow fontstack-bold heading-1" padding-top="0">
+        <mj-text mj-class="text-lemon fontstack-bold heading-1" padding-top="0">
           ONE
         </mj-text>
         <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
@@ -22,7 +22,7 @@
     <!-- HERO IMAGE -->
     <mj-section mj-class="bg-baby-blue hero-image" padding="0">
       <mj-column padding="0">
-        <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
+        <mj-image mj-class="hero-image-center" src="https://mkt.telenet.be/images/General/placeholder/header-700x270.jpg" alt="" />
       </mj-column>
     </mj-section>
 
@@ -40,7 +40,7 @@
 
     <!-- QUOTE -->
     <mj-section>
-      <mj-column mj-class="bg-baby-blue column-padding" width="600px">
+      <mj-column mj-class="bg-baby-blue column-padding col-10">
         <mj-text mj-class="fontstack-semi heading-5">
           "Non proident amet ut proident mollit reprehenderit non non elit commodo occaecat veniam. Aliqua incididunt ipsum consequat nisi aute pariatur occaecat sint in incididunt sint enim incididunt."
         </mj-text>
@@ -56,71 +56,21 @@
         <mj-text mj-class="fontstack-semi heading-3" >
           Waarom OneUp?
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-headset-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-cursor-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-   
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-tv-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px" > 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" mj-class="icon-m icon-smartphone-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- MAIN CTA -->
-    <mj-section mj-class="container-group" padding="0">
-      <mj-column mj-class="col-10">
-        <mj-button mj-class="primary" align="left">
+      <mj-social align="left" mode="vertical" padding="0" icon-size="25px" text-padding="7.5px 0 7.5px 15px">
+        <mj-social-element mj-class="icon-check-m">
+          Sit voluptate pariatur veniam sunt qui est.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-cursor-m">
+          Amet nisi ex occaecat officia.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-headset-m">
+          Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-lightbulb-m">
+          Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat.
+        </mj-social-element>
+      </mj-social>
+      <mj-button mj-class="primary" align="left">
           <strong>Bestel nu</strong>
         </mj-button>
       </mj-column>
@@ -132,12 +82,12 @@
         <mj-text mj-class="heading-3 fontstack-semi">
           Meer info nodig?
         </mj-text>
+        <mj-text>
+          Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
+        </mj-text>
         <mj-button href="~PROBE(121)~" align="left" mj-class="secondary">
           <strong>Lees hier alles over OneUp</strong>
         </mj-button>
-        <mj-text >
-          Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
-        </mj-text>
         <mj-include path="../../partials/signature/nl/res-standard.mjml" />
       </mj-column>
     </mj-section>

@@ -56,66 +56,23 @@
         <mj-text mj-class="fontstack-semi heading-3" >
           Waarom OneUp?
         </mj-text>
+         <mj-social align="left" mode="vertical" padding="0" icon-size="25px" text-padding="7.5px 0 7.5px 15px">
+        <mj-social-element mj-class="icon-check-m">
+          Sit voluptate pariatur veniam sunt qui est.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-cursor-m">
+          Amet nisi ex occaecat officia.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-headset-m">
+          Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-lightbulb-m">
+          Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat.
+        </mj-social-element>
       </mj-column>
     </mj-section>
 
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-headset-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-cursor-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
    
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" width="30px" mj-class="icon-tv-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px" > 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
-
-    <!-- LIST-ITEM-WITH-ICON -->
-    <mj-section padding="0"> 
-      <mj-group mj-class="col-10">
-        <mj-column width="10%" padding="0">
-          <mj-image align="center" padding="0" mj-class="icon-m icon-smartphone-xl" alt="" />
-        </mj-column>
-        <mj-column width="90%" padding="0">
-          <mj-text padding="0" padding-left="15px"> 
-            <strong>This text is bold:</strong> Pariatur enim proident id nostrud tempor veniam veniam.
-          </mj-text>
-        </mj-column>
-      </mj-group>
-    </mj-section>
 
     <!-- MAIN CTA -->
     <mj-section mj-class="container-group" padding="0">

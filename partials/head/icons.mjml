@@ -16,9 +16,6 @@
             <mj-class name="icon-l" width="90px" />
             <mj-class name="icon-xl" width="120px" />
 
-            <!-- global icon decs -->
-            <mj-class name="icon-check" mj-class="icon-m icon-check-s" />
-
             <!-- check -->
             <mj-class name="icon-check-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-s.png" alt="Checkmark icon"/>
             <mj-class name="icon-check-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-m.png" alt="Checkmark icon"/>
