@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../../partials/preheader/nl/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text" >
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-bold heading-3" padding-top="0">
+            Help je vrienden én jezelf.
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+            Deel je wifi rap met de app.  
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(130)~" target="_blank"><img src="https://mkt.telenet.be/images/General/apple-app-store.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(131)~" target="_blank"><img src="https://mkt.telenet.be/images/General/google-play-store.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO IMAGE -->
+    <mj-section mj-class="bg-lemon hero-image" padding="0">
+      <mj-column padding="0">
+        <mj-image mj-class="hero-image-center" src="https://mkt.telenet.be/images/Tribes_&_Squads/Digital_Engagement_Tribe/Channel_Transformation_Team/App_Stim/YA/header-ya.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+   <!-- INTRO -->
+   <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+      <mj-include path="../../../../../partials/salutation/nl/res-informal.mjml" />
+        <mj-text padding-top="0">
+            Wat is je <b>wifi-wachtwoord?</b> Wacht. Laat me raden. Je gaat nu je Telenet-boekje zoeken met daarin die mega lange, ingewikkelde code met drukletters, cijfers en uitroeptekens. Een kwartier, drie invoerpogingen en veel gezucht later zijn je vrienden eindelijk verbonden met je wifi. Herkenbaar? <b>Onhandig</b> hé…
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding="0">
+          Doe het rap in de app
+        </mj-text>
+        <mj-text>
+          Maak het jezelf vliegensvlug gemakkelijk en deel je wachtwoord rap met de app. Via wifi delen krijg je een QR-code. Laat je vrienden die scannen én ziezo. Nog geen minuut later en daar zijn die drie streepjes wifi al. Nieuwsgierig naar wat de app nog allemaal kan? <a href="~PROBE(140)~">Ontdek er ook alles over je verbruik, netwerk en aanrekening</a>. Met de Telenet-app op zak, heb je altijd een (wifi-)streepje voor.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section padding-top="0" mj-class="bg-lemon" padding-bottom="30px">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-5 fontstack-semi" padding-bottom="10px">
+         Installeer de gratis Telenet-app via 
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(130)~" target="_blank"><img src="https://mkt.telenet.be/images/General/apple-app-store.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(131)~" target="_blank"><img src="https://mkt.telenet.be/images/General/google-play-store.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+        <mj-column mj-class="col-10">
+            <mj-include path="../../../../../partials/signature/nl/res-standard.mjml" />
+        </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../../partials/footer/nl/res-mkt-standard.mjml" />
+    
+  </mj-body>
+</mjml>

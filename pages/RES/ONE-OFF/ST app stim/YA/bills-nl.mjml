@@ -1,0 +1,91 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../../../../partials/head/_.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PRE-HEADER -->
+    <mj-include path="../../../../../partials/preheader/nl/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+    <mj-section mj-class="bg-lemon hero-text">
+      <mj-column width="300px">
+        <mj-text mj-class="fontstack-bold heading-3 hide-until-xl" padding-top="0">
+            Deze Google Search ook beu?
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+            Kies voor gemak.<br class="hide-until-xl" /> Betaal in de app. 
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" padding-bottom="5px" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(130)~" target="_blank"><img src="https://mkt.telenet.be/images/General/apple-app-store.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(131)~" target="_blank"><img src="https://mkt.telenet.be/images/General/google-play-store.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column padding-left="25px" width="275px" padding-bottom="0" vertical-align="bottom">
+        <mj-image src="https://mkt.telenet.be/images/Tribes_&_Squads/Digital_Engagement_Tribe/Channel_Transformation_Team/App_Stim/YA/header-ya-billing.png" alt="" padding="0" mj-class="hide-until-xl"/>
+      </mj-column>
+    </mj-section>
+
+   <!-- INTRO -->
+   <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+      <mj-include path="../../../../../partials/salutation/nl/res-informal.mjml" />
+        <mj-text padding-top="0">
+            <b>Aanrekeningen</b> betalen. <b>Geen leuk werkje</b>… Zeker als je eerst moet zoeken naar dat ene rekeningnummer. Dan nog moet surfen naar je bankapp of -site om alle gegevens een voor een in te geven. Na drie keer checken of je het rekeningnummer wel juist ingaf, ben je eindelijk van die aanrekening af. *zucht* Herkenbaar? <b>Onhandig</b> hé…
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section padding-top="0">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-4" padding="0">
+          Doe het rap in de app
+        </mj-text>
+        <mj-text>
+          Maak er een supersnel, simpel werkje van en betaal rap in de Telenet-app. Check op een wip je openstaand saldo én maak er komaf mee. We sturen je direct door naar je bank. Ziezo. Helemaal klaar voor een nieuwe maand op hét netwerk van Vlaanderen.
+        </mj-text>
+        <mj-text>
+        Graag nog makkelijker? Dat kan. Vraag in 1-2-3 een domiciliëring aan. Koos je al voor ultiem gemak? Dan kan je zelf je domiciliëring aanpassen of opzeggen. Nieuwsgierig naar wat de app nog allemaal kan? <a href="~PROBE(140)~">Ontdek er ook alles over je verbruik, netwerk en aanrekening</a>. Met de Telenet-app op zak, altijd op je gemak!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section padding-top="0" mj-class="bg-lemon" padding-bottom="30px">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-5 fontstack-semi" padding-bottom="10px">
+         Download de Telenet-app nu via
+        </mj-text>
+        <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
+            <tr>
+                <td width="140">
+                    <a href="~PROBE(130)~" target="_blank"><img src="https://mkt.telenet.be/images/General/apple-app-store.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                </td>
+                <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
+                <td width="140">
+                    <a href="~PROBE(131)~" target="_blank"><img src="https://mkt.telenet.be/images/General/google-play-store.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                </td>
+            </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+        <mj-column mj-class="col-10">
+            <mj-include path="../../../../../partials/signature/nl/res-standard.mjml" />
+        </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../../../../partials/footer/nl/res-mkt-standard.mjml" />
+    
+  </mj-body>
+</mjml>
