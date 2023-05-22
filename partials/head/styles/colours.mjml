@@ -43,19 +43,19 @@
 
             <!-- TEXT COLOURS -->
             <!-- Primary -->
-            <mj-class name="text-yellow"        color="#FFC421" />
-            <mj-class name="text-white"         color="#FFFFFF" />
-            <mj-class name="text-brown"         color="#291D18" />
-            <mj-class name="text-lemon"         color="#FFF7C7" />
+            <mj-class name="text-yellow" color="#FFC421" css-class="text-yellow"/>
+            <mj-class name="text-white"  color="#FFFFFF" />
+            <mj-class name="text-brown"  color="#291D18" />
+            <mj-class name="text-lemon"  color="#FFF7C7" css-class="text-lemon"/>
             
             <!-- Secondary -->
-            <mj-class name="text-jeans-blue"    color="#1A9AAA" />
-            <mj-class name="text-baby-blue"     color="#7291B5" />
-            <mj-class name="text-red"           color="#C95942" />
-            <mj-class name="text-turquoise"     color="#209D91" />
-            <mj-class name="text-lila"          color="#AA81A8" />
-            <mj-class name="text-watermelon"    color="#E16A5B" />
-            <mj-class name="text-olivine"       color="#749645" />
+            <mj-class name="text-jeans-blue" color="#1A9AAA" />
+            <mj-class name="text-baby-blue"  color="#7291B5" />
+            <mj-class name="text-red"        color="#C95942" />
+            <mj-class name="text-turquoise"  color="#209D91" />
+            <mj-class name="text-lila"       color="#AA81A8" />
+            <mj-class name="text-watermelon" color="#E16A5B" />
+            <mj-class name="text-olivine"    color="#749645" />
 
         </mj-attributes>
     </mj-head>

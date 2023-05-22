@@ -40,7 +40,7 @@
 
     <!-- QUOTE -->
     <mj-section>
-      <mj-column mj-class="bg-baby-blue column-padding col-10">
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
         <mj-text mj-class="fontstack-semi heading-5">
           "Non proident amet ut proident mollit reprehenderit non non elit commodo occaecat veniam. Aliqua incididunt ipsum consequat nisi aute pariatur occaecat sint in incididunt sint enim incididunt."
         </mj-text>

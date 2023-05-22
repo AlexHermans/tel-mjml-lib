@@ -16,19 +16,31 @@
       background-color: #222222 !important;
     }
 
-    .dark-mode-fix, 
-    .dark-mode-fix div, 
+    .dark-mode-fix .text-medium div, 
+    .dark-mode-fix .text-small div, 
+    .dark-mode-fix .heading-1 div, 
+    .dark-mode-fix .heading-2 div, 
+    .dark-mode-fix .heading-3 div, 
+    .dark-mode-fix .heading-4 div, 
+    .dark-mode-fix .heading-5 div, 
+    .dark-mode-fix .heading-6 div, 
     .dark-mode-fix a, 
     .dark-mode-fix li > span,
     .dark-mode-fix.mj-social span {
       color: #FFFFFF !important;
     }
 
-    .dark-mode-ignore, 
-    .dark-mode-ignore div, 
+    .dark-mode-ignore .text-medium div, 
+    .dark-mode-ignore .text-small div, 
+    .dark-mode-ignore .heading-1 div, 
+    .dark-mode-ignore .heading-2 div, 
+    .dark-mode-ignore .heading-3 div, 
+    .dark-mode-ignore .heading-4 div, 
+    .dark-mode-ignore .heading-5 div, 
+    .dark-mode-ignore .heading-6 div, 
     .dark-mode-ignore a,
-    .dark-mode-ignore .button,  {
-      color: #291D18;
+    .dark-mode-ignore .button  {
+      color: #291D18 !important;
     }
 
     .dark-mode-fix .button a{
@@ -70,5 +82,8 @@
     /* reworking actual colours */
 
     .bg-grey-4 td { background-color: #2A2A2A !important; }
+
+    .dark-mode-ignore .text-yellow div { color: #FFC421 !important;  }
+    .dark-mode-ignore .text-lemon div { color: #FFF7C7 !important;  }
   }
 </mj-style>
