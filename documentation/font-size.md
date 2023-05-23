@@ -19,7 +19,7 @@ Each heading has a proportional step from the base (X). I've based the proportio
 
 ## Rendered sizes
 
-While the standard XL and LG sizes are based on the mobile font sizes, I've opted to downscale the fontsizes on smaller screenwidths (<630px and 400px). This makes it so there's more visual real estate -- quite important for emails since real estate is a lot more valuable in fixed layouts. The scaled down sizes are always rounded up to make sure Outlook renders the fonts properly.
+While the standard XL and LG sizes are based on the mobile font sizes, I've opted to downscale the fontsizes on smaller screenwidths (<600px and 320px). This makes it so there's more visual real estate -- quite important for emails since real estate is a lot more valuable in fixed layouts. The scaled down sizes are always rounded up to make sure Outlook renders the fonts properly.
 
 ### Rendered font sizes table
 
