@@ -1,15 +1,15 @@
 <mjml>
   <mj-head>
-      <mj-include path="../../../partials/head/_.mjml" />
+      <mj-include path="../../../../partials/head/_.mjml" />
   </mj-head>
 
   <mj-body>
     <!-- PRE-HEADER -->
-    <mj-include path="../../../partials/preheader/nl-res.mjml" />
+    <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
-      <mj-column padding="0">
+      <mj-column padding="0" width="600px">
         <mj-text mj-class="fontstack-semi heading-3" padding-top="0">
             Liever geen onverwachte kosten?<br><span style="color:#FFF7C7">Alles over roaming</span> op een rijtje.
         </mj-text>
@@ -26,7 +26,7 @@
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../partials/salutation/nl/dynamic-formal-res.mjml" />
+        <mj-include path="../../../../partials/salutation/nl/dynamic-formal-res.mjml" />
         <mj-text>
           Eindelijk, zomervakantie. En of je het verdient! Trek je er even tussenuit? Een lange vakantie of een korte citytrip: je wil altijd verbonden blijven. Maar surfen in het buitenland kan duur uitvallen. En omdat onverwachte kosten nooit leuk zijn, zetten we de belangrijkste zaken over roaming even op een rijtje. 
         </mj-text>
@@ -99,12 +99,12 @@
         <mj-text>
           Wij wensen je alvast een zorgeloze reis toe met alleen maar mooie herinneringen!
         </mj-text>
-        <mj-include path="../../../partials/signature/nl-res.mjml" />
+        <mj-include path="../../../../partials/signature/nl-res.mjml" />
       </mj-column>
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../../partials/footer/nl/standard-res.mjml" />
+    <mj-include path="../../../../partials/footer/nl/standard-res.mjml" />
     
   </mj-body>
 </mjml>

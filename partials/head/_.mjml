@@ -16,15 +16,6 @@
   <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
   <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
-  <!-- 
-  
-  TEXT SIZES
-  
- Font sizes are based on the mobile font sizes: 
- https://www2.telenet.be/residential/nl/design/best-practices/typography/
-  
-  -->
-
   <mj-class name="display" font-size="48px" line-height="48px" padding="60px 0 15px" css-class="outlook-font-fix display" />
   <mj-class name="heading-1" font-size="36px" line-height="40px" css-class="outlook-font-fix heading-1" />
   <mj-class name="heading-2" font-size="28px" line-height="36px" css-class="outlook-font-fix heading-2" />
@@ -39,10 +30,10 @@
   <mj-class name="secondary" href="~PROBE(121)~" background-color="#E5E3E3" color="#291D18" css-class="button"/>
   <mj-class name="tertiary" href="~PROBE(122)~" background-color="" color="#291D18" text-decoration="underline"/>
   
-
   <mj-class name="hero-text" css-class="dark-mode-ignore">
     <mj-column width="80%" />
   </mj-class>
+  
   <mj-class name="hero-image" padding="0" css-class="dark-mode-ignore"/>
   <mj-class name="hero-image-left" padding="0" width="700px" align="left" />
   <mj-class name="hero-image-right" padding="0" width="700px" align="right" />
