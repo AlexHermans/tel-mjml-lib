@@ -24,6 +24,7 @@
     .dark-mode-fix .heading-4 div, 
     .dark-mode-fix .heading-5 div, 
     .dark-mode-fix .heading-6 div, 
+    .dark-mode-fix .display div, 
     .dark-mode-fix a, 
     .dark-mode-fix li > span,
     .dark-mode-fix.mj-social span {
@@ -37,7 +38,8 @@
     .dark-mode-ignore .heading-3 div, 
     .dark-mode-ignore .heading-4 div, 
     .dark-mode-ignore .heading-5 div, 
-    .dark-mode-ignore .heading-6 div, 
+    .dark-mode-ignore .heading-6 div,
+    .dark-mode-ignore .display div, 
     .dark-mode-ignore a,
     .dark-mode-ignore .button  {
       color: #291D18 !important;
