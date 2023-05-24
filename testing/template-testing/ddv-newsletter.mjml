@@ -8,20 +8,20 @@
     <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section mj-class="bg-watermelon hero-text" padding="0">
+    <mj-section mj-class="bg-watermelon hero-text">
       <mj-column width="80%">
-        <mj-text mj-class="text-white heading-2 fontstack-bold" padding-top="0">
+        <mj-text mj-class="text-white heading-2 fontstack-bold">
           DE DIGITALE VERSNELLING
         </mj-text>
-        <mj-text mj-class="heading-2 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-2 fontstack-semi">
             Must read: dit worden dé trends op sociale media in 2021
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- HERO IMAGE -->
-    <mj-section padding="0" mj-class="bg-watermelon hero-image">
-      <mj-column padding="0">
+    <mj-section mj-class="bg-watermelon hero-image">
+      <mj-column>
         <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
     </mj-section>

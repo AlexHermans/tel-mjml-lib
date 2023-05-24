@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-      <mj-include path="../../partials/head/_.mjml" />
+    <mj-include path="../../partials/head/_.mjml" />
   </mj-head>
 
   <mj-body>
@@ -8,134 +8,134 @@
     <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-grey-4" padding="0">
-      <mj-column mj-class="col-10" padding-top="0">
-        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
-            Text-only test
+    <mj-section mj-class="bg-grey-4">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-2">
+          Text-only test
         </mj-text>
         <mj-text>
-            Testing different font-sizes, line-heights and paragraph spacings in different settings and configurations.
+          Testing different font-sizes, line-heights and paragraph spacings in different settings and configurations.
         </mj-text>
       </mj-column>
     </mj-section>
 
-   <mj-section>
-    <mj-column mj-class="col-10">
+    <mj-section>
+      <mj-column mj-class="col-10">
         <mj-text mj-class="display">
-            This is a display header
+          This is a display header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-1">
-            This is a heading-1 header
+          This is a heading-1 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-2">
-            This is a heading-2 header
+          This is a heading-2 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-3">
-            This is a heading-3 header
+          This is a heading-3 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-4">
-            This is a heading-4 header
+          This is a heading-4 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-5">
-            This is a heading-5 header
+          This is a heading-5 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
         <mj-text mj-class="heading-6">
-            This is a heading-6 header
+          This is a heading-6 header
         </mj-text>
         <mj-text>
-            Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
+          Cillum aliquip non adipisicing sint cupidatat consequat sunt id adipisicing duis aliqua laborum non ipsum. Mollit proident nisi amet ipsum aliquip nulla ad do proident labore fugiat ullamco id eu. Irure minim aliquip excepteur sint pariatur reprehenderit aliquip esse. Culpa exercitation amet sint consectetur id consectetur et dolor dolor ullamco quis nisi commodo. Elit et culpa velit aute qui amet exercitation nulla officia fugiat adipisicing elit id in.
         </mj-text>
         <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-    </mj-column>
-   </mj-section>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
-   <mj-section mj-class="bg-grey-4">
-        <mj-column mj-class="col-5">
-            <mj-text mj-class="heading-3 fontstack-semi">
-                col-5
-            </mj-text>
-            <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-        </mj-column>
-        <mj-column mj-class="col-5">
-            <mj-text mj-class="heading-3 fontstack-semi">
-                col-5
-            </mj-text>
-            <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-        </mj-column>
-   </mj-section>
+    <mj-section mj-class="bg-grey-4">
+      <mj-column mj-class="col-5">
+        <mj-text mj-class="heading-3 fontstack-semi">
+          col-5
+        </mj-text>
+        <mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+      <mj-column mj-class="col-5">
+        <mj-text mj-class="heading-3 fontstack-semi">
+          col-5
+        </mj-text>
+        <mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
-   <mj-section mj-class="bg-grey-8">
-        <mj-column width="200px" padding="0" padding-left="15px">
-            <mj-text mj-class="heading-3 fontstack-semi">
-                col-5
-            </mj-text>
-            <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-        </mj-column>
-        <mj-column width="200px" padding="0" padding-left="15px">
-            <mj-text mj-class="heading-3 fontstack-semi">
-                col-5
-            </mj-text>
-            <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-        </mj-column>
-         <mj-column width="200px" padding="0" padding-left="15px">
-            <mj-text mj-class="heading-3 fontstack-semi">
-                col-5
-            </mj-text>
-            <mj-text>
-                Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
-            </mj-text>
-        </mj-column>
-   </mj-section>
+    <mj-section mj-class="bg-grey-8">
+      <mj-column width="200px" padding="0" padding-left="15px">
+        <mj-text mj-class="heading-3 fontstack-semi">
+          col-5
+        </mj-text>
+        <mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="0" padding-left="15px">
+        <mj-text mj-class="heading-3 fontstack-semi">
+          col-5
+        </mj-text>
+        <mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="0" padding-left="15px">
+        <mj-text mj-class="heading-3 fontstack-semi">
+          col-5
+        </mj-text>
+        <mj-text>
+          Enim nisi reprehenderit cupidatat aute ex sit ullamco dolor ex sint. Labore cupidatat excepteur proident aliquip ad id minim ad aliqua ullamco cillum. Commodo qui ad esse deserunt nisi ex proident. Sit ullamco deserunt consectetur ex duis. Est nisi occaecat exercitation eiusmod officia ad consectetur elit exercitation duis commodo. Veniam mollit consequat aliqua eiusmod sit ad eu.
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
 
-     <!-- FOOTER -->
+    <!-- FOOTER -->
     <mj-include path="../../partials/footer/nl/res-com-standard.mjml" />
-    
+
   </mj-body>
 </mjml>
