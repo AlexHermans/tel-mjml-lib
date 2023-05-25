@@ -29,6 +29,7 @@
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
+      <mj-include path="../../partials/salutation/nl/res-informal.mjml" />
         <mj-text>
             Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
             nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua
