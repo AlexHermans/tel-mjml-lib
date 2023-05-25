@@ -6,19 +6,7 @@
   <mj-body>
   
     <!-- PRE-HEADER -->
-    <mj-section padding-bottom="30px">
-        <mj-column width="75px" padding="0 0 0 15px">
-            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" />
-        </mj-column>
-        <mj-column width="525px">
-            <mj-text mj-class="fontstack-medium" css-class="hide-until-md" align="left" padding="0">
-                <strong>Download nu de app en mis niets meer.</strong>
-            </mj-text>
-            <mj-text mj-class="fontstack-light" align="left" padding="0">
-                Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
-            </mj-text>
-        </mj-column>
-    </mj-section>
+    <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
