@@ -58,19 +58,14 @@
         <![endif]-->
   <style type="text/css">
     @media only screen and (min-width:700px) {
-      .mj-column-px-600 {
-        width: 600px !important;
-        max-width: 600px;
+      .mj-column-px-75 {
+        width: 75px !important;
+        max-width: 75px;
       }
 
-      .mj-column-per-15 {
-        width: 15% !important;
-        max-width: 15%;
-      }
-
-      .mj-column-per-85 {
-        width: 85% !important;
-        max-width: 85%;
+      .mj-column-px-525 {
+        width: 525px !important;
+        max-width: 525px;
       }
 
       .mj-column-per-80 {
@@ -81,6 +76,11 @@
       .mj-column-per-100 {
         width: 100% !important;
         max-width: 100%;
+      }
+
+      .mj-column-px-600 {
+        width: 600px !important;
+        max-width: 600px;
       }
 
       .mj-column-px-510 {
@@ -95,19 +95,14 @@
     }
   </style>
   <style media="screen and (min-width:700px)">
-    .moz-text-html .mj-column-px-600 {
-      width: 600px !important;
-      max-width: 600px;
+    .moz-text-html .mj-column-px-75 {
+      width: 75px !important;
+      max-width: 75px;
     }
 
-    .moz-text-html .mj-column-per-15 {
-      width: 15% !important;
-      max-width: 15%;
-    }
-
-    .moz-text-html .mj-column-per-85 {
-      width: 85% !important;
-      max-width: 85%;
+    .moz-text-html .mj-column-px-525 {
+      width: 525px !important;
+      max-width: 525px;
     }
 
     .moz-text-html .mj-column-per-80 {
@@ -118,6 +113,11 @@
     .moz-text-html .mj-column-per-100 {
       width: 100% !important;
       max-width: 100%;
+    }
+
+    .moz-text-html .mj-column-px-600 {
+      width: 600px !important;
+      max-width: 600px;
     }
 
     .moz-text-html .mj-column-px-510 {
@@ -172,10 +172,6 @@
       .hide-from-xl {
         display: inherit !important;
       }
-
-      body {
-        padding: 15px 13px !important;
-      }
     }
 
     /* lg breakpoint (add 30 for paddings) */
@@ -186,10 +182,6 @@
 
       .hide-from-lg {
         display: inherit !important;
-      }
-
-      .container-group>table>tbody>tr>td {
-        padding: 0 13px !important;
       }
 
       .col-1-sm {
@@ -256,6 +248,7 @@
       .dark-mode-fix .heading-4 div,
       .dark-mode-fix .heading-5 div,
       .dark-mode-fix .heading-6 div,
+      .dark-mode-fix .display div,
       .dark-mode-fix a,
       .dark-mode-fix li>span,
       .dark-mode-fix.mj-social span {
@@ -270,13 +263,17 @@
       .dark-mode-ignore .heading-4 div,
       .dark-mode-ignore .heading-5 div,
       .dark-mode-ignore .heading-6 div,
-      .dark-mode-ignore a,
-      .dark-mode-ignore .button {
+      .dark-mode-ignore .display div,
+      .dark-mode-ignore a {
         color: #291D18 !important;
       }
 
-      .dark-mode-fix .button a {
+      .button-primary a {
         color: #291D18 !important;
+      }
+
+      .button-secondary a {
+        border: 1px solid #ffffff;
       }
 
       .light-img {
@@ -326,7 +323,7 @@
     }
 
     /* screensize between MD and LG */
-    @media screen and (max-width:630px) {
+    @media screen and (max-width:600px) {
       .display * {
         font-size: 45px !important;
         line-height: 44px !important;
@@ -338,7 +335,7 @@
       }
 
       .heading-2 * {
-        font-size: 37px !important;
+        font-size: 27px !important;
         line-height: 33px !important;
       }
 
@@ -374,7 +371,7 @@
     }
 
     /* screensize between SM and MD */
-    @media screen and (max-width:400px) {
+    @media screen and (max-width:320px) {
       .display * {
         font-size: 42px !important;
         line-height: 40px !important;
@@ -512,65 +509,61 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
-              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="col-10-outlook" style="width:600px;" ><![endif]-->
-              <div class="mj-column-px-600 mj-outlook-group-fix col-10" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
-                <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:90px;" ><![endif]-->
-                <div class="mj-column-per-15 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:15%;">
-                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-                    <tbody>
-                      <tr>
-                        <td style="vertical-align:top;padding:25px 25px 25px 0;">
-                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
-                            <tbody>
-                              <tr>
-                                <td align="left" style="font-size:0px;padding:0;word-break:break-word;">
-                                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
-                                    <tbody>
-                                      <tr>
-                                        <td style="width:65px;">
-                                          <a href="~PROBE(100)~" target="_blank">
-                                            <img alt="Telenet Logo" height="auto" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="65">
-                                          </a>
-                                        </td>
-                                      </tr>
-                                    </tbody>
-                                  </table>
-                                </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <!--[if mso | IE]></td><td style="vertical-align:top;width:510px;" ><![endif]-->
-                <div class="mj-column-per-85 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:85%;">
-                  <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
-                    <tbody>
-                      <tr>
-                        <td style="vertical-align:top;padding:25px 0 0;">
-                          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
-                            <tbody>
-                              <tr>
-                                <td align="left" class="text-medium hide-until-md" style="font-size:0px;padding:0 0 5px 0;word-break:break-word;">
-                                  <div style="font-family:'Albra Medium', Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#291D18;"><strong>~MESSAGE.PREHEADER~</strong></div>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:0;word-break:break-word;">
-                                  <div style="font-family:'Albra Light', Arial, Helvetica, sans-serif;font-size:16px;font-weight:100;line-height:24px;text-align:left;color:#291D18;">Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a></div>
-                                </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-                <!--[if mso | IE]></td></tr></table><![endif]-->
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:30px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:75px;" ><![endif]-->
+              <div class="mj-column-px-75 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:0 0 0 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" style="font-size:0px;padding:0;word-break:break-word;">
+                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+                                  <tbody>
+                                    <tr>
+                                      <td style="width:45px;">
+                                        <a href="~PROBE(100)~" target="_blank">
+                                          <img alt="Telenet Logo" height="auto" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="45">
+                                        </a>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:525px;" ><![endif]-->
+              <div class="mj-column-px-525 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                          <tbody>
+                            <tr>
+                              <td align="left" class="text-medium hide-until-md" style="font-size:0px;padding:0;word-break:break-word;">
+                                <div style="font-family:'Albra Medium', Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#291D18;"><strong>~MESSAGE.PREHEADER~</strong></div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:0;word-break:break-word;">
+                                <div style="font-family:'Albra Light', Arial, Helvetica, sans-serif;font-size:16px;font-weight:100;line-height:24px;text-align:left;color:#291D18;">Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a></div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
               <!--[if mso | IE]></td></tr></table><![endif]-->
             </td>
@@ -585,22 +578,22 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#7291B5;background-color:#7291B5;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
-              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:640px;" ><![endif]-->
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:616px;" ><![endif]-->
               <div class="mj-column-per-80 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
-                              <td align="left" class="text-lemon outlook-font-fix heading-1" style="font-size:0px;padding:15px 0;padding-top:0;word-break:break-word;">
+                              <td align="left" class="text-lemon outlook-font-fix heading-1" style="font-size:0px;padding:0 0 15px;padding-top:20px;word-break:break-word;">
                                 <div style="font-family:'Albra Bold', Arial, Helvetica, sans-serif;font-size:36px;font-weight:800;line-height:40px;text-align:left;color:#FFF7C7;">ONE</div>
                               </td>
                             </tr>
                             <tr>
-                              <td align="left" class="outlook-font-fix heading-2" style="font-size:0px;padding:15px 0;padding-top:0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-2" style="font-size:0px;padding:0 0 15px;padding-top:0;word-break:break-word;">
                                 <div style="font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:28px;font-weight:600;line-height:36px;text-align:left;color:#291D18;">Commercial template subheader</div>
                               </td>
                             </tr>
@@ -624,13 +617,13 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#7291B5;background-color:#7291B5;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
-              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:800px;" ><![endif]-->
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:770px;" ><![endif]-->
               <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:0;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
@@ -666,17 +659,22 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
               <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="col-10-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
               <div class="mj-column-px-600 mj-outlook-group-fix col-10" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
-                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-6" style="font-size:0px;padding:0 0 15px;padding-top:12px;word-break:break-word;">
+                                <div style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;text-align:left;color:#291D18;">~(IF(LEN(MASTER.FIRSTNAME)>0,'Hallo '&MASTER.FIRSTNAME,'Hallo'))~,</div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:0 0 15px;word-break:break-word;">
                                 <div style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;text-align:left;color:#291D18;">Elit magna quis eiusmod cillum veniam excepteur et reprehenderit nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua sit nulla duis deserunt. Est ullamco voluptate adipisicing sit deserunt nulla officia eu ex aliquip Lorem labore commodo.</div>
                               </td>
                             </tr>
@@ -700,22 +698,22 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
               <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="bg-grey-4-outlook dark-mode-fix-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
               <div class="mj-column-px-600 mj-outlook-group-fix bg-grey-4 dark-mode-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="background-color:#F7F6F6;vertical-align:top;padding:0 30px;">
+                      <td style="background-color:#F7F6F6;vertical-align:top;padding:0 30px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
-                              <td align="left" class="outlook-font-fix heading-5" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-5" style="font-size:0px;padding:0 0 15px;padding-top:12px;word-break:break-word;">
                                 <div style="font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:18px;font-weight:600;line-height:24px;text-align:left;color:#291D18;">"Non proident amet ut proident mollit reprehenderit non non elit commodo occaecat veniam. Aliqua incididunt ipsum consequat nisi aute pariatur occaecat sint in incididunt sint enim incididunt."</div>
                               </td>
                             </tr>
                             <tr>
-                              <td align="left" class="outlook-font-fix heading-6" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-6" style="font-size:0px;padding:0 0 15px;padding-top:12px;word-break:break-word;">
                                 <div style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;text-align:left;color:#291D18;">- quote author</div>
                               </td>
                             </tr>
@@ -739,17 +737,17 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
               <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="col-10-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
               <div class="mj-column-px-600 mj-outlook-group-fix col-10" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
-                              <td align="left" class="outlook-font-fix heading-3" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-3" style="font-size:0px;padding:0 0 15px;padding-top:16px;word-break:break-word;">
                                 <div style="font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:24px;font-weight:600;line-height:32px;text-align:left;color:#291D18;">Waarom OneUp?</div>
                               </td>
                             </tr>
@@ -770,7 +768,7 @@
                                         </table>
                                       </td>
                                       <td style="vertical-align:middle;padding:7.5px 0 7.5px 15px;">
-                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:28px;text-decoration:none;"> Sit voluptate pariatur veniam sunt qui est. </span>
+                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:24px;text-decoration:none;"> Sit voluptate pariatur veniam sunt qui est. </span>
                                       </td>
                                     </tr>
                                     <tr class="outlook-font-fix text-medium dark-mode-fix">
@@ -786,7 +784,7 @@
                                         </table>
                                       </td>
                                       <td style="vertical-align:middle;padding:7.5px 0 7.5px 15px;">
-                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:28px;text-decoration:none;"> Amet nisi ex occaecat officia. </span>
+                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:24px;text-decoration:none;"> Amet nisi ex occaecat officia. </span>
                                       </td>
                                     </tr>
                                     <tr class="outlook-font-fix text-medium dark-mode-fix">
@@ -802,7 +800,7 @@
                                         </table>
                                       </td>
                                       <td style="vertical-align:middle;padding:7.5px 0 7.5px 15px;">
-                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:28px;text-decoration:none;"> Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse. </span>
+                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:24px;text-decoration:none;"> Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse. </span>
                                       </td>
                                     </tr>
                                     <tr class="outlook-font-fix text-medium dark-mode-fix">
@@ -818,7 +816,7 @@
                                         </table>
                                       </td>
                                       <td style="vertical-align:middle;padding:7.5px 0 7.5px 15px;">
-                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:28px;text-decoration:none;"> Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat. </span>
+                                        <span style="color:#291D18;font-size:16px;font-family:Arial, Helvetica, sans-serif;line-height:24px;text-decoration:none;"> Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat. </span>
                                       </td>
                                     </tr>
                                   </tbody>
@@ -826,14 +824,12 @@
                               </td>
                             </tr>
                             <tr>
-                              <td align="left" vertical-align="middle" class="button" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" vertical-align="middle" class="button button-primary" style="font-size:0px;padding:15px 0;word-break:break-word;">
                                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
                                   <tbody>
                                     <tr>
-                                      <td align="center" bgcolor="#FFC421" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:15px;background:#FFC421;" valign="middle">
-                                        <a href="~PROBE(120)~" style="display:inline-block;background:#FFC421;color:#291D18;font-family:'Albra Medium', Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;line-height:24px;margin:0;text-decoration:none;text-transform:none;padding:15px;mso-padding-alt:0px;border-radius:3px;" target="_blank">
-                                          <strong>Bestel nu</strong>
-                                        </a>
+                                      <td align="center" bgcolor="#FFC421" role="presentation" style="border:1px solid #FFC421;border-radius:4px;cursor:auto;mso-padding-alt:12px 24px;background:#FFC421;" valign="middle">
+                                        <a href="~PROBE(120)~" style="display:inline-block;background:#FFC421;color:#291D18;font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:16px;font-weight:700;line-height:24px;margin:0;text-decoration:none;text-transform:none;padding:12px 24px;mso-padding-alt:0px;border-radius:4px;" target="_blank"> Bestel nu </a>
                                       </td>
                                     </tr>
                                   </tbody>
@@ -860,42 +856,67 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
               <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="col-10-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
               <div class="mj-column-px-600 mj-outlook-group-fix col-10" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
-                              <td align="left" class="outlook-font-fix heading-3" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix heading-3" style="font-size:0px;padding:0 0 15px;padding-top:16px;word-break:break-word;">
                                 <div style="font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:24px;font-weight:600;line-height:32px;text-align:left;color:#291D18;">Meer info nodig?</div>
                               </td>
                             </tr>
                             <tr>
-                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:0 0 15px;word-break:break-word;">
                                 <div style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;text-align:left;color:#291D18;">Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.</div>
                               </td>
                             </tr>
                             <tr>
-                              <td align="left" vertical-align="middle" class="button" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" vertical-align="middle" class="button button-secondary" style="font-size:0px;padding:15px 0;word-break:break-word;">
                                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
                                   <tbody>
                                     <tr>
-                                      <td align="center" bgcolor="#E5E3E3" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:15px;background:#E5E3E3;" valign="middle">
-                                        <a href="~PROBE(121)~" style="display:inline-block;background:#E5E3E3;color:#291D18;font-family:'Albra Medium', Arial, Helvetica, sans-serif;font-size:16px;font-weight:400;line-height:24px;margin:0;text-decoration:none;text-transform:none;padding:15px;mso-padding-alt:0px;border-radius:3px;" target="_blank">
-                                          <strong>Lees hier alles over OneUp</strong>
-                                        </a>
+                                      <td align="center" bgcolor role="presentation" style="border:1px solid #291D18;border-radius:4px;cursor:auto;mso-padding-alt:12px 24px;background:;" valign="middle">
+                                        <a href="~PROBE(121)~" style="display:inline-block;background:;color:#291D18;font-family:'Albra Semi', Arial, Helvetica, sans-serif;font-size:16px;font-weight:700;line-height:24px;margin:0;text-decoration:none;text-transform:none;padding:12px 24px;mso-padding-alt:0px;border-radius:4px;" target="_blank"> Lees hier alles over OneUp </a>
                                       </td>
                                     </tr>
                                   </tbody>
                                 </table>
                               </td>
                             </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <!--[if mso | IE]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="dark-mode-fix-outlook" role="presentation" style="width:800px;" width="800" bgcolor="#FFFFFF" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    <div class="dark-mode-fix" style="background:#FFFFFF;background-color:#FFFFFF;margin:0px auto;max-width:800px;">
+      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;background-color:#FFFFFF;width:100%;">
+        <tbody>
+          <tr>
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
+              <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="col-10-outlook" style="vertical-align:top;width:600px;" ><![endif]-->
+              <div class="mj-column-px-600 mj-outlook-group-fix col-10" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                  <tbody>
+                    <tr>
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
+                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
+                          <tbody>
                             <tr>
-                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:15px 0;word-break:break-word;">
+                              <td align="left" class="outlook-font-fix text-medium" style="font-size:0px;padding:0 0 15px;word-break:break-word;">
                                 <div style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:24px;text-align:left;color:#291D18;">Vriendelijke groeten, <br>Het Telenet-team</div>
                               </td>
                             </tr>
@@ -919,13 +940,13 @@
       <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#f5f4f0;background-color:#f5f4f0;width:100%;">
         <tbody>
           <tr>
-            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:0;padding-top:30px;text-align:center;">
+            <td style="direction:ltr;font-size:0px;padding:0;padding-bottom:7.5px;padding-left:15px;padding-right:15px;padding-top:7.5px;text-align:center;">
               <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:510px;" ><![endif]-->
               <div class="mj-column-px-510 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <tr>
@@ -1035,7 +1056,7 @@
                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
                   <tbody>
                     <tr>
-                      <td style="vertical-align:top;padding:7.5px 15px;">
+                      <td style="vertical-align:top;padding:7.5px 15px;padding-top:7.5px;padding-right:15px;padding-bottom:7.5px;padding-left:15px;">
                         <table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%">
                           <tbody>
                             <!--[if !mso]>-->

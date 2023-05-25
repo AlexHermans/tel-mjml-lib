@@ -25,9 +25,11 @@
         <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
       </mj-column>
     </mj-section>
+
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
+      <mj-include path="../../partials/salutation/nl/res-informal.mjml" />
         <mj-text>
             Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
             nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua

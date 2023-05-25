@@ -38,6 +38,15 @@
     .hide-from-md {display: inherit !important;}
 
     .col-1-sm {width: 10% !important;}
+
+    /* Buttons go fullwidth in mobile view */
+    .button > table {
+      width: 100%;
+    }
+    
+    .button-secondary a {
+      width: calc(100% - 48px);
+    }
   }
 
   /* sm breakpoint */

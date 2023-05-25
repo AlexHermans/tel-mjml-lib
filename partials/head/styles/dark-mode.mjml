@@ -40,13 +40,16 @@
     .dark-mode-ignore .heading-5 div, 
     .dark-mode-ignore .heading-6 div,
     .dark-mode-ignore .display div, 
-    .dark-mode-ignore a,
-    .dark-mode-ignore .button  {
+    .dark-mode-ignore a{
       color: #291D18 !important;
     }
 
-    .dark-mode-fix .button a{
+    .button-primary a{
       color: #291D18 !important;
+    }
+
+    .button-secondary a {
+      border: 1px solid #ffffff;
     }
 
     .light-img {

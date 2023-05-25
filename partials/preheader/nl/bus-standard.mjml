@@ -1,6 +1,6 @@
 <mjml>
-      <mj-body>
-          <mj-section css-class="dark-mode-fix" padding-bottom="30px">
+    <mj-body>
+        <mj-section css-class="dark-mode-fix" padding-bottom="30px">
             <mj-include path="../partials/logo-tb.mjml" />
             <mj-column width="525px">
                 <mj-text mj-class="fontstack-medium" css-class="text-medium hide-until-md" align="left" padding="0">
