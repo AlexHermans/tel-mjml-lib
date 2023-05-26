@@ -1,9 +1,13 @@
 <mjml>
   <mj-head>
       <mj-include path="../../partials/head/_.mjml" />
+      <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
   </mj-head>
 
-  <mj-body mj-class="bg-light" width="800px">
+  <mj-body>
+    <!-- PADDING HACK -->
+    <mj-include path="../../partials/preheader/partials/padding-hack.mjml" />
+
     <!-- PRE-HEADER -->
     <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
