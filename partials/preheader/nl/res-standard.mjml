@@ -1,15 +1,15 @@
 <mjml>
-      <mj-body>
-          <mj-section padding-bottom="30px">
-            <mj-include path="../partials/logo-res.mjml" />
-            <mj-column width="525px">
-                <mj-text mj-class="fontstack-medium" css-class="text-medium hide-until-md" align="left" padding="0">
-                    <strong>~MESSAGE.PREHEADER~</strong>
-                </mj-text>
-                <mj-text mj-class="fontstack-light" align="left" padding="0">
-                    Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-    </mj-body>
+  <mj-body>
+    <mj-section padding-bottom="30px">
+      <mj-include path="../partials/logo-res.mjml" />
+      <mj-column width="525px">
+        <mj-text mj-class="fontstack-semi" css-class="text-medium hide-until-md" align="left" padding="0">
+          ~MESSAGE.PREHEADER~
+        </mj-text>
+        <mj-text mj-class="fontstack-light" align="left" padding="0">
+          Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>
