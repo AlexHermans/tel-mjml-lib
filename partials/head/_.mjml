@@ -29,15 +29,10 @@
   <mj-class name="primary" background-color="#FFC421" color="#291D18" border="1px solid #FFC421" css-class="button button-primary"/>
   <mj-class name="secondary" href="~PROBE(121)~" background-color="" color="#291D18" css-class="button button-secondary" border="1px solid #291D18"/>
   <mj-class name="tertiary" href="~PROBE(122)~" background-color="" color="#291D18" text-decoration="underline"/>
-  
-  <mj-class name="hero-text" css-class="dark-mode-ignore">
-    <mj-column width="80%" />
+
+  <mj-class name="hero" padding-bottom="0">
+    <mj-column padding-bottom="0" />
   </mj-class>
-  
-  <mj-class name="hero-image" padding="0" css-class="dark-mode-ignore"/>
-  <mj-class name="hero-image-left" padding="0" width="700px" align="left" />
-  <mj-class name="hero-image-right" padding="0" width="700px" align="right" />
-  <mj-class name="hero-image-center" padding="0" width="600px" align="center" />
 
   <mj-class name="column-padding" padding="0 30px" />
 
@@ -76,7 +71,7 @@
   <mj-social-element color="#291D18" font-size="16px" line-height="24px" css-class="outlook-font-fix text-medium dark-mode-fix" />
   <mj-text color="#291D18" font-size="16px" line-height="24px" padding="0 0 15px" css-class="outlook-font-fix text-medium"/>
   <mj-body background-color="#f5f4f0" width="800px" />
-  <mj-button href="~PROBE(120)~" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="700" border-radius="4px" inner-padding="12px 24px" padding="15px 0" align="center" css-class="outlook-font-fix heading-6" />
+  <mj-button href="~PROBE(120)~" align="left" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-size="16px" line-height="24px" font-weight="700" border-radius="4px" inner-padding="12px 24px" padding="7.5px 0" align="center" css-class="outlook-font-fix heading-6" />
 
 </mj-attributes>
 
