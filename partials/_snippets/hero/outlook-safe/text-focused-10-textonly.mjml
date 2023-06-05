@@ -1,0 +1,11 @@
+<!-- HERO  -->
+<mj-section mj-class="bg-watermelon">
+    <mj-column mj-class="col-10">
+    <mj-text mj-class="fontstack-semi heading-1" >
+        Moving soon? Telenet makes it easy!
+    </mj-text>
+    <mj-button mj-class="primary">
+        I'm moving!
+    </mj-button>
+    </mj-column>
+</mj-section>
