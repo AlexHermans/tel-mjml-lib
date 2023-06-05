@@ -44,7 +44,7 @@
             <!-- TEXT COLOURS -->
             <!-- Primary -->
             <mj-class name="text-yellow" color="#FFC421" css-class="text-yellow"/>
-            <mj-class name="text-white"  color="#FFFFFF" />
+            <mj-class name="text-white"  color="#FFFFFF" css-class="text-white"/>
             <mj-class name="text-brown"  color="#291D18" />
             <mj-class name="text-lemon"  color="#FFF7C7" css-class="text-lemon"/>
             
