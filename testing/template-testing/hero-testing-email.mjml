@@ -1,0 +1,151 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../partials/head/_.mjml" />
+      <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
+  </mj-head>
+
+  <mj-body>
+    <!-- PADDING HACK -->
+    <mj-include path="../../partials/preheader/partials/padding-hack.mjml" />
+
+    <!-- PRE-HEADER -->
+    <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
+
+    <!-- HERO STANDARD -->
+    <mj-section mj-class="bg-baby-blue hero">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="text-white fontstack-bold heading-1">
+          KLIK
+        </mj-text>
+        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+            Working hero 1
+        </mj-text>
+        <mj-image padding="0" src="https://picsum.photos/600/200.jpg" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- HERO - 270 - Fixed -->
+    <mj-hero mode="fixed-height" height="270px" background-width="800px" background-height="270px" background-url="https://picsum.photos/800/270.jpg" vertical-align="middle" padding-left="130px">
+        <mj-text mj-class="heading-2 fontstack-semi" >
+        HERO fixed height 270 image focused
+        </mj-text>
+        <mj-button mj-class="primary" align="left">
+        Bestel nu
+        </mj-button>
+    </mj-hero>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- HERO - 270  -->
+    <mj-hero mode="fluid-height" height="270px" background-width="800px" background-height="270px" background-url="https://picsum.photos/800/270.jpg" vertical-align="middle" padding-left="130px">
+        <mj-text mj-class="heading-2 fontstack-semi" >
+        HERO fluid height 270 image focused
+        </mj-text>
+        <mj-button mj-class="primary" align="left">
+        Bestel nu
+        </mj-button>
+    </mj-hero>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+
+    <!-- HERO 5-5 BLEED -->
+    <mj-section mj-class="bg-watermelon" background-size="280px" background-position="right top" background-repeat="no-repeat" background-url="https://picsum.photos/280.jpg">
+        <mj-column vertical-align="middle" mj-class="col-10">
+            <mj-text mj-class="fontstack-semi heading-1">
+                HERO 5-5 with <br>bleeding image
+            </mj-text>
+            <mj-button mj-class="primary" padding-top="0">
+                I'm moving!
+            </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- HERO 6-4 OFFGRID TRANSPARANT BG  -->
+    <mj-section background-color="rgba(0,0,0,0)" background-url="https://comm.telenet.be/images/General/bg/bg-hero-right-2col-watermelon.png" background-position="top left" background-size="800px" >
+        <mj-column mj-class="col-6">
+            <mj-text mj-class="fontstack-semi heading-1" >
+                HERO 6-4 right with offgrid image, transparant bg
+            </mj-text>
+            <mj-button mj-class="primary" padding-top="0">
+                I'm moving!
+            </mj-button>
+        </mj-column>
+        <mj-column mj-class="col-4">
+            <mj-image width="200px" padding="0" src="https://picsum.photos/480.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- HERO with BADGE  -->
+    <mj-section mj-class="bg-watermelon">
+        <mj-column mj-class="col-10">
+        <mj-table mj-class="fontstack-semi text-small" padding="0" width="" cellpadding="10px" padding-bottom="0" >
+            <tr>
+                <td style="background-color:white">[BADGE COMPONENT]</td>
+            </tr>
+        </mj-table>
+        <mj-text mj-class="fontstack-semi heading-1">
+            Text only with badge component
+        </mj-text>
+        <mj-button mj-class="primary">
+            I'm moving!
+        </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <!-- HERO  -->
+    <mj-section mj-class="bg-watermelon">
+        <mj-column mj-class="col-5">
+            <mj-image src="https://www2.telenet.be/content/dam/www-telenet-touch/nl/landingspaginas/welkomstgeschenk/one-logo.svg" alt="" width="90px" align="left" padding="0" padding-top="30px" padding-bottom="7.5px"/>
+            <mj-text mj-class="heading-6" >
+                Met ONE ben je eindelijk overal onbezorgd online. Binnen of buiten? Maakt niet uit. Wat op wifi kan, kan nu overal. En dat voor iedereen bij je thuis. Zonder dat je te veel betaalt. 
+            </mj-text>
+            <mj-text mj-class="text-small" padding-top="0" line-height="32px">
+            vanaf <s>€69,10</s> <span style="font-size:24px !important; font-weight:700; padding: 0 5px" >€59,10</span> per maand
+            </mj-text>
+            <mj-button mj-class="primary">
+                Stel je ONE(up) samen
+            </mj-button>
+        </mj-column>
+        <mj-column mj-class="col-5 hide-until-xl" vertical-align="middle" padding-right="0" padding-top="45px">
+            <mj-image padding="0" src="https://picsum.photos/300/300" alt="" />
+        </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../partials/footer/nl/res-mkt-withlegal.mjml" />
+    
+  </mj-body>
+</mjml>

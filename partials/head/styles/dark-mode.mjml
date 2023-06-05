@@ -90,5 +90,6 @@
 
     .dark-mode-ignore .text-yellow div { color: #FFC421 !important;  }
     .dark-mode-ignore .text-lemon div { color: #FFF7C7 !important;  }
+    .dark-mode-ignore .text-white div { color: #FFFFFF !important;  }
   }
 </mj-style>

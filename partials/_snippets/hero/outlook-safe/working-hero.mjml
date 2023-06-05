@@ -1,0 +1,12 @@
+<!-- HERO TEXT -->
+<mj-section  mj-class="bg-baby-blue hero">
+    <mj-column mj-class="col-10">
+    <mj-text mj-class="text-white fontstack-bold heading-1">
+        KLIK
+    </mj-text>
+    <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+        Commercial template subheader
+    </mj-text>
+    <mj-image padding="0" src="https://picsum.photos/600/200" alt="" />
+    </mj-column>
+</mj-section>
