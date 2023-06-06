@@ -1,4 +1,3 @@
-
 # Font size proportions
 
 ## Sizing names
