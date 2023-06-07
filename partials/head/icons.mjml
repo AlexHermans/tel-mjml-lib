@@ -2,19 +2,28 @@
   <mj-head>
     <mj-attributes>
       <!-- page layout styles -->
-      <mj-text align="center" font-weight="bold" />
-      <mj-image padding="0" width="45px" />
-      <mj-section padding="0" />
+      <mj-class name="icons-preview">
+        <mj-section padding="0" />
+      </mj-class>
 
       <mj-class name="icon-row" background-color="#F7F6F6" border-bottom="1px solid #DDD">
         <mj-column padding="15px 0" vertical-align="middle" />
+        <mj-text align="center" font-weight="bold" />
+        <mj-image padding="0" width="45px" />
       </mj-class>
 
-      <mj-class name="white-bg" background-color="#FFFFFF" vertical-align="middle" />
+      <mj-class name="white-bg" background-color="#FFFFFF" vertical-align="middle">
+        <mj-text align="center" font-weight="bold" />
+        <mj-image padding="0" width="45px" />
+      </mj-class>
       <mj-class name="dark-bg" background-color="#291D18" vertical-align="middle">
+        <mj-image padding="0" width="45px" />
         <mj-text color="#FFFFFF" font-weight="bold" align="center" />
       </mj-class>
-      <mj-class name="blue-bg" background-color="#1A9AAA" vertical-align="middle" />
+      <mj-class name="blue-bg" background-color="#1A9AAA" vertical-align="middle">
+        <mj-text align="center" font-weight="bold" />
+        <mj-image padding="0" width="45px" />
+      </mj-class>
 
       <!-- global icon-sizes -->
       <mj-class name="icon-s" width="30px" />
@@ -23,8 +32,7 @@
       <mj-class name="icon-xl" width="90px" />
 
       <!-- including the separate icon partials -->
-      <mj-include path="partials/icon/icon-achievement.mjml" />
-                 
+      <mj-include path="partials/icon/icon-achievement.mjml" />      
       <mj-include path="partials/icon/icon-activate.mjml" />
                  
       <mj-include path="partials/icon/icon-addpod.mjml" />
@@ -434,7 +442,7 @@
 
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="white" width="630px">
+  <mj-body mj-class="icons-preview" background-color="white" width="630px">
 
     <mj-section>
       <mj-column>
