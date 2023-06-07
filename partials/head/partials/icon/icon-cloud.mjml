@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-cloud-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cloud-m.png" />
+
+            <mj-class width="45px" name="icon-cloud-com" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-cloud-m.png" />
+            <mj-class width="45px" name="icon-cloud-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cloud-m.png" />
+
+            <mj-class name="icon-cloud-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cloud-xl.png" />
+
+            <mj-class name="icon-cloud-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cloud-xl.png" />
+
+            <mj-class name="icon-cloud-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cloud-xl.png" />
+
+            <mj-class name="icon-cloud-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-cloud-xl.png" />
+
+            <mj-class name="icon-cloud-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cloud-xl.png" />
+
+            <mj-class name="icon-cloud-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cloud-s.png" />
+            <mj-class name="icon-cloud-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cloud-m.png" />
+            <mj-class name="icon-cloud-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cloud-l.png" />
+            <mj-class name="icon-cloud-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cloud-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

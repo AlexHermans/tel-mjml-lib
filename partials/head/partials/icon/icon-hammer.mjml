@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-hammer-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hammer-m.png" />
+
+            <mj-class width="45px" name="icon-hammer-com" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-hammer-m.png" />
+            <mj-class width="45px" name="icon-hammer-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hammer-m.png" />
+
+            <mj-class name="icon-hammer-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hammer-xl.png" />
+
+            <mj-class name="icon-hammer-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hammer-xl.png" />
+
+            <mj-class name="icon-hammer-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hammer-xl.png" />
+
+            <mj-class name="icon-hammer-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-hammer-xl.png" />
+
+            <mj-class name="icon-hammer-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hammer-xl.png" />
+
+            <mj-class name="icon-hammer-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hammer-s.png" />
+            <mj-class name="icon-hammer-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hammer-m.png" />
+            <mj-class name="icon-hammer-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hammer-l.png" />
+            <mj-class name="icon-hammer-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hammer-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

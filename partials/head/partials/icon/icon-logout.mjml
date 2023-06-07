@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-logout-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-logout-m.png" />
+
+            <mj-class width="45px" name="icon-logout-com" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-logout-m.png" />
+            <mj-class width="45px" name="icon-logout-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-logout-m.png" />
+
+            <mj-class name="icon-logout-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-s.png" />
+            <mj-class name="icon-logout-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class name="icon-logout-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-l.png" />
+            <mj-class name="icon-logout-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-logout-xl.png" />
+
+            <mj-class name="icon-logout-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-s.png" />
+            <mj-class name="icon-logout-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-m.png" />
+            <mj-class name="icon-logout-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-l.png" />
+            <mj-class name="icon-logout-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-logout-xl.png" />
+
+            <mj-class name="icon-logout-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-logout-s.png" />
+            <mj-class name="icon-logout-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-logout-m.png" />
+            <mj-class name="icon-logout-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-logout-l.png" />
+            <mj-class name="icon-logout-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-logout-xl.png" />
+
+            <mj-class name="icon-logout-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-logout-s.png" />
+            <mj-class name="icon-logout-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-logout-m.png" />
+            <mj-class name="icon-logout-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-logout-l.png" />
+            <mj-class name="icon-logout-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-logout-xl.png" />
+
+            <mj-class name="icon-logout-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-logout-s.png" />
+            <mj-class name="icon-logout-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-logout-m.png" />
+            <mj-class name="icon-logout-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-logout-l.png" />
+            <mj-class name="icon-logout-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-logout-xl.png" />
+
+            <mj-class name="icon-logout-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-logout-s.png" />
+            <mj-class name="icon-logout-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-logout-m.png" />
+            <mj-class name="icon-logout-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-logout-l.png" />
+            <mj-class name="icon-logout-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-logout-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

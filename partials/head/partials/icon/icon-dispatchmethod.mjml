@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-dispatchmethod-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-dispatchmethod-m.png" />
+
+            <mj-class width="45px" name="icon-dispatchmethod-com" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-dispatchmethod-m.png" />
+            <mj-class width="45px" name="icon-dispatchmethod-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-dispatchmethod-m.png" />
+
+            <mj-class name="icon-dispatchmethod-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-dispatchmethod-xl.png" />
+
+            <mj-class name="icon-dispatchmethod-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-dispatchmethod-xl.png" />
+
+            <mj-class name="icon-dispatchmethod-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-dispatchmethod-xl.png" />
+
+            <mj-class name="icon-dispatchmethod-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-dispatchmethod-xl.png" />
+
+            <mj-class name="icon-dispatchmethod-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-dispatchmethod-xl.png" />
+
+            <mj-class name="icon-dispatchmethod-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-dispatchmethod-s.png" />
+            <mj-class name="icon-dispatchmethod-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-dispatchmethod-m.png" />
+            <mj-class name="icon-dispatchmethod-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-dispatchmethod-l.png" />
+            <mj-class name="icon-dispatchmethod-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-dispatchmethod-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

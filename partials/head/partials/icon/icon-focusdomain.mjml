@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-focusdomain-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-focusdomain-m.png" />
+
+            <mj-class width="45px" name="icon-focusdomain-com" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-focusdomain-m.png" />
+            <mj-class width="45px" name="icon-focusdomain-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-focusdomain-m.png" />
+
+            <mj-class name="icon-focusdomain-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-focusdomain-xl.png" />
+
+            <mj-class name="icon-focusdomain-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-focusdomain-xl.png" />
+
+            <mj-class name="icon-focusdomain-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-focusdomain-xl.png" />
+
+            <mj-class name="icon-focusdomain-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-focusdomain-xl.png" />
+
+            <mj-class name="icon-focusdomain-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-focusdomain-xl.png" />
+
+            <mj-class name="icon-focusdomain-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-focusdomain-s.png" />
+            <mj-class name="icon-focusdomain-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-focusdomain-m.png" />
+            <mj-class name="icon-focusdomain-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-focusdomain-l.png" />
+            <mj-class name="icon-focusdomain-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-focusdomain-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

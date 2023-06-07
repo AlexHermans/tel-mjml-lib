@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-chevronup-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronup-m.png" />
+
+            <mj-class width="45px" name="icon-chevronup-com" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronup-m.png" />
+            <mj-class width="45px" name="icon-chevronup-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronup-m.png" />
+
+            <mj-class name="icon-chevronup-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronup-xl.png" />
+
+            <mj-class name="icon-chevronup-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronup-xl.png" />
+
+            <mj-class name="icon-chevronup-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronup-xl.png" />
+
+            <mj-class name="icon-chevronup-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronup-xl.png" />
+
+            <mj-class name="icon-chevronup-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronup-xl.png" />
+
+            <mj-class name="icon-chevronup-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronup-s.png" />
+            <mj-class name="icon-chevronup-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronup-m.png" />
+            <mj-class name="icon-chevronup-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronup-l.png" />
+            <mj-class name="icon-chevronup-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronup-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

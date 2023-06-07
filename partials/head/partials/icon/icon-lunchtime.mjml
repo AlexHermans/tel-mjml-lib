@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-lunchtime-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-lunchtime-m.png" />
+
+            <mj-class width="45px" name="icon-lunchtime-com" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-lunchtime-m.png" />
+            <mj-class width="45px" name="icon-lunchtime-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-lunchtime-m.png" />
+
+            <mj-class name="icon-lunchtime-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-lunchtime-xl.png" />
+
+            <mj-class name="icon-lunchtime-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-lunchtime-xl.png" />
+
+            <mj-class name="icon-lunchtime-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-lunchtime-xl.png" />
+
+            <mj-class name="icon-lunchtime-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-lunchtime-xl.png" />
+
+            <mj-class name="icon-lunchtime-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-lunchtime-xl.png" />
+
+            <mj-class name="icon-lunchtime-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-lunchtime-s.png" />
+            <mj-class name="icon-lunchtime-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-lunchtime-m.png" />
+            <mj-class name="icon-lunchtime-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-lunchtime-l.png" />
+            <mj-class name="icon-lunchtime-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-lunchtime-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

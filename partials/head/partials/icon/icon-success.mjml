@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-success-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-success-m.png" />
+
+            <mj-class width="45px" name="icon-success-com" src="https://comm.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-success-m.png" />
+            <mj-class width="45px" name="icon-success-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-success-m.png" />
+
+            <mj-class name="icon-success-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-s.png" />
+            <mj-class name="icon-success-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class name="icon-success-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-l.png" />
+            <mj-class name="icon-success-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-success-xl.png" />
+
+            <mj-class name="icon-success-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-success-s.png" />
+            <mj-class name="icon-success-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-success-m.png" />
+            <mj-class name="icon-success-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-success-l.png" />
+            <mj-class name="icon-success-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-success-xl.png" />
+
+            <mj-class name="icon-success-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-success-s.png" />
+            <mj-class name="icon-success-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-success-m.png" />
+            <mj-class name="icon-success-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-success-l.png" />
+            <mj-class name="icon-success-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-success-xl.png" />
+
+            <mj-class name="icon-success-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-success-s.png" />
+            <mj-class name="icon-success-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-success-m.png" />
+            <mj-class name="icon-success-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-success-l.png" />
+            <mj-class name="icon-success-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-success-xl.png" />
+
+            <mj-class name="icon-success-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-success-s.png" />
+            <mj-class name="icon-success-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-success-m.png" />
+            <mj-class name="icon-success-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-success-l.png" />
+            <mj-class name="icon-success-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-success-xl.png" />
+
+            <mj-class name="icon-success-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-success-s.png" />
+            <mj-class name="icon-success-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-success-m.png" />
+            <mj-class name="icon-success-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-success-l.png" />
+            <mj-class name="icon-success-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-success-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-sports-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sports-m.png" />
+
+            <mj-class width="45px" name="icon-sports-com" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-sports-m.png" />
+            <mj-class width="45px" name="icon-sports-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sports-m.png" />
+
+            <mj-class name="icon-sports-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-s.png" />
+            <mj-class name="icon-sports-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class name="icon-sports-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-l.png" />
+            <mj-class name="icon-sports-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sports-xl.png" />
+
+            <mj-class name="icon-sports-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-s.png" />
+            <mj-class name="icon-sports-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-m.png" />
+            <mj-class name="icon-sports-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-l.png" />
+            <mj-class name="icon-sports-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sports-xl.png" />
+
+            <mj-class name="icon-sports-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sports-s.png" />
+            <mj-class name="icon-sports-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sports-m.png" />
+            <mj-class name="icon-sports-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sports-l.png" />
+            <mj-class name="icon-sports-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sports-xl.png" />
+
+            <mj-class name="icon-sports-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-sports-s.png" />
+            <mj-class name="icon-sports-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-sports-m.png" />
+            <mj-class name="icon-sports-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-sports-l.png" />
+            <mj-class name="icon-sports-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-sports-xl.png" />
+
+            <mj-class name="icon-sports-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sports-s.png" />
+            <mj-class name="icon-sports-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sports-m.png" />
+            <mj-class name="icon-sports-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sports-l.png" />
+            <mj-class name="icon-sports-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sports-xl.png" />
+
+            <mj-class name="icon-sports-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sports-s.png" />
+            <mj-class name="icon-sports-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sports-m.png" />
+            <mj-class name="icon-sports-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sports-l.png" />
+            <mj-class name="icon-sports-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sports-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

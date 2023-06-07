@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-smokedetector-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smokedetector-m.png" />
+
+            <mj-class width="45px" name="icon-smokedetector-com" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-smokedetector-m.png" />
+            <mj-class width="45px" name="icon-smokedetector-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smokedetector-m.png" />
+
+            <mj-class name="icon-smokedetector-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smokedetector-xl.png" />
+
+            <mj-class name="icon-smokedetector-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smokedetector-xl.png" />
+
+            <mj-class name="icon-smokedetector-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smokedetector-xl.png" />
+
+            <mj-class name="icon-smokedetector-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-smokedetector-xl.png" />
+
+            <mj-class name="icon-smokedetector-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smokedetector-xl.png" />
+
+            <mj-class name="icon-smokedetector-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smokedetector-s.png" />
+            <mj-class name="icon-smokedetector-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smokedetector-m.png" />
+            <mj-class name="icon-smokedetector-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smokedetector-l.png" />
+            <mj-class name="icon-smokedetector-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smokedetector-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

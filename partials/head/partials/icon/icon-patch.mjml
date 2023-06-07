@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-patch-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-patch-m.png" />
+
+            <mj-class width="45px" name="icon-patch-com" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-patch-m.png" />
+            <mj-class width="45px" name="icon-patch-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-patch-m.png" />
+
+            <mj-class name="icon-patch-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-s.png" />
+            <mj-class name="icon-patch-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class name="icon-patch-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-l.png" />
+            <mj-class name="icon-patch-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-patch-xl.png" />
+
+            <mj-class name="icon-patch-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-s.png" />
+            <mj-class name="icon-patch-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-m.png" />
+            <mj-class name="icon-patch-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-l.png" />
+            <mj-class name="icon-patch-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-patch-xl.png" />
+
+            <mj-class name="icon-patch-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-patch-s.png" />
+            <mj-class name="icon-patch-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-patch-m.png" />
+            <mj-class name="icon-patch-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-patch-l.png" />
+            <mj-class name="icon-patch-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-patch-xl.png" />
+
+            <mj-class name="icon-patch-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-patch-s.png" />
+            <mj-class name="icon-patch-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-patch-m.png" />
+            <mj-class name="icon-patch-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-patch-l.png" />
+            <mj-class name="icon-patch-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-patch-xl.png" />
+
+            <mj-class name="icon-patch-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-patch-s.png" />
+            <mj-class name="icon-patch-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-patch-m.png" />
+            <mj-class name="icon-patch-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-patch-l.png" />
+            <mj-class name="icon-patch-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-patch-xl.png" />
+
+            <mj-class name="icon-patch-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-patch-s.png" />
+            <mj-class name="icon-patch-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-patch-m.png" />
+            <mj-class name="icon-patch-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-patch-l.png" />
+            <mj-class name="icon-patch-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-patch-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

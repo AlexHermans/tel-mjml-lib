@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-time-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-time-m.png" />
+
+            <mj-class width="45px" name="icon-time-com" src="https://comm.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-time-m.png" />
+            <mj-class width="45px" name="icon-time-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-time-m.png" />
+
+            <mj-class name="icon-time-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-s.png" />
+            <mj-class name="icon-time-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class name="icon-time-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-l.png" />
+            <mj-class name="icon-time-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-time-xl.png" />
+
+            <mj-class name="icon-time-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-time-s.png" />
+            <mj-class name="icon-time-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-time-m.png" />
+            <mj-class name="icon-time-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-time-l.png" />
+            <mj-class name="icon-time-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-time-xl.png" />
+
+            <mj-class name="icon-time-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-time-s.png" />
+            <mj-class name="icon-time-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-time-m.png" />
+            <mj-class name="icon-time-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-time-l.png" />
+            <mj-class name="icon-time-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-time-xl.png" />
+
+            <mj-class name="icon-time-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-time-s.png" />
+            <mj-class name="icon-time-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-time-m.png" />
+            <mj-class name="icon-time-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-time-l.png" />
+            <mj-class name="icon-time-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-time-xl.png" />
+
+            <mj-class name="icon-time-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-time-s.png" />
+            <mj-class name="icon-time-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-time-m.png" />
+            <mj-class name="icon-time-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-time-l.png" />
+            <mj-class name="icon-time-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-time-xl.png" />
+
+            <mj-class name="icon-time-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-time-s.png" />
+            <mj-class name="icon-time-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-time-m.png" />
+            <mj-class name="icon-time-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-time-l.png" />
+            <mj-class name="icon-time-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-time-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

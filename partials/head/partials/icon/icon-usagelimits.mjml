@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-usagelimits-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-usagelimits-m.png" />
+
+            <mj-class width="45px" name="icon-usagelimits-com" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-usagelimits-m.png" />
+            <mj-class width="45px" name="icon-usagelimits-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-usagelimits-m.png" />
+
+            <mj-class name="icon-usagelimits-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-usagelimits-xl.png" />
+
+            <mj-class name="icon-usagelimits-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-usagelimits-xl.png" />
+
+            <mj-class name="icon-usagelimits-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-usagelimits-xl.png" />
+
+            <mj-class name="icon-usagelimits-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-usagelimits-xl.png" />
+
+            <mj-class name="icon-usagelimits-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-usagelimits-xl.png" />
+
+            <mj-class name="icon-usagelimits-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-usagelimits-s.png" />
+            <mj-class name="icon-usagelimits-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-usagelimits-m.png" />
+            <mj-class name="icon-usagelimits-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-usagelimits-l.png" />
+            <mj-class name="icon-usagelimits-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-usagelimits-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

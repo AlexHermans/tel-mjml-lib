@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-digitaltv-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-digitaltv-m.png" />
+
+            <mj-class width="45px" name="icon-digitaltv-com" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-digitaltv-m.png" />
+            <mj-class width="45px" name="icon-digitaltv-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-digitaltv-m.png" />
+
+            <mj-class name="icon-digitaltv-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-digitaltv-xl.png" />
+
+            <mj-class name="icon-digitaltv-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-digitaltv-xl.png" />
+
+            <mj-class name="icon-digitaltv-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-digitaltv-xl.png" />
+
+            <mj-class name="icon-digitaltv-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-digitaltv-xl.png" />
+
+            <mj-class name="icon-digitaltv-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-digitaltv-xl.png" />
+
+            <mj-class name="icon-digitaltv-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-digitaltv-s.png" />
+            <mj-class name="icon-digitaltv-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-digitaltv-m.png" />
+            <mj-class name="icon-digitaltv-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-digitaltv-l.png" />
+            <mj-class name="icon-digitaltv-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-digitaltv-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

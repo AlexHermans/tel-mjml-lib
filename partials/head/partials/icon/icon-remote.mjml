@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-remote-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-remote-m.png" />
+
+            <mj-class width="45px" name="icon-remote-com" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-remote-m.png" />
+            <mj-class width="45px" name="icon-remote-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-remote-m.png" />
+
+            <mj-class name="icon-remote-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-s.png" />
+            <mj-class name="icon-remote-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class name="icon-remote-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-l.png" />
+            <mj-class name="icon-remote-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-remote-xl.png" />
+
+            <mj-class name="icon-remote-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-s.png" />
+            <mj-class name="icon-remote-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-m.png" />
+            <mj-class name="icon-remote-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-l.png" />
+            <mj-class name="icon-remote-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-remote-xl.png" />
+
+            <mj-class name="icon-remote-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-remote-s.png" />
+            <mj-class name="icon-remote-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-remote-m.png" />
+            <mj-class name="icon-remote-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-remote-l.png" />
+            <mj-class name="icon-remote-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-remote-xl.png" />
+
+            <mj-class name="icon-remote-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-remote-s.png" />
+            <mj-class name="icon-remote-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-remote-m.png" />
+            <mj-class name="icon-remote-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-remote-l.png" />
+            <mj-class name="icon-remote-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-remote-xl.png" />
+
+            <mj-class name="icon-remote-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-remote-s.png" />
+            <mj-class name="icon-remote-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-remote-m.png" />
+            <mj-class name="icon-remote-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-remote-l.png" />
+            <mj-class name="icon-remote-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-remote-xl.png" />
+
+            <mj-class name="icon-remote-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-remote-s.png" />
+            <mj-class name="icon-remote-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-remote-m.png" />
+            <mj-class name="icon-remote-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-remote-l.png" />
+            <mj-class name="icon-remote-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-remote-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

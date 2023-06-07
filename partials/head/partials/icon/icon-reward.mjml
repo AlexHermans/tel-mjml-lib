@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-reward-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-reward-m.png" />
+
+            <mj-class width="45px" name="icon-reward-com" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-reward-m.png" />
+            <mj-class width="45px" name="icon-reward-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-reward-m.png" />
+
+            <mj-class name="icon-reward-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-s.png" />
+            <mj-class name="icon-reward-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class name="icon-reward-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-l.png" />
+            <mj-class name="icon-reward-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-reward-xl.png" />
+
+            <mj-class name="icon-reward-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-s.png" />
+            <mj-class name="icon-reward-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-m.png" />
+            <mj-class name="icon-reward-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-l.png" />
+            <mj-class name="icon-reward-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-reward-xl.png" />
+
+            <mj-class name="icon-reward-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-reward-s.png" />
+            <mj-class name="icon-reward-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-reward-m.png" />
+            <mj-class name="icon-reward-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-reward-l.png" />
+            <mj-class name="icon-reward-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-reward-xl.png" />
+
+            <mj-class name="icon-reward-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-reward-s.png" />
+            <mj-class name="icon-reward-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-reward-m.png" />
+            <mj-class name="icon-reward-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-reward-l.png" />
+            <mj-class name="icon-reward-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-reward-xl.png" />
+
+            <mj-class name="icon-reward-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-reward-s.png" />
+            <mj-class name="icon-reward-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-reward-m.png" />
+            <mj-class name="icon-reward-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-reward-l.png" />
+            <mj-class name="icon-reward-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-reward-xl.png" />
+
+            <mj-class name="icon-reward-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-reward-s.png" />
+            <mj-class name="icon-reward-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-reward-m.png" />
+            <mj-class name="icon-reward-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-reward-l.png" />
+            <mj-class name="icon-reward-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-reward-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

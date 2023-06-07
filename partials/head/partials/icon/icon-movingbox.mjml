@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-movingbox-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-movingbox-m.png" />
+
+            <mj-class width="45px" name="icon-movingbox-com" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-movingbox-m.png" />
+            <mj-class width="45px" name="icon-movingbox-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-movingbox-m.png" />
+
+            <mj-class name="icon-movingbox-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-movingbox-xl.png" />
+
+            <mj-class name="icon-movingbox-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-movingbox-xl.png" />
+
+            <mj-class name="icon-movingbox-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-movingbox-xl.png" />
+
+            <mj-class name="icon-movingbox-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-movingbox-xl.png" />
+
+            <mj-class name="icon-movingbox-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-movingbox-xl.png" />
+
+            <mj-class name="icon-movingbox-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-movingbox-s.png" />
+            <mj-class name="icon-movingbox-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-movingbox-m.png" />
+            <mj-class name="icon-movingbox-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-movingbox-l.png" />
+            <mj-class name="icon-movingbox-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-movingbox-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

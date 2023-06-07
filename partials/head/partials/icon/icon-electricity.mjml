@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-electricity-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-electricity-m.png" />
+
+            <mj-class width="45px" name="icon-electricity-com" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-electricity-m.png" />
+            <mj-class width="45px" name="icon-electricity-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-electricity-m.png" />
+
+            <mj-class name="icon-electricity-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-electricity-xl.png" />
+
+            <mj-class name="icon-electricity-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-electricity-xl.png" />
+
+            <mj-class name="icon-electricity-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-electricity-xl.png" />
+
+            <mj-class name="icon-electricity-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-electricity-xl.png" />
+
+            <mj-class name="icon-electricity-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-electricity-xl.png" />
+
+            <mj-class name="icon-electricity-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-electricity-s.png" />
+            <mj-class name="icon-electricity-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-electricity-m.png" />
+            <mj-class name="icon-electricity-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-electricity-l.png" />
+            <mj-class name="icon-electricity-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-electricity-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

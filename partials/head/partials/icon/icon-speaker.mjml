@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-speaker-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-speaker-m.png" />
+
+            <mj-class width="45px" name="icon-speaker-com" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-speaker-m.png" />
+            <mj-class width="45px" name="icon-speaker-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-speaker-m.png" />
+
+            <mj-class name="icon-speaker-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-speaker-xl.png" />
+
+            <mj-class name="icon-speaker-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-speaker-xl.png" />
+
+            <mj-class name="icon-speaker-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-speaker-xl.png" />
+
+            <mj-class name="icon-speaker-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-speaker-xl.png" />
+
+            <mj-class name="icon-speaker-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-speaker-xl.png" />
+
+            <mj-class name="icon-speaker-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-speaker-s.png" />
+            <mj-class name="icon-speaker-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-speaker-m.png" />
+            <mj-class name="icon-speaker-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-speaker-l.png" />
+            <mj-class name="icon-speaker-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-speaker-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

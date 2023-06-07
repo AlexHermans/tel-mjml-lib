@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-smarthome-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smarthome-m.png" />
+
+            <mj-class width="45px" name="icon-smarthome-com" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-smarthome-m.png" />
+            <mj-class width="45px" name="icon-smarthome-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smarthome-m.png" />
+
+            <mj-class name="icon-smarthome-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-smarthome-xl.png" />
+
+            <mj-class name="icon-smarthome-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-smarthome-xl.png" />
+
+            <mj-class name="icon-smarthome-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-smarthome-xl.png" />
+
+            <mj-class name="icon-smarthome-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-smarthome-xl.png" />
+
+            <mj-class name="icon-smarthome-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-smarthome-xl.png" />
+
+            <mj-class name="icon-smarthome-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smarthome-s.png" />
+            <mj-class name="icon-smarthome-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smarthome-m.png" />
+            <mj-class name="icon-smarthome-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smarthome-l.png" />
+            <mj-class name="icon-smarthome-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-smarthome-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

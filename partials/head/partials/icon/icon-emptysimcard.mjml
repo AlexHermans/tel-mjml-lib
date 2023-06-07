@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-emptysimcard-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-emptysimcard-m.png" />
+
+            <mj-class width="45px" name="icon-emptysimcard-com" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-emptysimcard-m.png" />
+            <mj-class width="45px" name="icon-emptysimcard-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-emptysimcard-m.png" />
+
+            <mj-class name="icon-emptysimcard-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-emptysimcard-xl.png" />
+
+            <mj-class name="icon-emptysimcard-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-emptysimcard-xl.png" />
+
+            <mj-class name="icon-emptysimcard-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-emptysimcard-xl.png" />
+
+            <mj-class name="icon-emptysimcard-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-emptysimcard-xl.png" />
+
+            <mj-class name="icon-emptysimcard-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-emptysimcard-xl.png" />
+
+            <mj-class name="icon-emptysimcard-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-emptysimcard-s.png" />
+            <mj-class name="icon-emptysimcard-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-emptysimcard-m.png" />
+            <mj-class name="icon-emptysimcard-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-emptysimcard-l.png" />
+            <mj-class name="icon-emptysimcard-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-emptysimcard-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

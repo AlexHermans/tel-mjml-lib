@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-upgrade-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-upgrade-m.png" />
+
+            <mj-class width="45px" name="icon-upgrade-com" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-upgrade-m.png" />
+            <mj-class width="45px" name="icon-upgrade-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-upgrade-m.png" />
+
+            <mj-class name="icon-upgrade-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-upgrade-xl.png" />
+
+            <mj-class name="icon-upgrade-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-upgrade-xl.png" />
+
+            <mj-class name="icon-upgrade-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-upgrade-xl.png" />
+
+            <mj-class name="icon-upgrade-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-upgrade-xl.png" />
+
+            <mj-class name="icon-upgrade-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-upgrade-xl.png" />
+
+            <mj-class name="icon-upgrade-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-upgrade-s.png" />
+            <mj-class name="icon-upgrade-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-upgrade-m.png" />
+            <mj-class name="icon-upgrade-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-upgrade-l.png" />
+            <mj-class name="icon-upgrade-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-upgrade-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

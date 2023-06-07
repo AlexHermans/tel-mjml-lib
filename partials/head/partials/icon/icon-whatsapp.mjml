@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-whatsapp-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsapp-m.png" />
+
+            <mj-class width="45px" name="icon-whatsapp-com" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsapp-m.png" />
+            <mj-class width="45px" name="icon-whatsapp-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsapp-m.png" />
+
+            <mj-class name="icon-whatsapp-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" />
+
+            <mj-class name="icon-whatsapp-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" />
+
+            <mj-class name="icon-whatsapp-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsapp-xl.png" />
+
+            <mj-class name="icon-whatsapp-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsapp-xl.png" />
+
+            <mj-class name="icon-whatsapp-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsapp-xl.png" />
+
+            <mj-class name="icon-whatsapp-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsapp-s.png" />
+            <mj-class name="icon-whatsapp-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsapp-m.png" />
+            <mj-class name="icon-whatsapp-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsapp-l.png" />
+            <mj-class name="icon-whatsapp-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsapp-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>
