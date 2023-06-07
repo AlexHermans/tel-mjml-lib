@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-youtube-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-youtube-m.png" />
+
+            <mj-class width="45px" name="icon-youtube-com" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-youtube-m.png" />
+            <mj-class width="45px" name="icon-youtube-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-youtube-m.png" />
+
+            <mj-class name="icon-youtube-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-youtube-xl.png" />
+
+            <mj-class name="icon-youtube-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-youtube-xl.png" />
+
+            <mj-class name="icon-youtube-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-youtube-xl.png" />
+
+            <mj-class name="icon-youtube-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-youtube-xl.png" />
+
+            <mj-class name="icon-youtube-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-youtube-xl.png" />
+
+            <mj-class name="icon-youtube-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-youtube-s.png" />
+            <mj-class name="icon-youtube-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-youtube-m.png" />
+            <mj-class name="icon-youtube-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-youtube-l.png" />
+            <mj-class name="icon-youtube-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-youtube-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-telenettvapp-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenettvapp-m.png" />
+
+            <mj-class width="45px" name="icon-telenettvapp-com" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenettvapp-m.png" />
+            <mj-class width="45px" name="icon-telenettvapp-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenettvapp-m.png" />
+
+            <mj-class name="icon-telenettvapp-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenettvapp-xl.png" />
+
+            <mj-class name="icon-telenettvapp-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenettvapp-xl.png" />
+
+            <mj-class name="icon-telenettvapp-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenettvapp-xl.png" />
+
+            <mj-class name="icon-telenettvapp-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenettvapp-xl.png" />
+
+            <mj-class name="icon-telenettvapp-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenettvapp-xl.png" />
+
+            <mj-class name="icon-telenettvapp-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenettvapp-s.png" />
+            <mj-class name="icon-telenettvapp-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenettvapp-m.png" />
+            <mj-class name="icon-telenettvapp-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenettvapp-l.png" />
+            <mj-class name="icon-telenettvapp-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenettvapp-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

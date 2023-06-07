@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-flemishcontent-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-flemishcontent-m.png" />
+
+            <mj-class width="45px" name="icon-flemishcontent-com" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-flemishcontent-m.png" />
+            <mj-class width="45px" name="icon-flemishcontent-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-flemishcontent-m.png" />
+
+            <mj-class name="icon-flemishcontent-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-flemishcontent-xl.png" />
+
+            <mj-class name="icon-flemishcontent-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-flemishcontent-xl.png" />
+
+            <mj-class name="icon-flemishcontent-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-flemishcontent-xl.png" />
+
+            <mj-class name="icon-flemishcontent-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-flemishcontent-xl.png" />
+
+            <mj-class name="icon-flemishcontent-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-flemishcontent-xl.png" />
+
+            <mj-class name="icon-flemishcontent-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-flemishcontent-s.png" />
+            <mj-class name="icon-flemishcontent-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-flemishcontent-m.png" />
+            <mj-class name="icon-flemishcontent-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-flemishcontent-l.png" />
+            <mj-class name="icon-flemishcontent-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-flemishcontent-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-operatingsystem-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-operatingsystem-m.png" />
+
+            <mj-class width="45px" name="icon-operatingsystem-com" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-operatingsystem-m.png" />
+            <mj-class width="45px" name="icon-operatingsystem-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-operatingsystem-m.png" />
+
+            <mj-class name="icon-operatingsystem-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-operatingsystem-xl.png" />
+
+            <mj-class name="icon-operatingsystem-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-operatingsystem-xl.png" />
+
+            <mj-class name="icon-operatingsystem-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-operatingsystem-xl.png" />
+
+            <mj-class name="icon-operatingsystem-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-operatingsystem-xl.png" />
+
+            <mj-class name="icon-operatingsystem-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-operatingsystem-xl.png" />
+
+            <mj-class name="icon-operatingsystem-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-operatingsystem-s.png" />
+            <mj-class name="icon-operatingsystem-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-operatingsystem-m.png" />
+            <mj-class name="icon-operatingsystem-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-operatingsystem-l.png" />
+            <mj-class name="icon-operatingsystem-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-operatingsystem-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-camera-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-camera-m.png" />
+
+            <mj-class width="45px" name="icon-camera-com" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-camera-m.png" />
+            <mj-class width="45px" name="icon-camera-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-camera-m.png" />
+
+            <mj-class name="icon-camera-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-s.png" />
+            <mj-class name="icon-camera-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class name="icon-camera-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-l.png" />
+            <mj-class name="icon-camera-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-camera-xl.png" />
+
+            <mj-class name="icon-camera-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-s.png" />
+            <mj-class name="icon-camera-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-m.png" />
+            <mj-class name="icon-camera-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-l.png" />
+            <mj-class name="icon-camera-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-camera-xl.png" />
+
+            <mj-class name="icon-camera-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-camera-s.png" />
+            <mj-class name="icon-camera-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-camera-m.png" />
+            <mj-class name="icon-camera-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-camera-l.png" />
+            <mj-class name="icon-camera-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-camera-xl.png" />
+
+            <mj-class name="icon-camera-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-camera-s.png" />
+            <mj-class name="icon-camera-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-camera-m.png" />
+            <mj-class name="icon-camera-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-camera-l.png" />
+            <mj-class name="icon-camera-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-camera-xl.png" />
+
+            <mj-class name="icon-camera-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-camera-s.png" />
+            <mj-class name="icon-camera-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-camera-m.png" />
+            <mj-class name="icon-camera-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-camera-l.png" />
+            <mj-class name="icon-camera-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-camera-xl.png" />
+
+            <mj-class name="icon-camera-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-camera-s.png" />
+            <mj-class name="icon-camera-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-camera-m.png" />
+            <mj-class name="icon-camera-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-camera-l.png" />
+            <mj-class name="icon-camera-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-camera-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

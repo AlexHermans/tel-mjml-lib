@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-sad-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sad-m.png" />
+
+            <mj-class width="45px" name="icon-sad-com" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-sad-m.png" />
+            <mj-class width="45px" name="icon-sad-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sad-m.png" />
+
+            <mj-class name="icon-sad-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-s.png" />
+            <mj-class name="icon-sad-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class name="icon-sad-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-l.png" />
+            <mj-class name="icon-sad-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-sad-xl.png" />
+
+            <mj-class name="icon-sad-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-s.png" />
+            <mj-class name="icon-sad-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-m.png" />
+            <mj-class name="icon-sad-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-l.png" />
+            <mj-class name="icon-sad-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-sad-xl.png" />
+
+            <mj-class name="icon-sad-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sad-s.png" />
+            <mj-class name="icon-sad-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sad-m.png" />
+            <mj-class name="icon-sad-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sad-l.png" />
+            <mj-class name="icon-sad-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-sad-xl.png" />
+
+            <mj-class name="icon-sad-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-sad-s.png" />
+            <mj-class name="icon-sad-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-sad-m.png" />
+            <mj-class name="icon-sad-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-sad-l.png" />
+            <mj-class name="icon-sad-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-sad-xl.png" />
+
+            <mj-class name="icon-sad-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sad-s.png" />
+            <mj-class name="icon-sad-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sad-m.png" />
+            <mj-class name="icon-sad-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sad-l.png" />
+            <mj-class name="icon-sad-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-sad-xl.png" />
+
+            <mj-class name="icon-sad-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sad-s.png" />
+            <mj-class name="icon-sad-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sad-m.png" />
+            <mj-class name="icon-sad-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sad-l.png" />
+            <mj-class name="icon-sad-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-sad-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

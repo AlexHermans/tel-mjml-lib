@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-downgrade-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-downgrade-m.png" />
+
+            <mj-class width="45px" name="icon-downgrade-com" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-downgrade-m.png" />
+            <mj-class width="45px" name="icon-downgrade-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-downgrade-m.png" />
+
+            <mj-class name="icon-downgrade-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-downgrade-xl.png" />
+
+            <mj-class name="icon-downgrade-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-downgrade-xl.png" />
+
+            <mj-class name="icon-downgrade-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-downgrade-xl.png" />
+
+            <mj-class name="icon-downgrade-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-downgrade-xl.png" />
+
+            <mj-class name="icon-downgrade-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-downgrade-xl.png" />
+
+            <mj-class name="icon-downgrade-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-downgrade-s.png" />
+            <mj-class name="icon-downgrade-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-downgrade-m.png" />
+            <mj-class name="icon-downgrade-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-downgrade-l.png" />
+            <mj-class name="icon-downgrade-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-downgrade-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

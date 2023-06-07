@@ -1,228 +1,3867 @@
 <mjml>
-    <mj-head>
-        <mj-attributes>
+  <mj-head>
+    <mj-attributes>
+      <!-- page layout styles -->
+      <mj-text align="center" font-weight="bold" />
+      <mj-image padding="0" width="45px" />
+      <mj-section padding="0" />
 
-            <!-- page layout styles -->
-            <mj-class name="icon-row" background-color="#F7F6F6">
-                <mj-column padding="15px" vertical-align="middle" />
-                <mj-text align="center" font-weight="bold"/>
-            </mj-class>
+      <mj-class name="icon-row" background-color="#F7F6F6" border-bottom="1px solid #DDD">
+        <mj-column padding="15px 0" vertical-align="middle" />
+      </mj-class>
 
-            <mj-section padding="0"/>
+      <mj-class name="white-bg" background-color="#FFFFFF" vertical-align="middle" />
+      <mj-class name="dark-bg" background-color="#291D18" vertical-align="middle">
+        <mj-text color="#FFFFFF" font-weight="bold" align="center" />
+      </mj-class>
+      <mj-class name="blue-bg" background-color="#1A9AAA" vertical-align="middle" />
 
-            <!-- global icon-sizes -->
-            <mj-class name="icon-s" width="30px" />
-            <mj-class name="icon-m" width="60px" />
-            <mj-class name="icon-l" width="90px" />
-            <mj-class name="icon-xl" width="120px" />
+      <!-- global icon-sizes -->
+      <mj-class name="icon-s" width="30px" />
+      <mj-class name="icon-m" width="45px" />
+      <mj-class name="icon-l" width="60px" />
+      <mj-class name="icon-xl" width="90px" />
 
-            <!-- check -->
-            <mj-class name="icon-check-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-s.png" alt="Checkmark icon"/>
-            <mj-class name="icon-check-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-m.png" alt="Checkmark icon"/>
-            <mj-class name="icon-check-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-l.png" alt="Checkmark icon"/>
-            <mj-class name="icon-check-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-check-xl.png" alt="Checkmark icon"/>
+      <!-- including the separate icon partials -->
+      <mj-include path="partials/icon/icon-achievement.mjml" />
+                 
+      <mj-include path="partials/icon/icon-activate.mjml" />
+                 
+      <mj-include path="partials/icon/icon-addpod.mjml" />
+                 
+      <mj-include path="partials/icon/icon-addtomytv.mjml" />
+                 
+      <mj-include path="partials/icon/icon-adults.mjml" />
+                 
+      <mj-include path="partials/icon/icon-advisor.mjml" />
+                 
+      <mj-include path="partials/icon/icon-advisorchat.mjml" />
+                 
+      <mj-include path="partials/icon/icon-advisorcolour.mjml" />
+                 
+      <mj-include path="partials/icon/icon-afternoon.mjml" />
+                 
+      <mj-include path="partials/icon/icon-alert.mjml" />
+                 
+      <mj-include path="partials/icon/icon-allsites.mjml" />
+                 
+      <mj-include path="partials/icon/icon-apartment.mjml" />
+                 
+      <mj-include path="partials/icon/icon-article.mjml" />
+                 
+      <mj-include path="partials/icon/icon-audiomessage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-babymonitor.mjml" />
+                 
+      <mj-include path="partials/icon/icon-basicchannels.mjml" />
+                 
+      <mj-include path="partials/icon/icon-basket.mjml" />
+                 
+      <mj-include path="partials/icon/icon-bill.mjml" />
+                 
+      <mj-include path="partials/icon/icon-bluetoothhub.mjml" />
+                 
+      <mj-include path="partials/icon/icon-boiler.mjml" />
+                 
+      <mj-include path="partials/icon/icon-brokenlock.mjml" />
+                 
+      <mj-include path="partials/icon/icon-browser.mjml" />
+                 
+      <mj-include path="partials/icon/icon-brussels.mjml" />
+                 
+      <mj-include path="partials/icon/icon-bus.mjml" />
+                 
+      <mj-include path="partials/icon/icon-cableandmobile.mjml" />
+                 
+      <mj-include path="partials/icon/icon-calendar.mjml" />
+                 
+      <mj-include path="partials/icon/icon-callcentre.mjml" />
+                 
+      <mj-include path="partials/icon/icon-camera.mjml" />
+                 
+      <mj-include path="partials/icon/icon-car.mjml" />
+                 
+      <mj-include path="partials/icon/icon-check.mjml" />
+                 
+      <mj-include path="partials/icon/icon-chevrondown.mjml" />
+                 
+      <mj-include path="partials/icon/icon-chevronleft.mjml" />
+                 
+      <mj-include path="partials/icon/icon-chevronright.mjml" />
+                 
+      <mj-include path="partials/icon/icon-chevronup.mjml" />
+                 
+      <mj-include path="partials/icon/icon-close.mjml" />
+                 
+      <mj-include path="partials/icon/icon-cloud.mjml" />
+                 
+      <mj-include path="partials/icon/icon-configure.mjml" />
+                 
+      <mj-include path="partials/icon/icon-contest.mjml" />
+                 
+      <mj-include path="partials/icon/icon-cookie.mjml" />
+                 
+      <mj-include path="partials/icon/icon-copy.mjml" />
+                 
+      <mj-include path="partials/icon/icon-data.mjml" />
+                 
+      <mj-include path="partials/icon/icon-datapot.mjml" />
+                 
+      <mj-include path="partials/icon/icon-datatransfer.mjml" />
+                 
+      <mj-include path="partials/icon/icon-delete.mjml" />
+                 
+      <mj-include path="partials/icon/icon-deleteuser.mjml" />
+                 
+      <mj-include path="partials/icon/icon-digitaltv.mjml" />
+                 
+      <mj-include path="partials/icon/icon-dispatchmethod.mjml" />
+                 
+      <mj-include path="partials/icon/icon-downgrade.mjml" />
+                 
+      <mj-include path="partials/icon/icon-download.mjml" />
+                 
+      <mj-include path="partials/icon/icon-easyswitch.mjml" />
+                 
+      <mj-include path="partials/icon/icon-edit.mjml" />
+                 
+      <mj-include path="partials/icon/icon-electricity.mjml" />
+                 
+      <mj-include path="partials/icon/icon-email.mjml" />
+                 
+      <mj-include path="partials/icon/icon-emptysimcard.mjml" />
+                 
+      <mj-include path="partials/icon/icon-entertainment.mjml" />
+                 
+      <mj-include path="partials/icon/icon-error.mjml" />
+                 
+      <mj-include path="partials/icon/icon-euro.mjml" />
+                 
+      <mj-include path="partials/icon/icon-evening.mjml" />
+                 
+      <mj-include path="partials/icon/icon-externalurl.mjml" />
+                 
+      <mj-include path="partials/icon/icon-facebook.mjml" />
+                 
+      <mj-include path="partials/icon/icon-facebookcolour.mjml" />
+                 
+      <mj-include path="partials/icon/icon-facebookmessenger.mjml" />
+                 
+      <mj-include path="partials/icon/icon-facebookmessengerfill.mjml" />
+                 
+      <mj-include path="partials/icon/icon-family.mjml" />
+                 
+      <mj-include path="partials/icon/icon-faq.mjml" />
+                 
+      <mj-include path="partials/icon/icon-faqassistent.mjml" />
+                 
+      <mj-include path="partials/icon/icon-favouritefalse.mjml" />
+                 
+      <mj-include path="partials/icon/icon-favouritetrue.mjml" />
+                 
+      <mj-include path="partials/icon/icon-file.mjml" />
+                 
+      <mj-include path="partials/icon/icon-flemishcontent.mjml" />
+                 
+      <mj-include path="partials/icon/icon-focusdomain.mjml" />
+                 
+      <mj-include path="partials/icon/icon-gaming.mjml" />
+                 
+      <mj-include path="partials/icon/icon-getstarted.mjml" />
+                 
+      <mj-include path="partials/icon/icon-gift.mjml" />
+                 
+      <mj-include path="partials/icon/icon-globe.mjml" />
+                 
+      <mj-include path="partials/icon/icon-google.mjml" />
+                 
+      <mj-include path="partials/icon/icon-hammer.mjml" />
+                 
+      <mj-include path="partials/icon/icon-happy.mjml" />
+                 
+      <mj-include path="partials/icon/icon-hbo.mjml" />
+                 
+      <mj-include path="partials/icon/icon-heart.mjml" />
+                 
+      <mj-include path="partials/icon/icon-help.mjml" />
+                 
+      <mj-include path="partials/icon/icon-hidden.mjml" />
+                 
+      <mj-include path="partials/icon/icon-home.mjml" />
+                 
+      <mj-include path="partials/icon/icon-imagemessage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-information.mjml" />
+                 
+      <mj-include path="partials/icon/icon-instagram.mjml" />
+                 
+      <mj-include path="partials/icon/icon-internalstorage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-itsme.mjml" />
+                 
+      <mj-include path="partials/icon/icon-key.mjml" />
+                 
+      <mj-include path="partials/icon/icon-keyfeatures.mjml" />
+                 
+      <mj-include path="partials/icon/icon-kids.mjml" />
+                 
+      <mj-include path="partials/icon/icon-kidscontent.mjml" />
+                 
+      <mj-include path="partials/icon/icon-laptop.mjml" />
+                 
+      <mj-include path="partials/icon/icon-learnandenhance.mjml" />
+                 
+      <mj-include path="partials/icon/icon-like.mjml" />
+                 
+      <mj-include path="partials/icon/icon-linkedin.mjml" />
+                 
+      <mj-include path="partials/icon/icon-locations.mjml" />
+                 
+      <mj-include path="partials/icon/icon-lock.mjml" />
+                 
+      <mj-include path="partials/icon/icon-logout.mjml" />
+                 
+      <mj-include path="partials/icon/icon-lunchtime.mjml" />
+                 
+      <mj-include path="partials/icon/icon-megaphone.mjml" />
+                 
+      <mj-include path="partials/icon/icon-messaging.mjml" />
+                 
+      <mj-include path="partials/icon/icon-microphone.mjml" />
+                 
+      <mj-include path="partials/icon/icon-minus.mjml" />
+                 
+      <mj-include path="partials/icon/icon-mobile.mjml" />
+                 
+      <mj-include path="partials/icon/icon-mobilerepair.mjml" />
+                 
+      <mj-include path="partials/icon/icon-mobileusage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-morning.mjml" />
+                 
+      <mj-include path="partials/icon/icon-movie.mjml" />
+                 
+      <mj-include path="partials/icon/icon-movingbox.mjml" />
+                 
+      <mj-include path="partials/icon/icon-mytv.mjml" />
+                 
+      <mj-include path="partials/icon/icon-netweters.mjml" />
+                 
+      <mj-include path="partials/icon/icon-notification.mjml" />
+                 
+      <mj-include path="partials/icon/icon-oneveryscreen.mjml" />
+                 
+      <mj-include path="partials/icon/icon-opendatapot.mjml" />
+                 
+      <mj-include path="partials/icon/icon-operatingsystem.mjml" />
+                 
+      <mj-include path="partials/icon/icon-optionsusage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-painting.mjml" />
+                 
+      <mj-include path="partials/icon/icon-patch.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pause.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pc.mjml" />
+                 
+      <mj-include path="partials/icon/icon-percent.mjml" />
+                 
+      <mj-include path="partials/icon/icon-personalservice.mjml" />
+                 
+      <mj-include path="partials/icon/icon-play.mjml" />
+                 
+      <mj-include path="partials/icon/icon-playsportstick.mjml" />
+                 
+      <mj-include path="partials/icon/icon-plus.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pod.mjml" />
+                 
+      <mj-include path="partials/icon/icon-products.mjml" />
+                 
+      <mj-include path="partials/icon/icon-psbasketball.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pscycling.mjml" />
+                 
+      <mj-include path="partials/icon/icon-psformula1helmet.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pshockey.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pssoccer.mjml" />
+                 
+      <mj-include path="partials/icon/icon-pstennis.mjml" />
+                 
+      <mj-include path="partials/icon/icon-quote.mjml" />
+                 
+      <mj-include path="partials/icon/icon-recommendedwatching.mjml" />
+                 
+      <mj-include path="partials/icon/icon-redo.mjml" />
+                 
+      <mj-include path="partials/icon/icon-remote.mjml" />
+                 
+      <mj-include path="partials/icon/icon-remotebutton.mjml" />
+                 
+      <mj-include path="partials/icon/icon-replaytvmonitoricon.mjml" />
+                 
+      <mj-include path="partials/icon/icon-replaytvplayicon.mjml" />
+                 
+      <mj-include path="partials/icon/icon-reward.mjml" />
+                 
+      <mj-include path="partials/icon/icon-routes.mjml" />
+                 
+      <mj-include path="partials/icon/icon-sad.mjml" />
+                 
+      <mj-include path="partials/icon/icon-safespotplus.mjml" />
+                 
+      <mj-include path="partials/icon/icon-safetydocument.mjml" />
+                 
+      <mj-include path="partials/icon/icon-save.mjml" />
+                 
+      <mj-include path="partials/icon/icon-screencasting.mjml" />
+                 
+      <mj-include path="partials/icon/icon-search.mjml" />
+                 
+      <mj-include path="partials/icon/icon-send.mjml" />
+                 
+      <mj-include path="partials/icon/icon-setbarrings.mjml" />
+                 
+      <mj-include path="partials/icon/icon-settings.mjml" />
+                 
+      <mj-include path="partials/icon/icon-share.mjml" />
+                 
+      <mj-include path="partials/icon/icon-shield.mjml" />
+                 
+      <mj-include path="partials/icon/icon-shop.mjml" />
+                 
+      <mj-include path="partials/icon/icon-shopandimprove.mjml" />
+                 
+      <mj-include path="partials/icon/icon-shown.mjml" />
+                 
+      <mj-include path="partials/icon/icon-simcard.mjml" />
+                 
+      <mj-include path="partials/icon/icon-smarthome.mjml" />
+                 
+      <mj-include path="partials/icon/icon-smartwatch.mjml" />
+                 
+      <mj-include path="partials/icon/icon-smokedetector.mjml" />
+                 
+      <mj-include path="partials/icon/icon-speaker.mjml" />
+                 
+      <mj-include path="partials/icon/icon-sports.mjml" />
+                 
+      <mj-include path="partials/icon/icon-stream.mjml" />
+                 
+      <mj-include path="partials/icon/icon-student.mjml" />
+                 
+      <mj-include path="partials/icon/icon-success.mjml" />
+                 
+      <mj-include path="partials/icon/icon-successfilled.mjml" />
+                 
+      <mj-include path="partials/icon/icon-superfastinternet.mjml" />
+                 
+      <mj-include path="partials/icon/icon-supportandassistance.mjml" />
+                 
+      <mj-include path="partials/icon/icon-switchonwifi.mjml" />
+                 
+      <mj-include path="partials/icon/icon-tablet.mjml" />
+                 
+      <mj-include path="partials/icon/icon-tariff.mjml" />
+                 
+      <mj-include path="partials/icon/icon-teenager.mjml" />
+                 
+      <mj-include path="partials/icon/icon-telenetapps.mjml" />
+                 
+      <mj-include path="partials/icon/icon-telenettvapp.mjml" />
+                 
+      <mj-include path="partials/icon/icon-telephone.mjml" />
+                 
+      <mj-include path="partials/icon/icon-text.mjml" />
+                 
+      <mj-include path="partials/icon/icon-textmessage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-threepods.mjml" />
+                 
+      <mj-include path="partials/icon/icon-tick.mjml" />
+                 
+      <mj-include path="partials/icon/icon-ticket.mjml" />
+                 
+      <mj-include path="partials/icon/icon-time.mjml" />
+                 
+      <mj-include path="partials/icon/icon-tool.mjml" />
+                 
+      <mj-include path="partials/icon/icon-tvguide.mjml" />
+                 
+      <mj-include path="partials/icon/icon-twitter.mjml" />
+                 
+      <mj-include path="partials/icon/icon-twopods.mjml" />
+                 
+      <mj-include path="partials/icon/icon-upgrade.mjml" />
+                 
+      <mj-include path="partials/icon/icon-upload.mjml" />
+                 
+      <mj-include path="partials/icon/icon-uploaddownload.mjml" />
+                 
+      <mj-include path="partials/icon/icon-usage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-usagelimits.mjml" />
+                 
+      <mj-include path="partials/icon/icon-usagewarning.mjml" />
+                 
+      <mj-include path="partials/icon/icon-user.mjml" />
+                 
+      <mj-include path="partials/icon/icon-videomessage.mjml" />
+                 
+      <mj-include path="partials/icon/icon-waiting.mjml" />
+                 
+      <mj-include path="partials/icon/icon-watchtvineurope.mjml" />
+                 
+      <mj-include path="partials/icon/icon-watchtvineuropemobile.mjml" />
+                 
+      <mj-include path="partials/icon/icon-whatsapp.mjml" />
+                 
+      <mj-include path="partials/icon/icon-whatsappcolour.mjml" />
+                 
+      <mj-include path="partials/icon/icon-wifi.mjml" />
+                 
+      <mj-include path="partials/icon/icon-wifiscan.mjml" />
+                 
+      <mj-include path="partials/icon/icon-wifisignal.mjml" />
+                 
+      <mj-include path="partials/icon/icon-worldwide.mjml" />
+                 
+      <mj-include path="partials/icon/icon-youtube.mjml" />
 
-            <!-- cursor -->
-            <mj-class name="icon-cursor-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-s.png" />
-            <mj-class name="icon-cursor-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-m.png" />
-            <mj-class name="icon-cursor-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-l.png" />
-            <mj-class name="icon-cursor-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-cursor-xl.png" />
 
-            <!-- headset -->
-            <mj-class name="icon-headset-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-s.png" />
-            <mj-class name="icon-headset-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-m.png" />
-            <mj-class name="icon-headset-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-l.png" />
-            <mj-class name="icon-headset-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-headset-xl.png" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="white" width="630px">
 
-            <!-- lightbulb -->
-            <mj-class name="icon-lightbulb-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-s.png" />
-            <mj-class name="icon-lightbulb-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-m.png" />
-            <mj-class name="icon-lightbulb-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-l.png" />
-            <mj-class name="icon-lightbulb-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-lightbulb-xl.png" />
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h2>List of available icons</h2>
+          <p>The icons below are represented by <strong>size M</strong></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
-            <!-- mail -->
-            <mj-class name="icon-mail-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-s.png" />
-            <mj-class name="icon-mail-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-m.png" />
-            <mj-class name="icon-mail-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-l.png" />
-            <mj-class name="icon-mail-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-mail-xl.png" />
-        
-            <!-- signal -->
-            <mj-class name="icon-signal-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-s.png" />
-            <mj-class name="icon-signal-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-m.png" />
-            <mj-class name="icon-signal-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-l.png" />
-            <mj-class name="icon-signal-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-signal-xl.png" />
-        
-            <!-- smartphone -->
-            <mj-class name="icon-smartphone-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-s.png" />
-            <mj-class name="icon-smartphone-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-m.png" />
-            <mj-class name="icon-smartphone-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-l.png" />
-            <mj-class name="icon-smartphone-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-smartphone-xl.png" />
-        
-            <!-- storefront -->
-            <mj-class name="icon-storefront-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-s.png" />
-            <mj-class name="icon-storefront-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-m.png" />
-            <mj-class name="icon-storefront-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-l.png" />
-            <mj-class name="icon-storefront-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-storefront-xl.png" />
-            
-            <!-- telephone -->
-            <mj-class name="icon-telephone-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-s.png" />
-            <mj-class name="icon-telephone-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-m.png" />
-            <mj-class name="icon-telephone-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-l.png" />
-            <mj-class name="icon-telephone-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-telephone-xl.png" />
-        
-            <!-- tv -->
-            <mj-class name="icon-tv-s" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-s.png" />
-            <mj-class name="icon-tv-m" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-m.png" />
-            <mj-class name="icon-tv-l" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-l.png" />
-            <mj-class name="icon-tv-xl" src="https://mkt.telenet.be/images/TB/General/icons/icon-tv-xl.png" />
+    <!-- ROW OF ICONS -->
+    <mj-section mj-class="icon-row">
+      <mj-column>
+        <mj-text>icon-achievement</mj-text>
+      </mj-column>
+      <mj-column mj-class="white-bg">
+        <mj-text>Dark</mj-text>
+        <mj-image mj-class="icon-achievement-mkt" />
+      </mj-column>
+      <mj-column mj-class="dark-bg">
+        <mj-text>White</mj-text>
+        <mj-image mj-class="icon-achievement-mkt-m-white" />
+      </mj-column>
+      <mj-column mj-class="blue-bg">
+        <mj-text>Lemon</mj-text>
+        <mj-image mj-class="icon-achievement-mkt-m-lemon" />
+      </mj-column>
+      </mj-section>
 
-            <!-- settings -->
-            <mj-class name="icon-settings-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-s.png" />
-            <mj-class name="icon-settings-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-m.png" />
-            <mj-class name="icon-settings-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-l.png" />
-            <mj-class name="icon-settings-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-settings-xl.png" />
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-activate</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-activate-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-activate-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-activate-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-            <!-- usage -->
-            <mj-class name="icon-usage-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-s.png" />
-            <mj-class name="icon-usage-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-m.png" />
-            <mj-class name="icon-usage-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-l.png" />
-            <mj-class name="icon-usage-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-usage-xl.png" />
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-addpod</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-addpod-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-addpod-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-addpod-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-            <!-- whatsapp -->
-            <mj-class name="icon-whatsapp-s" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-s.png" />
-            <mj-class name="icon-whatsapp-m" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-m.png" />
-            <mj-class name="icon-whatsapp-l" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-l.png" />
-            <mj-class name="icon-whatsapp-xl" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsapp-xl.png" />
-            
-        </mj-attributes>
-    </mj-head>
-    <mj-body background-color="white" width="630px">
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-addtomytv</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-addtomytv-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-addtomytv-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-addtomytv-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-        <mj-section>
-            <mj-column>
-                <mj-text>
-                    <h1>Icons</h1>
-                    <p style="line-height: 1.4">You can use these icons in your emails by adding an mj-image tag and use the mj-class attribute.</p>
-                    <p style="line-height: 1.4">For example:</p>
-                    <p style="padding:15px; background-color:#EEE; font-family:monospace; font-weight:900">< mj-image mj-class=<span style="color:green">"icon-telephone-l"</span> alt="" /></p>
-                    <p>&nbsp;</p>
-                    <h3>A quick word on sizes:</h3>
-                    <p>The icons come in 4 sizes:</p>
-                    <ul>
-                        <li style="padding:5px 0">S: 30px</li>
-                        <li style="padding:5px 0">M: 60px => "col-1"</li>
-                        <li style="padding:5px 0">L: 90px</li>
-                        <li style="padding:5px 0">XL: 120px</li>
-                    </ul>
-                    <p style="line-height: 1.4">Using an icon with the appropriate size is of course recommended (especially in image-heavy mails). For comparison, size L corresponds to 10% of the width of the inner-content container. Size M should serve you in most cases. </p>
-                    <p style="line-height: 1.4">Whenever you use the icon-class with an image tag it's entirely possible to import a high resolution icon for a small image size to gain sharpness.</p>
-                </mj-text>
-                <mj-text>
-                    <h2>List of available icons</h2>
-                    <p>The icons below are represented by <strong>size M</strong> and upsampled to use <strong>size XL</strong> icons.</p>
-                </mj-text>
-            </mj-column>
-        </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-adults</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-adults-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-adults-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-adults-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-        <!-- ROW OF ICONS -->
-        <mj-section mj-class="icon-row">
-            <mj-column>
-                <mj-text>
-                    icon-check
-                </mj-text>
-                <mj-image mj-class="icon-check-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-cursor
-                </mj-text>
-                <mj-image mj-class="icon-cursor-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-headset
-                </mj-text>
-                <mj-image mj-class="icon-headset-xl icon-m" />
-            </mj-column>
-            <mj-column >
-                <mj-text>
-                    icon-lightbulb
-                </mj-text>
-                <mj-image mj-class="icon-lightbulb-xl icon-m" />
-            </mj-column>
-        </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column width="25%">
+          <mj-text>icon-advisor</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg" width="75%">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-advisor-mkt" />
+        </mj-column>
+      </mj-section>
 
-        <mj-section mj-class="icon-row">
-            <mj-column>
-                <mj-text>
-                    icon-mail
-                </mj-text>
-                <mj-image mj-class="icon-mail-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-signal
-                </mj-text>
-                <mj-image mj-class="icon-signal-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-smartphone
-                </mj-text>
-                <mj-image mj-class="icon-smartphone-xl icon-m" />
-            </mj-column>
-            <mj-column  vertical-align="middle">
-                <mj-text>
-                    icon-storefront
-                </mj-text>
-                <mj-image mj-class="icon-storefront-xl icon-m" />
-            </mj-column>
-        </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column >
+          <mj-text>icon-advisorchat</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-advisorchat-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-advisorchat-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-advisorchat-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-        <mj-section mj-class="icon-row">
-            <mj-column>
-                <mj-text>
-                    icon-telephone
-                </mj-text>
-                <mj-image mj-class="icon-telephone-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-tv
-                </mj-text>
-                <mj-image mj-class="icon-tv-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                <mj-text>
-                    icon-settings
-                </mj-text>
-                <mj-image mj-class="icon-settings-xl icon-m" />
-            </mj-column>
-            <mj-column >
-                <mj-text>
-                    icon-usage
-                </mj-text>
-                <mj-image mj-class="icon-usage-xl icon-m" />
-            </mj-column>
-        </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column width="25%">
+          <mj-text>icon-advisorcolour</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg" width="75%" >
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-advisorcolour-mkt" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-afternoon</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-afternoon-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-afternoon-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-afternoon-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-alert</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-alert-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-alert-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-alert-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-allsites</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-allsites-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-allsites-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-allsites-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-apartment</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-apartment-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-apartment-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-apartment-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-article</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-article-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-article-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-article-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-audiomessage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-audiomessage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-audiomessage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-audiomessage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-babymonitor</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-babymonitor-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-babymonitor-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-babymonitor-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-basicchannels</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-basicchannels-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-basicchannels-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-basicchannels-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-basket</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-basket-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-basket-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-basket-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-bill</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-bill-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-bill-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-bill-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-bluetoothhub</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-bluetoothhub-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-bluetoothhub-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-bluetoothhub-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-boiler</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-boiler-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-boiler-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-boiler-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-brokenlock</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-brokenlock-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-brokenlock-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-brokenlock-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-browser</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-browser-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-browser-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-browser-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-brussels</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-brussels-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-brussels-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-brussels-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-bus</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-bus-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-bus-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-bus-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-cableandmobile</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-cableandmobile-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-cableandmobile-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-cableandmobile-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-calendar</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-calendar-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-calendar-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-calendar-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-callcentre</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-callcentre-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-callcentre-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-callcentre-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-camera</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-camera-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-camera-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-camera-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-car</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-car-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-car-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-car-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
 
-        <mj-section mj-class="icon-row">
-            <mj-column>
-                <mj-text>
-                    icon-whatsapp
-                </mj-text>
-                <mj-image mj-class="icon-whatsapp-xl icon-m" />
-            </mj-column>
-            <mj-column>
-                
-            </mj-column>
-            <mj-column>
-                
-            </mj-column>
-            <mj-column >
-                
-            </mj-column>
-        </mj-section>
-    </mj-body>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-chevrondown</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-chevrondown-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-chevrondown-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-chevrondown-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-chevronleft</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-chevronleft-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-chevronleft-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-chevronleft-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-chevronright</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-chevronright-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-chevronright-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-chevronright-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-chevronup</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-chevronup-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-chevronup-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-chevronup-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-close</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-close-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-close-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-close-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-cloud</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-cloud-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-cloud-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-cloud-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-configure</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-configure-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-configure-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-configure-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-contest</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-contest-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-contest-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-contest-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-cookie</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-cookie-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-cookie-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-cookie-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-copy</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-copy-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-copy-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-copy-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-data</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-data-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-data-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-data-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-datapot</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-datapot-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-datapot-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-datapot-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-datatransfer</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-datatransfer-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-datatransfer-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-datatransfer-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-delete</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-delete-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-delete-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-delete-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-deleteuser</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-deleteuser-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-deleteuser-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-deleteuser-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-digitaltv</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-digitaltv-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-digitaltv-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-digitaltv-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-dispatchmethod</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-dispatchmethod-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-dispatchmethod-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-dispatchmethod-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-downgrade</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-downgrade-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-downgrade-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-downgrade-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-download</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-download-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-download-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-download-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-easyswitch</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-easyswitch-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-easyswitch-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-easyswitch-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-edit</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-edit-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-edit-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-edit-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-electricity</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-electricity-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-electricity-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-electricity-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-email</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-email-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-email-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-email-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-emptysimcard</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-emptysimcard-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-emptysimcard-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-emptysimcard-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-entertainment</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-entertainment-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-entertainment-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-entertainment-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-error</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-error-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-error-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-error-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-euro</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-euro-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-euro-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-euro-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-evening</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-evening-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-evening-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-evening-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-externalurl</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-externalurl-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-externalurl-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-externalurl-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-facebook</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-facebook-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-facebook-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-facebook-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column width="25%">
+          <mj-text>icon-facebookcolour</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg" width="75%">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-facebookcolour-mkt" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-facebookmessenger</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-facebookmessenger-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-facebookmessenger-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-facebookmessenger-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-facebookmessengerfill</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-facebookmessengerfill-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-facebookmessengerfill-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-facebookmessengerfill-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-family</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-family-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-family-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-family-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-faq</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-faq-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-faq-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-faq-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-faqassistent</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-faqassistent-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-faqassistent-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-faqassistent-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-favouritefalse</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-favouritefalse-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-favouritefalse-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-favouritefalse-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-favouritetrue</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-favouritetrue-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-favouritetrue-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-favouritetrue-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-file</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-file-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-file-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-file-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-flemishcontent</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-flemishcontent-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-flemishcontent-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-flemishcontent-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-focusdomain</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-focusdomain-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-focusdomain-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-focusdomain-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-gaming</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-gaming-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-gaming-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-gaming-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-getstarted</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-getstarted-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-getstarted-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-getstarted-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-gift</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-gift-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-gift-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-gift-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-globe</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-globe-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-globe-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-globe-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-google</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-google-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-google-mkt-m-white" />
+        </mj-column>
+        <mj-column>
+          <mj-text>N.A</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-hammer</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-hammer-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-hammer-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-hammer-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-happy</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-happy-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-happy-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-happy-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-hbo</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-hbo-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-hbo-mkt-m-white" />
+        </mj-column>
+         <mj-column>
+          <mj-text>N.A</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-heart</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-heart-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-heart-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-heart-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-help</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-help-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-help-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-help-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-hidden</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-hidden-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-hidden-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-hidden-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-home</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-home-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-home-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-home-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-imagemessage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-imagemessage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-imagemessage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-imagemessage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-information</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-information-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-information-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-information-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-instagram</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-instagram-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-instagram-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-instagram-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-internalstorage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-internalstorage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-internalstorage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-internalstorage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column width="25%">
+          <mj-text>icon-itsme</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg" width="75%">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-itsme-mkt" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-key</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-key-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-key-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-key-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-keyfeatures</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-keyfeatures-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-keyfeatures-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-keyfeatures-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-kids</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-kids-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-kids-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-kids-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-kidscontent</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-kidscontent-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-kidscontent-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-kidscontent-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-laptop</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-laptop-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-laptop-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-laptop-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-learnandenhance</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-learnandenhance-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-learnandenhance-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-learnandenhance-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-like</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-like-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-like-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-like-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-linkedin</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-linkedin-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-linkedin-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-linkedin-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-locations</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-locations-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-locations-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-locations-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-lock</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-lock-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-lock-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-lock-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-logout</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-logout-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-logout-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-logout-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-lunchtime</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-lunchtime-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-lunchtime-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-lunchtime-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-megaphone</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-megaphone-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-megaphone-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-megaphone-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-messaging</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-messaging-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-messaging-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-messaging-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-microphone</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-microphone-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-microphone-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-microphone-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-minus</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-minus-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-minus-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-minus-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-mobile</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-mobile-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-mobile-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-mobile-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-mobilerepair</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-mobilerepair-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-mobilerepair-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-mobilerepair-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-mobileusage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-mobileusage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-mobileusage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-mobileusage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-morning</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-morning-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-morning-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-morning-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-movie</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-movie-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-movie-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-movie-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-movingbox</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-movingbox-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-movingbox-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-movingbox-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-mytv</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-mytv-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-mytv-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-mytv-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-netweters</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-netweters-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-netweters-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-netweters-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-notification</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-notification-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-notification-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-notification-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-oneveryscreen</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-oneveryscreen-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-oneveryscreen-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-oneveryscreen-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-opendatapot</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-opendatapot-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-opendatapot-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-opendatapot-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-operatingsystem</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-operatingsystem-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-operatingsystem-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-operatingsystem-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-optionsusage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-optionsusage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-optionsusage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-optionsusage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-painting</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-painting-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-painting-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-painting-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-patch</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-patch-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-patch-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-patch-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pause</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-pause-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-pause-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-pause-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pc</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-pc-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-pc-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-pc-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-percent</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-percent-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-percent-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-percent-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-personalservice</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-personalservice-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-personalservice-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-personalservice-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-play</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-play-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-play-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-play-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-playsportstick</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-plus</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-plus-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-plus-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-plus-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pod</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-pod-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-pod-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-pod-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-products</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-products-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-products-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-products-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-psbasketball</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pscycling</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-psformula1helmet</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+            <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pshockey</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pssoccer</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-pstennis</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-text>To be added</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-quote</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-quote-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-quote-mkt-m-white" />
+        </mj-column>
+        <mj-column>
+          <mj-text>N.A.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-recommendedwatching</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-recommendedwatching-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-recommendedwatching-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-recommendedwatching-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-redo</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-redo-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-redo-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-redo-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-remote</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-remote-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-remote-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-remote-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-remotebutton</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-remotebutton-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-remotebutton-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-remotebutton-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-replaytvmonitoricon</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-replaytvmonitoricon-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-replaytvmonitoricon-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-replaytvmonitoricon-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-replaytvplayicon</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-replaytvplayicon-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-replaytvplayicon-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-replaytvplayicon-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-reward</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-reward-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-reward-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-reward-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-routes</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-routes-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-routes-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-routes-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-sad</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-sad-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-sad-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-sad-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-safespotplus</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-safespotplus-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-safespotplus-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-safespotplus-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-safetydocument</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-safetydocument-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-safetydocument-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-safetydocument-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-save</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-save-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-save-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-save-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-screencasting</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-screencasting-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-screencasting-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-screencasting-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-search</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-search-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-search-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-search-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-send</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-send-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-send-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-send-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-setbarrings</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-setbarrings-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-setbarrings-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-setbarrings-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-settings</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-settings-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-settings-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-settings-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-share</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-share-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-share-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-share-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-shield</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-shield-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-shield-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-shield-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-shop</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-shop-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-shop-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-shop-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-shopandimprove</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-shopandimprove-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-shopandimprove-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-shopandimprove-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-shown</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-shown-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-shown-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-shown-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-simcard</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-simcard-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-simcard-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-simcard-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-smarthome</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-smarthome-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-smarthome-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-smarthome-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-smartwatch</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-smartwatch-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-smartwatch-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-smartwatch-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-smokedetector</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-smokedetector-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-smokedetector-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-smokedetector-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-speaker</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-speaker-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-speaker-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-speaker-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-sports</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-sports-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-sports-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-sports-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-stream</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-stream-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-stream-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-stream-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-student</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-student-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-student-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-student-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-success</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-success-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-success-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-success-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-successfilled</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-successfilled-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-successfilled-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-successfilled-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-superfastinternet</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-superfastinternet-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-superfastinternet-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-superfastinternet-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-supportandassistance</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-supportandassistance-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-supportandassistance-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-supportandassistance-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-switchonwifi</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-switchonwifi-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-switchonwifi-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-switchonwifi-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-tablet</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-tablet-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-tablet-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-tablet-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-tariff</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-tariff-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-tariff-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-tariff-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-teenager</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-teenager-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-teenager-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-teenager-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-telenetapps</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-telenetapps-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-telenetapps-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-telenetapps-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-telenettvapp</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-telenettvapp-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-telenettvapp-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-telenettvapp-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-telephone</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-telephone-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-telephone-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-telephone-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-text</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-text-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-text-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-text-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-textmessage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-textmessage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-textmessage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-textmessage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-threepods</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-threepods-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-threepods-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-threepods-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-tick</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-tick-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-tick-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-tick-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-ticket</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-ticket-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-ticket-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-ticket-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-time</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-time-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-time-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-time-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-tool</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-tool-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-tool-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-tool-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-tvguide</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-tvguide-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-tvguide-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-tvguide-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-twitter</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-twitter-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-twitter-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-twitter-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-twopods</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-twopods-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-twopods-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-twopods-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-upgrade</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-upgrade-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-upgrade-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-upgrade-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-upload</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-upload-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-upload-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-upload-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-uploaddownload</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-uploaddownload-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-uploaddownload-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-uploaddownload-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-usage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-usage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-usage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-usage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-usagelimits</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-usagelimits-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-usagelimits-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-usagelimits-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-usagewarning</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-usagewarning-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-usagewarning-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-usagewarning-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-user</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-user-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-user-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-user-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-videomessage</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-videomessage-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-videomessage-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-videomessage-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-waiting</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-waiting-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-waiting-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-waiting-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-watchtvineurope</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-watchtvineurope-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-watchtvineurope-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-watchtvineurope-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-watchtvineuropemobile</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-watchtvineuropemobile-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-watchtvineuropemobile-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-watchtvineuropemobile-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-whatsapp</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-whatsapp-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-whatsapp-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-whatsapp-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column width="25%">
+          <mj-text>icon-whatsappcolour</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg" width="75%">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-whatsappcolour-mkt" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-wifi</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-wifi-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-wifi-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-wifi-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-wifiscan</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-wifiscan-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-wifiscan-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-wifiscan-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-wifisignal</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-wifisignal-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-wifisignal-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-wifisignal-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-worldwide</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-worldwide-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-worldwide-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-worldwide-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="icon-row">
+        <mj-column>
+          <mj-text>icon-youtube</mj-text>
+        </mj-column>
+        <mj-column mj-class="white-bg">
+          <mj-text>Dark</mj-text>
+          <mj-image mj-class="icon-youtube-mkt" />
+        </mj-column>
+        <mj-column mj-class="dark-bg">
+          <mj-text>White</mj-text>
+          <mj-image mj-class="icon-youtube-mkt-m-white" />
+        </mj-column>
+        <mj-column mj-class="blue-bg">
+          <mj-text>Lemon</mj-text>
+          <mj-image mj-class="icon-youtube-mkt-m-lemon" />
+        </mj-column>
+      </mj-section>
+
+  </mj-body>
 </mjml>
-

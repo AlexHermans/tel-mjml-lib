@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-screencasting-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-screencasting-m.png" />
+
+            <mj-class width="45px" name="icon-screencasting-com" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-screencasting-m.png" />
+            <mj-class width="45px" name="icon-screencasting-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-screencasting-m.png" />
+
+            <mj-class name="icon-screencasting-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-screencasting-xl.png" />
+
+            <mj-class name="icon-screencasting-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-screencasting-xl.png" />
+
+            <mj-class name="icon-screencasting-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-screencasting-xl.png" />
+
+            <mj-class name="icon-screencasting-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-screencasting-xl.png" />
+
+            <mj-class name="icon-screencasting-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-screencasting-xl.png" />
+
+            <mj-class name="icon-screencasting-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-screencasting-s.png" />
+            <mj-class name="icon-screencasting-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-screencasting-m.png" />
+            <mj-class name="icon-screencasting-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-screencasting-l.png" />
+            <mj-class name="icon-screencasting-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-screencasting-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

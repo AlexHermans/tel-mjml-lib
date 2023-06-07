@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-switchonwifi-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-switchonwifi-m.png" />
+
+            <mj-class width="45px" name="icon-switchonwifi-com" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-switchonwifi-m.png" />
+            <mj-class width="45px" name="icon-switchonwifi-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-switchonwifi-m.png" />
+
+            <mj-class name="icon-switchonwifi-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-switchonwifi-xl.png" />
+
+            <mj-class name="icon-switchonwifi-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-switchonwifi-xl.png" />
+
+            <mj-class name="icon-switchonwifi-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-switchonwifi-xl.png" />
+
+            <mj-class name="icon-switchonwifi-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-switchonwifi-xl.png" />
+
+            <mj-class name="icon-switchonwifi-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-switchonwifi-xl.png" />
+
+            <mj-class name="icon-switchonwifi-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-switchonwifi-s.png" />
+            <mj-class name="icon-switchonwifi-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-switchonwifi-m.png" />
+            <mj-class name="icon-switchonwifi-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-switchonwifi-l.png" />
+            <mj-class name="icon-switchonwifi-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-switchonwifi-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

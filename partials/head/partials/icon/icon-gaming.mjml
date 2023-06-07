@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-gaming-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-gaming-m.png" />
+
+            <mj-class width="45px" name="icon-gaming-com" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-gaming-m.png" />
+            <mj-class width="45px" name="icon-gaming-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-gaming-m.png" />
+
+            <mj-class name="icon-gaming-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-gaming-xl.png" />
+
+            <mj-class name="icon-gaming-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-gaming-xl.png" />
+
+            <mj-class name="icon-gaming-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-gaming-xl.png" />
+
+            <mj-class name="icon-gaming-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-gaming-xl.png" />
+
+            <mj-class name="icon-gaming-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-gaming-xl.png" />
+
+            <mj-class name="icon-gaming-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-gaming-s.png" />
+            <mj-class name="icon-gaming-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-gaming-m.png" />
+            <mj-class name="icon-gaming-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-gaming-l.png" />
+            <mj-class name="icon-gaming-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-gaming-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

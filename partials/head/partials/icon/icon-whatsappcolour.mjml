@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-whatsappcolour-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsappcolour-m.png" />
+
+            <mj-class width="45px" name="icon-whatsappcolour-com" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsappcolour-m.png" />
+            <mj-class width="45px" name="icon-whatsappcolour-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsappcolour-m.png" />
+
+            <mj-class name="icon-whatsappcolour-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-whatsappcolour-xl.png" />
+
+            <mj-class name="icon-whatsappcolour-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-whatsappcolour-xl.png" />
+
+            <mj-class name="icon-whatsappcolour-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-whatsappcolour-xl.png" />
+
+            <mj-class name="icon-whatsappcolour-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-whatsappcolour-xl.png" />
+
+            <mj-class name="icon-whatsappcolour-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-whatsappcolour-xl.png" />
+
+            <mj-class name="icon-whatsappcolour-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsappcolour-s.png" />
+            <mj-class name="icon-whatsappcolour-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsappcolour-m.png" />
+            <mj-class name="icon-whatsappcolour-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsappcolour-l.png" />
+            <mj-class name="icon-whatsappcolour-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-whatsappcolour-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

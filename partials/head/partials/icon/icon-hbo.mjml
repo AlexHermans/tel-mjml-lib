@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-hbo-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hbo-m.png" />
+
+            <mj-class width="45px" name="icon-hbo-com" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-hbo-m.png" />
+            <mj-class width="45px" name="icon-hbo-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hbo-m.png" />
+
+            <mj-class name="icon-hbo-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-hbo-xl.png" />
+
+            <mj-class name="icon-hbo-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-hbo-xl.png" />
+
+            <mj-class name="icon-hbo-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-hbo-xl.png" />
+
+            <mj-class name="icon-hbo-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-hbo-xl.png" />
+
+            <mj-class name="icon-hbo-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-hbo-xl.png" />
+
+            <mj-class name="icon-hbo-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hbo-s.png" />
+            <mj-class name="icon-hbo-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hbo-m.png" />
+            <mj-class name="icon-hbo-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hbo-l.png" />
+            <mj-class name="icon-hbo-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-hbo-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

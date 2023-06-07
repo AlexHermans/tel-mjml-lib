@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-waiting-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-waiting-m.png" />
+
+            <mj-class width="45px" name="icon-waiting-com" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-waiting-m.png" />
+            <mj-class width="45px" name="icon-waiting-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-waiting-m.png" />
+
+            <mj-class name="icon-waiting-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-waiting-xl.png" />
+
+            <mj-class name="icon-waiting-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-waiting-xl.png" />
+
+            <mj-class name="icon-waiting-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-waiting-xl.png" />
+
+            <mj-class name="icon-waiting-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-waiting-xl.png" />
+
+            <mj-class name="icon-waiting-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-waiting-xl.png" />
+
+            <mj-class name="icon-waiting-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-waiting-s.png" />
+            <mj-class name="icon-waiting-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-waiting-m.png" />
+            <mj-class name="icon-waiting-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-waiting-l.png" />
+            <mj-class name="icon-waiting-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-waiting-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

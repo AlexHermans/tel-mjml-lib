@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-pssoccer-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pssoccer-m.png" />
+
+            <mj-class width="45px" name="icon-pssoccer-com" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-pssoccer-m.png" />
+            <mj-class width="45px" name="icon-pssoccer-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pssoccer-m.png" />
+
+            <mj-class name="icon-pssoccer-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pssoccer-xl.png" />
+
+            <mj-class name="icon-pssoccer-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pssoccer-xl.png" />
+
+            <mj-class name="icon-pssoccer-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pssoccer-xl.png" />
+
+            <mj-class name="icon-pssoccer-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-pssoccer-xl.png" />
+
+            <mj-class name="icon-pssoccer-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pssoccer-xl.png" />
+
+            <mj-class name="icon-pssoccer-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pssoccer-s.png" />
+            <mj-class name="icon-pssoccer-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pssoccer-m.png" />
+            <mj-class name="icon-pssoccer-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pssoccer-l.png" />
+            <mj-class name="icon-pssoccer-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pssoccer-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

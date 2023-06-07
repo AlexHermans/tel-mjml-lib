@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-cableandmobile-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cableandmobile-m.png" />
+
+            <mj-class width="45px" name="icon-cableandmobile-com" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-cableandmobile-m.png" />
+            <mj-class width="45px" name="icon-cableandmobile-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cableandmobile-m.png" />
+
+            <mj-class name="icon-cableandmobile-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-cableandmobile-xl.png" />
+
+            <mj-class name="icon-cableandmobile-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-cableandmobile-xl.png" />
+
+            <mj-class name="icon-cableandmobile-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-cableandmobile-xl.png" />
+
+            <mj-class name="icon-cableandmobile-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-cableandmobile-xl.png" />
+
+            <mj-class name="icon-cableandmobile-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-cableandmobile-xl.png" />
+
+            <mj-class name="icon-cableandmobile-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cableandmobile-s.png" />
+            <mj-class name="icon-cableandmobile-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cableandmobile-m.png" />
+            <mj-class name="icon-cableandmobile-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cableandmobile-l.png" />
+            <mj-class name="icon-cableandmobile-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-cableandmobile-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

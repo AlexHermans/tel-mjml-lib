@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-mobilerepair-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mobilerepair-m.png" />
+
+            <mj-class width="45px" name="icon-mobilerepair-com" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-mobilerepair-m.png" />
+            <mj-class width="45px" name="icon-mobilerepair-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mobilerepair-m.png" />
+
+            <mj-class name="icon-mobilerepair-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mobilerepair-xl.png" />
+
+            <mj-class name="icon-mobilerepair-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mobilerepair-xl.png" />
+
+            <mj-class name="icon-mobilerepair-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mobilerepair-xl.png" />
+
+            <mj-class name="icon-mobilerepair-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-mobilerepair-xl.png" />
+
+            <mj-class name="icon-mobilerepair-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mobilerepair-xl.png" />
+
+            <mj-class name="icon-mobilerepair-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mobilerepair-s.png" />
+            <mj-class name="icon-mobilerepair-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mobilerepair-m.png" />
+            <mj-class name="icon-mobilerepair-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mobilerepair-l.png" />
+            <mj-class name="icon-mobilerepair-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mobilerepair-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

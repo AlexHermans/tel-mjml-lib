@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-pc-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pc-m.png" />
+
+            <mj-class width="45px" name="icon-pc-com" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-pc-m.png" />
+            <mj-class width="45px" name="icon-pc-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pc-m.png" />
+
+            <mj-class name="icon-pc-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-s.png" />
+            <mj-class name="icon-pc-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class name="icon-pc-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-l.png" />
+            <mj-class name="icon-pc-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pc-xl.png" />
+
+            <mj-class name="icon-pc-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-s.png" />
+            <mj-class name="icon-pc-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-m.png" />
+            <mj-class name="icon-pc-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-l.png" />
+            <mj-class name="icon-pc-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pc-xl.png" />
+
+            <mj-class name="icon-pc-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pc-s.png" />
+            <mj-class name="icon-pc-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pc-m.png" />
+            <mj-class name="icon-pc-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pc-l.png" />
+            <mj-class name="icon-pc-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pc-xl.png" />
+
+            <mj-class name="icon-pc-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-pc-s.png" />
+            <mj-class name="icon-pc-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-pc-m.png" />
+            <mj-class name="icon-pc-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-pc-l.png" />
+            <mj-class name="icon-pc-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-pc-xl.png" />
+
+            <mj-class name="icon-pc-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pc-s.png" />
+            <mj-class name="icon-pc-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pc-m.png" />
+            <mj-class name="icon-pc-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pc-l.png" />
+            <mj-class name="icon-pc-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pc-xl.png" />
+
+            <mj-class name="icon-pc-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pc-s.png" />
+            <mj-class name="icon-pc-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pc-m.png" />
+            <mj-class name="icon-pc-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pc-l.png" />
+            <mj-class name="icon-pc-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pc-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

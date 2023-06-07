@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-netweters-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
+
+            <mj-class width="45px" name="icon-netweters-com" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
+
+            <mj-class name="icon-netweters-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-xl.png" />
+
+            <mj-class name="icon-netweters-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-xl.png" />
+
+            <mj-class name="icon-netweters-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-xl.png" />
+
+            <mj-class name="icon-netweters-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-xl.png" />
+
+            <mj-class name="icon-netweters-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-xl.png" />
+
+            <mj-class name="icon-netweters-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-s.png" />
+            <mj-class name="icon-netweters-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
+            <mj-class name="icon-netweters-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-l.png" />
+            <mj-class name="icon-netweters-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

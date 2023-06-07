@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-pod-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pod-m.png" />
+
+            <mj-class width="45px" name="icon-pod-com" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-pod-m.png" />
+            <mj-class width="45px" name="icon-pod-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pod-m.png" />
+
+            <mj-class name="icon-pod-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-s.png" />
+            <mj-class name="icon-pod-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class name="icon-pod-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-l.png" />
+            <mj-class name="icon-pod-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pod-xl.png" />
+
+            <mj-class name="icon-pod-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-s.png" />
+            <mj-class name="icon-pod-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-m.png" />
+            <mj-class name="icon-pod-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-l.png" />
+            <mj-class name="icon-pod-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pod-xl.png" />
+
+            <mj-class name="icon-pod-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pod-s.png" />
+            <mj-class name="icon-pod-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pod-m.png" />
+            <mj-class name="icon-pod-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pod-l.png" />
+            <mj-class name="icon-pod-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pod-xl.png" />
+
+            <mj-class name="icon-pod-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-pod-s.png" />
+            <mj-class name="icon-pod-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-pod-m.png" />
+            <mj-class name="icon-pod-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-pod-l.png" />
+            <mj-class name="icon-pod-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-pod-xl.png" />
+
+            <mj-class name="icon-pod-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pod-s.png" />
+            <mj-class name="icon-pod-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pod-m.png" />
+            <mj-class name="icon-pod-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pod-l.png" />
+            <mj-class name="icon-pod-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pod-xl.png" />
+
+            <mj-class name="icon-pod-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pod-s.png" />
+            <mj-class name="icon-pod-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pod-m.png" />
+            <mj-class name="icon-pod-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pod-l.png" />
+            <mj-class name="icon-pod-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pod-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

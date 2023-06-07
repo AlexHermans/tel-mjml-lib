@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-mytv-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mytv-m.png" />
+
+            <mj-class width="45px" name="icon-mytv-com" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-mytv-m.png" />
+            <mj-class width="45px" name="icon-mytv-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mytv-m.png" />
+
+            <mj-class name="icon-mytv-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-mytv-xl.png" />
+
+            <mj-class name="icon-mytv-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-mytv-xl.png" />
+
+            <mj-class name="icon-mytv-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-mytv-xl.png" />
+
+            <mj-class name="icon-mytv-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-mytv-xl.png" />
+
+            <mj-class name="icon-mytv-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-mytv-xl.png" />
+
+            <mj-class name="icon-mytv-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mytv-s.png" />
+            <mj-class name="icon-mytv-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mytv-m.png" />
+            <mj-class name="icon-mytv-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mytv-l.png" />
+            <mj-class name="icon-mytv-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-mytv-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

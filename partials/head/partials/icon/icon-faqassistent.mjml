@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-faqassistent-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-faqassistent-m.png" />
+
+            <mj-class width="45px" name="icon-faqassistent-com" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-faqassistent-m.png" />
+            <mj-class width="45px" name="icon-faqassistent-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-faqassistent-m.png" />
+
+            <mj-class name="icon-faqassistent-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-faqassistent-xl.png" />
+
+            <mj-class name="icon-faqassistent-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-faqassistent-xl.png" />
+
+            <mj-class name="icon-faqassistent-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-faqassistent-xl.png" />
+
+            <mj-class name="icon-faqassistent-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-faqassistent-xl.png" />
+
+            <mj-class name="icon-faqassistent-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-faqassistent-xl.png" />
+
+            <mj-class name="icon-faqassistent-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-faqassistent-s.png" />
+            <mj-class name="icon-faqassistent-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-faqassistent-m.png" />
+            <mj-class name="icon-faqassistent-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-faqassistent-l.png" />
+            <mj-class name="icon-faqassistent-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-faqassistent-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-happy-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-happy-m.png" />
+
+            <mj-class width="45px" name="icon-happy-com" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-happy-m.png" />
+            <mj-class width="45px" name="icon-happy-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-happy-m.png" />
+
+            <mj-class name="icon-happy-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-s.png" />
+            <mj-class name="icon-happy-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class name="icon-happy-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-l.png" />
+            <mj-class name="icon-happy-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-happy-xl.png" />
+
+            <mj-class name="icon-happy-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-s.png" />
+            <mj-class name="icon-happy-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-m.png" />
+            <mj-class name="icon-happy-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-l.png" />
+            <mj-class name="icon-happy-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-happy-xl.png" />
+
+            <mj-class name="icon-happy-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-happy-s.png" />
+            <mj-class name="icon-happy-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-happy-m.png" />
+            <mj-class name="icon-happy-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-happy-l.png" />
+            <mj-class name="icon-happy-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-happy-xl.png" />
+
+            <mj-class name="icon-happy-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-happy-s.png" />
+            <mj-class name="icon-happy-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-happy-m.png" />
+            <mj-class name="icon-happy-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-happy-l.png" />
+            <mj-class name="icon-happy-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-happy-xl.png" />
+
+            <mj-class name="icon-happy-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-happy-s.png" />
+            <mj-class name="icon-happy-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-happy-m.png" />
+            <mj-class name="icon-happy-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-happy-l.png" />
+            <mj-class name="icon-happy-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-happy-xl.png" />
+
+            <mj-class name="icon-happy-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-happy-s.png" />
+            <mj-class name="icon-happy-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-happy-m.png" />
+            <mj-class name="icon-happy-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-happy-l.png" />
+            <mj-class name="icon-happy-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-happy-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

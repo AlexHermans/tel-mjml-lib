@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-percent-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-percent-m.png" />
+
+            <mj-class width="45px" name="icon-percent-com" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-percent-m.png" />
+            <mj-class width="45px" name="icon-percent-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-percent-m.png" />
+
+            <mj-class name="icon-percent-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-s.png" />
+            <mj-class name="icon-percent-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class name="icon-percent-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-l.png" />
+            <mj-class name="icon-percent-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-percent-xl.png" />
+
+            <mj-class name="icon-percent-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-s.png" />
+            <mj-class name="icon-percent-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-m.png" />
+            <mj-class name="icon-percent-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-l.png" />
+            <mj-class name="icon-percent-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-percent-xl.png" />
+
+            <mj-class name="icon-percent-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-percent-s.png" />
+            <mj-class name="icon-percent-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-percent-m.png" />
+            <mj-class name="icon-percent-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-percent-l.png" />
+            <mj-class name="icon-percent-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-percent-xl.png" />
+
+            <mj-class name="icon-percent-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-percent-s.png" />
+            <mj-class name="icon-percent-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-percent-m.png" />
+            <mj-class name="icon-percent-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-percent-l.png" />
+            <mj-class name="icon-percent-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-percent-xl.png" />
+
+            <mj-class name="icon-percent-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-percent-s.png" />
+            <mj-class name="icon-percent-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-percent-m.png" />
+            <mj-class name="icon-percent-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-percent-l.png" />
+            <mj-class name="icon-percent-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-percent-xl.png" />
+
+            <mj-class name="icon-percent-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-percent-s.png" />
+            <mj-class name="icon-percent-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-percent-m.png" />
+            <mj-class name="icon-percent-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-percent-l.png" />
+            <mj-class name="icon-percent-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-percent-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>
