@@ -27,8 +27,8 @@
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
   <mj-class name="primary" background-color="#FFC421" color="#291D18" border="1px solid #FFC421" css-class="button button-primary"/>
-  <mj-class name="secondary" href="~PROBE(121)~" background-color="" color="#291D18" css-class="button button-secondary" border="1px solid #291D18"/>
-  <mj-class name="tertiary" href="~PROBE(122)~" background-color="" color="#291D18" text-decoration="underline"/>
+  <mj-class name="secondary" href="~PROBE(121)~" background-color="rgba(0,0,0,0)" color="#291D18" css-class="button button-secondary" border="1px solid #291D18"/>
+  <mj-class name="tertiary" href="~PROBE(122)~" background-color="rgba(0,0,0,0)" color="#291D18" text-decoration="underline"/>
 
   <mj-class name="hero" padding-bottom="0">
     <mj-column padding-bottom="0" />
