@@ -1,25 +1,37 @@
 <mjml>
     <mj-head>
         <mj-attributes>
-            <mj-class width="45px" name="icon-netweters-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" css-class="icon-netweters-mkt-dark-m"/>
             <mj-class width="45px" name="icon-netweters-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-mkt-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-netweters-m.png" css-class="icon-netweters-mkt-dark-m" />
             <mj-class width="45px" name="icon-netweters-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-m.png" />
             <mj-class width="45px" name="icon-netweters-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
 
-            <mj-class width="45px" name="icon-netweters-com" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-com" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" css-class="icon-netweters-com-dark-m" />
             <mj-class width="45px" name="icon-netweters-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
+            <mj-class width="45px" name="icon-netweters-com-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-netweters-m.png" css-class="icon-netweters-com-dark-m" />
             <mj-class width="45px" name="icon-netweters-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-netweters-m.png" />
             <mj-class width="45px" name="icon-netweters-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-m.png" />
 
-            <mj-class name="icon-netweters-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-s.png" />
-            <mj-class name="icon-netweters-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
-            <mj-class name="icon-netweters-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-l.png" />
-            <mj-class name="icon-netweters-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-xl.png" />
+            <mj-class name="icon-netweters-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-s.png" css-class="icon-netweters-mkt-dark-s" />
+            <mj-class name="icon-netweters-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-m.png" css-class="icon-netweters-mkt-dark-m"/>
+            <mj-class name="icon-netweters-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-l.png" css-class="icon-netweters-mkt-dark-l"/>
+            <mj-class name="icon-netweters-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-netweters-xl.png" css-class="icon-netweters-mkt-dark-xl"/>
 
-            <mj-class name="icon-netweters-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-s.png" />
-            <mj-class name="icon-netweters-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" />
-            <mj-class name="icon-netweters-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-l.png" />
-            <mj-class name="icon-netweters-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-xl.png" />
+            <mj-class name="icon-netweters-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-s.png" css-class="icon-netweters-com-dark-s"/>
+            <mj-class name="icon-netweters-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-m.png" css-class="icon-netweters-com-dark-m"/>
+            <mj-class name="icon-netweters-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-l.png" css-class="icon-netweters-com-dark-l"/>
+            <mj-class name="icon-netweters-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-netweters-xl.png" css-class="icon-netweters-com-dark-xl" />
+            
+            <mj-class name="icon-netweters-mkt-s-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-netweters-s.png" css-class="icon-netweters-mkt-dark-s" />
+            <mj-class name="icon-netweters-mkt-m-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-netweters-m.png" css-class="icon-netweters-mkt-dark-m"/>
+            <mj-class name="icon-netweters-mkt-l-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-netweters-l.png" css-class="icon-netweters-mkt-dark-l"/>
+            <mj-class name="icon-netweters-mkt-xl-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-netweters-xl.png" css-class="icon-netweters-mkt-dark-xl"/>
+
+            <mj-class name="icon-netweters-com-s-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-netweters-s.png" css-class="icon-netweters-com-dark-s"/>
+            <mj-class name="icon-netweters-com-m-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-netweters-m.png" css-class="icon-netweters-com-dark-m"/>
+            <mj-class name="icon-netweters-com-l-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-netweters-l.png" css-class="icon-netweters-com-dark-l"/>
+            <mj-class name="icon-netweters-com-xl-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-netweters-xl.png" css-class="icon-netweters-com-dark-xl" />
 
             <mj-class name="icon-netweters-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-s.png" />
             <mj-class name="icon-netweters-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-netweters-m.png" />
@@ -41,5 +53,26 @@
             <mj-class name="icon-netweters-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-l.png" />
             <mj-class name="icon-netweters-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-netweters-xl.png" />
         </mj-attributes>
+        <mj-style>
+            @media (prefers-color-scheme: dark) {
+                /* icon-netweters darkmode fallbacks */
+                .dark-mode-fix .icon-netweters-mkt-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-netweters-s.png')}
+                .dark-mode-fix .icon-netweters-mkt-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-mkt-dark-m img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-netweters-m.png')}
+                .dark-mode-fix .icon-netweters-mkt-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-mkt-dark-l img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-netweters-l.png')}
+                .dark-mode-fix .icon-netweters-mkt-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-mkt-dark-xl img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-netweters-xl.png')}
+                .dark-mode-fix .icon-netweters-com-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-com-dark-s img { content: url('https://comm.telenet.be/images/General/icons/white/icon-netweters-s.png')}
+                .dark-mode-fix .icon-netweters-com-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-com-dark-m img { content: url('https://comm.telenet.be/images/General/icons/white/icon-netweters-m.png')}
+                .dark-mode-fix .icon-netweters-com-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-com-dark-l img  { content: url('https://comm.telenet.be/images/General/icons/white/icon-netweters-l.png')}
+                .dark-mode-fix .icon-netweters-com-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-netweters-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-netweters-xl.png')}
+            }
+        </mj-style>
     </mj-head>
 </mjml>
