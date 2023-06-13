@@ -49,7 +49,6 @@
 
   <mj-class name="col-1-sm" css-class="col-1-sm" width="60px" />
 
-  <mj-include path="icons.mjml" />
   <mj-include path="styles/colours.mjml" />
 
   <!-- MJ-CLASS to CSS-CLASS MAPPING -->
@@ -61,6 +60,12 @@
   <mj-class name="hide-from-lg" css-class="hide-from-lg" />
   <mj-class name="hide-from-md" css-class="hide-from-md" />
   <mj-class name="hide-from-sm" css-class="hide-from-sm" />
+
+   <!-- Global Icon sizes -->
+  <mj-class name="icon-s" width="30px" />
+  <mj-class name="icon-m" width="45px" />
+  <mj-class name="icon-l" width="60px" />
+  <mj-class name="icon-xl" width="90px" />
 
   <!-- GLOBAL STYLES -->
   <mj-table line-height="100%"/> <!-- Used to make sure images don't clip in Outlook because of fixed line-height. Overwrite when necessary. -->
