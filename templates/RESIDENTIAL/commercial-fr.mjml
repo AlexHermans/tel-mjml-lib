@@ -104,7 +104,7 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/fr/res-mkt-withlegal.mjml" />
+    <mj-include path="../../partials/footer/fr/mkt-withlegal.mjml" />
     
   </mj-body>
 </mjml>

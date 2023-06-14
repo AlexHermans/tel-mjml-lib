@@ -1,0 +1,29 @@
+<mjml>
+    <mj-head>
+        <mj-include path="../../head/partials/icon/icon-facebook.mjml" />
+        <mj-include path="../../head/partials/icon/icon-advisorcolour.mjml" />
+        <mj-include path="../../head/partials/icon/icon-instagram.mjml" />
+        <mj-include path="../../head/partials/icon/icon-netweters.mjml" />
+    </mj-head>
+    <mj-body>
+        <mj-section mj-class="bg-light">
+            <mj-column mj-class="col-10">
+                <mj-social mode="horizontal" align="left" inner-padding="0 15px 0 0" icon-size="30px" padding="0">
+                    <mj-social-element title="Telenet Service Cliènt" href="~PROBE(503)~" mj-class="icon-advisorcolour-mkt"/>
+                    <mj-social-element title="Telenet Facebook" href="~PROBE(502)~" mj-class="icon-facebook-mkt-m-dark-glow"/>
+                    <mj-social-element title="Telenet Instagram" href="~PROBE(505)~" mj-class="icon-instagram-mkt-m-dark-glow"/>
+                    <mj-social-element title="Telenet Netweters" href="~PROBE(504)~" mj-class="icon-netweters-mkt-m-dark-glow"/>
+                </mj-social>
+                <mj-text mj-class="text-small" padding-bottom="0">
+                    Vos données personnelles seront traitées comme indiqué dans la politique de confidentialité de Telenet (disponible sur https://www2.telenet.be/fr/privacy), conformément à vos paramètres de confidentialité actuels (voir « My Telenet »).      
+                </mj-text>
+                <mj-text mj-class="text-small">
+                     &copy; ~SYSTEM.ENV_LEGAL_ENTITY_FR~ <br />Siège sociale <br /> ~SYSTEM.ENV_LEGAL_ADDRESS_FR~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_FR~.
+                </mj-text>
+                <mj-text mj-class="text-small">
+                    <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Vie&nbsp;privée</a>&nbsp;|&nbsp;<a title="Conditions générales" target="_blank" href="~PROBE(301)~">Conditions&nbsp;generales</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

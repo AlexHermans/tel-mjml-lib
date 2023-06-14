@@ -1,0 +1,17 @@
+<mjml>
+    <mj-body>
+        <mj-section mj-class="bg-light">
+            <mj-column mj-class="col-10">
+                <mj-text mj-class="text-small" padding-bottom="0">
+                    Uw persoonsgegevens worden verwerkt zoals uiteengezet in het Telenet-privacybeleid (beschikbaar op https://www2.telenet.be/nl/privacy), conform uw huidige privacy-instellingen (zie ‘Mijn Telenet’).
+                </mj-text>
+                <mj-text mj-class="text-small">
+                    &copy; ~SYSTEM.ENV_LEGAL_ENTITY_NL~ <br/> Maatschappelijke zetel <br/>~SYSTEM.ENV_LEGAL_ADDRESS_NL~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_NL~. 
+                </mj-text>
+                <mj-text mj-class="text-small">
+                    <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Privacy&nbsp;statement</a>&nbsp;|&nbsp;<a title="Algemene voorwaarden" target="_blank" href="~PROBE(301)~">Algemene&nbsp;voorwaarden</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
