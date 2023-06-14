@@ -17,6 +17,7 @@
     }
 
     .dark-mode-fix .text-medium div, 
+    .dark-mode-fix .text-medium span, 
     .dark-mode-fix .text-small div, 
     .dark-mode-fix .heading-1 div, 
     .dark-mode-fix .heading-2 div, 
@@ -32,6 +33,7 @@
     }
 
     .dark-mode-ignore .text-medium div, 
+    .dark-mode-ignore .text-medium span, 
     .dark-mode-ignore .text-small div, 
     .dark-mode-ignore .heading-1 div, 
     .dark-mode-ignore .heading-2 div, 

@@ -27,8 +27,8 @@
 
   <mj-class name="divider-fine-brown" border-width="1px" border-color="#291D18" />
   <mj-class name="primary" background-color="#FFC421" color="#291D18" border="1px solid #FFC421" css-class="button button-primary"/>
-  <mj-class name="secondary" href="~PROBE(121)~" background-color="" color="#291D18" css-class="button button-secondary" border="1px solid #291D18"/>
-  <mj-class name="tertiary" href="~PROBE(122)~" background-color="" color="#291D18" text-decoration="underline"/>
+  <mj-class name="secondary" href="~PROBE(121)~" background-color="rgba(0,0,0,0)" color="#291D18" css-class="button button-secondary" border="1px solid #291D18"/>
+  <mj-class name="tertiary" href="~PROBE(122)~" background-color="rgba(0,0,0,0)" color="#291D18" text-decoration="underline"/>
 
   <mj-class name="hero" padding-bottom="0">
     <mj-column padding-bottom="0" />
@@ -49,7 +49,6 @@
 
   <mj-class name="col-1-sm" css-class="col-1-sm" width="60px" />
 
-  <mj-include path="icons.mjml" />
   <mj-include path="styles/colours.mjml" />
 
   <!-- MJ-CLASS to CSS-CLASS MAPPING -->
@@ -61,6 +60,12 @@
   <mj-class name="hide-from-lg" css-class="hide-from-lg" />
   <mj-class name="hide-from-md" css-class="hide-from-md" />
   <mj-class name="hide-from-sm" css-class="hide-from-sm" />
+
+   <!-- Global Icon sizes -->
+  <mj-class name="icon-s" width="30px" />
+  <mj-class name="icon-m" width="45px" />
+  <mj-class name="icon-l" width="60px" />
+  <mj-class name="icon-xl" width="90px" />
 
   <!-- GLOBAL STYLES -->
   <mj-table line-height="100%"/> <!-- Used to make sure images don't clip in Outlook because of fixed line-height. Overwrite when necessary. -->

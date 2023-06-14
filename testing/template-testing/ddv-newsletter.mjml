@@ -110,6 +110,6 @@
       </mj-group>
     </mj-section>
 
-    <mj-include path="../../partials/footer/nl/bus-mkt-standard.mjml" />
+    <mj-include path="../../partials/footer/nl/mkt-standard.mjml" />
   </mj-body>
 </mjml>

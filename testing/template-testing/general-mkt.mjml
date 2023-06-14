@@ -2,6 +2,8 @@
   <mj-head>
       <mj-include path="../../partials/head/_.mjml" />
       <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
+      <mj-include path="../../partials/head/partials/icon/icon-achievement.mjml" />
+      <mj-include path="../../partials/head/partials/icon/icon-tick.mjml" />
   </mj-head>
 
   <mj-body>
@@ -55,23 +57,38 @@
         <mj-text mj-class="fontstack-semi heading-3" >
           Waarom OneUp?
         </mj-text>
-      <mj-social align="left" mode="vertical" padding="0" icon-size="25px" text-padding="7.5px 0 7.5px 15px">
-        <mj-social-element mj-class="icon-tick-m">
+      <mj-social align="left" mode="vertical" padding="0" icon-size="60px" icon-padding="0 5px"  text-padding="7.5px 0 7.5px 15px">
+        <mj-social-element mj-class="icon-achievement-com-xl-dark-glow">
           Sit voluptate pariatur veniam sunt qui est.
         </mj-social-element>
-        <mj-social-element mj-class="icon-tick-m">
+        <mj-social-element mj-class="icon-tick-mkt">
           Amet nisi ex occaecat officia.
-        </mj-social-element>
-        <mj-social-element mj-class="icon-tick-m">
+        </mj-social-element >
+        <mj-social-element mj-class="icon-tick-mkt">
           Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse.
         </mj-social-element>
-        <mj-social-element mj-class="icon-tick-m">
+        <mj-social-element mj-class="icon-tick-mkt">
           Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat.
         </mj-social-element>
       </mj-social>
       <mj-button mj-class="primary" align="left">
           Bestel nu
         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-red">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="fontstack-semi heading-3">
+          This is a large header
+        </mj-text>
+        <mj-text>
+          Laboris eiusmod tempor dolor tempor Lorem non. Quis irure pariatur laboris aute anim ex Lorem irure duis incididunt. Esse officia fugiat sunt esse. Ipsum reprehenderit sit tempor enim. Consectetur ut laborum cillum ex aute duis officia aliquip ex consequat incididunt. Deserunt sunt velit tempor sunt aute cupidatat.
+        </mj-text>
+        <mj-image padding="0" align="left" mj-class="icon-s icon-facebook-com-m-dark"/>
+        <mj-text>
+          The icon above should be dark!
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -97,7 +114,7 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/nl/res-mkt-withlegal.mjml" />
+    <mj-include path="../../partials/footer/nl/mkt-withlegal.mjml" />
     
   </mj-body>
 </mjml>

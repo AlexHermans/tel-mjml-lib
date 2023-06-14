@@ -8,6 +8,11 @@ To use the classes, use this format:
 > `icon-[iconname]-[domain]`  
 
 where icon is any of the [below listed icons](#list) and domain is either `COM` or `MKT`.
+
+At the top of the MJML email file, import the icon partial:
+> `<mj-include path="[BASEPATH]/partials/head/partials/icon/[iconname].mjml "/>`  
+>  
+> Note: partials that need icons, such as the footer, have already imported the necessary icon partials for them to work. If you need to re-use those icons, you don't have to re-include them
   
 This will render a **dark** icon with a width of **45px and 7.5px padding on each side** on either **mkt.prd.telenet.be** or **comm.prd.telenet.be**. The icon will have matching image resolution as well (see [Sizes](#sizes) for more information.) All the icons are gathered from the `/common` folder on AEM PRD DAM. You can find the originals [here](https://author.prd.apps.telenet.be/assets.html/content/dam/www-telenet-touch/nl/common/icons).
 
@@ -38,15 +43,23 @@ The icon classes allow you to define an icon of any size and any resolution. By 
 
 ## Colours
 
-You can choose the color of your icon to be either **dark**, **white** or **lemon** depending on your use-case. To use it, append it to the standard class name:  
+You can choose the color of your icon to be either **dark**, **white**, **lemon** or **dark-glow** depending on your use-case. To use it, append it to the standard class name:  
   
-`icon-[iconname]-[domain]-dark/white/lemon`  
+`icon-[iconname]-[domain]-dark/white/lemon/dark-glow`  
 
 Or append it to the icon resolution class
   
-`icon-[iconname]-[domain]-[size]-dark/white/lemon`
+`icon-[iconname]-[domain]-[size]-dark/white/lemon/dark-glow`
 > **Remember**:  
 Except for on dark backgrounds (e.g. `dark-brown` or `streamz-black`) or for dark-mode support there is no need for light icons or text. Please refer to the [typography section of the  design guidelines](https://www2.telenet.be/residential/nl/design/best-practices/typography/) if you have questions.
+
+## Icon use in darkmode
+
+Because a lot of ESPs tackle dark-mode in their own way, a lot of workarounds have been provided to make sure that your email would look nice regardless. Here are some tips on how to use the icons properly, accounting for dark-mode:
+  
+* Use `dark` or `lemon` icons on coloured backgrounds
+* Use `white` icons on dark backgrounds (right now, only for use with `dark-brown` background colour)
+* Use `dark-glow` when using icons on a white background. Because the `white` background colour gets inverted to a very dark colour in dark mode (`#222222`) the `dark` icons won't be visible. The `dark-glow` variants have a faint white transparent glow effect added to the dark icon. Using this variant allows you to have dark icons on a white background and visible icons on dark backgrounds. This is mainly for non-iOS ESPs since iOS provides a way to dictate fallbacks: the `dark` icon gets changed to a `white` icon.
 
 ## List
 

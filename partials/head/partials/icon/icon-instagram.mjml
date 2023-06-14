@@ -1,25 +1,37 @@
 <mjml>
     <mj-head>
         <mj-attributes>
-            <mj-class width="45px" name="icon-instagram-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
+            <mj-class width="45px" name="icon-instagram-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-m.png" css-class="icon-instagram-mkt-dark-m"/>
             <mj-class width="45px" name="icon-instagram-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
+            <mj-class width="45px" name="icon-instagram-mkt-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-instagram-m.png" css-class="icon-instagram-mkt-dark-m" />
             <mj-class width="45px" name="icon-instagram-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-instagram-m.png" />
             <mj-class width="45px" name="icon-instagram-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-instagram-m.png" />
 
-            <mj-class width="45px" name="icon-instagram-com" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
+            <mj-class width="45px" name="icon-instagram-com" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-m.png" css-class="icon-instagram-com-dark-m" />
             <mj-class width="45px" name="icon-instagram-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
+            <mj-class width="45px" name="icon-instagram-com-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-instagram-m.png" css-class="icon-instagram-com-dark-m" />
             <mj-class width="45px" name="icon-instagram-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-instagram-m.png" />
             <mj-class width="45px" name="icon-instagram-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-instagram-m.png" />
 
-            <mj-class name="icon-instagram-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-s.png" />
-            <mj-class name="icon-instagram-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
-            <mj-class name="icon-instagram-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-l.png" />
-            <mj-class name="icon-instagram-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-xl.png" />
+            <mj-class name="icon-instagram-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-s.png" css-class="icon-instagram-mkt-dark-s" />
+            <mj-class name="icon-instagram-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-m.png" css-class="icon-instagram-mkt-dark-m"/>
+            <mj-class name="icon-instagram-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-l.png" css-class="icon-instagram-mkt-dark-l"/>
+            <mj-class name="icon-instagram-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-instagram-xl.png" css-class="icon-instagram-mkt-dark-xl"/>
 
-            <mj-class name="icon-instagram-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-s.png" />
-            <mj-class name="icon-instagram-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-m.png" />
-            <mj-class name="icon-instagram-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-l.png" />
-            <mj-class name="icon-instagram-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-xl.png" />
+            <mj-class name="icon-instagram-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-s.png" css-class="icon-instagram-com-dark-s"/>
+            <mj-class name="icon-instagram-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-m.png" css-class="icon-instagram-com-dark-m"/>
+            <mj-class name="icon-instagram-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-l.png" css-class="icon-instagram-com-dark-l"/>
+            <mj-class name="icon-instagram-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-instagram-xl.png" css-class="icon-instagram-com-dark-xl" />
+            
+            <mj-class name="icon-instagram-mkt-s-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-instagram-s.png" css-class="icon-instagram-mkt-dark-s" />
+            <mj-class name="icon-instagram-mkt-m-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-instagram-m.png" css-class="icon-instagram-mkt-dark-m"/>
+            <mj-class name="icon-instagram-mkt-l-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-instagram-l.png" css-class="icon-instagram-mkt-dark-l"/>
+            <mj-class name="icon-instagram-mkt-xl-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-instagram-xl.png" css-class="icon-instagram-mkt-dark-xl"/>
+
+            <mj-class name="icon-instagram-com-s-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-instagram-s.png" css-class="icon-instagram-com-dark-s"/>
+            <mj-class name="icon-instagram-com-m-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-instagram-m.png" css-class="icon-instagram-com-dark-m"/>
+            <mj-class name="icon-instagram-com-l-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-instagram-l.png" css-class="icon-instagram-com-dark-l"/>
+            <mj-class name="icon-instagram-com-xl-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-instagram-xl.png" css-class="icon-instagram-com-dark-xl" />
 
             <mj-class name="icon-instagram-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-instagram-s.png" />
             <mj-class name="icon-instagram-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-instagram-m.png" />
@@ -41,5 +53,26 @@
             <mj-class name="icon-instagram-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-instagram-l.png" />
             <mj-class name="icon-instagram-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-instagram-xl.png" />
         </mj-attributes>
+        <mj-style>
+            @media (prefers-color-scheme: dark) {
+                /* icon-instagram darkmode fallbacks */
+                .dark-mode-fix .icon-instagram-mkt-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-instagram-s.png')}
+                .dark-mode-fix .icon-instagram-mkt-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-mkt-dark-m img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-instagram-m.png')}
+                .dark-mode-fix .icon-instagram-mkt-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-mkt-dark-l img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-instagram-l.png')}
+                .dark-mode-fix .icon-instagram-mkt-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-mkt-dark-xl img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-instagram-xl.png')}
+                .dark-mode-fix .icon-instagram-com-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-com-dark-s img { content: url('https://comm.telenet.be/images/General/icons/white/icon-instagram-s.png')}
+                .dark-mode-fix .icon-instagram-com-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-com-dark-m img { content: url('https://comm.telenet.be/images/General/icons/white/icon-instagram-m.png')}
+                .dark-mode-fix .icon-instagram-com-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-com-dark-l img  { content: url('https://comm.telenet.be/images/General/icons/white/icon-instagram-l.png')}
+                .dark-mode-fix .icon-instagram-com-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-instagram-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-instagram-xl.png')}
+            }
+        </mj-style>
     </mj-head>
 </mjml>
