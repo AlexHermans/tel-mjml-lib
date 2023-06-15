@@ -10,7 +10,7 @@
     <!-- HERO SEGMENT -->
     <mj-section mj-class="bg-watermelon" padding="0" padding-left="100px">
       <mj-column vertical-align="middle">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
           Encore un peu de patience ! Votre <span style="color:#FFF7C7">Samsung Galaxy S22 Ultra</span> arrive.
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             Malheureusement, les livraisons ont du retard. Voilà pourquoi le délai d’attente de votre appareil est plus long que d'habitude. 
         </mj-text>
-        <mj-text mj-class="fontstack-semi heading-4">
+        <mj-text mj-class="heading-4">
             Nous vous tenons au courant
         </mj-text>
         <mj-text>

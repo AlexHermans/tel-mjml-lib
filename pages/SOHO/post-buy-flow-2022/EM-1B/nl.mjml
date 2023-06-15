@@ -13,7 +13,7 @@
         <mj-include path="../../../partials/raw/not-mso/start.mjml"/>
           <mj-image align="left" mj-class="hide-from-lg" padding="0" height="60px" width="60px" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/stock-bol-nl.png" alt="" />
         <mj-include path="../../../partials/raw/not-mso/end.mjml"/>
-        <mj-text padding-top="15px" mj-class="fontstack-semi heading-2" padding-bottom="0">
+        <mj-text padding-top="15px" mj-class="heading-2" padding-bottom="0">
             Eerst aftellen<br>en dan bestellen ...
         </mj-text>
       </mj-column>

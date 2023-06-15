@@ -10,7 +10,7 @@
     <!-- HERO SEGMENT -->
     <mj-section mj-class="bg-watermelon" padding="0" padding-left="100px">
       <mj-column vertical-align="middle">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
           Nog even geduld! Je <span style="color:#FFF7C7">Samsung Galaxy S22 Ultra</span> komt eraan.
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             Helaas lopen de leveringen wat vertraging op. Daarom wacht je langer dan normaal op je toestel.
         </mj-text>
-        <mj-text mj-class="fontstack-semi heading-4">
+        <mj-text mj-class="heading-4">
             We houden je op de hoogte
         </mj-text>
         <mj-text>

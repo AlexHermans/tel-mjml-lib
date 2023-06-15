@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-3" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             Éviter les frais imprévus a l'extérieur? <span style="color:#FFF7C7">Tout sur roaming</span> en un coup d'&oelig;il.
         </mj-text>
       </mj-column>

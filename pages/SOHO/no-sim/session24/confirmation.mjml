@@ -33,7 +33,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
             Bevestiging van je videogesprek met Telenet Business
         </mj-text>
       </mj-column>
@@ -61,7 +61,7 @@
     <!-- INSTRUCTIONS -->
     <mj-section>
       <mj-column mj-class="bg-grey-4 column-padding" width="600px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
          Hoe start je het videogesprek ... 
         </mj-text>
         <mj-text>
@@ -101,7 +101,7 @@
     <!-- ADD TO AGENDA -->
     <mj-section>
       <mj-column mj-class="bg-grey-4 column-padding" width="600px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
          Voeg je videogesprek toe aan je agenda
         </mj-text>
         <mj-text>

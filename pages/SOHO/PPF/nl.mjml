@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             Nieuwe promo's voor SOHO klanten!
         </mj-text>
       </mj-column>
@@ -28,19 +28,19 @@
         <mj-text mj-class="text-medium">
            De eerste nieuwigheden voor de komende weken: 
         </mj-text>
-         <mj-text mj-class="heading-5 fontstack-semi">
+         <mj-text mj-class="heading-5">
           Van 1 februari 2022 tem 14 februari 2022: 
         </mj-text>
         <mj-text mj-class="text-medium">
            Je mag tijdens deze twee weken de bestaande closing tool van 50% korting gedurende twee maanden op nieuwe klanten vollenbak inzetten maw  op alle nieuwe klanten die KLIK worden. Je hoeft geen rekening meer te houden met de regel om de promo maar in 50% van je verkopen toe te kennen.  Closing tool wordt dus gedurende deze twee weken acquisitie promo (toe te kennen via dezelfde puq code) 
         </mj-text>
-         <mj-text mj-class="heading-5 fontstack-semi">
+         <mj-text mj-class="heading-5">
           Vanaf 7 februari 2022:  
         </mj-text>
         <mj-text mj-class="text-medium">
            Nieuwe closing tool promo voor Online Essentials: <br>Je kan vanaf dan een korting geven van 100€ op de eenmalige kost van elk Online Essentials pakket.  Zoals de andere closing tools mag je deze in 50% van je verkopen toekennen. 
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
           Vanaf 14 februari 2022: 
         </mj-text>
         <mj-text mj-class="text-medium">
@@ -54,7 +54,7 @@
 
     <mj-section>
         <mj-column width="650px" mj-class="bg-light" padding="30px" padding-top="0">
-            <mj-text mj-class="heading-4 fontstack-semi">
+            <mj-text mj-class="heading-4">
                 Belangrijk - Opgelet:
             </mj-text>
             <mj-text mj-class="text-medium">
@@ -90,7 +90,7 @@
 
     <mj-section mj-class="bg-watermelon" padding-bottom="30px"> 
         <mj-column width="600px">
-            <mj-text mj-class="heading-5 fontstack-semi">
+            <mj-text mj-class="heading-5">
                 Ben je op zoek naar materiaal om de Telenet Business-producten in de kijker te zetten bij jouw klanten? 
             </mj-text>
             <mj-text mj-class="text-medium">

@@ -11,7 +11,7 @@
     <!-- HERO TEXT -->
     <mj-section padding="25px 100px" mj-class="bg-lemon" css-class="container">
       <mj-column>
-        <mj-text mj-class="fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-2">
+        <mj-text mj-class="" padding="25px 0 0" css-class="outlook-font-fix heading-2">
          Plus de 75.000 entrepreneurs ont déjà choisi CLIC. Et vous ?
         </mj-text>
       </mj-column>
@@ -39,10 +39,10 @@
     <!-- BLOCK -->
     <mj-section mj-class="bg-white" css-class="container-group" padding="25px 0 0" >
       <mj-column  width="600px" padding="15px 0 0" mj-class="bg-lemon">
-        <mj-text padding="0" mj-class="fontstack-semi" align="center" css-class="outlook-font-fix heading-3">
+        <mj-text padding="0" mj-class="" align="center" css-class="outlook-font-fix heading-3">
           CLIC 10 GB
         </mj-text>
-        <mj-text padding="5px 0" mj-class="fontstack-regular" align="center" css-class="outlook-font-fix heading-6">
+        <mj-text padding="5px 0" align="center" css-class="outlook-font-fix">
           € <span style="font-size: 23px !important;" class="heading-4"><strong>106</strong></span> hors TVA / mois
         </mj-text>
         <mj-divider padding="15px 0 0" mj-class="divider-fine-brown" />
@@ -128,7 +128,7 @@
     <!-- PROOF POINTS -->
     <mj-section mj-class="bg-white" css-class="container" padding="25px 0 0">
       <mj-column width="600px">
-        <mj-text mj-class="fontstack-semi" padding="30px 0 15px" css-class="outlook-font-fix heading-6">
+        <mj-text mj-class="" padding="30px 0 15px" css-class="outlook-font-fix heading-6">
           Saviez-vous que... vous pouvez faire les choses beaucoup plus efficacement en choisissant CLIC ?
         </mj-text>
         <mj-text css-class="outlook-font-fix bodytext" padding="0 15px 30px">

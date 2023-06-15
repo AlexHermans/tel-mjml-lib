@@ -16,7 +16,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-lemon hero-text" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             New takeover form submission
         </mj-text>
       </mj-column>

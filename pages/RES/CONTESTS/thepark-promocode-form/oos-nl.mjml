@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-red hero-text" padding="0">
       <mj-column width="80%">
-        <mj-text mj-class="fontstack-semi heading-1">
+        <mj-text mj-class="heading-1">
           <span style="color:#FFF7C7">Sorry!</span>
         </mj-text>
       </mj-column>

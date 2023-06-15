@@ -33,7 +33,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding="0" padding-bottom="30px">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-3">
+        <mj-text mj-class="heading-3">
             Vous y êtes presque, nous avons juste besoin de quelques données supplémentaires
         </mj-text>
       </mj-column>
@@ -57,7 +57,7 @@
     <!-- LIST OF NUMBERS -->
     <mj-section>
       <mj-column mj-class="bg-grey-4 column-padding" width="600px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
          Votre ou vos numéro(s) de téléphone Phone2Go 
         </mj-text>
         <mj-text padding-bottom="0">
