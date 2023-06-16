@@ -53,8 +53,9 @@
             <mj-class name="icon-facebook-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-l.png" />
             <mj-class name="icon-facebook-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-xl.png" />
         </mj-attributes>
-        <mj-style>
-            @media (prefers-color-scheme: dark) {
+        <mj-raw>
+            <style>
+                 @media (prefers-color-scheme: dark) {
                 /* icon-facebook darkmode fallbacks */
                 .dark-mode-fix .icon-facebook-mkt-dark-s img,
                 [data-ogsc] .dark-mode-fix .icon-facebook-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-facebook-s.png')}
@@ -73,6 +74,7 @@
                 .dark-mode-fix .icon-facebook-com-dark-xl img,
                 [data-ogsc] .dark-mode-fix .icon-facebook-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-facebook-xl.png')}
             }
-        </mj-style>
+            </style>
+        </mj-raw>
     </mj-head>
 </mjml>

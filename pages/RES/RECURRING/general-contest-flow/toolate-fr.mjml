@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_CALLOUT_FR,'Désolé !'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOLATE_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_TOOLATE_HEADER_TAGLINE_FR,'Vous ne pouvez plus participer au concours'))~
         </mj-text>
       </mj-column>

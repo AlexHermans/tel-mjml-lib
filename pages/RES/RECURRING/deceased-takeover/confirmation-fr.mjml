@@ -16,7 +16,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-olivine hero-text" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
              Reprise de services Telenet
         </mj-text>
       </mj-column>
@@ -38,7 +38,7 @@
 
    <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="0">
     <mj-column mj-class="col-10" padding-bottom="0">
-        <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+        <mj-text mj-class="heading-4" padding-bottom="0">
             Voici les données que vous nous avez communiquées : 
         </mj-text>
     </mj-column>
@@ -46,7 +46,7 @@
 
    <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
     <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+        <mj-text mj-class="heading-5" padding-bottom="0">
             Données du cédant
         </mj-text>
     </mj-column>
@@ -114,7 +114,7 @@
 
     <mj-section mj-class="bg-grey-4" padding-top="0" padding-bottom="5px">
     <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+        <mj-text mj-class="heading-5" padding-bottom="0">
             Données du repreneur
         </mj-text>
     </mj-column>

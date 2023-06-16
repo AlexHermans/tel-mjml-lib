@@ -16,7 +16,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-olivine hero-text" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             Votre demande de plan de paiement
         </mj-text>
       </mj-column>
@@ -28,13 +28,13 @@
         <mj-text>
            Nous avons bien reçu votre demande de plan de paiement. 
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
           Que va-t-il se passer ?
         </mj-text>
         <mj-text>
             Nous vous contacterons dans les 2 ouvrables pour tout régler.
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi" padding-bottom="15px">
+        <mj-text mj-class="heading-5" padding-bottom="15px">
            Voici les informations que vous nous avez communiquées : 
         </mj-text>
         </mj-column>
@@ -203,7 +203,7 @@
         <mj-text>
             Quelque chose n'est pas correct ? Remplissez à nouveau le formulaire.
         </mj-text>
-        <mj-button align="left" mj-class="primary fontstack-semi">
+        <mj-button align="left" mj-class="primary">
             Remplissez à nouveau le formulaire.
         </mj-button>
       </mj-column>

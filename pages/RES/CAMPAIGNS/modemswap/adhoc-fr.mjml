@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
             Surfez à des vitesses allant jusqu'à 1 Gbps avec votre <span style="color:#FFC421">ONEup </span> et votre nouveau modem
         </mj-text>
       </mj-column>
@@ -36,7 +36,7 @@
     <!-- QUOTE -->
     <mj-section>
       <mj-column mj-class="bg-lemon column-padding" width="600px">
-        <mj-text mj-class="fontstack-semi heading-4">
+        <mj-text mj-class="heading-4">
           Remplacez votre modem gratuitement
         </mj-text>
         <mj-text>
@@ -51,7 +51,7 @@
     <!-- SUB-TITLE -->
     <mj-section mj-class="container-group" padding="0">
       <mj-column mj-class="col-10" >
-        <mj-text mj-class="fontstack-semi heading-5" >
+        <mj-text mj-class="heading-5" >
           Comment obtenir votre modem ? 
         </mj-text>
         <mj-social align="left" mode="vertical" padding-left="0" inner-padding="0" icon-size="25px" text-padding="0 0 15px 15px">
@@ -65,7 +65,7 @@
                 <b>Terminé</b> ! Vous profitez à présent des vitesses élevées de votre ONEup.
             </mj-social-element>
         </mj-social>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
           Vous avez encore des questions ?
         </mj-text>
         <mj-text >

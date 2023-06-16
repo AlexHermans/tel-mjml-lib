@@ -14,7 +14,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-grey-4">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
           Text-only test
         </mj-text>
         <mj-text>
@@ -93,7 +93,7 @@
 
     <mj-section mj-class="bg-grey-4">
       <mj-column mj-class="col-5">
-        <mj-text mj-class="heading-3 fontstack-semi">
+        <mj-text mj-class="heading-3">
           col-5
         </mj-text>
         <mj-text>
@@ -101,7 +101,7 @@
         </mj-text>
       </mj-column>
       <mj-column mj-class="col-5">
-        <mj-text mj-class="heading-3 fontstack-semi">
+        <mj-text mj-class="heading-3">
           col-5
         </mj-text>
         <mj-text>
@@ -112,7 +112,7 @@
 
     <mj-section mj-class="bg-grey-8">
       <mj-column width="200px" padding="0" padding-left="15px">
-        <mj-text mj-class="heading-3 fontstack-semi">
+        <mj-text mj-class="heading-3">
           col-5
         </mj-text>
         <mj-text>
@@ -120,7 +120,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="0" padding-left="15px">
-        <mj-text mj-class="heading-3 fontstack-semi">
+        <mj-text mj-class="heading-3">
           col-5
         </mj-text>
         <mj-text>
@@ -128,7 +128,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="0" padding-left="15px">
-        <mj-text mj-class="heading-3 fontstack-semi">
+        <mj-text mj-class="heading-3">
           col-5
         </mj-text>
         <mj-text>

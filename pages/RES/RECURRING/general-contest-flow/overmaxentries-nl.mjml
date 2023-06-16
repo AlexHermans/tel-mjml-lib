@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
              ~(IF(LEN(CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL) > 0, CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_CALLOUT_NL, 'Ai!'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_TAGLINE_NL) > 0, CONTEST_CONFIG.S_ERROR_OVERMAXENTRIES_TAGLINE_NL, 'Je nam al deel met de wedstrijd'))~
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             Leuk dat je opnieuw probeerde meedoen aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~, maar we ontvingen al een deelname voor jouw klantennummer. Per klantennummer kan je maar ~CONTEST_CONFIG.MAX_ALLOWED_ENTRIES~ keer je kans wagen
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Wat gebeurt er nu?
         </mj-text>
          <mj-text>

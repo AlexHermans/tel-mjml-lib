@@ -13,7 +13,7 @@
         <mj-include path="../../../partials/raw/not-mso/start.mjml"/>
           <mj-image align="left" mj-class="hide-from-lg" padding="0" height="60px" width="60px" src="https://mkt.telenet.be/images/Tribes_&_Squads/SOHO/Squad_Join_Us/hwpbp-2022/stock-bol-nl.png" alt="" />
         <mj-include path="../../../partials/raw/not-mso/end.mjml"/>
-        <mj-text padding-top="15px" mj-class="fontstack-semi heading-2" padding-bottom="0">
+        <mj-text padding-top="15px" mj-class="heading-2" padding-bottom="0">
             Jouw zaak verdient een extraatje...
         </mj-text>
       </mj-column>
@@ -46,7 +46,7 @@
   
     <mj-section mj-class="hide-until-lg">
       <mj-column mj-class="col-10 column-padding bg-lemon" padding-bottom="15px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Bestel in enkele klikken
         </mj-text>
       </mj-column>
@@ -55,7 +55,7 @@
     <mj-include path="../../../partials/raw/not-mso/start.mjml" />
       <mj-section mj-class="hide-from-lg">
         <mj-column mj-class="col-10 column-padding bg-lemon" padding-bottom="15px">
-          <mj-text mj-class="fontstack-semi heading-5">
+          <mj-text mj-class="heading-5">
             Bestel in enkele klikken
           </mj-text>
         </mj-column>
@@ -66,7 +66,7 @@
     <mj-section mj-class="hide-until-lg" padding="0">
       <mj-group width="600px" mj-class="bg-lemon">
         <mj-column padding-left="30px" width="10%" mj-class="bg-lemon">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           1.
         </mj-text>
       </mj-column>
@@ -82,7 +82,7 @@
       <mj-section mj-class="hide-from-lg" padding="0">
         <mj-group mj-class="bg-lemon">
           <mj-column width="15%" mj-class="bg-lemon">
-            <mj-text mj-class="fontstack-semi heading-5" align="center">
+            <mj-text mj-class="heading-5" align="center">
               1.
             </mj-text>
           </mj-column>
@@ -99,7 +99,7 @@
     <mj-section mj-class="hide-until-lg" padding="0">
       <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%" padding-left="30px" mj-class="bg-lemon">
-          <mj-text mj-class="fontstack-semi heading-5">
+          <mj-text mj-class="heading-5">
             2.
           </mj-text>
         </mj-column>
@@ -115,7 +115,7 @@
       <mj-section mj-class="hide-from-lg" padding="0">
         <mj-group mj-class="bg-lemon">
           <mj-column width="15%" mj-class="bg-lemon">
-            <mj-text mj-class="fontstack-semi heading-5" align="center">
+            <mj-text mj-class="heading-5" align="center">
               2.
             </mj-text>
           </mj-column>
@@ -132,7 +132,7 @@
     <mj-section mj-class="hide-until-lg" padding="0">
       <mj-group width="600px" mj-class="bg-lemon">
         <mj-column width="10%" padding-left="30px" mj-class="bg-lemon">
-          <mj-text padding-top="15px" mj-class="fontstack-semi heading-5">
+          <mj-text padding-top="15px" mj-class="heading-5">
             3.
           </mj-text>
         </mj-column>
@@ -148,7 +148,7 @@
       <mj-section mj-class="hide-from-lg" padding="0">
         <mj-group mj-class="bg-lemon">
           <mj-column width="15%" mj-class="bg-lemon">
-            <mj-text  padding="15px" mj-class="fontstack-semi heading-5" align="center">
+            <mj-text  padding="15px" mj-class="heading-5" align="center">
               3.
             </mj-text>
           </mj-column>
@@ -174,7 +174,7 @@
     <!-- DID YOU KNOW -->
     <mj-section>
       <mj-column mj-class="col-10 column-padding bg-light" padding-bottom="25px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Wist je dit al?
         </mj-text>
         <mj-text mj-class="text-medium">

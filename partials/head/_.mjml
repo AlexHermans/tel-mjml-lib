@@ -10,18 +10,16 @@
 <mj-attributes>
   <!-- FONT CLASSES -->
   <mj-class name="fontstack-light" font-family="'Albra Light', Arial, Helvetica, sans-serif" font-weight="100" />
-  <mj-class name="fontstack-regular" font-family="'Albra Regular', Arial, Helvetica, sans-serif" font-weight="300" />
   <mj-class name="fontstack-medium" font-family="'Albra Medium', Arial, Helvetica, sans-serif" font-weight="400" />
   <mj-class name="fontstack-semi" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" />
   <mj-class name="fontstack-bold" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" />
-  <mj-class name="fontstack-black" font-family="'Albra Black', Arial, Helvetica, sans-serif" font-weight="900" />
 
-  <mj-class name="display" font-size="48px" line-height="48px" padding-top="24px" css-class="outlook-font-fix display" />
-  <mj-class name="heading-1" font-size="36px" line-height="40px" padding-top="20px" css-class="outlook-font-fix heading-1" />
-  <mj-class name="heading-2" font-size="28px" line-height="36px" padding-top="18px" css-class="outlook-font-fix heading-2" />
-  <mj-class name="heading-3" font-size="24px" line-height="32px" padding-top="16px" css-class="outlook-font-fix heading-3" />
-  <mj-class name="heading-4" font-size="20px" line-height="28px" padding-top="14px" css-class="outlook-font-fix heading-4" />
-  <mj-class name="heading-5" font-size="18px" line-height="24px" padding-top="12px" css-class="outlook-font-fix heading-5" />
+  <mj-class name="display" font-size="48px" line-height="48px" padding-top="24px" font-family="'Albra Light', Arial, Helvetica, sans-serif" font-weight="100" css-class="outlook-font-fix display"  />
+  <mj-class name="heading-1" font-size="36px" line-height="40px" padding-top="20px" font-family="'Albra Bold', Arial, Helvetica, sans-serif" font-weight="800" css-class="outlook-font-fix heading-1" />
+  <mj-class name="heading-2" font-size="28px" line-height="36px" padding-top="18px" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" css-class="outlook-font-fix heading-2" />
+  <mj-class name="heading-3" font-size="24px" line-height="32px" padding-top="16px" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" css-class="outlook-font-fix heading-3" />
+  <mj-class name="heading-4" font-size="20px" line-height="28px" padding-top="14px" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" css-class="outlook-font-fix heading-4" />
+  <mj-class name="heading-5" font-size="18px" line-height="24px" padding-top="12px" font-family="'Albra Semi', Arial, Helvetica, sans-serif" font-weight="600" ss-class="outlook-font-fix heading-5" />
   <mj-class name="heading-6" font-size="16px" line-height="24px" padding-top="12px" css-class="outlook-font-fix heading-6" />
   <mj-class name="text-small" font-size="14px" line-height="20px" padding="15px 0" css-class="outlook-font-fix text-small" />
 
@@ -71,7 +69,7 @@
   <mj-table line-height="100%"/> <!-- Used to make sure images don't clip in Outlook because of fixed line-height. Overwrite when necessary. -->
   <mj-column padding="7.5px 15px" padding-top="7.5px" padding-bottom="7.5px" padding-left="15px" padding-right="15px"/>
   <mj-section padding="7.5px 15px" padding-top="7.5px" padding-bottom="7.5px" padding-left="15px" padding-right="15px" background-color="#FFFFFF" css-class="dark-mode-fix"/>
-  <mj-all font-family="Arial, Helvetica, sans-serif" />
+  <mj-all font-family="'Albra Medium', Arial, Helvetica, sans-serif" />
   <mj-social css-class="dark-mode-fix mj-social" /> 
   <mj-social-element color="#291D18" font-size="16px" line-height="24px" css-class="outlook-font-fix text-medium dark-mode-fix" />
   <mj-text color="#291D18" font-size="16px" line-height="24px" padding="0 0 15px" css-class="outlook-font-fix text-medium"/>
@@ -93,92 +91,6 @@
   }
 </mj-style>
 
-<mj-include path="styles/layout.mjml" />
+<mj-include path="styles/responsive.mjml" />
 <mj-include path="styles/dark-mode.mjml" />
-<mj-include path="styles/font-sizes.mjml" />
-
-<mj-raw>
-  <!--[if mso]>
-    <style type=”text/css”>
-      .outlook-font-fix > div{
-        font-family: Arial, sans-serif;
-      }
-    </style>
-  <![endif]-->
-
-  <!--[if !mso]>-->
-  <style>
-    @font-face {
-      /* Albra Light */
-
-      font-family: 'Albra Light';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Light.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Light.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Light.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      /* Albra Regular */
-
-      font-family: 'Albra Regular';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Regular.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Regular.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Regular.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      /* Albra Medium */
-
-      font-family: 'Albra Medium';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Medium.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Medium.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Medium.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      /* Albra Semi */
-
-      font-family: 'Albra Semi';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Semi.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Semi.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Semi.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      /* Albra Bold */
-
-      font-family: 'Albra Bold';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Bold.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Bold.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Bold.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      /* Albra Black */
-
-      font-family: 'Albra Black';
-      src: url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff') format('woff'),
-        url('https://mkt.telenet.be/images/fonts/Albra/Telenet-Albra-Sans-Black.woff2') format('woff2'),
-        url('https://mkt.telenet.be/images/fonts/Albra/TTF/Telenet-Albra-Sans-Black.ttf') format('truetype'),
-        url('https://mkt.telenet.be/images/fonts/Albra/OTF/Telenet-Albra-Sans-Black.otf') format('opentype');
-      font-weight: normal;
-      font-style: normal;
-    }
-  </style>
-  <!--<![endif]-->
-</mj-raw>
+<mj-include path="styles/fonts.mjml" />

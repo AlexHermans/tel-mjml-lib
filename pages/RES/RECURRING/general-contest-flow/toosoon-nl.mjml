@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_CALLOUT_NL)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_CALLOUT_NL,'Sorry!'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_TAGLINE_NL)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_TAGLINE_NL,'Je kan nog niet meedoen aan de wedstrijd!'))~
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             Je gaf je gegevens al door in de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~. Leuk dat je zo enthousiast bent! Helaas was je nog net iets te vroeg, de wedstrijd start pas ~(FORMATDATETIME(CONTEST_CONFIG.START_DATE, '%d-%m-%y %X'))~.
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Kom snel terug!
         </mj-text>
          <mj-text>

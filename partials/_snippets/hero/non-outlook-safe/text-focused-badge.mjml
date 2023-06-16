@@ -1,12 +1,12 @@
  <!-- HERO  -->
 <mj-section mj-class="bg-watermelon">
     <mj-column mj-class="col-10">
-    <mj-table mj-class="fontstack-semi text-small" padding="0" width="" cellpadding="10px" padding-bottom="0" >
+    <mj-table mj-class="text-small" padding="0" width="" cellpadding="10px" padding-bottom="0" >
         <tr>
         <td style="background-color:white">[BADGE COMPONENT]</td>
         </tr>
     </mj-table>
-    <mj-text mj-class="fontstack-semi heading-1">
+    <mj-text mj-class="heading-1">
         Moving soon? Telenet makes it easy!
     </mj-text>
     <mj-button mj-class="primary">

@@ -53,8 +53,9 @@
             <mj-class name="icon-instagram-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-instagram-l.png" />
             <mj-class name="icon-instagram-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-instagram-xl.png" />
         </mj-attributes>
-        <mj-style>
-            @media (prefers-color-scheme: dark) {
+        <mj-raw>
+            <style>
+                 @media (prefers-color-scheme: dark) {
                 /* icon-instagram darkmode fallbacks */
                 .dark-mode-fix .icon-instagram-mkt-dark-s img,
                 [data-ogsc] .dark-mode-fix .icon-instagram-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-instagram-s.png')}
@@ -73,6 +74,7 @@
                 .dark-mode-fix .icon-instagram-com-dark-xl img,
                 [data-ogsc] .dark-mode-fix .icon-instagram-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-instagram-xl.png')}
             }
-        </mj-style>
+            </style>
+        </mj-raw>
     </mj-head>
 </mjml>

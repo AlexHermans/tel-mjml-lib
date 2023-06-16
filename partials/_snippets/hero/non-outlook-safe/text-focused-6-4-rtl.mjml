@@ -1,7 +1,7 @@
  <!-- HERO  -->
 <mj-section mj-class="bg-watermelon" direction="rtl">
     <mj-column vertical-align="middle" mj-class="col-6">
-    <mj-text mj-class="fontstack-semi heading-1" >
+    <mj-text mj-class="heading-1" >
         Moving soon? Telenet makes it easy!
     </mj-text>
     <mj-button mj-class="primary" padding-top="0">

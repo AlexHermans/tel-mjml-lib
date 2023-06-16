@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-turquoise hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+        <mj-text mj-class="heading-1" padding-top="15px">
             Telenet trakteert <br class="hide-until-md" >aan de <span style="color:#FFF7C7">Fast Bar</span>
         </mj-text>
       </mj-column>
@@ -39,7 +39,7 @@
          <mj-text align="center">
             Je persoonlijke kortingscode:
         </mj-text>
-        <mj-text mj-class="fontstack-semi heading-4" align="center" padding-top="0" padding-bottom="0">
+        <mj-text mj-class="heading-4" align="center" padding-top="0" padding-bottom="0">
           ~CORE_PROMOCODE_PRODUCTS.CODE_UID~
         </mj-text>
         <mj-raw>
@@ -57,7 +57,7 @@
     <!-- SUBTITLE -->
     <mj-section padding-bottom="0">
         <mj-column mj-class="col-10" padding-bottom="0">
-            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+            <mj-text mj-class="heading-4" padding-bottom="0">
                Praktisch
             </mj-text>
             <mj-text>

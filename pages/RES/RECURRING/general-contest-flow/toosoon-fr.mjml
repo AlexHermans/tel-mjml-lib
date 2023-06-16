@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_CALLOUT_FR,'Désolé !'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_TOOSOON_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_TOOSOON_HEADER_TAGLINE_FR,'Vous ne pouvez pas encore participer au concours'))~
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             Vous avez déjà communiqué vos données dans le cadre du concours pour le ~CONTEST_CONFIG.CONTEST_NAME_FR~. Un tel enthousiasme fait plaisir à voir ! Malheureusement, vous êtes un peu trop à l’avance : le concours ne commence que le ~(FORMATDATETIME(CONTEST_CONFIG.START_DATE, '%d-%m-%y %X'))~.
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Revenez bientôt !
         </mj-text>
          <mj-text>

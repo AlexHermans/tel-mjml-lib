@@ -11,7 +11,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text bg-lemon">
       <mj-column>
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
           Al meer dan 75.000 ondernemers kozen voor KLIK. Jij ook?
         </mj-text>
       </mj-column>
@@ -39,7 +39,7 @@
     <!-- BLOCK -->
     <mj-section css-class="container-group">
       <mj-column width="600px" mj-class="bg-lemon">
-        <mj-text padding-top="15px" padding-bottom="5px" mj-class="fontstack-semi heading-4" align="center">
+        <mj-text padding-top="15px" padding-bottom="5px" mj-class="heading-4" align="center">
           KLIK 10 GB
         </mj-text>
         <mj-text padding="0" mj-class="fontstack-regular heading-6" align="center">
@@ -128,7 +128,7 @@
     <!-- PROOF POINTS -->
     <mj-section>
       <mj-column width="600px">
-        <mj-text mj-class="fontstack-semi heading-6">
+        <mj-text mj-class="heading-6">
           Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
         </mj-text>
         <mj-text mj-class="text-medium" padding="0 15px">

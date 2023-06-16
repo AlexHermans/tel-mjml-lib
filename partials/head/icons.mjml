@@ -25,12 +25,6 @@
         <mj-image padding="0" width="45px" />
       </mj-class>
 
-      <!-- global icon-sizes -->
-      <mj-class name="icon-s" width="30px" />
-      <mj-class name="icon-m" width="45px" />
-      <mj-class name="icon-l" width="60px" />
-      <mj-class name="icon-xl" width="90px" />
-
       <!-- including the separate icon partials -->
       <mj-include path="partials/icon/icon-achievement.mjml" />      
       <mj-include path="partials/icon/icon-activate.mjml" />
