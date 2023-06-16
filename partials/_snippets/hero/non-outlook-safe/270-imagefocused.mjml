@@ -1,6 +1,6 @@
 <!-- 270 - Image focused  -->
 <mj-hero mj-class="col-10 bg-watermelon" mode="fixed-height" height="270px" background-width="800px" background-height="469px" background-url="https://mkt.telenet.be/images/General/placeholder/header-700x270.jpg" padding-top="60px" padding-left="30px">
-    <mj-text mj-class="heading-2 fontstack-semi" >
+    <mj-text mj-class="heading-2" >
     Nisi dolore velit do quis consectetur.
     </mj-text>
     <mj-button mj-class="primary" align="left">
