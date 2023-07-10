@@ -11,29 +11,24 @@
     <!-- PRE-HEADER -->
     <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
-    <!-- HERO TEXT -->
-    <mj-section mj-class="bg-watermelon hero-text">
-      <mj-column width="80%">
-        <mj-text mj-class="text-white heading-2">
-          DE DIGITALE VERSNELLING
+    <!-- HERO -->
+    <mj-section mj-class="bg-watermelon hero">
+        <mj-column mj-class="col-10">
+        <mj-text mj-class="text-white heading-1">
+            DE DIGITALE VERSNELLING
         </mj-text>
-        <mj-text mj-class="heading-2">
-            Must read: dit worden dé trends op sociale media in 2021
+        <mj-text mj-class="heading-2" padding-top="0">
+            Must read: dit worden dé trends op sociale media in 2023
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-watermelon hero-image">
-      <mj-column>
-        <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
-      </mj-column>
+        <mj-image padding="0" src="https://picsum.photos/600/200" alt="" />
+        </mj-column>
     </mj-section>
 
     <!-- INTRO TEXT -->
     <mj-section>
-      <mj-column width="600px">
-        <mj-text mj-class="heading-6">
+      <mj-column mj-class="col-10">
+        <mj-include path="../../partials/salutation/nl/bus-standard.mjml" />
+        <mj-text>
             Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
             nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua
             sit nulla duis deserunt. Est ullamco voluptate adipisicing sit
@@ -44,38 +39,38 @@
 
     <!-- ARTICLE BODY -->
     <mj-section>
-      <mj-column width="600px" mj-class="bg-grey-4 column-padding" padding-bottom="30px">
-        <mj-text mj-class="heading-6" padding-bottom="0">
+      <mj-column width="600px" mj-class="bg-grey-4 column-padding">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text mj-class="text-medium" >
+        <mj-text>
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6" padding-bottom="0">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text mj-class="text-medium">
+        <mj-text>
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6" padding-bottom="0">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text mj-class="text-medium">
+        <mj-text >
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
             dolor.
         </mj-text>
-        <mj-text mj-class="heading-6" padding-bottom="0">
+        <mj-text mj-class="heading-6 fontstack-semi" padding-bottom="0">
             1. Dit is text
         </mj-text>
-        <mj-text mj-class="text-medium">
+        <mj-text >
             Cillum est culpa amet et fugiat aliqua minim veniam ipsum. Et
             eiusmod qui do nisi. Consectetur ad consectetur et voluptate quis
             quis consequat magna quis. Consectetur quis cupidatat enim aute
@@ -85,25 +80,32 @@
     </mj-section>
 
     <!-- MAIN CTA -->
-    <mj-section padding-bottom="60px">
-      <mj-column width="600px">
+    <mj-section>
+      <mj-column mj-class="col-10">
         <mj-text mj-class="heading-5">
-            Benieuwd naar meer sociale media trends in 2021?
+            Benieuwd naar meer sociale media trends in 2023?
         </mj-text>
-        <mj-button mj-class="primary" align="left">
+        <mj-button mj-class="primary">
           <strong>Lees het volledig artikel</strong>
         </mj-button>
       </mj-column>
     </mj-section>
 
+    <!-- SPACER -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="15px" />
+      </mj-column>
+    </mj-section>
+
     <!-- MORE INSPIRATION BANNER -->
-    <mj-section mj-class="bg-watermelon">
-        <mj-column width="400px" padding-bottom="30px">
-          <mj-text mj-class="heading-5" padding-top="5px">Benieuwd naar meer tips en tricks van digitale experts?
+    <mj-section mj-class="bg-watermelon" padding-top="15px">
+        <mj-column width="400px" >
+          <mj-text mj-class="heading-5" padding-top="0">Benieuwd naar meer tips en tricks van digitale experts?
           </mj-text>
         </mj-column>
         <mj-column width="200px">
-          <mj-button href="~PROBE(130)~" align="center" mj-class="secondary" padding-top="0">
+          <mj-button href="~PROBE(130)~" align="left" mj-class="secondary" padding-top="0">
               Meer inspiratie
           </mj-button>
         </mj-column>

@@ -2,6 +2,8 @@
   <mj-head>
       <mj-include path="../../partials/head/_.mjml" />
       <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
+      <mj-include path="../../partials/head/partials/icon/icon-achievement.mjml" />
+      <mj-include path="../../partials/head/partials/icon/icon-tick.mjml" />
   </mj-head>
 
   <mj-body>      
@@ -11,24 +13,18 @@
     <!-- PRE-HEADER -->
     <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
-   <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
-      <mj-column width="80%">
-        <mj-text mj-class="text-yellow heading-1" padding-top="0">
+   <!-- HERO -->
+  <mj-section mj-class="bg-baby-blue hero">
+      <mj-column mj-class="col-10">
+      <mj-text mj-class="text-white heading-1">
           KLIK
-        </mj-text>
-        <mj-text mj-class="heading-2" padding-top="0">
-            Commercial template subheader
-        </mj-text>
+      </mj-text>
+      <mj-text mj-class="heading-2" padding-top="0">
+          Commercial template subheader
+      </mj-text>
+      <mj-image padding="0" src="https://picsum.photos/600/200" alt="" />
       </mj-column>
-    </mj-section>
-
-    <!-- HERO IMAGE -->
-    <mj-section mj-class="bg-baby-blue hero-image" padding="0">
-      <mj-column padding="0">
-        <mj-image mj-class="hero-image-right" src="https://mkt.telenet.be/images/General/placeholder/20210226-card_anderswerken_ebook.png" alt="" />
-      </mj-column>
-    </mj-section>
+  </mj-section>
 
    <!-- INTRO -->
    <mj-section>
@@ -61,17 +57,17 @@
         <mj-text mj-class="heading-3" >
           Waarom Safespot Pro?
         </mj-text>
-      <mj-social align="left" mode="vertical" padding="0" icon-size="25px" text-padding="7.5px 0 7.5px 15px">
-        <mj-social-element mj-class="icon-check-m">
+       <mj-social align="left" mode="vertical" padding="0" icon-size="60px" icon-padding="0 5px"  text-padding="7.5px 0 7.5px 15px">
+        <mj-social-element mj-class="icon-achievement-com-xl-dark-glow">
           Sit voluptate pariatur veniam sunt qui est.
         </mj-social-element>
-        <mj-social-element mj-class="icon-cursor-m">
+        <mj-social-element mj-class="icon-tick-mkt">
           Amet nisi ex occaecat officia.
-        </mj-social-element>
-        <mj-social-element mj-class="icon-headset-m">
+        </mj-social-element >
+        <mj-social-element mj-class="icon-tick-mkt">
           Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse.
         </mj-social-element>
-        <mj-social-element mj-class="icon-lightbulb-m">
+        <mj-social-element mj-class="icon-tick-mkt">
           Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat.
         </mj-social-element>
       </mj-social>
