@@ -51,7 +51,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- SUB-TITLE -->
+    <!-- LIST -->
     <mj-section>
       <mj-column mj-class="col-10" >
         <mj-text mj-class="heading-3" >
