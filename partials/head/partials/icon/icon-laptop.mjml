@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-laptop-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-laptop-m.png" />
+
+            <mj-class width="45px" name="icon-laptop-com" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-laptop-m.png" />
+            <mj-class width="45px" name="icon-laptop-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-laptop-m.png" />
+
+            <mj-class name="icon-laptop-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-laptop-xl.png" />
+
+            <mj-class name="icon-laptop-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-laptop-xl.png" />
+
+            <mj-class name="icon-laptop-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-laptop-xl.png" />
+
+            <mj-class name="icon-laptop-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-laptop-xl.png" />
+
+            <mj-class name="icon-laptop-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-laptop-xl.png" />
+
+            <mj-class name="icon-laptop-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-laptop-s.png" />
+            <mj-class name="icon-laptop-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-laptop-m.png" />
+            <mj-class name="icon-laptop-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-laptop-l.png" />
+            <mj-class name="icon-laptop-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-laptop-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

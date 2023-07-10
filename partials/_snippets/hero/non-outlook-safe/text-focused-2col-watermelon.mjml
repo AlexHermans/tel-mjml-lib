@@ -1,0 +1,14 @@
+<!-- HERO  -->
+<mj-section background-url="https://comm.telenet.be/images/General/bg/bg-hero-right-2col-watermelon.png" background-position="top left" background-size="100%" >
+    <mj-column mj-class="col-6">
+        <mj-text mj-class="heading-1" >
+            Moving soon? Telenet makes it easy!
+        </mj-text>
+        <mj-button mj-class="primary" padding-top="0">
+            I'm moving!
+        </mj-button>
+    </mj-column>
+    <mj-column mj-class="col-4">
+        <mj-image width="200px" padding="0" src="https://picsum.photos/480" alt="" />
+    </mj-column>
+</mj-section>

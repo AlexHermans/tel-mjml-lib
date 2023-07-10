@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-tvguide-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tvguide-m.png" />
+
+            <mj-class width="45px" name="icon-tvguide-com" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-tvguide-m.png" />
+            <mj-class width="45px" name="icon-tvguide-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tvguide-m.png" />
+
+            <mj-class name="icon-tvguide-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tvguide-xl.png" />
+
+            <mj-class name="icon-tvguide-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tvguide-xl.png" />
+
+            <mj-class name="icon-tvguide-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tvguide-xl.png" />
+
+            <mj-class name="icon-tvguide-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-tvguide-xl.png" />
+
+            <mj-class name="icon-tvguide-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tvguide-xl.png" />
+
+            <mj-class name="icon-tvguide-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tvguide-s.png" />
+            <mj-class name="icon-tvguide-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tvguide-m.png" />
+            <mj-class name="icon-tvguide-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tvguide-l.png" />
+            <mj-class name="icon-tvguide-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tvguide-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-facebookmessenger-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookmessenger-m.png" />
+
+            <mj-class width="45px" name="icon-facebookmessenger-com" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookmessenger-m.png" />
+            <mj-class width="45px" name="icon-facebookmessenger-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookmessenger-m.png" />
+
+            <mj-class name="icon-facebookmessenger-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookmessenger-xl.png" />
+
+            <mj-class name="icon-facebookmessenger-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookmessenger-xl.png" />
+
+            <mj-class name="icon-facebookmessenger-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookmessenger-xl.png" />
+
+            <mj-class name="icon-facebookmessenger-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookmessenger-xl.png" />
+
+            <mj-class name="icon-facebookmessenger-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookmessenger-xl.png" />
+
+            <mj-class name="icon-facebookmessenger-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookmessenger-s.png" />
+            <mj-class name="icon-facebookmessenger-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookmessenger-m.png" />
+            <mj-class name="icon-facebookmessenger-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookmessenger-l.png" />
+            <mj-class name="icon-facebookmessenger-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookmessenger-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

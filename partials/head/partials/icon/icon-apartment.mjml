@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-apartment-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-apartment-m.png" />
+
+            <mj-class width="45px" name="icon-apartment-com" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-apartment-m.png" />
+            <mj-class width="45px" name="icon-apartment-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-apartment-m.png" />
+
+            <mj-class name="icon-apartment-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-apartment-xl.png" />
+
+            <mj-class name="icon-apartment-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-apartment-xl.png" />
+
+            <mj-class name="icon-apartment-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-apartment-xl.png" />
+
+            <mj-class name="icon-apartment-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-apartment-xl.png" />
+
+            <mj-class name="icon-apartment-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-apartment-xl.png" />
+
+            <mj-class name="icon-apartment-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-apartment-s.png" />
+            <mj-class name="icon-apartment-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-apartment-m.png" />
+            <mj-class name="icon-apartment-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-apartment-l.png" />
+            <mj-class name="icon-apartment-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-apartment-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

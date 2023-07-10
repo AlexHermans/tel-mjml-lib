@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-red hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-1" padding-top="15px">
+        <mj-text mj-class="heading-1" padding-top="15px">
             Telenet trakteert! <br class="hide-until-md" ><span style="color:#FFF7C7">Player één </span> speelt gratis… 
         </mj-text>
       </mj-column>
@@ -36,7 +36,7 @@
       <!-- CODE -->
     <mj-section padding-top="0">
       <mj-column mj-class="bg-grey-4 column-padding" width="600px" >
-        <mj-text mj-class="fontstack-semi heading-5" align="center">
+        <mj-text mj-class="heading-5" align="center">
           XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX<span style="padding:0 5px">-</span>XXXX
         </mj-text>
         <mj-button mj-class="primary"  padding-bottom="0">
@@ -49,7 +49,7 @@
     <!-- SUBTITLE -->
     <mj-section padding-bottom="0">
         <mj-column mj-class="col-10" padding-bottom="0">
-            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+            <mj-text mj-class="heading-4" padding-bottom="0">
                 Wat nu?
             </mj-text>
         </mj-column>

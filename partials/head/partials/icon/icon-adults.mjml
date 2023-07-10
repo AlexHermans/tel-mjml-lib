@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-adults-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-adults-m.png" />
+
+            <mj-class width="45px" name="icon-adults-com" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-adults-m.png" />
+            <mj-class width="45px" name="icon-adults-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-adults-m.png" />
+
+            <mj-class name="icon-adults-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-s.png" />
+            <mj-class name="icon-adults-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class name="icon-adults-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-l.png" />
+            <mj-class name="icon-adults-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-adults-xl.png" />
+
+            <mj-class name="icon-adults-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-s.png" />
+            <mj-class name="icon-adults-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-m.png" />
+            <mj-class name="icon-adults-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-l.png" />
+            <mj-class name="icon-adults-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-adults-xl.png" />
+
+            <mj-class name="icon-adults-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-adults-s.png" />
+            <mj-class name="icon-adults-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-adults-m.png" />
+            <mj-class name="icon-adults-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-adults-l.png" />
+            <mj-class name="icon-adults-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-adults-xl.png" />
+
+            <mj-class name="icon-adults-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-adults-s.png" />
+            <mj-class name="icon-adults-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-adults-m.png" />
+            <mj-class name="icon-adults-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-adults-l.png" />
+            <mj-class name="icon-adults-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-adults-xl.png" />
+
+            <mj-class name="icon-adults-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-adults-s.png" />
+            <mj-class name="icon-adults-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-adults-m.png" />
+            <mj-class name="icon-adults-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-adults-l.png" />
+            <mj-class name="icon-adults-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-adults-xl.png" />
+
+            <mj-class name="icon-adults-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-adults-s.png" />
+            <mj-class name="icon-adults-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-adults-m.png" />
+            <mj-class name="icon-adults-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-adults-l.png" />
+            <mj-class name="icon-adults-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-adults-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

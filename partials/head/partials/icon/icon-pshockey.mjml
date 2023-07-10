@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-pshockey-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pshockey-m.png" />
+
+            <mj-class width="45px" name="icon-pshockey-com" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-pshockey-m.png" />
+            <mj-class width="45px" name="icon-pshockey-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pshockey-m.png" />
+
+            <mj-class name="icon-pshockey-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pshockey-xl.png" />
+
+            <mj-class name="icon-pshockey-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pshockey-xl.png" />
+
+            <mj-class name="icon-pshockey-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pshockey-xl.png" />
+
+            <mj-class name="icon-pshockey-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-pshockey-xl.png" />
+
+            <mj-class name="icon-pshockey-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pshockey-xl.png" />
+
+            <mj-class name="icon-pshockey-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pshockey-s.png" />
+            <mj-class name="icon-pshockey-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pshockey-m.png" />
+            <mj-class name="icon-pshockey-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pshockey-l.png" />
+            <mj-class name="icon-pshockey-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pshockey-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-evening-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-evening-m.png" />
+
+            <mj-class width="45px" name="icon-evening-com" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-evening-m.png" />
+            <mj-class width="45px" name="icon-evening-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-evening-m.png" />
+
+            <mj-class name="icon-evening-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-s.png" />
+            <mj-class name="icon-evening-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class name="icon-evening-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-l.png" />
+            <mj-class name="icon-evening-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-evening-xl.png" />
+
+            <mj-class name="icon-evening-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-s.png" />
+            <mj-class name="icon-evening-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-m.png" />
+            <mj-class name="icon-evening-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-l.png" />
+            <mj-class name="icon-evening-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-evening-xl.png" />
+
+            <mj-class name="icon-evening-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-evening-s.png" />
+            <mj-class name="icon-evening-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-evening-m.png" />
+            <mj-class name="icon-evening-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-evening-l.png" />
+            <mj-class name="icon-evening-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-evening-xl.png" />
+
+            <mj-class name="icon-evening-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-evening-s.png" />
+            <mj-class name="icon-evening-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-evening-m.png" />
+            <mj-class name="icon-evening-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-evening-l.png" />
+            <mj-class name="icon-evening-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-evening-xl.png" />
+
+            <mj-class name="icon-evening-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-evening-s.png" />
+            <mj-class name="icon-evening-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-evening-m.png" />
+            <mj-class name="icon-evening-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-evening-l.png" />
+            <mj-class name="icon-evening-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-evening-xl.png" />
+
+            <mj-class name="icon-evening-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-evening-s.png" />
+            <mj-class name="icon-evening-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-evening-m.png" />
+            <mj-class name="icon-evening-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-evening-l.png" />
+            <mj-class name="icon-evening-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-evening-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

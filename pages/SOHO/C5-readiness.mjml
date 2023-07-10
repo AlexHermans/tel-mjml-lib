@@ -11,7 +11,7 @@
     <!-- HERO TEXT -->
     <mj-section padding="25px 100px" mj-class="bg-lemon" css-class="container">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi" padding="25px 0 0" css-class="outlook-font-fix heading-1">
+        <mj-text mj-class="heading-2" padding="25px 0 0" css-class="outlook-font-fix heading-1">
           Help je zaak vooruit<br> samen met Telenet Business
         </mj-text>
       </mj-column>
@@ -39,13 +39,13 @@
     <!-- BLOCK -->
     <mj-section mj-class="bg-white" css-class="container " padding="25px 0 0" >
       <mj-column mj-class="bg-lemon" width="600px" padding="15px 0">
-        <mj-text padding-bottom="0" mj-class="fontstack-semi heading-6" css-class="outlook-font-fix heading-6">
+        <mj-text padding-bottom="0" mj-class="heading-6" css-class="outlook-font-fix heading-6">
           Jouw zaak verdient de beste hulp
         </mj-text>
         <mj-text padding-top="5px" padding-bottom="25px" css-class="outlook-font-fix">
           Vandaag maak jij nog gebruik van diensten bestemd voor particuliere klanten. Hierdoor geniet je misschien niet van de hulp die jij verdient als ondernemer. Zoals onze ‘Same Day Repair’: onmisbaar voor een zaak die vooruit wil!
         </mj-text>
-        <mj-text padding-bottom="0" mj-class="fontstack-semi heading-6" css-class="outlook-font-fix heading-6">
+        <mj-text padding-bottom="0" mj-class="heading-6" css-class="outlook-font-fix heading-6">
           Benieuwd hoe we samen je zaak vooruit kunnen helpen?
         </mj-text>
         <mj-button padding-top="10px" href="~PROBE(120)~" mj-class="bg-yellow fontstack-medium heading-6" inner-padding="13px 22px" align="left" css-class="outlook-font-fix heading-6">
@@ -58,7 +58,7 @@
     <!-- PROOF POINTS -->
     <mj-section mj-class="bg-white" css-class="container " padding="25px 0 0">
       <mj-column width="600px">
-        <mj-text padding="0" mj-class="heading-6 fontstack-semi" css-class="outlook-font-fix heading-6">
+        <mj-text padding="0" mj-class="heading-6" css-class="outlook-font-fix heading-6">
           Wist je dat je de zaken een pak efficiënter aanpakt als je voor KLIK kiest?
         </mj-text>
         <mj-text css-class="outlook-font-fix" padding-top="15px">

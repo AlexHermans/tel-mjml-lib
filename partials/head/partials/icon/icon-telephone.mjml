@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-telephone-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telephone-m.png" />
+
+            <mj-class width="45px" name="icon-telephone-com" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-telephone-m.png" />
+            <mj-class width="45px" name="icon-telephone-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telephone-m.png" />
+
+            <mj-class name="icon-telephone-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telephone-xl.png" />
+
+            <mj-class name="icon-telephone-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telephone-xl.png" />
+
+            <mj-class name="icon-telephone-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telephone-xl.png" />
+
+            <mj-class name="icon-telephone-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-telephone-xl.png" />
+
+            <mj-class name="icon-telephone-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telephone-xl.png" />
+
+            <mj-class name="icon-telephone-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telephone-s.png" />
+            <mj-class name="icon-telephone-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telephone-m.png" />
+            <mj-class name="icon-telephone-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telephone-l.png" />
+            <mj-class name="icon-telephone-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telephone-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

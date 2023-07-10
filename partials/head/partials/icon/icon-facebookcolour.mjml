@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-facebookcolour-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookcolour-m.png" />
+
+            <mj-class width="45px" name="icon-facebookcolour-com" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookcolour-m.png" />
+            <mj-class width="45px" name="icon-facebookcolour-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookcolour-m.png" />
+
+            <mj-class name="icon-facebookcolour-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebookcolour-xl.png" />
+
+            <mj-class name="icon-facebookcolour-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebookcolour-xl.png" />
+
+            <mj-class name="icon-facebookcolour-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebookcolour-xl.png" />
+
+            <mj-class name="icon-facebookcolour-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebookcolour-xl.png" />
+
+            <mj-class name="icon-facebookcolour-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebookcolour-xl.png" />
+
+            <mj-class name="icon-facebookcolour-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookcolour-s.png" />
+            <mj-class name="icon-facebookcolour-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookcolour-m.png" />
+            <mj-class name="icon-facebookcolour-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookcolour-l.png" />
+            <mj-class name="icon-facebookcolour-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebookcolour-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

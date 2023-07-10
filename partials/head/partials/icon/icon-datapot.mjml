@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-datapot-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datapot-m.png" />
+
+            <mj-class width="45px" name="icon-datapot-com" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-datapot-m.png" />
+            <mj-class width="45px" name="icon-datapot-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datapot-m.png" />
+
+            <mj-class name="icon-datapot-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datapot-xl.png" />
+
+            <mj-class name="icon-datapot-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datapot-xl.png" />
+
+            <mj-class name="icon-datapot-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datapot-xl.png" />
+
+            <mj-class name="icon-datapot-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-datapot-xl.png" />
+
+            <mj-class name="icon-datapot-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datapot-xl.png" />
+
+            <mj-class name="icon-datapot-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datapot-s.png" />
+            <mj-class name="icon-datapot-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datapot-m.png" />
+            <mj-class name="icon-datapot-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datapot-l.png" />
+            <mj-class name="icon-datapot-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datapot-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

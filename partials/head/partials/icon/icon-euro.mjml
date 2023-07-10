@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-euro-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-euro-m.png" />
+
+            <mj-class width="45px" name="icon-euro-com" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-euro-m.png" />
+            <mj-class width="45px" name="icon-euro-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-euro-m.png" />
+
+            <mj-class name="icon-euro-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-s.png" />
+            <mj-class name="icon-euro-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class name="icon-euro-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-l.png" />
+            <mj-class name="icon-euro-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-euro-xl.png" />
+
+            <mj-class name="icon-euro-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-s.png" />
+            <mj-class name="icon-euro-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-m.png" />
+            <mj-class name="icon-euro-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-l.png" />
+            <mj-class name="icon-euro-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-euro-xl.png" />
+
+            <mj-class name="icon-euro-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-euro-s.png" />
+            <mj-class name="icon-euro-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-euro-m.png" />
+            <mj-class name="icon-euro-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-euro-l.png" />
+            <mj-class name="icon-euro-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-euro-xl.png" />
+
+            <mj-class name="icon-euro-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-euro-s.png" />
+            <mj-class name="icon-euro-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-euro-m.png" />
+            <mj-class name="icon-euro-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-euro-l.png" />
+            <mj-class name="icon-euro-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-euro-xl.png" />
+
+            <mj-class name="icon-euro-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-euro-s.png" />
+            <mj-class name="icon-euro-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-euro-m.png" />
+            <mj-class name="icon-euro-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-euro-l.png" />
+            <mj-class name="icon-euro-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-euro-xl.png" />
+
+            <mj-class name="icon-euro-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-euro-s.png" />
+            <mj-class name="icon-euro-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-euro-m.png" />
+            <mj-class name="icon-euro-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-euro-l.png" />
+            <mj-class name="icon-euro-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-euro-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

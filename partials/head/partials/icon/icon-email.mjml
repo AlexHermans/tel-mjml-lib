@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-email-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-email-m.png" />
+
+            <mj-class width="45px" name="icon-email-com" src="https://comm.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-email-m.png" />
+            <mj-class width="45px" name="icon-email-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-email-m.png" />
+
+            <mj-class name="icon-email-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-s.png" />
+            <mj-class name="icon-email-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class name="icon-email-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-l.png" />
+            <mj-class name="icon-email-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-email-xl.png" />
+
+            <mj-class name="icon-email-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-email-s.png" />
+            <mj-class name="icon-email-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-email-m.png" />
+            <mj-class name="icon-email-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-email-l.png" />
+            <mj-class name="icon-email-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-email-xl.png" />
+
+            <mj-class name="icon-email-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-email-s.png" />
+            <mj-class name="icon-email-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-email-m.png" />
+            <mj-class name="icon-email-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-email-l.png" />
+            <mj-class name="icon-email-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-email-xl.png" />
+
+            <mj-class name="icon-email-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-email-s.png" />
+            <mj-class name="icon-email-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-email-m.png" />
+            <mj-class name="icon-email-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-email-l.png" />
+            <mj-class name="icon-email-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-email-xl.png" />
+
+            <mj-class name="icon-email-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-email-s.png" />
+            <mj-class name="icon-email-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-email-m.png" />
+            <mj-class name="icon-email-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-email-l.png" />
+            <mj-class name="icon-email-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-email-xl.png" />
+
+            <mj-class name="icon-email-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-email-s.png" />
+            <mj-class name="icon-email-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-email-m.png" />
+            <mj-class name="icon-email-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-email-l.png" />
+            <mj-class name="icon-email-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-email-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

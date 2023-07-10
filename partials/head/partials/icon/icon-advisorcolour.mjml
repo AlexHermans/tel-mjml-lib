@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-advisorcolour-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-advisorcolour-m.png" />
+
+            <mj-class width="45px" name="icon-advisorcolour-com" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-advisorcolour-m.png" />
+            <mj-class width="45px" name="icon-advisorcolour-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-advisorcolour-m.png" />
+
+            <mj-class name="icon-advisorcolour-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-advisorcolour-xl.png" />
+
+            <mj-class name="icon-advisorcolour-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-advisorcolour-xl.png" />
+
+            <mj-class name="icon-advisorcolour-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-advisorcolour-xl.png" />
+
+            <mj-class name="icon-advisorcolour-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-advisorcolour-xl.png" />
+
+            <mj-class name="icon-advisorcolour-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-advisorcolour-xl.png" />
+
+            <mj-class name="icon-advisorcolour-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-advisorcolour-s.png" />
+            <mj-class name="icon-advisorcolour-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-advisorcolour-m.png" />
+            <mj-class name="icon-advisorcolour-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-advisorcolour-l.png" />
+            <mj-class name="icon-advisorcolour-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-advisorcolour-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

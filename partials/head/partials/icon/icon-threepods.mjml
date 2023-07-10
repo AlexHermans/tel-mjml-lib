@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-threepods-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-threepods-m.png" />
+
+            <mj-class width="45px" name="icon-threepods-com" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-threepods-m.png" />
+            <mj-class width="45px" name="icon-threepods-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-threepods-m.png" />
+
+            <mj-class name="icon-threepods-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-threepods-xl.png" />
+
+            <mj-class name="icon-threepods-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-threepods-xl.png" />
+
+            <mj-class name="icon-threepods-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-threepods-xl.png" />
+
+            <mj-class name="icon-threepods-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-threepods-xl.png" />
+
+            <mj-class name="icon-threepods-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-threepods-xl.png" />
+
+            <mj-class name="icon-threepods-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-threepods-s.png" />
+            <mj-class name="icon-threepods-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-threepods-m.png" />
+            <mj-class name="icon-threepods-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-threepods-l.png" />
+            <mj-class name="icon-threepods-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-threepods-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

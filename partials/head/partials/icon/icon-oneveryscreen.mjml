@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-oneveryscreen-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-oneveryscreen-m.png" />
+
+            <mj-class width="45px" name="icon-oneveryscreen-com" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-oneveryscreen-m.png" />
+            <mj-class width="45px" name="icon-oneveryscreen-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-oneveryscreen-m.png" />
+
+            <mj-class name="icon-oneveryscreen-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-oneveryscreen-xl.png" />
+
+            <mj-class name="icon-oneveryscreen-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-oneveryscreen-xl.png" />
+
+            <mj-class name="icon-oneveryscreen-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-oneveryscreen-xl.png" />
+
+            <mj-class name="icon-oneveryscreen-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-oneveryscreen-xl.png" />
+
+            <mj-class name="icon-oneveryscreen-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-oneveryscreen-xl.png" />
+
+            <mj-class name="icon-oneveryscreen-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-oneveryscreen-s.png" />
+            <mj-class name="icon-oneveryscreen-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-oneveryscreen-m.png" />
+            <mj-class name="icon-oneveryscreen-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-oneveryscreen-l.png" />
+            <mj-class name="icon-oneveryscreen-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-oneveryscreen-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

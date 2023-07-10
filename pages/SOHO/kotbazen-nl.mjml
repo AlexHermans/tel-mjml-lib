@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
       <mj-column width="70%">
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             Geniet van je nieuwe Kotkorting
         </mj-text>
       </mj-column>

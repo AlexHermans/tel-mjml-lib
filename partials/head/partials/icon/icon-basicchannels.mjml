@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-basicchannels-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-basicchannels-m.png" />
+
+            <mj-class width="45px" name="icon-basicchannels-com" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-basicchannels-m.png" />
+            <mj-class width="45px" name="icon-basicchannels-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-basicchannels-m.png" />
+
+            <mj-class name="icon-basicchannels-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-basicchannels-xl.png" />
+
+            <mj-class name="icon-basicchannels-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-basicchannels-xl.png" />
+
+            <mj-class name="icon-basicchannels-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-basicchannels-xl.png" />
+
+            <mj-class name="icon-basicchannels-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-basicchannels-xl.png" />
+
+            <mj-class name="icon-basicchannels-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-basicchannels-xl.png" />
+
+            <mj-class name="icon-basicchannels-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-basicchannels-s.png" />
+            <mj-class name="icon-basicchannels-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-basicchannels-m.png" />
+            <mj-class name="icon-basicchannels-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-basicchannels-l.png" />
+            <mj-class name="icon-basicchannels-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-basicchannels-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

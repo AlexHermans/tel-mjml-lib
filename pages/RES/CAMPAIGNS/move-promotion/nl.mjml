@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
+        <mj-text mj-class="heading-2" padding-top="15px">
             Je verhuispromo is al ingepakt!
         </mj-text>
       </mj-column>
@@ -30,7 +30,7 @@
         <mj-text>
             Bedankt voor je vertrouwen! Omdat we mee mogen in je verhuisdozen, geniet je in totaal van <b>€ ~IF(MASTER.MOVE_ORDER_CREATION_DT=0,'30', '60')~ korting!</b> 
         </mj-text>
-         <mj-text mj-class="fontstack-semi heading-5">
+         <mj-text mj-class="heading-5">
           Wat gebeurt er nu?
         </mj-text>
         <mj-text>
@@ -41,7 +41,7 @@
 
     <mj-section>
       <mj-column mj-class="col-10 column-padding bg-grey-4">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Nog meer voordelen?
         </mj-text>
         <mj-text>

@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-cream hero-text" padding-bottom="30px">
       <mj-column>
-        <mj-text mj-class="heading-4 fontstack-semi">
+        <mj-text mj-class="heading-4">
             Nieuwe support-aanvraag: domeinnamen
         </mj-text>
       </mj-column>

@@ -23,7 +23,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
       <mj-column padding="0" width="300px">
-        <mj-text mj-class="fontstack-semi heading-3">
+        <mj-text mj-class="heading-3">
             Altijd en overal helemaal mee dankzij de Telenet-app 
         </mj-text>
         <mj-spacer/>
@@ -58,7 +58,7 @@
     <!-- Block -->
     <mj-section>
       <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           De wereld van Telenet op zak
         </mj-text>
         <mj-text padding-bottom="0">
@@ -87,7 +87,7 @@
 
     <mj-section mj-class="bg-lemon">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+        <mj-text mj-class="heading-4" padding-top="0">
           Download nu de app!
         </mj-text>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">

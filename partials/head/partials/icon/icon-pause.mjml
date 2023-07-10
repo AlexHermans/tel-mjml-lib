@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-pause-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pause-m.png" />
+
+            <mj-class width="45px" name="icon-pause-com" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-pause-m.png" />
+            <mj-class width="45px" name="icon-pause-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pause-m.png" />
+
+            <mj-class name="icon-pause-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-s.png" />
+            <mj-class name="icon-pause-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class name="icon-pause-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-l.png" />
+            <mj-class name="icon-pause-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-pause-xl.png" />
+
+            <mj-class name="icon-pause-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-s.png" />
+            <mj-class name="icon-pause-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-m.png" />
+            <mj-class name="icon-pause-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-l.png" />
+            <mj-class name="icon-pause-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-pause-xl.png" />
+
+            <mj-class name="icon-pause-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pause-s.png" />
+            <mj-class name="icon-pause-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pause-m.png" />
+            <mj-class name="icon-pause-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pause-l.png" />
+            <mj-class name="icon-pause-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-pause-xl.png" />
+
+            <mj-class name="icon-pause-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-pause-s.png" />
+            <mj-class name="icon-pause-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-pause-m.png" />
+            <mj-class name="icon-pause-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-pause-l.png" />
+            <mj-class name="icon-pause-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-pause-xl.png" />
+
+            <mj-class name="icon-pause-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pause-s.png" />
+            <mj-class name="icon-pause-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pause-m.png" />
+            <mj-class name="icon-pause-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pause-l.png" />
+            <mj-class name="icon-pause-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-pause-xl.png" />
+
+            <mj-class name="icon-pause-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pause-s.png" />
+            <mj-class name="icon-pause-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pause-m.png" />
+            <mj-class name="icon-pause-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pause-l.png" />
+            <mj-class name="icon-pause-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-pause-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

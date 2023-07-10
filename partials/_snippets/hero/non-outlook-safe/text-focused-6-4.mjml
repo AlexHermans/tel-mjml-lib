@@ -1,0 +1,14 @@
+<!-- HERO  -->
+<mj-section mj-class="bg-watermelon">
+    <mj-column mj-class="col-6" vertical-align="middle">
+        <mj-text mj-class="heading-1" >
+            Moving soon? Telenet makes it easy!
+        </mj-text>
+        <mj-button mj-class="primary" padding-top="0">
+            I'm moving!
+        </mj-button>
+    </mj-column>
+    <mj-column mj-class="col-4">
+        <mj-image padding="0" src="https://picsum.photos/480" alt="" />
+    </mj-column>
+</mj-section>

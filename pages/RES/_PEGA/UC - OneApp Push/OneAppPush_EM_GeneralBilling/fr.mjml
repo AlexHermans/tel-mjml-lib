@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-peach" padding="0" padding-top="0">
       <mj-column padding="0" width="300px">
-        <mj-text mj-class="fontstack-semi heading-3">
+        <mj-text mj-class="heading-3">
            L'app Telenet vous aide à vivre la  meilleure expérience de surf
         </mj-text>
         <mj-spacer/>
@@ -45,7 +45,7 @@
     <!-- QUOTE -->
     <mj-section>
       <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Tous les détails de votre réseau en poche
         </mj-text>
         <mj-text padding-bottom="0">
@@ -65,7 +65,7 @@
 
     <mj-section padding-top="0">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Découvrez toutes les fonctions
         </mj-text>
         <mj-text>
@@ -89,7 +89,7 @@
 
     <mj-section mj-class="bg-peach">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+        <mj-text mj-class="heading-4" padding-top="0">
           Téléchargez l’app !
         </mj-text>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">

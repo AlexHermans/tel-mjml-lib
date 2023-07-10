@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-linkedin-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-linkedin-m.png" />
+
+            <mj-class width="45px" name="icon-linkedin-com" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-linkedin-m.png" />
+            <mj-class width="45px" name="icon-linkedin-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-linkedin-m.png" />
+
+            <mj-class name="icon-linkedin-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-linkedin-xl.png" />
+
+            <mj-class name="icon-linkedin-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-linkedin-xl.png" />
+
+            <mj-class name="icon-linkedin-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-linkedin-xl.png" />
+
+            <mj-class name="icon-linkedin-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-linkedin-xl.png" />
+
+            <mj-class name="icon-linkedin-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-linkedin-xl.png" />
+
+            <mj-class name="icon-linkedin-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-linkedin-s.png" />
+            <mj-class name="icon-linkedin-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-linkedin-m.png" />
+            <mj-class name="icon-linkedin-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-linkedin-l.png" />
+            <mj-class name="icon-linkedin-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-linkedin-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>
