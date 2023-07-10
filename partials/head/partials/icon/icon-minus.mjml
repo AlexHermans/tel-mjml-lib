@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-minus-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-minus-m.png" />
+
+            <mj-class width="45px" name="icon-minus-com" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-minus-m.png" />
+            <mj-class width="45px" name="icon-minus-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-minus-m.png" />
+
+            <mj-class name="icon-minus-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-s.png" />
+            <mj-class name="icon-minus-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class name="icon-minus-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-l.png" />
+            <mj-class name="icon-minus-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-minus-xl.png" />
+
+            <mj-class name="icon-minus-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-s.png" />
+            <mj-class name="icon-minus-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-m.png" />
+            <mj-class name="icon-minus-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-l.png" />
+            <mj-class name="icon-minus-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-minus-xl.png" />
+
+            <mj-class name="icon-minus-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-minus-s.png" />
+            <mj-class name="icon-minus-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-minus-m.png" />
+            <mj-class name="icon-minus-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-minus-l.png" />
+            <mj-class name="icon-minus-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-minus-xl.png" />
+
+            <mj-class name="icon-minus-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-minus-s.png" />
+            <mj-class name="icon-minus-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-minus-m.png" />
+            <mj-class name="icon-minus-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-minus-l.png" />
+            <mj-class name="icon-minus-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-minus-xl.png" />
+
+            <mj-class name="icon-minus-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-minus-s.png" />
+            <mj-class name="icon-minus-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-minus-m.png" />
+            <mj-class name="icon-minus-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-minus-l.png" />
+            <mj-class name="icon-minus-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-minus-xl.png" />
+
+            <mj-class name="icon-minus-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-minus-s.png" />
+            <mj-class name="icon-minus-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-minus-m.png" />
+            <mj-class name="icon-minus-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-minus-l.png" />
+            <mj-class name="icon-minus-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-minus-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

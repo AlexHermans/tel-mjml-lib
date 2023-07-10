@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-shopandimprove-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-shopandimprove-m.png" />
+
+            <mj-class width="45px" name="icon-shopandimprove-com" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-shopandimprove-m.png" />
+            <mj-class width="45px" name="icon-shopandimprove-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-shopandimprove-m.png" />
+
+            <mj-class name="icon-shopandimprove-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-shopandimprove-xl.png" />
+
+            <mj-class name="icon-shopandimprove-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-shopandimprove-xl.png" />
+
+            <mj-class name="icon-shopandimprove-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-shopandimprove-xl.png" />
+
+            <mj-class name="icon-shopandimprove-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-shopandimprove-xl.png" />
+
+            <mj-class name="icon-shopandimprove-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-shopandimprove-xl.png" />
+
+            <mj-class name="icon-shopandimprove-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-shopandimprove-s.png" />
+            <mj-class name="icon-shopandimprove-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-shopandimprove-m.png" />
+            <mj-class name="icon-shopandimprove-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-shopandimprove-l.png" />
+            <mj-class name="icon-shopandimprove-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-shopandimprove-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

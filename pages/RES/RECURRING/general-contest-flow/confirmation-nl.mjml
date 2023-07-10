@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_NL) > 0, CONTEST_CONFIG.S_CONFIRM_HEADER_CALLOUT_NL, 'Check!'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_NL) > 0, CONTEST_CONFIG.S_CONFIRM_HEADER_TAGLINE_NL, 'Je deelname aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~ is bevestigd'))~
         </mj-text>
       </mj-column>
@@ -32,7 +32,7 @@
         <mj-text>
             We hebben je deelname aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~ goed ontvangen!
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            En nu? Duimen maar!
         </mj-text>
          <mj-text>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-chevronright-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronright-m.png" />
+
+            <mj-class width="45px" name="icon-chevronright-com" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronright-m.png" />
+            <mj-class width="45px" name="icon-chevronright-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronright-m.png" />
+
+            <mj-class name="icon-chevronright-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-chevronright-xl.png" />
+
+            <mj-class name="icon-chevronright-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-chevronright-xl.png" />
+
+            <mj-class name="icon-chevronright-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-chevronright-xl.png" />
+
+            <mj-class name="icon-chevronright-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-chevronright-xl.png" />
+
+            <mj-class name="icon-chevronright-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-chevronright-xl.png" />
+
+            <mj-class name="icon-chevronright-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronright-s.png" />
+            <mj-class name="icon-chevronright-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronright-m.png" />
+            <mj-class name="icon-chevronright-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronright-l.png" />
+            <mj-class name="icon-chevronright-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-chevronright-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

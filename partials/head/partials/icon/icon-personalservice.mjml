@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-personalservice-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-personalservice-m.png" />
+
+            <mj-class width="45px" name="icon-personalservice-com" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-personalservice-m.png" />
+            <mj-class width="45px" name="icon-personalservice-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-personalservice-m.png" />
+
+            <mj-class name="icon-personalservice-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-personalservice-xl.png" />
+
+            <mj-class name="icon-personalservice-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-personalservice-xl.png" />
+
+            <mj-class name="icon-personalservice-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-personalservice-xl.png" />
+
+            <mj-class name="icon-personalservice-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-personalservice-xl.png" />
+
+            <mj-class name="icon-personalservice-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-personalservice-xl.png" />
+
+            <mj-class name="icon-personalservice-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-personalservice-s.png" />
+            <mj-class name="icon-personalservice-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-personalservice-m.png" />
+            <mj-class name="icon-personalservice-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-personalservice-l.png" />
+            <mj-class name="icon-personalservice-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-personalservice-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

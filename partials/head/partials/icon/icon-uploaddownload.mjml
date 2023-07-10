@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-uploaddownload-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-uploaddownload-m.png" />
+
+            <mj-class width="45px" name="icon-uploaddownload-com" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-uploaddownload-m.png" />
+            <mj-class width="45px" name="icon-uploaddownload-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-uploaddownload-m.png" />
+
+            <mj-class name="icon-uploaddownload-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-uploaddownload-xl.png" />
+
+            <mj-class name="icon-uploaddownload-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-uploaddownload-xl.png" />
+
+            <mj-class name="icon-uploaddownload-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-uploaddownload-xl.png" />
+
+            <mj-class name="icon-uploaddownload-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-uploaddownload-xl.png" />
+
+            <mj-class name="icon-uploaddownload-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-uploaddownload-xl.png" />
+
+            <mj-class name="icon-uploaddownload-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-uploaddownload-s.png" />
+            <mj-class name="icon-uploaddownload-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-uploaddownload-m.png" />
+            <mj-class name="icon-uploaddownload-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-uploaddownload-l.png" />
+            <mj-class name="icon-uploaddownload-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-uploaddownload-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

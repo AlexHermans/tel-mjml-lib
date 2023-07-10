@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-callcentre-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-callcentre-m.png" />
+
+            <mj-class width="45px" name="icon-callcentre-com" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-callcentre-m.png" />
+            <mj-class width="45px" name="icon-callcentre-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-callcentre-m.png" />
+
+            <mj-class name="icon-callcentre-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-callcentre-xl.png" />
+
+            <mj-class name="icon-callcentre-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-callcentre-xl.png" />
+
+            <mj-class name="icon-callcentre-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-callcentre-xl.png" />
+
+            <mj-class name="icon-callcentre-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-callcentre-xl.png" />
+
+            <mj-class name="icon-callcentre-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-callcentre-xl.png" />
+
+            <mj-class name="icon-callcentre-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-callcentre-s.png" />
+            <mj-class name="icon-callcentre-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-callcentre-m.png" />
+            <mj-class name="icon-callcentre-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-callcentre-l.png" />
+            <mj-class name="icon-callcentre-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-callcentre-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

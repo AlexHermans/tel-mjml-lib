@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-tick-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tick-m.png" />
+
+            <mj-class width="45px" name="icon-tick-com" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-tick-m.png" />
+            <mj-class width="45px" name="icon-tick-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tick-m.png" />
+
+            <mj-class name="icon-tick-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-s.png" />
+            <mj-class name="icon-tick-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class name="icon-tick-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-l.png" />
+            <mj-class name="icon-tick-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-tick-xl.png" />
+
+            <mj-class name="icon-tick-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-s.png" />
+            <mj-class name="icon-tick-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-m.png" />
+            <mj-class name="icon-tick-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-l.png" />
+            <mj-class name="icon-tick-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-tick-xl.png" />
+
+            <mj-class name="icon-tick-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tick-s.png" />
+            <mj-class name="icon-tick-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tick-m.png" />
+            <mj-class name="icon-tick-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tick-l.png" />
+            <mj-class name="icon-tick-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-tick-xl.png" />
+
+            <mj-class name="icon-tick-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-tick-s.png" />
+            <mj-class name="icon-tick-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-tick-m.png" />
+            <mj-class name="icon-tick-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-tick-l.png" />
+            <mj-class name="icon-tick-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-tick-xl.png" />
+
+            <mj-class name="icon-tick-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tick-s.png" />
+            <mj-class name="icon-tick-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tick-m.png" />
+            <mj-class name="icon-tick-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tick-l.png" />
+            <mj-class name="icon-tick-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-tick-xl.png" />
+
+            <mj-class name="icon-tick-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tick-s.png" />
+            <mj-class name="icon-tick-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tick-m.png" />
+            <mj-class name="icon-tick-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tick-l.png" />
+            <mj-class name="icon-tick-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-tick-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

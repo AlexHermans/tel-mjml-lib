@@ -13,7 +13,7 @@
         <mj-text mj-class="text-yellow fontstack-bold heading-2" padding-top="0">
           Gewonnen!
         </mj-text>
-        <mj-text mj-class="fontstack-semi heading-3" padding-top="0" padding-bottom="0">
+        <mj-text mj-class="heading-3" padding-top="0" padding-bottom="0">
           Twee tickets voor de finale op 30 april
         </mj-text>
       </mj-column>
@@ -39,7 +39,7 @@
     <!-- codes -->
     <mj-section>
       <mj-column mj-class="bg-grey-4 column-padding" width="600px">
-        <mj-text mj-class="fontstack-semi heading-5">
+        <mj-text mj-class="heading-5">
           Praktisch
         </mj-text>
         <mj-text>

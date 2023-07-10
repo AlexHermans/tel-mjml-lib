@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-getstarted-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-getstarted-m.png" />
+
+            <mj-class width="45px" name="icon-getstarted-com" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-getstarted-m.png" />
+            <mj-class width="45px" name="icon-getstarted-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-getstarted-m.png" />
+
+            <mj-class name="icon-getstarted-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-getstarted-xl.png" />
+
+            <mj-class name="icon-getstarted-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-getstarted-xl.png" />
+
+            <mj-class name="icon-getstarted-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-getstarted-xl.png" />
+
+            <mj-class name="icon-getstarted-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-getstarted-xl.png" />
+
+            <mj-class name="icon-getstarted-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-getstarted-xl.png" />
+
+            <mj-class name="icon-getstarted-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-getstarted-s.png" />
+            <mj-class name="icon-getstarted-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-getstarted-m.png" />
+            <mj-class name="icon-getstarted-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-getstarted-l.png" />
+            <mj-class name="icon-getstarted-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-getstarted-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

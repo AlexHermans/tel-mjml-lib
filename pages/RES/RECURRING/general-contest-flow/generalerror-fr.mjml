@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_FR)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_FR,'Aïe !'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_FR)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_FR,'Un problème s’est produit'))~
         </mj-text>
       </mj-column>
@@ -32,13 +32,13 @@
         <mj-text>
             Merci de vouloir participer au concours pour le ~CONTEST_CONFIG.CONTEST_NAME_FR~. Votre participation a malheureusement rencontré un problème. Vous n'avez donc pas de possibilité de remporter un prix pour le moment. Toutes nos excuses !
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Mais ne vous inquiétez pas, cela peut s’arranger !
         </mj-text>
          <mj-text>
             Remplissez à nouveau le formulaire pour avoir une nouvelle chance. Bref, rendez-vous sur la page sans plus tarder !
         </mj-text>
-          <mj-button align="left" mj-class="fontstack-semi primary">
+          <mj-button align="left" mj-class="primary">
               Participer à nouveau
           </mj-button>
       </mj-column>

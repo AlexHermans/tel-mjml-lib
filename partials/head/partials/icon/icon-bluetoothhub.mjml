@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-bluetoothhub-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bluetoothhub-m.png" />
+
+            <mj-class width="45px" name="icon-bluetoothhub-com" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-bluetoothhub-m.png" />
+            <mj-class width="45px" name="icon-bluetoothhub-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bluetoothhub-m.png" />
+
+            <mj-class name="icon-bluetoothhub-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bluetoothhub-xl.png" />
+
+            <mj-class name="icon-bluetoothhub-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bluetoothhub-xl.png" />
+
+            <mj-class name="icon-bluetoothhub-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bluetoothhub-xl.png" />
+
+            <mj-class name="icon-bluetoothhub-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-bluetoothhub-xl.png" />
+
+            <mj-class name="icon-bluetoothhub-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bluetoothhub-xl.png" />
+
+            <mj-class name="icon-bluetoothhub-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bluetoothhub-s.png" />
+            <mj-class name="icon-bluetoothhub-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bluetoothhub-m.png" />
+            <mj-class name="icon-bluetoothhub-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bluetoothhub-l.png" />
+            <mj-class name="icon-bluetoothhub-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bluetoothhub-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

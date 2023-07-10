@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-twopods-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twopods-m.png" />
+
+            <mj-class width="45px" name="icon-twopods-com" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-twopods-m.png" />
+            <mj-class width="45px" name="icon-twopods-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twopods-m.png" />
+
+            <mj-class name="icon-twopods-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twopods-xl.png" />
+
+            <mj-class name="icon-twopods-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twopods-xl.png" />
+
+            <mj-class name="icon-twopods-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twopods-xl.png" />
+
+            <mj-class name="icon-twopods-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-twopods-xl.png" />
+
+            <mj-class name="icon-twopods-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twopods-xl.png" />
+
+            <mj-class name="icon-twopods-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twopods-s.png" />
+            <mj-class name="icon-twopods-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twopods-m.png" />
+            <mj-class name="icon-twopods-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twopods-l.png" />
+            <mj-class name="icon-twopods-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twopods-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

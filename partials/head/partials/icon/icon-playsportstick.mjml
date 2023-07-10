@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-playsportstick-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-playsportstick-m.png" />
+
+            <mj-class width="45px" name="icon-playsportstick-com" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-playsportstick-m.png" />
+            <mj-class width="45px" name="icon-playsportstick-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-playsportstick-m.png" />
+
+            <mj-class name="icon-playsportstick-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-playsportstick-xl.png" />
+
+            <mj-class name="icon-playsportstick-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-playsportstick-xl.png" />
+
+            <mj-class name="icon-playsportstick-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-playsportstick-xl.png" />
+
+            <mj-class name="icon-playsportstick-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-playsportstick-xl.png" />
+
+            <mj-class name="icon-playsportstick-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-playsportstick-xl.png" />
+
+            <mj-class name="icon-playsportstick-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-playsportstick-s.png" />
+            <mj-class name="icon-playsportstick-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-playsportstick-m.png" />
+            <mj-class name="icon-playsportstick-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-playsportstick-l.png" />
+            <mj-class name="icon-playsportstick-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-playsportstick-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

@@ -1,16 +1,20 @@
 <mjml>
   <mj-head>
       <mj-include path="../../partials/head/_.mjml" />
+      <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
   </mj-head>
 
-  <mj-body mj-class="bg-light" width="800px">
+  <mj-body>
+    <!-- PADDING HACK -->
+    <mj-include path="../../partials/preheader/partials/padding-hack.mjml" />
+
     <!-- PRE-HEADER -->
     <mj-include path="../../partials/preheader/nl/bus-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             Non-commercial template header
         </mj-text>
       </mj-column>
@@ -38,7 +42,7 @@
     <!-- SUB-TITLE -->
     <mj-section padding-top="0">
       <mj-column width="600px">
-        <mj-text mj-class="heading-4 fontstack-semi">
+        <mj-text mj-class="heading-4">
           Kunnen wij je helpen?
         </mj-text>
       </mj-column>
@@ -50,7 +54,7 @@
         <mj-text mj-class="text-medium" align="center">
          Ja ik heb hulp nodig!
         </mj-text>
-        <mj-button mj-class="bg-yellow text-brown fontstack-medium" inner-padding="8px 11px" border-radius="9px">
+        <mj-button mj-class="bg-yellow text-brown " inner-padding="8px 11px" border-radius="9px">
           >
         </mj-button>
       </mj-column>
@@ -61,7 +65,7 @@
         <mj-text mj-class="text-medium" align="center">
           Niet nodig, ik ben helemaal happy!
         </mj-text>
-        <mj-button mj-class="bg-yellow text-brown fontstack-medium" inner-padding="8px 11px" border-radius="9px">
+        <mj-button mj-class="bg-yellow text-brown " inner-padding="8px 11px" border-radius="9px">
           >
         </mj-button>
       </mj-column>
@@ -72,7 +76,7 @@
         <mj-text mj-class="text-medium" align="center">
           Ik wil graag even iets kwijt.
         </mj-text>
-        <mj-button mj-class="bg-yellow text-brown fontstack-medium" inner-padding="8px 11px" border-radius="9px">
+        <mj-button mj-class="bg-yellow text-brown " inner-padding="8px 11px" border-radius="9px">
           >
         </mj-button>
       </mj-column>
@@ -89,6 +93,6 @@
     </mj-section>
 
      <!-- FOOTER -->
-    <mj-include path="../../partials/footer/nl/bus-mkt-standard.mjml" />
+    <mj-include path="../../partials/footer/nl/mkt-standard.mjml" />
   </mj-body>
 </mjml>

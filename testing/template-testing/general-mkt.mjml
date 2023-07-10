@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+      <mj-include path="../../partials/head/_.mjml" />
+      <mj-preview>[CHANGE THE PREHEADER]</mj-preview>
+      <mj-include path="../../partials/head/partials/icon/icon-achievement.mjml" />
+      <mj-include path="../../partials/head/partials/icon/icon-tick.mjml" />
+  </mj-head>
+
+  <mj-body>
+    <!-- PADDING HACK -->
+    <mj-include path="../../partials/preheader/partials/padding-hack.mjml" />
+
+    <!-- PRE-HEADER -->
+    <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
+
+    <!-- HERO TEXT -->
+<mj-section  mj-class="bg-baby-blue hero">
+    <mj-column mj-class="col-10">
+    <mj-text mj-class="text-white heading-1">
+        KLIK
+    </mj-text>
+    <mj-text mj-class="heading-2" padding-top="0">
+        Commercial template subheader
+    </mj-text>
+    <mj-image padding="0" src="https://picsum.photos/600/200" alt="" />
+    </mj-column>
+</mj-section>
+
+   <!-- INTRO -->
+   <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../partials/salutation/nl/res-informal.mjml" />
+        <mj-text>
+            Elit magna quis eiusmod cillum veniam excepteur et reprehenderit
+            nisi. Ullamco esse tempor irure eu ad cillum dolore ipsum. Aliqua
+            sit nulla duis deserunt. Est ullamco voluptate adipisicing sit
+            deserunt nulla officia eu ex aliquip Lorem labore commodo.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- QUOTE -->
+    <mj-section>
+      <mj-column mj-class="bg-grey-4 column-padding" width="600px">
+        <mj-text mj-class="heading-5">
+          "Non proident amet ut proident mollit reprehenderit non non elit commodo occaecat veniam. Aliqua incididunt ipsum consequat nisi aute pariatur occaecat sint in incididunt sint enim incididunt."
+        </mj-text>
+        <mj-text>
+          - quote author
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- LIST -->
+    <mj-section>
+      <mj-column mj-class="col-10" >
+        <mj-text mj-class="heading-3" >
+          Waarom OneUp?
+        </mj-text>
+      <mj-social align="left" mode="vertical" padding="0" icon-size="60px" icon-padding="0 5px"  text-padding="7.5px 0 7.5px 15px">
+        <mj-social-element mj-class="icon-achievement-com-xl-dark-glow">
+          Sit voluptate pariatur veniam sunt qui est.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-tick-mkt">
+          Amet nisi ex occaecat officia.
+        </mj-social-element >
+        <mj-social-element mj-class="icon-tick-mkt">
+          Elit non aute exercitation duis duis ullamco ad mollit esse nostrud fugiat velit esse.
+        </mj-social-element>
+        <mj-social-element mj-class="icon-tick-mkt">
+          Sit excepteur voluptate ea magna aliqua reprehenderit voluptate enim fugiat.
+        </mj-social-element>
+      </mj-social>
+      <mj-button mj-class="primary" align="left">
+          Bestel nu
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="bg-red">
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-3">
+          This is a large header
+        </mj-text>
+        <mj-text>
+          Laboris eiusmod tempor dolor tempor Lorem non. Quis irure pariatur laboris aute anim ex Lorem irure duis incididunt. Esse officia fugiat sunt esse. Ipsum reprehenderit sit tempor enim. Consectetur ut laborum cillum ex aute duis officia aliquip ex consequat incididunt. Deserunt sunt velit tempor sunt aute cupidatat.
+        </mj-text>
+        <mj-image padding="0" align="left" mj-class="icon-s icon-facebook-com-m-dark"/>
+        <mj-text>
+          The icon above should be dark!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- SUB-TITLE -->
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-text mj-class="heading-3">
+          Meer info nodig?
+        </mj-text>
+        <mj-text>
+          Anim laborum non et ad minim et esse. Qui mollit tempor culpa irure sint veniam excepteur amet ex esse officia velit magna. Nulla adipisicing laboris veniam ullamco non incididunt ex irure sunt cillum eiusmod sint tempor occaecat. Quis Lorem id veniam labore do. Voluptate nostrud enim id mollit dolore ut proident labore ut irure labore.
+        </mj-text>
+        <mj-button href="~PROBE(121)~" align="left" mj-class="secondary">
+          Lees hier alles over OneUp
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column mj-class="col-10">
+        <mj-include path="../../partials/signature/nl/res-standard.mjml" />
+      </mj-column>
+    </mj-section>
+
+     <!-- FOOTER -->
+    <mj-include path="../../partials/footer/nl/mkt-withlegal.mjml" />
+    
+  </mj-body>
+</mjml>

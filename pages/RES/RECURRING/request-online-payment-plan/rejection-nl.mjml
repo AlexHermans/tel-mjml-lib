@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-olivine hero-text" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-2 fontstack-semi">
+        <mj-text mj-class="heading-2">
             Jouw aanvraag voor een afbetalingsplan is geweigerd
         </mj-text>
       </mj-column>
@@ -25,7 +25,7 @@
         <mj-text>
             Jij gaf een openstaand saldo door van € ~PAYMENT_PLANS_ONLINE_REQUEST_FORM.OPEN_BALANCE~
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Je openstaand saldo nakijken?
         </mj-text>
          <mj-text>
@@ -34,7 +34,7 @@
         <mj-text>
             Is er iets niet juist of is je openstaand saldo toch € 100 of meer? Vul het formulier dan opnieuw in. 
         </mj-text>
-        <mj-button align="left" mj-class="primary fontstack-semi">
+        <mj-button align="left" mj-class="primary">
             Vul het formulier opnieuw in
         </mj-button>
       </mj-column>

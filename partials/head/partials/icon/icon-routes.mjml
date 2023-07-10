@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-routes-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-routes-m.png" />
+
+            <mj-class width="45px" name="icon-routes-com" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-routes-m.png" />
+            <mj-class width="45px" name="icon-routes-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-routes-m.png" />
+
+            <mj-class name="icon-routes-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-s.png" />
+            <mj-class name="icon-routes-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class name="icon-routes-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-l.png" />
+            <mj-class name="icon-routes-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-routes-xl.png" />
+
+            <mj-class name="icon-routes-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-s.png" />
+            <mj-class name="icon-routes-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-m.png" />
+            <mj-class name="icon-routes-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-l.png" />
+            <mj-class name="icon-routes-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-routes-xl.png" />
+
+            <mj-class name="icon-routes-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-routes-s.png" />
+            <mj-class name="icon-routes-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-routes-m.png" />
+            <mj-class name="icon-routes-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-routes-l.png" />
+            <mj-class name="icon-routes-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-routes-xl.png" />
+
+            <mj-class name="icon-routes-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-routes-s.png" />
+            <mj-class name="icon-routes-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-routes-m.png" />
+            <mj-class name="icon-routes-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-routes-l.png" />
+            <mj-class name="icon-routes-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-routes-xl.png" />
+
+            <mj-class name="icon-routes-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-routes-s.png" />
+            <mj-class name="icon-routes-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-routes-m.png" />
+            <mj-class name="icon-routes-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-routes-l.png" />
+            <mj-class name="icon-routes-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-routes-xl.png" />
+
+            <mj-class name="icon-routes-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-routes-s.png" />
+            <mj-class name="icon-routes-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-routes-m.png" />
+            <mj-class name="icon-routes-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-routes-l.png" />
+            <mj-class name="icon-routes-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-routes-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

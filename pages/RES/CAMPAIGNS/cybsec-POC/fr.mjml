@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-watermelon hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+        <mj-text mj-class="heading-2" padding-top="0">
             Virus sur vos appareils&nbsp;:<br class="hide-until-lg"/><span style="color:#FFF7C7">que faire&nbsp;?</span>
         </mj-text>
       </mj-column>
@@ -28,22 +28,22 @@
 
     <mj-section padding-top="0">
         <mj-column mj-class="column-padding col-10 bg-grey-4">
-            <mj-text mj-class="fontstack-semi heading-4" padding-bottom="0">
+            <mj-text mj-class="heading-4" padding-bottom="0">
                 Au secours ! Que faire ?
             </mj-text>
             <mj-text>
                 Ne vous inquiétez pas, nous allons essayer de régler ça ensemble. Vous devriez analyser vos appareils avec un programme antivirus. Pour savoir comment faire et à quoi faire attention, consultez le Service Client.
             </mj-text>
-            <mj-button padding-top="0" mj-class="fontstack-semi primary" align="left">
+            <mj-button padding-top="0" mj-class="primary" align="left">
                 Allons-y !
             </mj-button>
-             <mj-text mj-class="fontstack-semi heading-5" padding-bottom="0">
+             <mj-text mj-class="heading-5" padding-bottom="0">
                 Restez dans le coup avec l'app Telenet
             </mj-text>
             <mj-text>
                 Vous avez installé notre app ? Trouvez-y toujours les dernières informations sur vos produits et restez au courant des dernières actualités Telenet ! Également concernant les virus... 
             </mj-text>
-            <mj-button mj-class="fontstack-semi secondary" href="~PROBE(121)~" align="left" padding-top="0">
+            <mj-button mj-class="secondary" href="~PROBE(121)~" align="left" padding-top="0">
                 Telechargez l'app ici
             </mj-button>
         </mj-column>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-datatransfer-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datatransfer-m.png" />
+
+            <mj-class width="45px" name="icon-datatransfer-com" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-datatransfer-m.png" />
+            <mj-class width="45px" name="icon-datatransfer-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datatransfer-m.png" />
+
+            <mj-class name="icon-datatransfer-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-datatransfer-xl.png" />
+
+            <mj-class name="icon-datatransfer-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-datatransfer-xl.png" />
+
+            <mj-class name="icon-datatransfer-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-datatransfer-xl.png" />
+
+            <mj-class name="icon-datatransfer-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-datatransfer-xl.png" />
+
+            <mj-class name="icon-datatransfer-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-datatransfer-xl.png" />
+
+            <mj-class name="icon-datatransfer-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datatransfer-s.png" />
+            <mj-class name="icon-datatransfer-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datatransfer-m.png" />
+            <mj-class name="icon-datatransfer-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datatransfer-l.png" />
+            <mj-class name="icon-datatransfer-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-datatransfer-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

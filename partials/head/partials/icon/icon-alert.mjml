@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-alert-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-alert-m.png" />
+
+            <mj-class width="45px" name="icon-alert-com" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-alert-m.png" />
+            <mj-class width="45px" name="icon-alert-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-alert-m.png" />
+
+            <mj-class name="icon-alert-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-s.png" />
+            <mj-class name="icon-alert-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class name="icon-alert-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-l.png" />
+            <mj-class name="icon-alert-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-alert-xl.png" />
+
+            <mj-class name="icon-alert-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-s.png" />
+            <mj-class name="icon-alert-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-m.png" />
+            <mj-class name="icon-alert-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-l.png" />
+            <mj-class name="icon-alert-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-alert-xl.png" />
+
+            <mj-class name="icon-alert-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-alert-s.png" />
+            <mj-class name="icon-alert-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-alert-m.png" />
+            <mj-class name="icon-alert-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-alert-l.png" />
+            <mj-class name="icon-alert-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-alert-xl.png" />
+
+            <mj-class name="icon-alert-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-alert-s.png" />
+            <mj-class name="icon-alert-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-alert-m.png" />
+            <mj-class name="icon-alert-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-alert-l.png" />
+            <mj-class name="icon-alert-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-alert-xl.png" />
+
+            <mj-class name="icon-alert-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-alert-s.png" />
+            <mj-class name="icon-alert-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-alert-m.png" />
+            <mj-class name="icon-alert-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-alert-l.png" />
+            <mj-class name="icon-alert-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-alert-xl.png" />
+
+            <mj-class name="icon-alert-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-alert-s.png" />
+            <mj-class name="icon-alert-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-alert-m.png" />
+            <mj-class name="icon-alert-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-alert-l.png" />
+            <mj-class name="icon-alert-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-alert-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

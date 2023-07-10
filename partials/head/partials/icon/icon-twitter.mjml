@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-twitter-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twitter-m.png" />
+
+            <mj-class width="45px" name="icon-twitter-com" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-twitter-m.png" />
+            <mj-class width="45px" name="icon-twitter-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twitter-m.png" />
+
+            <mj-class name="icon-twitter-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-twitter-xl.png" />
+
+            <mj-class name="icon-twitter-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-twitter-xl.png" />
+
+            <mj-class name="icon-twitter-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-twitter-xl.png" />
+
+            <mj-class name="icon-twitter-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-twitter-xl.png" />
+
+            <mj-class name="icon-twitter-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-twitter-xl.png" />
+
+            <mj-class name="icon-twitter-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twitter-s.png" />
+            <mj-class name="icon-twitter-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twitter-m.png" />
+            <mj-class name="icon-twitter-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twitter-l.png" />
+            <mj-class name="icon-twitter-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-twitter-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

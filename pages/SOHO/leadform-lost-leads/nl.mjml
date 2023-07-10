@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding-top="30px" padding-bottom="0">
       <mj-column padding-bottom="0">
-        <mj-text mj-class="fontstack-semi heading-1" padding-top="0" padding-bottom="0">
+        <mj-text mj-class="heading-1" padding-top="0" padding-bottom="0">
             Scoor een <span style="color:#FFC421">toptoestel</span> voor je zaak
         </mj-text>
       </mj-column>
@@ -29,7 +29,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding-top="15px" padding-bottom="60px">
       <mj-column padding-bottom="0">
-        <mj-text align="right" mj-class="fontstack-semi heading-2" padding-top="0" padding-bottom="0">
+        <mj-text align="right" mj-class="heading-2" padding-top="0" padding-bottom="0">
             Nu bij <span style="font-weight:900;color:#FFC421">KLIK</span>
         </mj-text>
       </mj-column>

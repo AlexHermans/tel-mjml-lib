@@ -1,0 +1,15 @@
+ <!-- HERO  -->
+<mj-section mj-class="bg-watermelon" direction="rtl">
+    <mj-column vertical-align="middle" mj-class="col-6">
+    <mj-text mj-class="heading-1" >
+        Moving soon? Telenet makes it easy!
+    </mj-text>
+    <mj-button mj-class="primary" padding-top="0">
+        I'm moving!
+    </mj-button>
+    </mj-column>
+    <mj-column mj-class="col-4">
+    <mj-image mj-class="hide-until-xl" padding="0" src="https://picsum.photos/480" alt="" />
+    <mj-image mj-class="hide-from-xl" padding="0" padding-right="0" width="600px" src="https://picsum.photos/600/230" alt=""/>
+    </mj-column>
+</mj-section>

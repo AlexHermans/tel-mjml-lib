@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-telenetapps-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenetapps-m.png" />
+
+            <mj-class width="45px" name="icon-telenetapps-com" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenetapps-m.png" />
+            <mj-class width="45px" name="icon-telenetapps-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenetapps-m.png" />
+
+            <mj-class name="icon-telenetapps-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-telenetapps-xl.png" />
+
+            <mj-class name="icon-telenetapps-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-telenetapps-xl.png" />
+
+            <mj-class name="icon-telenetapps-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-telenetapps-xl.png" />
+
+            <mj-class name="icon-telenetapps-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-telenetapps-xl.png" />
+
+            <mj-class name="icon-telenetapps-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-telenetapps-xl.png" />
+
+            <mj-class name="icon-telenetapps-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenetapps-s.png" />
+            <mj-class name="icon-telenetapps-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenetapps-m.png" />
+            <mj-class name="icon-telenetapps-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenetapps-l.png" />
+            <mj-class name="icon-telenetapps-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-telenetapps-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

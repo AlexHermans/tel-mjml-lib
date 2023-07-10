@@ -1,6 +1,7 @@
 <mjml>
     <mj-body>
-        <mj-text>
+        <mj-include path="../partials/spacer.mjml" />
+        <mj-text mj-class="heading-6">
             ~(IF(LEN(MASTER.FIRSTNAME)>0,'Beste '&MASTER.FIRSTNAME,'Beste ondernemer'))~,
         </mj-text>
     </mj-body>

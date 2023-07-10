@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-replaytvmonitoricon-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-m.png" />
+
+            <mj-class width="45px" name="icon-replaytvmonitoricon-com" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-m.png" />
+            <mj-class width="45px" name="icon-replaytvmonitoricon-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-m.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-xl.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-replaytvmonitoricon-xl.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-xl.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-replaytvmonitoricon-xl.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-xl.png" />
+
+            <mj-class name="icon-replaytvmonitoricon-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-s.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-m.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-l.png" />
+            <mj-class name="icon-replaytvmonitoricon-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-replaytvmonitoricon-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

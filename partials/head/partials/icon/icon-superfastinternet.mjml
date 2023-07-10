@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-superfastinternet-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-superfastinternet-m.png" />
+
+            <mj-class width="45px" name="icon-superfastinternet-com" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-superfastinternet-m.png" />
+            <mj-class width="45px" name="icon-superfastinternet-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-superfastinternet-m.png" />
+
+            <mj-class name="icon-superfastinternet-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-superfastinternet-xl.png" />
+
+            <mj-class name="icon-superfastinternet-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-superfastinternet-xl.png" />
+
+            <mj-class name="icon-superfastinternet-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-superfastinternet-xl.png" />
+
+            <mj-class name="icon-superfastinternet-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-superfastinternet-xl.png" />
+
+            <mj-class name="icon-superfastinternet-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-superfastinternet-xl.png" />
+
+            <mj-class name="icon-superfastinternet-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-superfastinternet-s.png" />
+            <mj-class name="icon-superfastinternet-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-superfastinternet-m.png" />
+            <mj-class name="icon-superfastinternet-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-superfastinternet-l.png" />
+            <mj-class name="icon-superfastinternet-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-superfastinternet-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

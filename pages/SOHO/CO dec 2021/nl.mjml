@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-watermelon hero-text" padding-bottom="30px">
       <mj-column width="600px">
-        <mj-text mj-class="heading-4 fontstack-semi">
+        <mj-text mj-class="heading-4">
             Sorry, als je ons gisteren niet kon bereiken 
         </mj-text>
       </mj-column>
@@ -29,7 +29,7 @@
     <!-- SUB-TITLE -->
     <mj-section padding-top="0" padding-bottom="0">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
           We zijn er terug
         </mj-text>
       </mj-column>

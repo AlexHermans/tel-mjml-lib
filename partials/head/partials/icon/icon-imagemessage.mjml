@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-imagemessage-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-imagemessage-m.png" />
+
+            <mj-class width="45px" name="icon-imagemessage-com" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-imagemessage-m.png" />
+            <mj-class width="45px" name="icon-imagemessage-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-imagemessage-m.png" />
+
+            <mj-class name="icon-imagemessage-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-imagemessage-xl.png" />
+
+            <mj-class name="icon-imagemessage-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-imagemessage-xl.png" />
+
+            <mj-class name="icon-imagemessage-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-imagemessage-xl.png" />
+
+            <mj-class name="icon-imagemessage-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-imagemessage-xl.png" />
+
+            <mj-class name="icon-imagemessage-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-imagemessage-xl.png" />
+
+            <mj-class name="icon-imagemessage-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-imagemessage-s.png" />
+            <mj-class name="icon-imagemessage-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-imagemessage-m.png" />
+            <mj-class name="icon-imagemessage-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-imagemessage-l.png" />
+            <mj-class name="icon-imagemessage-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-imagemessage-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

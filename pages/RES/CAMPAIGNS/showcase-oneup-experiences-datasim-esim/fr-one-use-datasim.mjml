@@ -10,7 +10,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-jeans-blue hero-text" padding="0">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2" padding-top="15px">
+        <mj-text mj-class="heading-2" padding-top="15px">
             Restez connecté(e) partout <br class="hide-until-lg"/>avec votre <span style="color:#FFF7C7">carte SIM data gratuite.</span>
         </mj-text>
       </mj-column>
@@ -30,7 +30,7 @@
         <mj-text>
           Vous comptez occuper les enfants durant un long trajet ? Ou simplement regarder un film sur votre tablette où que vous soyez  ? À l’aide de votre <b>carte SIM data gratuite</b>, vous <b>connectez votre tablette ou même un appareil photo</b> à internet, et ce, en illimité ! Le plus dingue, c’est que l’avez déjà chez reçue.
         </mj-text>
-         <mj-button mj-class="primary fontstack-semi" align="left">
+         <mj-button mj-class="primary" align="left">
           Activez-la vite !
         </mj-button>
       </mj-column>
@@ -39,7 +39,7 @@
     <!-- SECTION DATASIM -->
     <mj-section mj-class="bg-jeans-blue" padding-bottom="15px">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="fontstack-semi heading-4" padding-top="0" padding-bottom="0">
+        <mj-text mj-class="heading-4" padding-top="0" padding-bottom="0">
           Activez-la <span style="color:#FFF7C7">en moins de deux :</span>
         </mj-text>
         <mj-text>
@@ -60,10 +60,10 @@
 
     <mj-section>
       <mj-column mj-class="column-padding col-10" border="2px solid #FFC421">
-       <mj-text mj-class="heading-5 fontstack-semi">
+       <mj-text mj-class="heading-5">
        Vous voulez faire des heureux avec cette bonne combine ?
        </mj-text>
-       <mj-button mj-class="secondary fontstack-semi" align="left" padding-bottom="0" href="~PROBE(190)~"> 
+       <mj-button mj-class="secondary" align="left" padding-bottom="0" href="~PROBE(190)~"> 
           Partager via WhatsApp
        </mj-button>
       </mj-column>

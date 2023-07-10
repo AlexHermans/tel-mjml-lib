@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-painting-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-painting-m.png" />
+
+            <mj-class width="45px" name="icon-painting-com" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-painting-m.png" />
+            <mj-class width="45px" name="icon-painting-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-painting-m.png" />
+
+            <mj-class name="icon-painting-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-s.png" />
+            <mj-class name="icon-painting-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class name="icon-painting-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-l.png" />
+            <mj-class name="icon-painting-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-painting-xl.png" />
+
+            <mj-class name="icon-painting-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-s.png" />
+            <mj-class name="icon-painting-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-m.png" />
+            <mj-class name="icon-painting-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-l.png" />
+            <mj-class name="icon-painting-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-painting-xl.png" />
+
+            <mj-class name="icon-painting-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-painting-s.png" />
+            <mj-class name="icon-painting-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-painting-m.png" />
+            <mj-class name="icon-painting-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-painting-l.png" />
+            <mj-class name="icon-painting-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-painting-xl.png" />
+
+            <mj-class name="icon-painting-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-painting-s.png" />
+            <mj-class name="icon-painting-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-painting-m.png" />
+            <mj-class name="icon-painting-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-painting-l.png" />
+            <mj-class name="icon-painting-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-painting-xl.png" />
+
+            <mj-class name="icon-painting-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-painting-s.png" />
+            <mj-class name="icon-painting-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-painting-m.png" />
+            <mj-class name="icon-painting-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-painting-l.png" />
+            <mj-class name="icon-painting-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-painting-xl.png" />
+
+            <mj-class name="icon-painting-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-painting-s.png" />
+            <mj-class name="icon-painting-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-painting-m.png" />
+            <mj-class name="icon-painting-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-painting-l.png" />
+            <mj-class name="icon-painting-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-painting-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

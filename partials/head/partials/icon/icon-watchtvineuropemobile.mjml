@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-watchtvineuropemobile-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-m.png" />
+
+            <mj-class width="45px" name="icon-watchtvineuropemobile-com" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-m.png" />
+            <mj-class width="45px" name="icon-watchtvineuropemobile-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-m.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-xl.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-watchtvineuropemobile-xl.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-xl.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-watchtvineuropemobile-xl.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-xl.png" />
+
+            <mj-class name="icon-watchtvineuropemobile-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-s.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-m.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-l.png" />
+            <mj-class name="icon-watchtvineuropemobile-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-watchtvineuropemobile-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

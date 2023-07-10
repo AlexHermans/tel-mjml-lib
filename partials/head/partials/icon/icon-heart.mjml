@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-heart-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-heart-m.png" />
+
+            <mj-class width="45px" name="icon-heart-com" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-heart-m.png" />
+            <mj-class width="45px" name="icon-heart-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-heart-m.png" />
+
+            <mj-class name="icon-heart-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-s.png" />
+            <mj-class name="icon-heart-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class name="icon-heart-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-l.png" />
+            <mj-class name="icon-heart-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-heart-xl.png" />
+
+            <mj-class name="icon-heart-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-s.png" />
+            <mj-class name="icon-heart-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-m.png" />
+            <mj-class name="icon-heart-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-l.png" />
+            <mj-class name="icon-heart-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-heart-xl.png" />
+
+            <mj-class name="icon-heart-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-heart-s.png" />
+            <mj-class name="icon-heart-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-heart-m.png" />
+            <mj-class name="icon-heart-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-heart-l.png" />
+            <mj-class name="icon-heart-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-heart-xl.png" />
+
+            <mj-class name="icon-heart-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-heart-s.png" />
+            <mj-class name="icon-heart-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-heart-m.png" />
+            <mj-class name="icon-heart-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-heart-l.png" />
+            <mj-class name="icon-heart-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-heart-xl.png" />
+
+            <mj-class name="icon-heart-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-heart-s.png" />
+            <mj-class name="icon-heart-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-heart-m.png" />
+            <mj-class name="icon-heart-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-heart-l.png" />
+            <mj-class name="icon-heart-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-heart-xl.png" />
+
+            <mj-class name="icon-heart-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-heart-s.png" />
+            <mj-class name="icon-heart-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-heart-m.png" />
+            <mj-class name="icon-heart-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-heart-l.png" />
+            <mj-class name="icon-heart-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-heart-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

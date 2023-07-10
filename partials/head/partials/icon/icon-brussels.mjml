@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-brussels-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-brussels-m.png" />
+
+            <mj-class width="45px" name="icon-brussels-com" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-brussels-m.png" />
+            <mj-class width="45px" name="icon-brussels-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-brussels-m.png" />
+
+            <mj-class name="icon-brussels-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-brussels-xl.png" />
+
+            <mj-class name="icon-brussels-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-brussels-xl.png" />
+
+            <mj-class name="icon-brussels-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-brussels-xl.png" />
+
+            <mj-class name="icon-brussels-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-brussels-xl.png" />
+
+            <mj-class name="icon-brussels-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-brussels-xl.png" />
+
+            <mj-class name="icon-brussels-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-brussels-s.png" />
+            <mj-class name="icon-brussels-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-brussels-m.png" />
+            <mj-class name="icon-brussels-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-brussels-l.png" />
+            <mj-class name="icon-brussels-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-brussels-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>

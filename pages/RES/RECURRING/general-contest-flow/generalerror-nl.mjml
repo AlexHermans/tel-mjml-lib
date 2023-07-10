@@ -10,10 +10,10 @@
     <!-- HERO TEXT -->
     <mj-section mj-class="hero-text" background-color="~CONTEST_CONFIG.BRAND_COLOUR~" padding-top="0">
       <mj-column>
-        <mj-text mj-class="heading-1 fontstack-semi text-yellow">
+        <mj-text mj-class="heading-1 text-yellow">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_NL)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_CALLOUT_NL,'Oeps!'))~
         </mj-text>
-        <mj-text mj-class="heading-3 fontstack-semi" padding-top="0">
+        <mj-text mj-class="heading-3" padding-top="0">
             ~(IF(LEN(CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_NL)>0,CONTEST_CONFIG.S_ERROR_GENERAL_HEADER_TAGLINE_NL,'Er ging iets mis'))~
         </mj-text>
       </mj-column>
@@ -32,13 +32,13 @@
         <mj-text>
             Leuk dat je wil meedoen aan de wedstrijd voor ~CONTEST_CONFIG.CONTEST_NAME_NL~. Helaas ging er iets mis met je deelname. Je maakt op dit moment dus geen kans op een prijs. Sorry daarvoor!
         </mj-text>
-        <mj-text mj-class="heading-5 fontstack-semi">
+        <mj-text mj-class="heading-5">
            Geen probleem, ’t is zo opgelost! 
         </mj-text>
          <mj-text>
             Vul het formulier opnieuw in en doe mee voor de winst. Snel naar de pagina dus! 
         </mj-text>
-          <mj-button align="left" mj-class="fontstack-semi primary">
+          <mj-button align="left" mj-class="primary">
               Terug deelnemen
           </mj-button>
       </mj-column>

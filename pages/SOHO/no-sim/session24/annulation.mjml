@@ -33,7 +33,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-lemon hero-text" padding="0" padding-bottom="30px">
       <mj-column padding="0">
-        <mj-text mj-class="fontstack-semi heading-2">
+        <mj-text mj-class="heading-2">
             Annulering van je videogesprek met Telenet Business
         </mj-text>
       </mj-column>

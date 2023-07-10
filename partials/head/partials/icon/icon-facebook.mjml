@@ -1,0 +1,80 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-facebook-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-m.png" css-class="icon-facebook-mkt-dark-m"/>
+            <mj-class width="45px" name="icon-facebook-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-m.png" />
+            <mj-class width="45px" name="icon-facebook-mkt-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-facebook-m.png" css-class="icon-facebook-mkt-dark-m" />
+            <mj-class width="45px" name="icon-facebook-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebook-m.png" />
+            <mj-class width="45px" name="icon-facebook-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebook-m.png" />
+
+            <mj-class width="45px" name="icon-facebook-com" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-m.png" css-class="icon-facebook-com-dark-m" />
+            <mj-class width="45px" name="icon-facebook-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-m.png" />
+            <mj-class width="45px" name="icon-facebook-com-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-facebook-m.png" css-class="icon-facebook-com-dark-m" />
+            <mj-class width="45px" name="icon-facebook-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebook-m.png" />
+            <mj-class width="45px" name="icon-facebook-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-m.png" />
+
+            <mj-class name="icon-facebook-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-s.png" css-class="icon-facebook-mkt-dark-s" />
+            <mj-class name="icon-facebook-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-m.png" css-class="icon-facebook-mkt-dark-m"/>
+            <mj-class name="icon-facebook-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-l.png" css-class="icon-facebook-mkt-dark-l"/>
+            <mj-class name="icon-facebook-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-facebook-xl.png" css-class="icon-facebook-mkt-dark-xl"/>
+
+            <mj-class name="icon-facebook-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-s.png" css-class="icon-facebook-com-dark-s"/>
+            <mj-class name="icon-facebook-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-m.png" css-class="icon-facebook-com-dark-m"/>
+            <mj-class name="icon-facebook-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-l.png" css-class="icon-facebook-com-dark-l"/>
+            <mj-class name="icon-facebook-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-facebook-xl.png" css-class="icon-facebook-com-dark-xl" />
+            
+            <mj-class name="icon-facebook-mkt-s-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-facebook-s.png" css-class="icon-facebook-mkt-dark-s" />
+            <mj-class name="icon-facebook-mkt-m-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-facebook-m.png" css-class="icon-facebook-mkt-dark-m"/>
+            <mj-class name="icon-facebook-mkt-l-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-facebook-l.png" css-class="icon-facebook-mkt-dark-l"/>
+            <mj-class name="icon-facebook-mkt-xl-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-facebook-xl.png" css-class="icon-facebook-mkt-dark-xl"/>
+
+            <mj-class name="icon-facebook-com-s-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-facebook-s.png" css-class="icon-facebook-com-dark-s"/>
+            <mj-class name="icon-facebook-com-m-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-facebook-m.png" css-class="icon-facebook-com-dark-m"/>
+            <mj-class name="icon-facebook-com-l-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-facebook-l.png" css-class="icon-facebook-com-dark-l"/>
+            <mj-class name="icon-facebook-com-xl-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-facebook-xl.png" css-class="icon-facebook-com-dark-xl" />
+
+            <mj-class name="icon-facebook-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebook-s.png" />
+            <mj-class name="icon-facebook-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebook-m.png" />
+            <mj-class name="icon-facebook-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebook-l.png" />
+            <mj-class name="icon-facebook-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-facebook-xl.png" />
+
+            <mj-class name="icon-facebook-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebook-s.png" />
+            <mj-class name="icon-facebook-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebook-m.png" />
+            <mj-class name="icon-facebook-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebook-l.png" />
+            <mj-class name="icon-facebook-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-facebook-xl.png" />
+
+            <mj-class name="icon-facebook-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebook-s.png" />
+            <mj-class name="icon-facebook-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebook-m.png" />
+            <mj-class name="icon-facebook-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebook-l.png" />
+            <mj-class name="icon-facebook-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-facebook-xl.png" />
+
+            <mj-class name="icon-facebook-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-s.png" />
+            <mj-class name="icon-facebook-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-m.png" />
+            <mj-class name="icon-facebook-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-l.png" />
+            <mj-class name="icon-facebook-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-facebook-xl.png" />
+        </mj-attributes>
+        <mj-raw>
+            <style>
+                 @media (prefers-color-scheme: dark) {
+                /* icon-facebook darkmode fallbacks */
+                .dark-mode-fix .icon-facebook-mkt-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-facebook-s.png')}
+                .dark-mode-fix .icon-facebook-mkt-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-mkt-dark-m img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-facebook-m.png')}
+                .dark-mode-fix .icon-facebook-mkt-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-mkt-dark-l img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-facebook-l.png')}
+                .dark-mode-fix .icon-facebook-mkt-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-mkt-dark-xl img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-facebook-xl.png')}
+                .dark-mode-fix .icon-facebook-com-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-com-dark-s img { content: url('https://comm.telenet.be/images/General/icons/white/icon-facebook-s.png')}
+                .dark-mode-fix .icon-facebook-com-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-com-dark-m img { content: url('https://comm.telenet.be/images/General/icons/white/icon-facebook-m.png')}
+                .dark-mode-fix .icon-facebook-com-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-com-dark-l img  { content: url('https://comm.telenet.be/images/General/icons/white/icon-facebook-l.png')}
+                .dark-mode-fix .icon-facebook-com-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-facebook-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-facebook-xl.png')}
+            }
+            </style>
+        </mj-raw>
+    </mj-head>
+</mjml>

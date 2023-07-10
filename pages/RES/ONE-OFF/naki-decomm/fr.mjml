@@ -9,7 +9,7 @@
     <!-- HERO TEXT -->
     <mj-section  mj-class="bg-baby-blue hero-text" padding="0">
       <mj-column width="600px">
-        <mj-text mj-class="fontstack-semi heading-2" padding-top="0">
+        <mj-text mj-class="heading-2" padding-top="0">
             La collaboration entre NAKI et Telenet prend fin
         </mj-text>
       </mj-column>

@@ -1,0 +1,80 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-achievement-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-m.png" css-class="icon-achievement-mkt-dark-m"/>
+            <mj-class width="45px" name="icon-achievement-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-m.png" />
+            <mj-class width="45px" name="icon-achievement-mkt-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-achievement-m.png" css-class="icon-achievement-mkt-dark-m" />
+            <mj-class width="45px" name="icon-achievement-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-achievement-m.png" />
+            <mj-class width="45px" name="icon-achievement-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-achievement-m.png" />
+
+            <mj-class width="45px" name="icon-achievement-com" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-m.png" css-class="icon-achievement-com-dark-m" />
+            <mj-class width="45px" name="icon-achievement-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-m.png" />
+            <mj-class width="45px" name="icon-achievement-com-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-achievement-m.png" css-class="icon-achievement-com-dark-m" />
+            <mj-class width="45px" name="icon-achievement-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-achievement-m.png" />
+            <mj-class width="45px" name="icon-achievement-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-achievement-m.png" />
+
+            <mj-class name="icon-achievement-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-s.png" css-class="icon-achievement-mkt-dark-s" />
+            <mj-class name="icon-achievement-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-m.png" css-class="icon-achievement-mkt-dark-m"/>
+            <mj-class name="icon-achievement-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-l.png" css-class="icon-achievement-mkt-dark-l"/>
+            <mj-class name="icon-achievement-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-achievement-xl.png" css-class="icon-achievement-mkt-dark-xl"/>
+
+            <mj-class name="icon-achievement-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-s.png" css-class="icon-achievement-com-dark-s"/>
+            <mj-class name="icon-achievement-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-m.png" css-class="icon-achievement-com-dark-m"/>
+            <mj-class name="icon-achievement-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-l.png" css-class="icon-achievement-com-dark-l"/>
+            <mj-class name="icon-achievement-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-achievement-xl.png" css-class="icon-achievement-com-dark-xl" />
+            
+            <mj-class name="icon-achievement-mkt-s-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-achievement-s.png" css-class="icon-achievement-mkt-dark-s" />
+            <mj-class name="icon-achievement-mkt-m-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-achievement-m.png" css-class="icon-achievement-mkt-dark-m"/>
+            <mj-class name="icon-achievement-mkt-l-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-achievement-l.png" css-class="icon-achievement-mkt-dark-l"/>
+            <mj-class name="icon-achievement-mkt-xl-dark-glow" src="https://mkt.telenet.be/images/General/icons/dark-glow/icon-achievement-xl.png" css-class="icon-achievement-mkt-dark-xl"/>
+
+            <mj-class name="icon-achievement-com-s-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-achievement-s.png" css-class="icon-achievement-com-dark-s"/>
+            <mj-class name="icon-achievement-com-m-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-achievement-m.png" css-class="icon-achievement-com-dark-m"/>
+            <mj-class name="icon-achievement-com-l-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-achievement-l.png" css-class="icon-achievement-com-dark-l"/>
+            <mj-class name="icon-achievement-com-xl-dark-glow" src="https://comm.telenet.be/images/General/icons/dark-glow/icon-achievement-xl.png" css-class="icon-achievement-com-dark-xl" />
+
+            <mj-class name="icon-achievement-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-achievement-s.png" />
+            <mj-class name="icon-achievement-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-achievement-m.png" />
+            <mj-class name="icon-achievement-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-achievement-l.png" />
+            <mj-class name="icon-achievement-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-achievement-xl.png" />
+
+            <mj-class name="icon-achievement-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-achievement-s.png" />
+            <mj-class name="icon-achievement-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-achievement-m.png" />
+            <mj-class name="icon-achievement-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-achievement-l.png" />
+            <mj-class name="icon-achievement-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-achievement-xl.png" />
+
+            <mj-class name="icon-achievement-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-achievement-s.png" />
+            <mj-class name="icon-achievement-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-achievement-m.png" />
+            <mj-class name="icon-achievement-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-achievement-l.png" />
+            <mj-class name="icon-achievement-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-achievement-xl.png" />
+
+            <mj-class name="icon-achievement-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-achievement-s.png" />
+            <mj-class name="icon-achievement-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-achievement-m.png" />
+            <mj-class name="icon-achievement-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-achievement-l.png" />
+            <mj-class name="icon-achievement-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-achievement-xl.png" />
+        </mj-attributes>
+        <mj-raw>
+            <style>
+                @media (prefers-color-scheme: dark) {
+                /* icon-achievement darkmode fallbacks */
+                .dark-mode-fix .icon-achievement-mkt-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-mkt-dark-s img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-achievement-s.png')}
+                .dark-mode-fix .icon-achievement-mkt-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-mkt-dark-m img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-achievement-m.png')}
+                .dark-mode-fix .icon-achievement-mkt-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-mkt-dark-l img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-achievement-l.png')}
+                .dark-mode-fix .icon-achievement-mkt-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-mkt-dark-xl img { content: url('https://mkt.telenet.be/images/General/icons/white/icon-achievement-xl.png')}
+                .dark-mode-fix .icon-achievement-com-dark-s img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-com-dark-s img { content: url('https://comm.telenet.be/images/General/icons/white/icon-achievement-s.png')}
+                .dark-mode-fix .icon-achievement-com-dark-m img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-com-dark-m img { content: url('https://comm.telenet.be/images/General/icons/white/icon-achievement-m.png')}
+                .dark-mode-fix .icon-achievement-com-dark-l img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-com-dark-l img  { content: url('https://comm.telenet.be/images/General/icons/white/icon-achievement-l.png')}
+                .dark-mode-fix .icon-achievement-com-dark-xl img,
+                [data-ogsc] .dark-mode-fix .icon-achievement-com-dark-xl img { content: url('https://comm.telenet.be/images/General/icons/white/icon-achievement-xl.png')}
+            }
+            </style>
+        </mj-raw>
+    </mj-head>
+</mjml>

@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-class width="45px" name="icon-bus-mkt" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-mkt-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-mkt-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-mkt-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bus-m.png" />
+
+            <mj-class width="45px" name="icon-bus-com" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-com-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-com-white" src="https://comm.telenet.be/images/General/icons/white/icon-bus-m.png" />
+            <mj-class width="45px" name="icon-bus-com-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bus-m.png" />
+
+            <mj-class name="icon-bus-mkt-s-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-s.png" />
+            <mj-class name="icon-bus-mkt-m-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class name="icon-bus-mkt-l-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-l.png" />
+            <mj-class name="icon-bus-mkt-xl-dark" src="https://mkt.telenet.be/images/General/icons/dark/icon-bus-xl.png" />
+
+            <mj-class name="icon-bus-com-s-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-s.png" />
+            <mj-class name="icon-bus-com-m-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-m.png" />
+            <mj-class name="icon-bus-com-l-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-l.png" />
+            <mj-class name="icon-bus-com-xl-dark" src="https://comm.telenet.be/images/General/icons/dark/icon-bus-xl.png" />
+
+            <mj-class name="icon-bus-mkt-s-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bus-s.png" />
+            <mj-class name="icon-bus-mkt-m-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bus-m.png" />
+            <mj-class name="icon-bus-mkt-l-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bus-l.png" />
+            <mj-class name="icon-bus-mkt-xl-white" src="https://mkt.telenet.be/images/General/icons/white/icon-bus-xl.png" />
+
+            <mj-class name="icon-bus-com-s-white" src="https://comm.telenet.be/images/General/icons/white/icon-bus-s.png" />
+            <mj-class name="icon-bus-com-m-white" src="https://comm.telenet.be/images/General/icons/white/icon-bus-m.png" />
+            <mj-class name="icon-bus-com-l-white" src="https://comm.telenet.be/images/General/icons/white/icon-bus-l.png" />
+            <mj-class name="icon-bus-com-xl-white" src="https://comm.telenet.be/images/General/icons/white/icon-bus-xl.png" />
+
+            <mj-class name="icon-bus-mkt-s-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bus-s.png" />
+            <mj-class name="icon-bus-mkt-m-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bus-m.png" />
+            <mj-class name="icon-bus-mkt-l-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bus-l.png" />
+            <mj-class name="icon-bus-mkt-xl-lemon" src="https://mkt.telenet.be/images/General/icons/lemon/icon-bus-xl.png" />
+
+            <mj-class name="icon-bus-com-s-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bus-s.png" />
+            <mj-class name="icon-bus-com-m-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bus-m.png" />
+            <mj-class name="icon-bus-com-l-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bus-l.png" />
+            <mj-class name="icon-bus-com-xl-lemon" src="https://comm.telenet.be/images/General/icons/lemon/icon-bus-xl.png" />
+        </mj-attributes>
+    </mj-head>
+</mjml>
