@@ -88,7 +88,7 @@
 
     /* reworking actual colours */
 
-    .bg-grey-4 td { background-color: #2A2A2A !important; }
+    .bg-grey-4 > table > tbody > tr > td { background-color: #2A2A2A !important; }
 
     .dark-mode-ignore .text-yellow div { color: #FFC421 !important;  }
     .dark-mode-ignore .text-lemon div { color: #FFF7C7 !important;  }

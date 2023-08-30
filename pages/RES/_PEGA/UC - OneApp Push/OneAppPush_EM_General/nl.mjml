@@ -1,30 +1,21 @@
 <mjml>
   <mj-head>
       <mj-include path="../../../../../partials/head/_.mjml" />
+      <mj-preview>Alles van Telenet altijd op zak? Download nu de app!</mj-preview>
   </mj-head>
 
   <mj-body>
-  
+    <!-- PADDING HACK -->
+    <mj-include path="../../../../../partials/preheader/partials/padding-hack.mjml" />
+
     <!-- PRE-HEADER -->
-    <mj-section padding-bottom="30px">
-        <mj-column width="75px" padding="0 0 0 15px">
-            <mj-image href="~PROBE(100)~" src="https://mkt.telenet.be/images/RMD/general/logo-res.png" alt="Telenet Logo" align="left" padding="0" />
-        </mj-column>
-        <mj-column width="525px">
-            <mj-text mj-class="fontstack-medium" css-class="hide-until-md" align="left" padding="0">
-                <strong>Download nu de app en mis niets meer.</strong>
-            </mj-text>
-            <mj-text mj-class="fontstack-light" align="left" padding="0">
-                Kan je deze mail niet goed lezen? <a href="~PROBE(0)~">Klik hier</a>
-            </mj-text>
-        </mj-column>
-    </mj-section>
+    <mj-include path="../../../../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section  mj-class="bg-lemon" padding="15px" padding-top="0">
+    <mj-section  mj-class="hero bg-baby-blue" padding-top="0">
       <mj-column padding="0" width="300px">
-        <mj-text mj-class="heading-3">
-            Altijd en overal helemaal mee dankzij de Telenet-app 
+        <mj-text mj-class="heading-2" padding-bottom="0" padding-top="30px">
+            Ontdek wat jij allemaal kan met de Telenet-app!
         </mj-text>
         <mj-spacer/>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
@@ -48,9 +39,9 @@
    <!-- INTRO -->
    <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../../partials/salutation/nl/dynamic-informal-res.mjml" />
+        <mj-include path="../../../../../partials/salutation/nl/res-informal.mjml" />
         <mj-text>
-          Telenet maakt je leven graag <b>gemakkelijk</b>. Met de <b>gratis Telenet-app</b> blijf je overal op de hoogte van je netwerk, diensten en aanrekening. Je vindt er een antwoord op je vragen en mist nooit nog een persoonlijk bericht.
+          Ken jij de Telenet-app al? Nee? Dan stellen we jullie graag aan elkaar voor! <b>Want met onze gratis app heb je de wereld van Telenet altijd op zak.</b> Van verbruik over aanrekeningen tot je netwerkstatus. Je ziet het allemaal in één oogopslag op het startscherm. En da’s zeker niet alles! 
         </mj-text>
       </mj-column>
     </mj-section>
@@ -59,23 +50,12 @@
     <mj-section>
       <mj-column mj-class="column-padding col-10" border="2px solid #FFC421" >
         <mj-text mj-class="heading-5">
-          De wereld van Telenet op zak
+          Check het rap in de app
         </mj-text>
-        <mj-text padding-bottom="0">
-          Een handig startscherm geeft je in één oogopslag een overzicht van jouw persoonlijke Telenet-wereld. Maar de Telenet-app gaat nog veel verder!
+        <mj-text>
+          Zoek je je laatste <b>aanrekening</b>, wil je je (automatische) <b>betaling</b> regelen of meteen je openstaand saldo betalen? Graag het <b>verbruik</b> nakijken van je mobiel of liever van je vast internet thuis? Of makkelijk je <b>wifi</b> delen met vrienden, de status van je netwerk checken of je verbinding thuis verbeteren? <b>De Telenet-app is er voor je!</b>  
         </mj-text>
-        <mj-text padding-bottom="0">
-          <ul style="margin:0; margin-left: 25px; padding:0; font-family: Arial, sans-serif; font-size:16px; line-height:28px;" align="left" type="disc">
-                <li style="margin-bottom:5px">Check je <b>verbruik</b>, kijk na hoeveel je nog over hebt én wanneer je nieuwe verbruiksperiode start. Je vindt er alle details van je mobiele nummers én van je internet thuis.
-                </li>
-                <li style="margin-bottom:5px">Controleer en betaal je openstaande <b>saldo</b>, start in 1-2-3 een <b>domiciliëring</b> op, en kijk je <b>aanrekeningen</b> tot wel 14 maanden terug na.
-                </li>
-                <li style="margin-bottom:5px">Volg overal je thuisnetwerk op en ontvang een melding bij storingen. Je wifi verbeteren of bezoekers toegang geven tot je internet, zonder je wachtwoord te delen? Zo gedaan.
-                </li>
-                <li>Je <b>diensten</b> aanpassen, een antwoord vinden op je <b>vragen</b>, whatsappen met een medewerker, in de Telenet-app kan het allemaal. En met de <b>persoonlijke berichten</b> in de app blijf je altijd op te hoogte. Als dat niet handig is.
-                </li>
-            </ul>
-        </mj-text>
+        
       </mj-column>
     </mj-section>
 
@@ -85,19 +65,22 @@
       </mj-column>
     </mj-section>
 
-    <mj-section mj-class="bg-lemon">
+    <mj-section mj-class="bg-baby-blue">
       <mj-column mj-class="col-10">
-        <mj-text mj-class="heading-4" padding-top="0">
+        <mj-text mj-class="heading-4" >
           Download nu de app!
+        </mj-text>
+        <mj-text>
+          Download rap de gratis Telenet-app en neem je Telenet-wereld overal mee in je smartphone. Alles over de Telenet-app ontdekken? <a href="~PROBE(140)~">We helpen je graag op weg</a>. 
         </mj-text>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" mj-class="col-5" line-height="100%">
             <tr>
                 <td width="140">
-                    <a href="~PROBE(101)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
+                    <a href="~PROBE(103)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_apple.png" alt="Download on the App Store" border="0" style="display:block; max-width: 140px;"/></a>
                 </td>
                 <td width="20" align="left" style="font-size:10px;line-height:10px;">&nbsp;</td>
                 <td width="140">
-                    <a href="~PROBE(102)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
+                    <a href="~PROBE(104)~" target="_blank"><img src="https://mkt.prd.telenet.be/images/CDH/Service/One-App-Push/header_button_android.png" alt="Get it on Google Play" border="0" style="display:block;"/></a>
                 </td>
             </tr>
         </mj-table>
@@ -108,7 +91,7 @@
     <!-- SIGNATURE -->
     <mj-section>
       <mj-column mj-class="col-10">
-        <mj-include path="../../../../../partials/signature/nl-res.mjml" />
+        <mj-include path="../../../../../partials/signature/nl/res-standard.mjml" />
       </mj-column>
     </mj-section>
 
@@ -116,7 +99,7 @@
     <mj-include path="../../../../../partials/feedback/nl/standard.mjml" />
 
      <!-- FOOTER -->
-    <mj-include path="../../../../../partials/footer/nl/standard-res.mjml" />
+    <mj-include path="../../../../../partials/footer/nl/mkt-standard.mjml" />
     
   </mj-body>
 </mjml>

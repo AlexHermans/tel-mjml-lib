@@ -1,0 +1,1 @@
+font-size:0;line-height:0; add this to table containing image. Does not yet work on 2016 120dpi

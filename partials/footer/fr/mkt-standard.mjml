@@ -14,14 +14,11 @@
                     <mj-social-element title="Telenet Instagram" href="~PROBE(505)~" mj-class="icon-instagram-mkt-m-dark-glow"/>
                     <mj-social-element title="Telenet Netweters" href="~PROBE(504)~" mj-class="icon-netweters-mkt-m-dark-glow"/>
                 </mj-social>
-                <mj-text mj-class="text-small" padding-bottom="0">
-                    Vos données personnelles seront traitées comme indiqué dans la politique de confidentialité de Telenet (disponible sur https://www2.telenet.be/fr/privacy), conformément à vos paramètres de confidentialité actuels (voir « My Telenet »).      
-                </mj-text>
                 <mj-text mj-class="text-small">
                      &copy; ~SYSTEM.ENV_LEGAL_ENTITY_FR~ <br />Siège sociale <br /> ~SYSTEM.ENV_LEGAL_ADDRESS_FR~.<br />~SYSTEM.ENV_LEGAL_REGISTRATION_FR~.
                 </mj-text>
                 <mj-text mj-class="text-small">
-                    <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Vie&nbsp;privée</a>&nbsp;|&nbsp;<a title="Conditions générales" target="_blank" href="~PROBE(301)~">Conditions&nbsp;generales</a>
+                    <a title="Privacy statement" target="_blank" href="~PROBE(300)~">Vie&nbsp;privée</a>&nbsp;|&nbsp;<a title="Conditions générales" target="_blank" href="~PROBE(301)~">Conditions&nbsp;generales</a>&nbsp;|&nbsp;<a title="Se désinscrire" target="_blank" href="~PROBE(9)~">Se désinscrire</a>
                 </mj-text>
             </mj-column>
         </mj-section>

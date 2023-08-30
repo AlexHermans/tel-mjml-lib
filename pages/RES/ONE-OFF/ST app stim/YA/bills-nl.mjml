@@ -8,12 +8,12 @@
     <mj-include path="../../../../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
-    <mj-section mj-class="bg-lemon hero-text">
-      <mj-column width="300px">
-        <mj-text mj-class="fontstack-bold heading-3 hide-until-xl" padding-top="0">
+    <mj-section mj-class="bg-lemon" padding-bottom="0">
+      <mj-column width="350px" padding-right="0">
+        <mj-text mj-class="heading-1 hide-until-xl" padding-top="0" padding-bottom="0">
             Deze Google Search ook beu?
         </mj-text>
-        <mj-text mj-class="fontstack-semi heading-4" padding-top="0">
+        <mj-text mj-class="fontstack-semi heading-3">
             Kies voor gemak.<br class="hide-until-xl" /> Betaal in de app. 
         </mj-text>
         <mj-table border="0" cellspacing="0" cellpadding="0" align="left" padding="0" padding-bottom="5px" mj-class="col-5" line-height="100%">
@@ -28,7 +28,7 @@
             </tr>
         </mj-table>
       </mj-column>
-      <mj-column padding-left="25px" width="275px" padding-bottom="0" vertical-align="bottom">
+      <mj-column padding-bottom="0" width="250px" padding-left="0" padding-right="0" vertical-align="bottom" >
         <mj-image src="https://mkt.telenet.be/images/Tribes_&_Squads/Digital_Engagement_Tribe/Channel_Transformation_Team/App_Stim/YA/header-ya-billing.png" alt="" padding="0" mj-class="hide-until-xl"/>
       </mj-column>
     </mj-section>
