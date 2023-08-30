@@ -1,6 +1,6 @@
 <mjml>
       <mj-body>
-        <mj-section padding-bottom="30px">
+        <mj-section padding-top="15px" padding-bottom="15px">
             <mj-include path="../partials/logo-res.mjml" />
             <mj-column width="525px">
                 <mj-text mj-class="fontstack-semi" css-class="text-medium hide-until-md" align="left" padding="0">
