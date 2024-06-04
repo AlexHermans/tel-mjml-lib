@@ -1,0 +1,47 @@
+Bedoeling van opzet:
+Mijn werk eenvoudiger, consistenter en sneller te maken
+
+Eenvoudiger:
+* MJML schrijven is 100x eenvoudiger dan HTML+CSS voor email.
+* MJML laat me toe om complexere layouts te maken zonder altijd mijn hoofd te moeten breken over de details.
+* Ik kan IDE tools gebruiken om code (en dus content) te refactoren/managen
+* Ik kan live een preview zien van wat ik maak
+
+Consistenter:
+* Telkens ik een nieuwe mail maak is dat meteen in de juiste vorm/stijl én met de juiste content (partials)
+* Ik test 1 email en ik ben zeker dat elke mail die ik maak daarna ook werkt
+* Mijn probeids zijn altijd hetzelfde, etc.
+
+Sneller:
+* Zonder MJML moet ik hopen dat ik een oude versie vind van een mail om die te koppiëren. Helemaal van nul beginnen neemt erg lang.
+* Met MJML van 0 beginnen betekent dat ik max 1u bezig ben met een mail op te maken (content, images, en layout).
+* Ik kan met de live-preview sneller een resultaat laten zien aan business zodat ze sneller kunnen inpikken op changes
+
+Nadelen: 
+* "Black box" - niet écht, maar je werkt met iemand anders' code. 
+* Extra stap vóór maken van mail (je hebt ook git nodig etc)
+* Gerenderde code is zeer complex, die debuggen is moeilijker.
+* Niet super geoptimaliseerd (moet "alle stijlen" inladen voor sommige elementen -> icons)
+
+Workflow:
+Op dit moment: MJML > HTML > Selligent plakken
+* Nog wat manueel werk in Selligent
+* Stijlen zijn niet globaal geupdate in Selligent
+
+Bedoeling van ENGINE:
+Ervoor zorgen dat we ons kunnen focussen op CONTENT en niet op techniek.
+
+* Componenten zijn brand-agnost en kunnen gemakkelijk gereskinned worden
+* Emails maken met JSON files (alle props en content uitlezen)
+* Authors alle tools geven om emails op te maken met zicht op toekomst (niet vastgebonden aan pre-defined stijlen)
+* Componenten kunnen getest worden (in vivo) en hun impact wordt zichtbaarder
+* 
+
+Met echte engine: MJML > Gulp (Mustache, MJML2HTML) > HTML > Selligent plakken
+* Extra stap maar Mustache zorgt voor globale stijlen in de hele setup (gemakkelijk switchen tussen brands)
+* Custom properties op components maakt het gemakkelijker om inhoud toe te voegen
+* Partials zijn complexer, kunnen recursief zijn.
+* Stijlen zijn opgesplitst en kunnen gemakkelijker onderhouden worden
+
+Nadelen:
+* Vrij complex om op zetten (at the limit of my skills at least)

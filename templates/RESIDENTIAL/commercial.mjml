@@ -12,7 +12,7 @@
     <mj-include path="../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO -->
-    <mj-section  mj-class="bg-baby-blue hero">
+    <mj-section  mj-class="bg-bright-blue hero">
         <mj-column mj-class="col-10">
         <mj-text mj-class="text-white heading-1">
             KLIK

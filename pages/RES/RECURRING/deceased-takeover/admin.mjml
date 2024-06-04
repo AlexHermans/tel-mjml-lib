@@ -11,7 +11,7 @@
 
   <mj-body mj-class="bg-light" width="800px">
     <!-- PRE-HEADER -->
-    <mj-include path="../../../../partials/preheader/nl-res.mjml" />
+    <mj-include path="../../../../partials/preheader/nl/res-standard.mjml" />
 
     <!-- HERO TEXT -->
     <mj-section mj-class="bg-lemon hero-text" padding-top="0">

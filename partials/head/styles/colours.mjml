@@ -11,7 +11,7 @@
             
             <!-- Secondary -->
             <mj-class name="bg-jeans-blue"    background-color="#1A9AAA" css-class="dark-mode-ignore"/>
-            <mj-class name="bg-baby-blue"     background-color="#7291B5" css-class="dark-mode-ignore"/>
+            <mj-class name="bg-bright-blue"   background-color="#7291B5" css-class="dark-mode-ignore"/>
             <mj-class name="bg-red"           background-color="#C95942" css-class="dark-mode-ignore"/>
             <mj-class name="bg-turquoise"     background-color="#209D91" css-class="dark-mode-ignore"/>
             <mj-class name="bg-lila"          background-color="#AA81A8" css-class="dark-mode-ignore"/>

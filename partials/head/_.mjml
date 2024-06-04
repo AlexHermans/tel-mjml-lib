@@ -88,6 +88,7 @@
 
   a {
     color: #291D18 !important;
+    text-decoration: underline;
   }
 </mj-style>
 
